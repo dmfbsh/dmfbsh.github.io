@@ -1,0 +1,39 @@
+---
+layout: default
+title: Gardens of Shropshire
+imagefolder: gardens
+---
+
+{% include header.html %}
+
+{% for item in site.data.Shropshire_Notebook-Gardens %}
+
+{% if item.Type == "Item" %}
+
+{% if orientation == "left" %}
+  {% assign orientation = "right" %}
+  <div class="columnpr">
+  <h3>{{ item.Name }}</h3>
+  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="">
+  {{ item.Description | markdownify }}
+  </div>
+  </div>
+{% else %}
+  {% assign orientation = "left" %}
+  <div class="rowh">
+  <div class="columnpl">
+  <h3>{{ item.Name }}</h3>
+  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="">
+  {{ item.Description | markdownify }}
+  </div>
+{% endif %}
+
+{% endif %}
+
+{% endfor %}
+
+{% if orientation == "left" %}
+</div>
+{% endif %}
+
+{% include footer.html %}

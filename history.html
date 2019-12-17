@@ -1,0 +1,49 @@
+---
+layout: default
+title: History of Shropshire
+---
+
+{% include header.html %}
+
+{% for item in site.data.Shropshire_Notebook-History %}
+
+{% if item.Type == "Header" %}
+<div class="rowh">
+  <div class="columnhl">
+  <h2>{{ item.Date }}</h2>
+  </div>
+  <div class="columnhr">
+{{ item.Description | markdownify }}
+  </div>
+</div>
+{% endif %}
+
+{% if item.Type == "Item" %}
+{% if orientation == "right" %}
+  {% assign orientation = "left" %}
+{% else %}
+  {% assign orientation = "right" %}
+{% endif %}
+<div class="rowh">
+  <div class="columnhl">
+  <h2>{{ item.Date }}</h2>
+  </div>
+  <div class="columnhr">
+  <h3>{{ item.Name }}</h3>
+      <img src="assets/images/history/{{ item.Thumbnail }}" alt="" align="{{ orientation }}">
+{{ item.Description | markdownify }}
+  </div>
+</div>
+{% endif %}
+
+{% if item.Type == "Quote" %}
+<div class="rowh">
+  <div class="columnhl">
+<i>{{ item.Description | markdownify }}</i>
+  </div>
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% include footer.html %}

@@ -1,0 +1,34 @@
+---
+layout: default
+title: Latest Images
+---
+
+{% include header.html %}
+
+<div class="rowh">
+
+{% for item in site.data.recent %}
+
+{% if item.Type == "Item" %}
+
+{% if orientation == "left" %}
+  {% assign orientation = "right" %}
+  <div class="columnpr">
+  <img src="assets/images/{{ item.Thumbnail }}" alt="">
+  </div>
+</div>
+<div class="rowh">
+{% else %}
+  {% assign orientation = "left" %}
+  <div class="columnpl">
+  <img src="assets/images/{{ item.Thumbnail }}" alt="">
+  </div>
+{% endif %}
+
+{% endif %}
+
+{% endfor %}
+
+</div>
+
+{% include footer.html %}

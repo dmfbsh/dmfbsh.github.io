@@ -1,0 +1,91 @@
+---
+layout: default
+title: Towns of Shropshire
+imagefolder: places
+---
+
+{% include header.html %}
+
+<iframe src="https://www.google.co.uk/maps/d/embed?mid=1KYF8OHfisFaVjdboZZj0L6rndXngUGea" width="440" height="300"></iframe>
+
+<p></p>
+
+<iframe src="https://www.google.co.uk/maps/d/embed?mid=1kx2_JQAka13pfgvGd_ZY3_Ss2k8g833_" width="440" height="300"></iframe>
+
+{% for item in site.data.Shropshire_Notebook-Ludlow %}
+
+{% if item.Type == "Item" %}
+
+{% if orientation == "left" %}
+  {% assign orientation = "right" %}
+  <div class="columnpr">
+  <h3>{{ item.Name }}</h3>
+  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="">
+  {{ item.Description | markdownify }}
+  </div>
+  </div>
+{% else %}
+  {% assign orientation = "left" %}
+  <div class="rowh">
+  <div class="columnpl">
+  <h3>{{ item.Name }}</h3>
+  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="">
+  {{ item.Description | markdownify }}
+  </div>
+{% endif %}
+
+{% endif %}
+
+{% endfor %}
+
+{% if orientation == "left" %}
+</div>
+{% endif %}
+
+<p></p>
+
+<iframe src="https://www.google.co.uk/maps/d/embed?mid=1OYaSjIcGcsHWAPOLFIY9OZNz34xUh7E2" width="440" height="300"></iframe>
+
+<p></p>
+
+<iframe src="https://www.google.co.uk/maps/d/embed?mid=1vh_FrnI4kUcfxJMcAJz5OJEqrfyFay5C" width="440" height="300"></iframe>
+
+{% for item in site.data.Shropshire_Notebook-Shrewsbury %}
+
+{% if item.Type == "Item" %}
+
+{% if orientation == "left" %}
+  {% assign orientation = "right" %}
+  <div class="columnpr">
+  <h3>{{ item.Name }}</h3>
+  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="">
+  {{ item.Description | markdownify }}
+  </div>
+  </div>
+{% else %}
+  {% assign orientation = "left" %}
+  <div class="rowh">
+  <div class="columnpl">
+  <h3>{{ item.Name }}</h3>
+  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="">
+  {{ item.Description | markdownify }}
+  </div>
+{% endif %}
+
+{% endif %}
+
+{% endfor %}
+
+{% if orientation == "left" %}
+</div>
+{% endif %}
+
+<p></p>
+
+<iframe src="https://www.google.co.uk/maps/d/embed?mid=1NWkdMXoOC1fOBpPL8b0ijnu0AkXlS4mN" width="440" height="300"></iframe>
+
+<p></p>
+
+<iframe src="https://www.google.co.uk/maps/d/embed?mid=1YIfiD33D--pAkZTw1gfanlqUhrcbXslx" width="440" height="300"></iframe>
+
+{% include footer.html %}

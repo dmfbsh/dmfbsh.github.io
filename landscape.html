@@ -1,0 +1,38 @@
+---
+layout: default
+title: Landscape of Shropshire
+---
+
+{% include header.html %}
+
+<div class="rowh">
+
+{% for item in site.data.Shropshire_Notebook-Landscape %}
+
+{% if item.Type == "Item" %}
+
+{% if orientation == "left" %}
+  {% assign orientation = "right" %}
+  <div class="columnpr">
+  <h3>{{ item.Name }}</h3>
+  <img src="assets/images/landscape/{{ item.Thumbnail }}" alt="">
+  {{ item.Description | markdownify }}
+  </div>
+</div>
+<div class="rowh">
+{% else %}
+  {% assign orientation = "left" %}
+  <div class="columnpl">
+  <h3>{{ item.Name }}</h3>
+  <img src="assets/images/landscape/{{ item.Thumbnail }}" alt="">
+  {{ item.Description | markdownify }}
+  </div>
+{% endif %}
+
+{% endif %}
+
+{% endfor %}
+
+</div>
+
+{% include footer.html %}

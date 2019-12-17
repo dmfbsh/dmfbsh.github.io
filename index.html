@@ -1,0 +1,45 @@
+---
+layout: default
+title: My Shropshire
+---
+
+{% include header.html %}
+
+<div class="rowh">
+<div class="columntl">
+<p style="color:#DDDDDD;"><i>
+Shropshire - alternatively Salop abbreviated - in print only Shrops - demonym Salopian - is a county in the West Midlands of England, bordering Wales to the west, Cheshire to the north, Staffordshire to the east, and Worcestershire and Herefordshire to the south.
+</i></p>
+<p style="color:#DDDDDD;"><i>
+Shropshire is first recorded in the Anglo-Saxon Chronicle annal for 1006.  The origin of the name is the Old English Scrobbesbyrigscir which means 'Shrewsburyshire'.  It is unknown, but the name likely derives from a personal name such as Scrope (also spelt Scrobbe).  Shrewsbury was the early capital of the Kingdom of Powys, known to the ancient Britons as Pengwern, signifying 'the alder hill' and in Old English as Scrobbesburh (dative Scrobbesbyrig) which may mean either Scrobb's Fort or 'the fortified place in the bushes'.
+</i></p>
+<p style="color:#DDDDDD;"><i>
+The name gradually evolved in three directions:</p><p style="color:#DDDDDD;">
+1. Sciropscire which became Shropshire;<br>
+2. Sloppesberie which became Salop / Salopia - thought to derive from the Anglo-French Salopesberia;<br>
+3. Schrosberie which eventually became Shrewsbury (its later Welsh name Amwythig means 'fortified place').<br>
+</i></p>
+<br>
+<br>
+<p style="color:#DDDDDD;"><b>Click on the links above to explore more.</b></p>
+</div>
+<div class="columntr">
+<div id="slideshow">
+{% for image in site.static_files %}
+    {% if image.path contains 'history' %}
+        <div><img src=".{{ image.path }}" alt="image" /></div>
+    {% endif %}
+{% endfor %}
+</div>
+</div>
+</div>
+
+<div class="rowh">
+<div class="columntl">
+<h2>Latest Posts</h2>
+{% for post in site.posts %}
+<h3>{{ post.date | date_to_string }} - {{ post.title }}</h3>
+<p>{{ post.content }}</p>
+{% endfor %}
+</div>
+</div>
