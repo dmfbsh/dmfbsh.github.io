@@ -1,12 +1,12 @@
 ---
-layout: default
-title: Gardens of Shropshire
-imagefolder: gardens
+layout: shropshire
+title: Other Pictures of Shropshire
+imagefolder: miscellaneous
 ---
 
-{% include header.html %}
+{% include 1-header.html %}
 
-{% for item in site.data.Shropshire_Notebook-Gardens %}
+{% for item in site.data.Shropshire_Notebook-Miscellaneous %}
 
 {% if item.Type == "Item" %}
 
@@ -36,4 +36,4 @@ imagefolder: gardens
 </div>
 {% endif %}
 
-{% include footer.html %}
+{% include 1-footer.html %}

@@ -1,12 +1,12 @@
 ---
-layout: default
-title: Other Pictures of Shropshire
-imagefolder: miscellaneous
+layout: shropshire
+title: Houses of Shropshire
+imagefolder: houses
 ---
 
-{% include header.html %}
+{% include 1-header.html %}
 
-{% for item in site.data.Shropshire_Notebook-Miscellaneous %}
+{% for item in site.data.Shropshire_Notebook-Houses %}
 
 {% if item.Type == "Item" %}
 
@@ -36,4 +36,4 @@ imagefolder: miscellaneous
 </div>
 {% endif %}
 
-{% include footer.html %}
+{% include 1-footer.html %}

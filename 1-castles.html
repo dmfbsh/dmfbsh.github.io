@@ -1,11 +1,11 @@
 ---
-layout: default
-title: Churches of Shropshire
+layout: shropshire
+title: Castles of Shropshire
 ---
 
-{% include header.html %}
+{% include 1-header.html %}
 
-{% for item in site.data.Shropshire_Notebook-Churches %}
+{% for item in site.data.Shropshire_Notebook-Castles %}
 
 {% if item.Type == "Item" %}
 {% if orientation == "right" %}
@@ -19,7 +19,7 @@ title: Churches of Shropshire
   </div>
   <div class="columnhr">
   <h3>{{ item.Name }}</h3>
-      <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" align="{{ orientation }}">
+      <img src="assets/images/castles/{{ item.Thumbnail }}" alt="" align="{{ orientation }}">
 {{ item.Description | markdownify }}
   </div>
 </div>
@@ -27,4 +27,4 @@ title: Churches of Shropshire
 
 {% endfor %}
 
-{% include footer.html %}
+{% include 1-footer.html %}

@@ -1,11 +1,11 @@
 ---
-layout: default
-title: People of Shropshire
+layout: shropshire
+title: Folklore of Shropshire
 ---
 
-{% include header.html %}
+{% include 1-header.html %}
 
-{% for item in site.data.Shropshire_Notebook-People %}
+{% for item in site.data.Shropshire_Notebook-Folklore %}
 
 {% if item.Type == "Item" %}
 {% if orientation == "right" %}
@@ -19,7 +19,7 @@ title: People of Shropshire
   </div>
   <div class="columnhr">
   <h3>{{ item.Name }}</h3>
-      <img src="assets/images/people/{{ item.Thumbnail }}" alt="" align="{{ orientation }}">
+      <img src="assets/images/folklore/{{ item.Thumbnail }}" alt="" align="{{ orientation }}">
 {{ item.Description | markdownify }}
   </div>
 </div>
@@ -27,4 +27,4 @@ title: People of Shropshire
 
 {% endfor %}
 
-{% include footer.html %}
+{% include 1-footer.html %}

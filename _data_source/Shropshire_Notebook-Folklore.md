@@ -4,7 +4,7 @@
 
 Sometimes called Medgel's Fold or Madges Pinfold, Mitchell's Fold is a Bronze Age stone circle. Its true history is unknown. This is one of three known stone circles in Shropshire.
 
-The story of the Dun Cow is associated with Mitchell's Fold, in that according to traditional folklore Mitchell's Fold is where a giant kept a cow which gave unlimited amounts of milk. One day a witch milked the cow using a sieve until it had no more milk, as a result the cow fled to Warwickshire where it became the Dun Cow. The witch was turned to stone and surrounded by other stones to prevent escape.
+The story of the Dun Cow is associated with Mitchell's Fold, in that according to traditional folklore Mitchell's Fold is where a giant kept a cow which gave unlimited amounts of milk. One day a witch milked the cow using a sieve until it had no more milk, as a result the cow fled to Warwickshire where it  became the Dun Cow. The witch was turned to stone and surrounded by other stones to prevent escape.
 
 Local folklore also suggests that Mitchell's Fold is the place where Arthur withdrew Excalibur from one of the stones.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/folklore/2018-02-24_14_57_22_DSC_2137_DxO.jpg)

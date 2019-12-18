@@ -13,7 +13,7 @@ fl.each { |ni|
 
 gl = gl.sort { |a, b| b <=> a}
 
-dstf = "../_data/recent.yml"
+dstf = "../_data/Shropshire_Notebook-Recent.yml"
 dsth = File.open(dstf, "w")
 
 cnt = 0
