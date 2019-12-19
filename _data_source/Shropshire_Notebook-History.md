@@ -838,7 +838,7 @@ Built from 1772 to 1785 for Noel Hill, 1st Baron Berwick, Hill was the politicia
 The house was designed by George Steuart and this is the only country house of his design still surviving.  At the time, the design was critised for its uncomfortably tall and almost barrack like facade and painfully thin portico columns.
 
 In 1805 John Nash added the picture gallery, constructed using cast iron and curved glass, it was flawed from beginning as it suffered leaks.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2008-03-23 14-34-02_00000022_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2008-03-23 14-34-02_00000022_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Date: 1772 AD

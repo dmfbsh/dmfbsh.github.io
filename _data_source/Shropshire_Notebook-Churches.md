@@ -328,7 +328,7 @@ This is the only church in England to be named after St. Ruthen - probably a Wel
 # Name: St Alkmund, Whitchurch
 
 TBD
-2019-02-09_14_13_23_DSC_3263_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-09_14_13_23_DSC_3263_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 1727 AD
