@@ -19,6 +19,17 @@ The abbey was one of the last to surrender (being at the end of the commissioner
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-31_11_41_12_DSC_3778_DxO.jpg)
 
 <!--Type: Item-->
+# Date: 11th Century (or earlier) AD
+# Name: St Peter, Diddlebury
+
+One of only about 20 churches in Shropshire mentioned in the Domesday book (under the manor of Corfham) and therefore of known Saxon origin.
+
+The name Diddlebury derives from the Old English name Duddela and burgh (settlement of).
+
+The most striking internal feature is the herring-bone masonry in the north wall of the nave.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-12-14_12_48_44_DSC_5971_DxO.jpg)
+
+<!--Type: Item-->
 # Date: 1118 AD
 # Name: St Gregory, Morville
 
@@ -201,6 +212,28 @@ Although not mentioned in the Domesday book, there is Anglo-Saxon and Norman sto
 
 During the Civil War the Parliamentarians used the church to store ammunition, this was ignited by a cannon shot - the north aisle and part of the south aisle were destroyed.  The roof and nave were rebuilt in 1662, but the church was not fully restored until 1860.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-21_14_42_09_DSC_5092_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St Michael, Munslow
+
+The church has its origins in the 12th Century, but has grown and been modified over the years.
+
+The church is noted for its 14th Century wooden porch and medieval stained glass.
+
+The lower stages of the tower are Norman and the upper stages are Perpendicular.
+
+The name Munslow derives from the old English hlaw (low) meaning tumulus or burial mound.  Th eorigin of the first part of the name is uncertain, but it is throught to derive from the Saxon name Mundel.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-28_13_26_29_DSC_0050_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St Nicholas, Newport
+
+Although the church dates back to the 12th Century, virtually nothing from this time survives.
+
+Externally the building is a medieval west tower and a Victorian church (both of red sandstone).
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-12-07_13_49_02_DSC02370_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 1209 AD

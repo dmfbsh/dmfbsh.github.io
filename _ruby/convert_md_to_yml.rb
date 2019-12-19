@@ -50,3 +50,5 @@ Dir.glob("../_data_source/*.md") do |srcfn|
   dsth.close unless dsth.nil?
 
 end
+
+puts "Done: convert_md_to_yml"

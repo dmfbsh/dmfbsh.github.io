@@ -15,10 +15,6 @@ Tumuli (burial mounds) were built during this time on areas of high ground.  As 
 # Name: Mitchell's Fold
 
 Sometimes called Medgel's Fold or Madges Pinfold, Mitchell's Fold is a Bronze Age stone circle.  Its true history is unknown.  This is one of three known stone circles in Shropshire.
-
-The story of the Dun Cow is associated with Mitchell's Fold, in that according to traditional folklore Mitchell's Fold is where a giant kept a cow which gave unlimited amounts of milk.  One day a witch milked the cow using a sieve until it had no more milk, as a result the cow fled to Warwickshire where it became the Dun Cow.  The witch was turned to stone and surrounded by other stones to prevent escape.
-
-Local folklore also suggests that Mitchell's Fold is the place where Arthur withdrew Excalibur from one of the stones.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2018-02-24_14_57_22_DSC_2137_DxO_bw.jpg)
 
 <!--Type: Header-->
@@ -80,10 +76,6 @@ The northern and southern parts of Shropshire were absorbed into the Saxon kingd
 # Name: St Oswald's Well, Oswestry
 
 The Battle of Maserfield (or Maserfeld, "marsh (border) field"; Welsh: Maes Cogwy), was fought on 5 August 641 or 642, between the Anglo-Saxon kings Oswald of Northumbria and Penda of Mercia, ending in Oswald's defeat, death, and dismemberment.
-
-An eagle (or raven) is said to have picked up Oswald's right arm and taken it to an ash tree, which gave the tree ageless vigor; when the bird dropped the arm onto the ground, a spring emerged from the ground.  Both the tree and the spring were subsequently associated with healing miracles.
-
-The name Oswestry literally means "Oswald's tree".  Oswald was canonised, his feast day is 5th August.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-06-01_13_37_32_DSC_4458_DxO_bw.jpg)
 
 <!--Type: Item-->
@@ -181,6 +173,22 @@ The castle was the scene of a parliament held by Richard II in 1398.
 
 The castle was captured by Oliver Cromwell's troops in 1644, and by 1650 it had largely been demolished by the Roundheads.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-02-16_13_23_41_DSC_3368_DxO_bw.jpg)
+
+<!--Type: Header-->
+# Date: 1086 AD
+
+The Domesday book is completed.
+
+<!--Type: Item-->
+# Date: 11th Century (or earlier) AD
+# Name: St Peter, Diddlebury
+
+One of only about 20 churches in Shropshire mentioned in the Domesday book (under the manor of Corfham) and therefore of known Saxon origin.
+
+The name Diddlebury derives from the Old English name Duddela and burgh (settlement of).
+
+The most striking internal feature is the herring-bone masonry in the north wall of the nave.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-12-14_12_48_44_DSC_5971_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Date: 1101 AD
@@ -385,6 +393,28 @@ Although not mentioned in the Domesday book, there is Anglo-Saxon and Norman sto
 
 During the Civil War the Parliamentarians used the church to store ammunition, this was ignited by a cannon shot - the north aisle and part of the south aisle were destroyed.  The roof and nave were rebuilt in 1662, but the church was not fully restored until 1860.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-09-21_14_42_09_DSC_5092_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St Michael, Munslow
+
+The church has its origins in the 12th Century, but has grown and been modified over the years.
+
+The church is noted for its 14th Century wooden porch and medieval stained glass.
+
+The lower stages of the tower are Norman and the upper stages are Perpendicular.
+
+The name Munslow derives from the old English hlaw (low) meaning tumulus or burial mound.  Th eorigin of the first part of the name is uncertain, but it is throught to derive from the Saxon name Mundel.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-28_13_26_29_DSC_0050_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St Nicholas, Newport
+
+Although the church dates back to the 12th Century, virtually nothing from this time survives.
+
+Externally the building is a medieval west tower and a Victorian church (both of red sandstone).
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-12-07_13_49_02_DSC02370_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Date: Circa 1200 AD
@@ -692,6 +722,19 @@ After three weeks of continued attack on the castle Colonel Lavington took charg
 
 69 feet of tunnel was dug into the rock face but was not completed as the Royalists surrendered on Sunday 26th April 1646.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-02-02_14_59_31_DSC_3201_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Date: 1690 AD
+# Name: J B Joyce & Co (Clock Maker) Founded
+
+J B Joyce & Co started making longcase clocks in Cockshutt.
+
+The company claims to be the oldest clock manufacturer in the world.
+
+In 1790 the firm moved to Whitchurch.  In 1964, Norman Joyce, the last member of the Joyce family, retired and sold the company to Smith of Derby.
+
+Notable clocks include the Eastgate clock in Chester (1897) and the clock for the custom's house in Shanghai (1927).
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-10-12_13_23_47_DSC_5372_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Date: 1692 AD
@@ -1009,6 +1052,13 @@ Originally a medieval church of the which the tower and chancel chapels, but lit
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-09-18_12_13_46_DSC_5044_DxO_bw.jpg)
 
 <!--Type: Item-->
+# Date: 1841-1843 AD
+# Name: Millichope Glasshouses
+
+Built when Millichope Park was owned by the wealthy rector of Church Stretton.  The cast iron frame reflects the thinking of the time in that the curved roof matches the curvature of the earth to increase sunlight.  It is likely that crops like pineapples, grapes and melons were grown in the glasshouse.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-09-28_13_26_29_DSC_0061_DxO_bw.jpg)
+
+<!--Type: Item-->
 # Date: 1842 AD
 # Name: Tanners Wines
 
@@ -1324,3 +1374,10 @@ Built using authentic Roman techniques by a team of 21st Century builders and lo
 
 The new town of Telford celebrates its 50th anniversary.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-02-17_12_20_42_DSC_3389_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Date: 6th December 2019 AD
+# Name: Cooling Towers Demolition, Ironbridge
+
+The cooling towers of the Ironbridge power station are demolished to make way for new housing.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-12-06_11_08_09_DSC_5693.jpg)

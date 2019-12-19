@@ -88,4 +88,34 @@ imagefolder: places
 
 <iframe src="https://www.google.co.uk/maps/d/embed?mid=1YIfiD33D--pAkZTw1gfanlqUhrcbXslx" width="440" height="300"></iframe>
 
+{% for item in site.data.Shropshire_Notebook-Whitchurch %}
+
+{% if item.Type == "Item" %}
+
+{% if orientation == "left" %}
+  {% assign orientation = "right" %}
+  <div class="columnpr">
+  <h3>{{ item.Name }}</h3>
+  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="">
+  {{ item.Description | markdownify }}
+  </div>
+  </div>
+{% else %}
+  {% assign orientation = "left" %}
+  <div class="rowh">
+  <div class="columnpl">
+  <h3>{{ item.Name }}</h3>
+  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="">
+  {{ item.Description | markdownify }}
+  </div>
+{% endif %}
+
+{% endif %}
+
+{% endfor %}
+
+{% if orientation == "left" %}
+</div>
+{% endif %}
+
 {% include 1-footer.html %}

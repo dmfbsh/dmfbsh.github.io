@@ -28,3 +28,5 @@ gl.each { |mi|
 }
 
 dsth.close unless dsth.nil?
+
+puts "Done: generate_recents"

@@ -11,3 +11,5 @@ Dir.glob("../assets/images/history/*.jpg") do |srcfn|
   end
 
 end
+
+puts "Done: remove_duplicate_images"

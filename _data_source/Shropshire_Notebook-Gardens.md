@@ -49,8 +49,8 @@ TBD
 <!--Type: Item-->
 # Name: Wildgoose Nursery and Garden
 
-TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/gardens/photo-needed.jpg)
+Formerly the brick walled kitchen garden of Millichope Park - the walled garden was built in the 1830s by the wealthy Rector of Church Stretton.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/gardens/2019-09-28_13_26_29_DSC_0066_DxO.jpg)
 
 <!--Type: Item-->
 # Name: Wollerton Old Hall Garden
