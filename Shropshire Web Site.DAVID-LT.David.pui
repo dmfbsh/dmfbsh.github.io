@@ -1,9 +1,3 @@
-[Folders]
-.+AFwAXw-posts+AFw-=1
-.+AFwAXw-data+AF8-source+AFw-=1
-.+AFwAXw-ruby+AFw-=1
-.+AFwAXw-data+AFw-=1
-
 [Open Files]
 Active File Display Mode=-1
 Open File0=
@@ -12,3 +6,6 @@ Remember Files=1
 [Project Information]
 Project Start=E3070C0004000500100013001200000034
 Working Time=333
+[Folders]
+.+AFwAXw-includes+AFw-=1
+.+AFwAXw-layouts+AFw-=1
