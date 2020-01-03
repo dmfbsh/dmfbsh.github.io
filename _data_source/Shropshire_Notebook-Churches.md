@@ -1,24 +1,4 @@
 <!--Type: Item-->
-# Date: c. 680 AD
-# Name: Wenlock Priory
-
-The original Anglo-Saxon monastery was founded by the then King of Magonsaete (king Merewalh), his daughter quickly became its abbess (she was later canonised).
-
-After Milburga's death circa 727 little is known of the monastery until the Norman conquest.  Wenlock was re-founded by the Normans as a priory of Cluniac monks in the late 11th Century by Roger de Montgomery. In 1101 it is reputed that Milburga's relics were discovered, attracting pilgrims and prosperity to the the priory allowing the impressive medieval priory to be built (which reflects the Cluniac love of elaborate decoration).
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2009-08-15%2012-53-13_00007766_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1083 AD
-# Name: Shrewsbury Abbey
-
-The Abbey was founded in 1083 as a Benedictine monastery by the Norman Earl of Shrewsbury, Roger de Montgomery (who received Shropshire from William the Conqueror in 1071j. It grew to be one of the most important and influential abbeys in England, and an important centre of pilgrimage.
-
-Also known as the abbey church of St Peter and St Paul.
-
-The abbey was one of the last to surrender (being at the end of the commissioners circuit) and was dissolved on 24th January 1540.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-31_11_41_12_DSC_3778_DxO.jpg)
-
-<!--Type: Item-->
 # Date: 11th Century (or earlier) AD
 # Name: St Peter, Diddlebury
 
@@ -35,20 +15,6 @@ The most striking internal feature is the herring-bone masonry in the north wall
 
 The church retains almost all of the original Norman features and was constructed within the precincts of a Priory establishment.  This was destroyed in 1540 leaving the church as the parish place of worship.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-12_14_56_05_DSC_4601_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1135 AD
-# Name: Buildwas Abbey
-
-A Cistercian monastery founded by a local bishop.  Sparse at the outset, the abbey did undergo several periods of growth and increasing wealth.  The abbey was a centre of learning and had a substantial library.  In the early days it was also noted fits its discipline.  The abbey was suppressed in 1536 as part of the Dissolution of the Monasteries.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-25_11_13_57_DSC_4829_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1145-1148 AD
-# Name: Lilleshall Abbey
-
-TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/photo-needed.jpg)
 
 <!--Type: Item-->
 # Date: 1150 AD
@@ -132,13 +98,6 @@ This church is likely more steeped in history than any other in Shropshire.
 
 Masonry from the Roman fort of Viroconium was plundered for the construction of the church.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-10_11_42_17_IMG_9737_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 12th Century AD
-# Name: Haughmond Abbey
-
-TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-24_15_50_39_DSC_3644_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -322,6 +281,13 @@ The wooden bell turret houses a bell of pre-reformation age.
 
 This is the only church in England to be named after St. Ruthen - probably a Welsh saint.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-31_15_51_47_DSC_4974_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 15th Century AD
+# Name: St John the Baptist, Ightfield
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-12-21_14_42_27_DSC_6010_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 1712 AD

@@ -69,3 +69,11 @@ TBD
 
 The reputed grave of Little Nell, the character in the Charles Dickens novel The Old Curiosity Shop - in 1910 the verger created a false entry in the parish register to state that Nell Gwyn was buried at Tong.  Although fake and a grave for a fictional character, the stunt attracted many visitors.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2019-09-01_14_14_55_DSC_5037_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Grave of Ebenezer Scrooge
+
+Shrewsbury was used for filiming the 1984 version of A Christmas Carol (Shrewsbury was one of Dickens's favourite places).
+
+The grave of Ebenezer Scrooge is still in the graveyard of St Chad's.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2019-12-22_11_24_04_IMG_6198.jpg)
