@@ -3,8 +3,13 @@
 .+AFwAXw-posts+AFw-=1
 
 [Open Files]
-Active File Display Mode=-1
-Open File0=
+Active File Display Mode=1
+Active File Index=0
+Open File Line0=0
+Open File Pos0=0
+Open File Window Pos0=0,1,-1,-1,-1,-1,5,43,1072,528
+Open File0=..+AFw-..+AFw-..+AFw-..+AFw-AppData+AFw-Roaming+AFw-IDMComp+AFw-UltraEdit+AFw-Restore+AFw-UE0c-e7b1-1946-a77b
+Open File1=
 Remember Files=1
 
 [Project Information]

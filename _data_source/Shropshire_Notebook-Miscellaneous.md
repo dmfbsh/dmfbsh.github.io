@@ -77,3 +77,31 @@ Shrewsbury was used for filiming the 1984 version of A Christmas Carol (Shrewsbu
 
 The grave of Ebenezer Scrooge is still in the graveyard of St Chad's.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2019-12-22_11_24_04_IMG_6198.jpg)
+
+<!--Type: Item-->
+# Name: 2 King St, Ludlow
+
+This address was used as the headquarters of Newsfield Ltd from 1984 to 1989.
+
+Newsfield Ltd published two of the most influential video games magazines of that era - Crash and Zzap!64 for the ZX Spectrum and Comodore 64 respectively. 
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2020-01-04_13_42_29_DSC_6064_DxO.jpg)
+
+<!--Type: Item-->
+# Name: 4 Brand Ln, Ludlow
+
+Mary Edwards, thought to be the first female computer, lived and worked at this address.  Paid directly by the Board of Longitude and working to the Astronomer Royal, Edwards calculated the position of the sun, moon and planets at different times of day for annual nautical almanacs used for navigation at sea.
+
+Edwards did this from 1773 to her death in 1815.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2020-01-04_13_49_43_DSC_6073_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Dinham House, Ludlow
+
+Lucien Boneparte (brother of Napoleon) was held as a prisoner of war at Dinham House for a few months in 1811 while the war between Britain and France was ongoing.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2020-01-04_13_59_49_DSC_6082_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Name: Stone Cross, Ightfield
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2019-12-21_14_47_24_DSC_6020_DxO_bw.jpg)

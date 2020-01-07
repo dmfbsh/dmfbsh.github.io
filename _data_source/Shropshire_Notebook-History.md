@@ -120,11 +120,7 @@ The Norman conquest of Britain and start of Early Middle Ages (Medieval England)
 
 After the Norman Conquest the principal estates of Shropshire were all bestowed on Norman proprietors, pre-eminent among whom is Roger de Montgomerie, 1st Earl of Shrewsbury.
 
-Many churches are built in the 11th and 12th Centuries - the church was massively endowed and its role all pervasive in medieval society.
-
 Many new towns are established in the period from the Norman Conquest to the mid-13th Century and are a result of deliberate plantation.
-
-During the 12th Century the Marcher lordships emerged as almost independent states between the Welsh and English authorities.  The Marcher families were granted privileges by the English Crown which led to the exclusion of the judicial authority of the monarch and the Sheriff from their domains.
 
 <!--Type: Item-->
 # Date: 1070 AD
@@ -157,7 +153,7 @@ The Abbey was founded in 1083 as a Benedictine monastery by the Norman Earl of S
 Also known as the abbey church of St Peter and St Paul.
 
 The abbey was one of the last to surrender (being at the end of the commissioners circuit) and was dissolved on 24th January 1540.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-03-31_11_41_12_DSC_3778_DxO_bw.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2020-01-01_12_31_36_DSC_6057_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Date: 1086 AD
@@ -178,6 +174,11 @@ The castle was captured by Oliver Cromwell's troops in 1644, and by 1650 it had 
 # Date: 1086 AD
 
 The Domesday book is completed.
+
+<!--Type: Header-->
+# Date: 11th & 12th Century AD
+
+Many churches are built in the 11th and 12th Centuries - the church was massively endowed and its role all pervasive in medieval society.
 
 <!--Type: Item-->
 # Date: 1101 AD
@@ -203,6 +204,11 @@ A Cistercian monastery founded by a local bishop.  Sparse at the outset, the abb
 
 TBD
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/photo-needed.jpg)
+
+<!--Type: Header-->
+# Date: 12th Century AD
+
+During the 12th Century the Marcher lordships emerged as almost independent states between the Welsh and English authorities.  The Marcher families were granted privileges by the English Crown which led to the exclusion of the judicial authority of the monarch and the Sheriff from their domains.
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -340,7 +346,7 @@ Large areas of land came into new hands.  Schools were built to replace the educ
 Although Much Wenlock received a charter from the King in 1468, local order was in the hands of the powerful Abbot of Wenlock Priory.  The Guildhall was built to provide a court (which remained in use until 1985) when the Priory was dissolved.  A Council Chamber was added in 1577.
 
 The chambers are furnished with carved oak panels from a local manor house (installed in 1848) - no one knows which manor house or how they were available.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2009-08-15 14-48-06_00007819_DxO_bw.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-08-23_14_40_57_DSC_4748_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Date: 1546 AD

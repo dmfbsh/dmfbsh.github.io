@@ -1,4 +1,81 @@
 <!--Type: Item-->
+# Date: 1275 AD
+# Name: St Mary, Acton Burnell
+
+Acton generally means "settlement by the oaks".
+
+This church is considered to be the finest Early English in Shropshore.  Unlike most English parish churches, Acton Burnell is built in a same style throughout.
+
+It features a corbel-table with many grotesque carvings.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2018-06-11_15_20_23_DSC_2625_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 13th Century AD
+# Name: St Margaret, Acton Scott
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-13_09_45_21_DSC_4603_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1858 AD
+# Name: St Margaret, Betton Strange
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-21_12_02_47_DSC_5090_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 13th Century AD
+# Name: St Mary, Bitterley
+
+The church dates mostly fron the Transitional period (when the Norman style was giving way to early English).  In the Dommsday book, the nearby manor is known as Buterlie (Butter Pasture).
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-26_14_15_40_DSC_4879_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St Leonard, Bridgnorth
+
+Although not mentioned in the Domesday book, there is Anglo-Saxon and Norman stonework in the fabric of the church and so it is likely that an earlier church stood on the site of the present church.
+
+During the Civil War the Parliamentarians used the church to store ammunition, this was ignited by a cannon shot - the north aisle and part of the south aisle were destroyed.  The roof and nave were rebuilt in 1662, but the church was not fully restored until 1860.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-21_14_42_09_DSC_5092_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1792 - 1795 AD
+# Name: St Mary Magdalene, Bridgnorth
+
+The church was designed by Thomas Telford.
+
+It is aligned north–south, rather than the more usual west–east.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-21_15_16_30_DSC_5116_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St Mary, Burford
+
+The oldest surviving part of the church is in the chancel; the nave and tower are later and date from the 14th Century.  In 1889–90 the church was extensively restored by Aston Webb, an English architect who designed the principal facade of Buckingham Palace and the main building of the Victoria and Albert Museum.
+
+The Old English name means Ford by the Fort.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-26_15_36_44_DSC_4915_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St Mary, Cleobury Mortimer
+
+Cleobury passed to the Mortimer family (one of the great Marcher families) after the Norman conquest.
+
+The church is largely Early English.  The arcades lean outwards and were first stabilised by Thomas Telford in the 1790s, buttresses were added later.
+
+The shingled spire is not quite symmetrical when seen from certain viewpoints.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-04-19_15_28_58_DSC_4140_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1777 AD
+# Name: St Simon and St Jude, Cockshutt
+
+A plain brick building constructed to replace the medieval church (dedicated to St Helena) which fell into dis-repair. The church clock (made in 1789) is thought to be the only collaborative piece between two well-known Shropshire clockmakers - Bullock and Davies.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-18_14_53_43_DSC_5075_DxO.jpg)
+
+<!--Type: Item-->
 # Date: 11th Century (or earlier) AD
 # Name: St Peter, Diddlebury
 
@@ -10,65 +87,11 @@ The most striking internal feature is the herring-bone masonry in the north wall
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-12-14_12_48_44_DSC_5971_DxO.jpg)
 
 <!--Type: Item-->
-# Date: 1118 AD
-# Name: St Gregory, Morville
+# Date: 1840s AD
+# Name: St Mary, Ellesmere
 
-The church retains almost all of the original Norman features and was constructed within the precincts of a Priory establishment.  This was destroyed in 1540 leaving the church as the parish place of worship.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-12_14_56_05_DSC_4601_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1150 AD
-# Name: Holy Trinity Church, Much Wenlock
-
-Built by the Cluniac monks of Wenlock Priory.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2009-08-15%2014-48-48_00007820_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1150 AD
-# Name: St John the Baptist, Stokesay
-
-The original church was built around 1150 as a chapel to the nearby castle.  The original church was destroyed during the English Civil War; the current church is a rare example of a church extensively rebuilt during the Puritan period (1654) although some Norman features survive.
-
-The church is noted for the biblical texts on the walls, two decker pulpit and box and canopied pews.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-23_12_50_01_DSC_4716_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 12th Century AD
-# Name: St Laurence, Ludlow
-
-One of the greatest parish churches in England.
-
-Nothing remains of the original 11th Century church, but 100 years later a second church was built in a style of mixed Norman and early-English.  It is thought that a barrow was removed in 1199 to enlarge the churchyard.
-
-There was a massive rebuilding of the church between 1433 and 1471, much of which was paid for by the wealthy Palmers' Guild, which endowed a number of chantries in the church.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-04-13_14_29_26_DSC_4059_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 12th Century AD
-# Name: St Michael, Upton Cressett
-
-The body of the church dates from the second half of the 12th Century.  The church is noted for the quality of the Norman arches.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-02_12_34_34_DSC_3159_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 12th Century AD
-# Name: St James, Shipton
-
-The nave and lower part of the tower date from the last 12th Century.  Noted for its Elizabethan chancel, as hardly any churches were built during the reign of Elizabeth I.
-
-Shipton means "sheep farm".
-
-In the church there is a tablet recording the departure of four children of Samuel More on the Mayflower in 1620.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-02_11_01_56_DSC_3120_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 12th Century AD
-# Name: St Michael & All Angels, Smethcott
-
-Although not mentioned in any records before 1341, the building does retain some 12th Century features.  Over the years the church fell into disrepair and was rebuilt in 1850.
-
-Smethcott means "the smith's cottage".
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-23_12_50_01_DSC_3417_DxO.jpg)
+Originally a medieval church of the which the tower and chancel chapels, but little else, remain, as by the 1840s the church was in a poor state.  Sir George Gilbert Scott was asked to advise and recommended that the dilapidated nave be rebuilt completely - this advice was accepted the present chchuch is largely his work.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-18_12_13_46_DSC_5044_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -83,44 +106,6 @@ Hodnet's name has Celtic origins derived from the Welsh hawdd meaning pleasant o
 
 <!--Type: Item-->
 # Date: 12th Century AD
-# Name: St Bartholomew, Moreton Corbet
-
-The Norman church was founded in about 1140 AD as a chapel attached to Shawbury.  Some parts of the Norman church remain, but the greater part of the church dates from the 14th Century.
-
-The church has an unusual triangular window, similar to one in Alberbury, which was another of the Corbet family's holdings.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2018-09-29_15_40_02_DSC_2922_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 12th Century AD
-# Name: St Andrew, Wroxeter
-
-This church is likely more steeped in history than any other in Shropshire.
-
-Masonry from the Roman fort of Viroconium was plundered for the construction of the church.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-10_11_42_17_IMG_9737_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 12th Century AD
-# Name: St Mary, Shrewsbury
-
-This church dominates Shrewsbury as was built at the highest point in the town and has a spire which is 222ft (one of the tallest in the country).
-
-The church was largely transformed into its present state in the 12th Century (when Norman (transitional) architecture was giving way to Early English).
-
-St Mary's is considered to have one of the finest collections of stained glass in the country, largely brought in from elsewhere.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-31_12_54_19_DSC_3856_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 12th Century AD
-# Name: St Chad (old), Shrewsbury
-
-St Chad's may well be the oldest church in Shrewsbury, possibly originating in the 7th Century.
-
-In 1788 the tower collapsed and all that remains is the south chancel chapel.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-31_12_31_38_DSC_3838_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 12th Century AD
 # Name: St John the Baptist, Hope Bagot
 
 A small church in a delightful spot, it has an impressive Norman chancel arch.
@@ -131,24 +116,61 @@ Hope means an enclosed place or valley and Bagot is a derivation of Richard Baga
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-04-19_14_22_49_DSC_4113_DxO.jpg)
 
 <!--Type: Item-->
-# Date: 12th Century AD
-# Name: St Mary, Cleobury Mortimer
+# Date: 15th Century AD
+# Name: St John the Baptist, Ightfield
 
-Cleobury passed to the Mortimer family (one of the great Marcher families) after the Norman conquest.
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-12-21_14_42_27_DSC_6010_DxO.jpg)
 
-The church is largely Early English.  The arcades lean outwards and were first stabilised by Thomas Telford in the 1790s, buttresses were added later.
+<!--Type: Item-->
+# Date: 1838-9 AD
+# Name: St Paul, Knowbury
 
-The shingled spire is not quite symmetrical when seen from certain viewpoints.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-04-19_15_28_58_DSC_4140_DxO.jpg)
+The original church was described as being a barn-like structure.  It was radically altered in 1884 to produce the current building mainly in the Decorated style.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-04-19_14_12_06_DSC_4111_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1903 AD
+# Name: All Saints, Little Stretton
+
+The building is painted to look half-timbered.  However, the whole interior is wooden.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-29_16_54_07_DSC_3761_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1847-1853 AD
+# Name: St Michael the Archangel, Llanyblodwel
+
+The present church was the result of rebuilding the old medieval church in stages between 1847 and 1853 by the then vicar.  The almost detached steeple was designed and added in 1855-6 by the same vicar, he was convinced that the shape would be stronger than the usual hollow spire construction where the thickness of the straight sides diminishes towards the apex.  The height is 104 ft (tower 57 ft and spire 47 ft).
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-03_11_19_00_DSC_4692_DxO.jpg)
+
+<!--Type: Item-->
+# Date: Pre-1569 AD
+# Name: St Ruthen, Longden
+
+The age of the church is unknown, but will have existed prior to 1569 as records from that year mention a chapel on the site.
+
+The wooden bell turret houses a bell of pre-reformation age.
+
+This is the only church in England to be named after St. Ruthen - probably a Welsh saint.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-31_15_51_47_DSC_4974_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 12th Century AD
-# Name: St Mary, Burford
+# Name: St Laurence, Ludlow
 
-The oldest surviving part of the church is in the chancel; the nave and tower are later and date from the 14th Century.  In 1889–90 the church was extensively restored by Aston Webb, an English architect who designed the principal facade of Buckingham Palace and the main building of the Victoria and Albert Museum.
+One of the greatest parish churches in England.
 
-The Old English name means Ford by the Fort.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-26_15_36_44_DSC_4915_DxO.jpg)
+Nothing remains of the original 11th Century church, but 100 years later a second church was built in a style of mixed Norman and early-English.  It is thought that a barrow was removed in 1199 to enlarge the churchyard.
+
+There was a massive rebuilding of the church between 1433 and 1471, much of which was paid for by the wealthy Palmers' Guild, which endowed a number of chantries in the church.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-04-13_14_29_26_DSC_4059_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1881 AD
+# Name: St John, Ludlow
+
+A suburban church built by Sir Arthur Blomfield (English architect).
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-13_13_17_24_DSC_4630_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -165,12 +187,26 @@ It is noted for being one of just a small number of half timbered churches in th
 
 <!--Type: Item-->
 # Date: 12th Century AD
-# Name: St Leonard, Bridgnorth
+# Name: St Bartholomew, Moreton Corbet
 
-Although not mentioned in the Domesday book, there is Anglo-Saxon and Norman stonework in the fabric of the church and so it is likely that an earlier church stood on the site of the present church.
+The Norman church was founded in about 1140 AD as a chapel attached to Shawbury.  Some parts of the Norman church remain, but the greater part of the church dates from the 14th Century.
 
-During the Civil War the Parliamentarians used the church to store ammunition, this was ignited by a cannon shot - the north aisle and part of the south aisle were destroyed.  The roof and nave were rebuilt in 1662, but the church was not fully restored until 1860.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-21_14_42_09_DSC_5092_DxO.jpg)
+The church has an unusual triangular window, similar to one in Alberbury, which was another of the Corbet family's holdings.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2018-09-29_15_40_02_DSC_2922_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1118 AD
+# Name: St Gregory, Morville
+
+The church retains almost all of the original Norman features and was constructed within the precincts of a Priory establishment.  This was destroyed in 1540 leaving the church as the parish place of worship.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-12_14_56_05_DSC_4601_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1150 AD
+# Name: Holy Trinity Church, Much Wenlock
+
+Built by the Cluniac monks of Wenlock Priory.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-23_14_52_22_DSC_4757_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -195,106 +231,11 @@ Externally the building is a medieval west tower and a Victorian church (both of
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-12-07_13_49_02_DSC02370_DxO.jpg)
 
 <!--Type: Item-->
-# Date: 1209 AD
-# Name: St Margaret, Ratlinghope
-
-Ratlinghope is thought to mean "the valley of Rotel's people" and is set in some of the finest scenery in the county.
-
-It is likely that most of the building is 17th Century as there are few traces of the the priory that was here until the Dissolution in 1536.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-05-06_15_49_10_DSC_4232_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1220 AD
-# Name: St Michael and All Angels, Pitchford
-
-The church founded and built by Ralph de Pitchford.
-
-Noted for a solid oak carved tomb effigy (one of only three in the country) of a crusader called Sir John De Pitchford.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-19_16_04_01_DSC_4544_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1275 AD
-# Name: St Mary, Acton Burnell
-
-Acton generally means "settlement by the oaks".
-
-This church is considered to be the finest Early English in Shropshore.  Unlike most English parish churches, Acton Burnell is built in a same style throughout.
-
-It features a corbel-table with many grotesque carvings.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2018-06-11_15_20_23_DSC_2625_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 13th Century AD
-# Name: St Margaret, Acton Scott
+# Date: 1806 AD
+# Name: St Oswald, Oswestry
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-13_09_45_21_DSC_4603_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 13th Century AD
-# Name: St Mary, Bitterley
-
-The church dates mostly fron the Transitional period (when the Norman style was giving way to early English).  In the Dommsday book, the nearby manor is known as Buterlie (Butter Pasture).
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-26_14_15_40_DSC_4879_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 14th Century AD
-# Name: St Peter & St Paul, Wem
-
-The church has been rebuilt at least three times - the 14th Century tower is probably the only structure that survived the great fire of Wem in 1677.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-02_14_14_43_DSC_3474_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 14th Century AD
-# Name: St Chad, Prees
-
-Prees is thought to be an ancient Celtic name meaning brushwood or grove.
-
-The church is a mixture of styles, Gothic nave, 18th Century tower and Victorian chancel.  It is thought that the whole church was rebuilt in the 14th Century
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-24_12_31_37_DSC_3619_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1410 AD
-# Name: St Bartholomew, Tong
-
-Sometimes referred to as the 'Westminster Abbey of the Midlands'; the church is noted for its architecture which includes a fan vaulted side chapel (which is rare in Shropshire) and its numerous tombs.
-
-The church was founded by the widowed Isabel Lingen as a chantry and collegiate church.  The commission to dissolve the college was issued on 17th September 1546 and referred to the legislation that permitted the king's commissioners to seize property on his behalf.
-
-The church is a cruciform building (rare for the Perpendicular era) and is built of red sandstone (which is abundant locally).  The church is noted for its bourdon bell which weighs over 2 tonnes and is called the Great Bell of Tong - claimed to be the loudest and biggest bell in Shropshire.  It had been feared that the tower would not support continued tolling, so it is rung only on certain days / occasions which gives the vicar of the church an equal status with the local noble families and the sitting monarch.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-01_13_55_12_DSC_5019_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1475 AD
-# Name: St Alkmund, Shrewsbury
-
-TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2018-07-14_12_53_39_DSC_2794_DxO.jpg)
-
-<!--Type: Item-->
-# Date: Pre-1569 AD
-# Name: St Ruthen, Longden
-
-The age of the church is unknown, but will have existed prior to 1569 as records from that year mention a chapel on the site.
-
-The wooden bell turret houses a bell of pre-reformation age.
-
-This is the only church in England to be named after St. Ruthen - probably a Welsh saint.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-31_15_51_47_DSC_4974_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 15th Century AD
-# Name: St John the Baptist, Ightfield
-
-TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-12-21_14_42_27_DSC_6010_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1712 AD
-# Name: St Alkmund, Whitchurch
-
-TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-09_14_13_23_DSC_3263_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-01_14_35_20_DSC_4491_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 1727 AD
@@ -306,11 +247,69 @@ Although the exterior is plain, the interior contains many items collected from 
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2017-07-02_15_23_25_DSC01248_DxO.jpg)
 
 <!--Type: Item-->
-# Date: 1777 AD
-# Name: St Simon and St Jude, Cockshutt
+# Date: 1220 AD
+# Name: St Michael and All Angels, Pitchford
 
-A plain brick building constructed to replace the medieval church (dedicated to St Helena) which fell into dis-repair. The church clock (made in 1789) is thought to be the only collaborative piece between two well-known Shropshire clockmakers - Bullock and Davies.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-18_14_53_43_DSC_5075_DxO.jpg)
+The church founded and built by Ralph de Pitchford.
+
+Noted for a solid oak carved tomb effigy (one of only three in the country) of a crusader called Sir John De Pitchford.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-19_16_04_01_DSC_4544_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 14th Century AD
+# Name: St Chad, Prees
+
+Prees is thought to be an ancient Celtic name meaning brushwood or grove.
+
+The church is a mixture of styles, Gothic nave, 18th Century tower and Victorian chancel.  It is thought that the whole church was rebuilt in the 14th Century
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-24_12_31_37_DSC_3619_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1209 AD
+# Name: St Margaret, Ratlinghope
+
+Ratlinghope is thought to mean "the valley of Rotel's people" and is set in some of the finest scenery in the county.
+
+It is likely that most of the building is 17th Century as there are few traces of the the priory that was here until the Dissolution in 1536.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-05-06_15_49_10_DSC_4232_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St James, Shipton
+
+The nave and lower part of the tower date from the last 12th Century.  Noted for its Elizabethan chancel, as hardly any churches were built during the reign of Elizabeth I.
+
+Shipton means "sheep farm".
+
+In the church there is a tablet recording the departure of four children of Samuel More on the Mayflower in 1620.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-02_11_01_56_DSC_3120_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St Mary, Shrewsbury
+
+This church dominates Shrewsbury as was built at the highest point in the town and has a spire which is 222ft (one of the tallest in the country).
+
+The church was largely transformed into its present state in the 12th Century (when Norman (transitional) architecture was giving way to Early English).
+
+St Mary's is considered to have one of the finest collections of stained glass in the country, largely brought in from elsewhere.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-31_12_54_19_DSC_3856_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St Chad (old), Shrewsbury
+
+St Chad's may well be the oldest church in Shrewsbury, possibly originating in the 7th Century.
+
+In 1788 the tower collapsed and all that remains is the south chancel chapel.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-31_12_31_38_DSC_3838_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1475 AD
+# Name: St Alkmund, Shrewsbury
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2018-07-14_12_53_39_DSC_2794_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 1792 AD
@@ -324,48 +323,54 @@ This church is considered to be the finest 18th Century church in Shropshire.  T
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-31_12_22_39_DSC_3829_DxO.jpg)
 
 <!--Type: Item-->
-# Date: 1792 - 1795 AD
-# Name: St Mary Magdalene, Bridgnorth
+# Date: 12th Century AD
+# Name: St Julian, Shrewsbury
 
-The church was designed by Thomas Telford.
-
-It is aligned north–south, rather than the more usual west–east.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-21_15_16_30_DSC_5116_DxO.jpg)
+This church is one of the four Saxon foundations in Shrewsbury.  The tower dates from the 12th century whereas the present nave was designed by Thomas Farnolls Pritchard who also designed the Iron Bridge at Telford.  Pritchard was born in Shrewsbury and baptised in St Julian's Church on 11 May 1723.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-10-04_13_26_29_DSC_0039_DxO.jpg)
 
 <!--Type: Item-->
-# Date: 1806 AD
-# Name: St Oswald, Oswestry
+# Date: 12th Century AD
+# Name: St Michael & All Angels, Smethcott
 
-TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-01_14_35_20_DSC_4491_DxO.jpg)
+Although not mentioned in any records before 1341, the building does retain some 12th Century features.  Over the years the church fell into disrepair and was rebuilt in 1850.
 
-<!--Type: Item-->
-# Date: 1838-9 AD
-# Name: St Paul, Knowbury
-
-The original church was described as being a barn-like structure.  It was radically altered in 1884 to produce the current building mainly in the Decorated style.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-04-19_14_12_06_DSC_4111_DxO.jpg)
+Smethcott means "the smith's cottage".
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-23_12_50_01_DSC_3417_DxO.jpg)
 
 <!--Type: Item-->
-# Date: 1840s AD
-# Name: St Mary, Ellesmere
+# Date: 1872 AD
+# Name: St Luke, Snailbeach
 
-Originally a medieval church of the which the tower and chancel chapels, but little else, remain, as by the 1840s the church was in a poor state.  Sir George Gilbert Scott was asked to advise and recommended that the dilapidated nave be rebuilt completely - this advice was accepted the present chchuch is largely his work.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-18_12_13_46_DSC_5044_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1847-1853 AD
-# Name: St Michael the Archangel, Llanyblodwel
-
-The present church was the result of rebuilding the old medieval church in stages between 1847 and 1853 by the then vicar.  The almost detached steeple was designed and added in 1855-6 by the same vicar, he was convinced that the shape would be stronger than the usual hollow spire construction where the thickness of the straight sides diminishes towards the apex.  The height is 104 ft (tower 57 ft and spire 47 ft).
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-03_11_19_00_DSC_4692_DxO.jpg)
+A somewhat austere chapel.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO.jpg)
 
 <!--Type: Item-->
-# Date: 1858 AD
-# Name: St Margaret, Betton Strange
+# Date: 1150 AD
+# Name: St John the Baptist, Stokesay
 
-TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-21_12_02_47_DSC_5090_DxO.jpg)
+The original church was built around 1150 as a chapel to the nearby castle.  The original church was destroyed during the English Civil War; the current church is a rare example of a church extensively rebuilt during the Puritan period (1654) although some Norman features survive.
+
+The church is noted for the biblical texts on the walls, two decker pulpit and box and canopied pews.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-23_12_50_01_DSC_4716_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1410 AD
+# Name: St Bartholomew, Tong
+
+Sometimes referred to as the 'Westminster Abbey of the Midlands'; the church is noted for its architecture which includes a fan vaulted side chapel (which is rare in Shropshire) and its numerous tombs.
+
+The church was founded by the widowed Isabel Lingen as a chantry and collegiate church.  The commission to dissolve the college was issued on 17th September 1546 and referred to the legislation that permitted the king's commissioners to seize property on his behalf.
+
+The church is a cruciform building (rare for the Perpendicular era) and is built of red sandstone (which is abundant locally).  The church is noted for its bourdon bell which weighs over 2 tonnes and is called the Great Bell of Tong - claimed to be the loudest and biggest bell in Shropshire.  It had been feared that the tower would not support continued tolling, so it is rung only on certain days / occasions which gives the vicar of the church an equal status with the local noble families and the sitting monarch.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-01_13_55_12_DSC_5019_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St Michael, Upton Cressett
+
+The body of the church dates from the second half of the 12th Century.  The church is noted for the quality of the Norman arches.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-02_12_34_34_DSC_3159_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 1860s AD
@@ -379,22 +384,24 @@ An African prince is buried in the churchyard - the then vicar was as offered a 
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-21_13_20_12_DSC_4685_DxO.jpg)
 
 <!--Type: Item-->
-# Date: 1872 AD
-# Name: St Luke, Snailbeach
+# Date: 14th Century AD
+# Name: St Peter & St Paul, Wem
 
-A somewhat austere chapel.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO.jpg)
-
-<!--Type: Item-->
-# Date: 1881 AD
-# Name: St John, Ludlow
-
-A suburban church built by Sir Arthur Blomfield (English architect).
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-13_13_17_24_DSC_4630_DxO.jpg)
+The church has been rebuilt at least three times - the 14th Century tower is probably the only structure that survived the great fire of Wem in 1677.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-02_14_14_43_DSC_3474_DxO.jpg)
 
 <!--Type: Item-->
-# Date: 1903 AD
-# Name: All Saints, Little Stretton
+# Date: 1712 AD
+# Name: St Alkmund, Whitchurch
 
-The building is painted to look half-timbered.  However, the whole interior is wooden.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-29_16_54_07_DSC_3761_DxO.jpg)
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-09_14_13_23_DSC_3263_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 12th Century AD
+# Name: St Andrew, Wroxeter
+
+This church is likely more steeped in history than any other in Shropshire.
+
+Masonry from the Roman fort of Viroconium was plundered for the construction of the church.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-10_11_42_17_IMG_9737_DxO.jpg)

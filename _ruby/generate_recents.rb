@@ -1,9 +1,12 @@
 
-hl = Dir.glob("../assets/images/history/2019*.jpg")
-ll = Dir.glob("../assets/images/landscape/2019*.jpg")
-ml = Dir.glob("../assets/images/miscellaneous/2019*.jpg")
+cl = Dir.glob("../assets/images/churches/20*.jpg")
+hl = Dir.glob("../assets/images/history/20*.jpg")
+ll = Dir.glob("../assets/images/landscape/20*.jpg")
+ml = Dir.glob("../assets/images/miscellaneous/20*.jpg")
+pl = Dir.glob("../assets/images/places/20*.jpg")
+gl = Dir.glob("../assets/images/gardens/20*.jpg")
 
-fl = hl + ll + ml
+fl = cl + hl + ll + ml + pl + gl
 gl = Array.new
 
 fl.each { |ni|

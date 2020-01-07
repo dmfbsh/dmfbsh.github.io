@@ -21,3 +21,39 @@ TBD
 
 Not actually part of the original building, but added in the 20th Century!
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-06-15_16_00_48_DSC02196_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Shrewsbury
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0052_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Shrewsbury
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0064_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Shrewsbury
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0079_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Shrewsbury
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0091_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Name: Statue of Hercules, Shrewsbury
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0100_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Name: St John's Hill, Shrewsbury
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0113_DxO.jpg)
