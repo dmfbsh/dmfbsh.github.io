@@ -10,12 +10,14 @@ Dir.glob("../_data_source/*.md") do |srcfn|
   
   tmp = ""
   ctype = ""
+  simage = "no"
 
   File.readlines(srcf).each do |line|
     if line.start_with?("<!--")
       tmp = "- " + line[4..-5] + line[-1..-1]
       dsth.write(tmp) unless dsth.nil?
       ctype = line
+      simage = "no"
     elsif line.start_with?("# Date:")
       tmp = "  " + line[2..-1]
       dsth.write(tmp) unless dsth.nil?
@@ -37,6 +39,13 @@ Dir.glob("../_data_source/*.md") do |srcfn|
     elsif line.start_with?("![](")
       tmp = "  Thumbnail: " + line[line.rindex("/")+1..-3] + line[-1..-1]
       tmp = tmp.gsub("%20", " ")
+      dsth.write(tmp) unless dsth.nil?
+    elsif line.start_with?("# Sub-Image:")
+      if simage == "no"
+        simage = "yes"
+        dsth.write("  Sub-Images:\n") unless dsth.nil?
+      end
+      tmp = "    - " + line[2..-1]
       dsth.write(tmp) unless dsth.nil?
     else
       tmp = line

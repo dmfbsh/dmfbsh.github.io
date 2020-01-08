@@ -8,21 +8,29 @@ title: Churches of Shropshire
 {% for item in site.data.Shropshire_Notebook-Churches %}
 
 {% if item.Type == "Item" %}
+
 {% if orientation == "right" %}
   {% assign orientation = "left" %}
 {% else %}
   {% assign orientation = "right" %}
 {% endif %}
+
 <div class="rowh">
   <div class="columnhl">
-  <h2>{{ item.Date }}</h2>
+    <h2>{{ item.Date }}</h2>
   </div>
   <div class="columnhr">
-  <h3>{{ item.Name }}</h3>
-      <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" align="{{ orientation }}">
-{{ item.Description | markdownify }}
+    <h3>{{ item.Name }}</h3>
+    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" align="{{ orientation }}">
+    {{ item.Description | markdownify }}
   </div>
+  {% for subimage in item.Sub-Images %}
+  {% if forloop.first %}<div class="columnsir">{% endif %}
+    <img src="assets/images/churches-sub/{{ subimage.Sub-Image }}" alt="">
+  {% if forloop.last %}</div>{% endif %}
+  {% endfor %}
 </div>
+
 {% endif %}
 
 {% endfor %}

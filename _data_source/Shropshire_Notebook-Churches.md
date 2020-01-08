@@ -15,6 +15,8 @@ It features a corbel-table with many grotesque carvings.
 
 TBD
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-13_09_45_21_DSC_4603_DxO.jpg)
+# Sub-Image: 2019-07-13_09_52_11_DSC_4607_DxO.jpg
+# Sub-Image: 2019-07-13_09_53_10_DSC_4609_DxO.jpg
 
 <!--Type: Item-->
 # Date: 1858 AD
@@ -22,13 +24,16 @@ TBD
 
 TBD
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-21_12_02_47_DSC_5090_DxO.jpg)
+# Sub-Image: 2019-09-21_11_41_02_DSC_5080_DxO.jpg
 
 <!--Type: Item-->
 # Date: 13th Century AD
 # Name: St Mary, Bitterley
 
 The church dates mostly fron the Transitional period (when the Norman style was giving way to early English).  In the Dommsday book, the nearby manor is known as Buterlie (Butter Pasture).
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-26_14_15_40_DSC_4879_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-26_14_16_26_DSC_4882_DxO_LP.jpg)
+# Sub-Image: 2019-08-26_14_06_40_DSC_4867_DxO.jpg
+# Sub-Image: 2019-08-26_14_08_15_DSC_4868_DxO.jpg
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -74,6 +79,7 @@ The shingled spire is not quite symmetrical when seen from certain viewpoints.
 
 A plain brick building constructed to replace the medieval church (dedicated to St Helena) which fell into dis-repair. The church clock (made in 1789) is thought to be the only collaborative piece between two well-known Shropshire clockmakers - Bullock and Davies.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-18_14_53_43_DSC_5075_DxO.jpg)
+# Sub-Image: 2019-09-18_14_55_20_DSC_5076_DxO.jpg
 
 <!--Type: Item-->
 # Date: 11th Century (or earlier) AD
@@ -85,6 +91,8 @@ The name Diddlebury derives from the Old English name Duddela and burgh (settlem
 
 The most striking internal feature is the herring-bone masonry in the north wall of the nave.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-12-14_12_48_44_DSC_5971_DxO.jpg)
+# Sub-Image: 2019-12-14_12_56_14_DSC_5992_DxO.jpg
+# Sub-Image: 2019-12-14_12_59_16_DSC_5995_DxO.jpg
 
 <!--Type: Item-->
 # Date: 1840s AD
@@ -114,6 +122,7 @@ In the churchyard is an ancient yew tree, thought to be well over 1000 years old
 
 Hope means an enclosed place or valley and Bagot is a derivation of Richard Bagard's name (who held the manor in 1242).
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-04-19_14_22_49_DSC_4113_DxO.jpg)
+# Sub-Image: 2019-04-19_14_33_15_DSC_4121_DxO.jpg
 
 <!--Type: Item-->
 # Date: 15th Century AD
@@ -121,6 +130,10 @@ Hope means an enclosed place or valley and Bagot is a derivation of Richard Baga
 
 TBD
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-12-21_14_42_27_DSC_6010_DxO.jpg)
+# Sub-Image: 2019-12-21_14_54_15_DSC_6034_DxO.jpg
+# Sub-Image: 2019-12-21_14_59_16_DSC_6042_DxO.jpg
+# Sub-Image: 2019-12-21_15_09_36_DSC_6049_DxO.jpg
+# Sub-Image: 2019-12-21_15_13_05_DSC_6052_DxO.jpg
 
 <!--Type: Item-->
 # Date: 1838-9 AD
@@ -128,6 +141,7 @@ TBD
 
 The original church was described as being a barn-like structure.  It was radically altered in 1884 to produce the current building mainly in the Decorated style.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-04-19_14_12_06_DSC_4111_DxO.jpg)
+# Sub-Image: 2019-04-19_14_01_24_DSC_4106_DxO.jpg
 
 <!--Type: Item-->
 # Date: 1903 AD
@@ -142,6 +156,8 @@ The building is painted to look half-timbered.  However, the whole interior is w
 
 The present church was the result of rebuilding the old medieval church in stages between 1847 and 1853 by the then vicar.  The almost detached steeple was designed and added in 1855-6 by the same vicar, he was convinced that the shape would be stronger than the usual hollow spire construction where the thickness of the straight sides diminishes towards the apex.  The height is 104 ft (tower 57 ft and spire 47 ft).
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-03_11_19_00_DSC_4692_DxO.jpg)
+# Sub-Image: 2019-08-03_11_40_25_DSC_4701_DxO.jpg
+# Sub-Image: 2019-08-03_11_40_49_DSC_4702_DxO.jpg
 
 <!--Type: Item-->
 # Date: Pre-1569 AD
@@ -153,6 +169,7 @@ The wooden bell turret houses a bell of pre-reformation age.
 
 This is the only church in England to be named after St. Ruthen - probably a Welsh saint.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-31_15_51_47_DSC_4974_DxO.jpg)
+# Sub-Image: 2019-08-31_15_47_20_DSC_4969_DxO.jpg
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -164,6 +181,12 @@ Nothing remains of the original 11th Century church, but 100 years later a secon
 
 There was a massive rebuilding of the church between 1433 and 1471, much of which was paid for by the wealthy Palmers' Guild, which endowed a number of chantries in the church.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-04-13_14_29_26_DSC_4059_DxO.jpg)
+# Sub-Image: 2020-01-04_15_00_51_DSC_6105_DxO.jpg
+# Sub-Image: 2020-01-04_15_02_01_DSC_6107_DxO.jpg
+# Sub-Image: 2020-01-04_15_03_33_DSC_6110_DxO.jpg
+# Sub-Image: 2020-01-04_15_06_03_DSC_6111_DxO.jpg
+# Sub-Image: 2020-01-04_15_11_18_DSC_6119_DxO.jpg
+# Sub-Image: 2020-01-04_15_13_36_DSC_6123_DxO.jpg
 
 <!--Type: Item-->
 # Date: 1881 AD
@@ -184,6 +207,8 @@ The medieval church was burnt by Owain Glyndwr in 1401.  The present church was 
 
 It is noted for being one of just a small number of half timbered churches in the country.  The entire structure is held together with just pegs.  The fact that the wattle and daub is narrower than the timbers shows the early construction of this church using this technique.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-01_11_14_24_DSC_4420_DxO.jpg)
+# Sub-Image: 2019-06-01_11_16_57_DSC_4422_DxO.jpg
+# Sub-Image: 2019-06-01_11_20_14_DSC_4424_DxO.jpg
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -220,6 +245,14 @@ The lower stages of the tower are Norman and the upper stages are Perpendicular.
 
 The name Munslow derives from the old English hlaw (low) meaning tumulus or burial mound.  Th eorigin of the first part of the name is uncertain, but it is throught to derive from the Saxon name Mundel.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-28_13_26_29_DSC_0050_DxO.jpg)
+# Sub-Image: 2019-09-28_13_26_29_DSC_0011_DxO.jpg
+# Sub-Image: 2019-09-28_13_26_29_DSC_0016_DxO.jpg
+# Sub-Image: 2019-09-28_13_26_29_DSC_0018_DxO.jpg
+# Sub-Image: 2019-09-28_13_26_29_DSC_0019_DxO.jpg
+# Sub-Image: 2019-09-28_13_26_29_DSC_0004_DxO.jpg
+# Sub-Image: 2019-09-28_13_26_29_DSC_0006_DxO.jpg
+# Sub-Image: 2019-09-28_13_26_29_DSC_0007_DxO.jpg
+# Sub-Image: 2019-09-28_13_26_29_DSC_0009_DxO.jpg
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -236,6 +269,8 @@ Externally the building is a medieval west tower and a Victorian church (both of
 
 TBD
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-01_14_35_20_DSC_4491_DxO.jpg)
+# Sub-Image: 2019-06-01_13_55_10_DSC_4469_DxO.jpg
+# Sub-Image: 2019-06-01_13_57_28_DSC_4473_DxO.jpg
 
 <!--Type: Item-->
 # Date: 1727 AD
@@ -254,6 +289,8 @@ The church founded and built by Ralph de Pitchford.
 
 Noted for a solid oak carved tomb effigy (one of only three in the country) of a crusader called Sir John De Pitchford.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-19_16_04_01_DSC_4544_DxO.jpg)
+# Sub-Image: 2019-06-19_15_56_04_DSC_4539_DxO.jpg
+# Sub-Image: 2019-06-19_15_58_52_DSC_4540_DxO.jpg
 
 <!--Type: Item-->
 # Date: 14th Century AD
@@ -263,6 +300,7 @@ Prees is thought to be an ancient Celtic name meaning brushwood or grove.
 
 The church is a mixture of styles, Gothic nave, 18th Century tower and Victorian chancel.  It is thought that the whole church was rebuilt in the 14th Century
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-24_12_31_37_DSC_3619_DxO.jpg)
+# Sub-Image: 2019-03-24_12_20_27_DSC_3610_DxO.jpg
 
 <!--Type: Item-->
 # Date: 1209 AD
@@ -272,6 +310,7 @@ Ratlinghope is thought to mean "the valley of Rotel's people" and is set in some
 
 It is likely that most of the building is 17th Century as there are few traces of the the priory that was here until the Dissolution in 1536.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-05-06_15_49_10_DSC_4232_DxO.jpg)
+# Sub-Image: 2019-05-06_15_41_00_DSC_4228_DxO.jpg
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -321,6 +360,10 @@ After the collapse of the tower of the original St Chad's church, the new church
 
 This church is considered to be the finest 18th Century church in Shropshire.  The most striking feature being the circular nave.  The church is brick built and faced with Grinshill stone.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-31_12_22_39_DSC_3829_DxO.jpg)
+# Sub-Image: 2019-12-22_11_38_13_IMG_6208.jpg
+# Sub-Image: 2019-12-22_11_47_16_IMG_6212.jpg
+# Sub-Image: 2019-12-22_11_56_02_IMG_6218.jpg
+# Sub-Image: 2019-12-22_11_37_34_IMG_6206.jpg
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -337,6 +380,7 @@ Although not mentioned in any records before 1341, the building does retain some
 
 Smethcott means "the smith's cottage".
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-23_12_50_01_DSC_3417_DxO.jpg)
+# Sub-Image: 2019-02-23_12_46_49_DSC_3414_DxO.jpg
 
 <!--Type: Item-->
 # Date: 1872 AD
@@ -344,6 +388,7 @@ Smethcott means "the smith's cottage".
 
 A somewhat austere chapel.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO.jpg)
+# Sub-Image: 2019-05-06_11_37_16_DSC_4154_DxO.jpg
 
 <!--Type: Item-->
 # Date: 1150 AD
@@ -353,6 +398,8 @@ The original church was built around 1150 as a chapel to the nearby castle.  The
 
 The church is noted for the biblical texts on the walls, two decker pulpit and box and canopied pews.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-23_12_50_01_DSC_4716_DxO.jpg)
+# Sub-Image: 2019-08-23_12_43_08_DSC_4710_DxO.jpg
+# Sub-Image: 2019-08-23_12_43_52_DSC_4711_DxO.jpg
 
 <!--Type: Item-->
 # Date: 1410 AD
@@ -364,6 +411,9 @@ The church was founded by the widowed Isabel Lingen as a chantry and collegiate 
 
 The church is a cruciform building (rare for the Perpendicular era) and is built of red sandstone (which is abundant locally).  The church is noted for its bourdon bell which weighs over 2 tonnes and is called the Great Bell of Tong - claimed to be the loudest and biggest bell in Shropshire.  It had been feared that the tower would not support continued tolling, so it is rung only on certain days / occasions which gives the vicar of the church an equal status with the local noble families and the sitting monarch.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-01_13_55_12_DSC_5019_DxO.jpg)
+# Sub-Image: 2019-09-01_13_45_36_DSC_4999_DxO.jpg
+# Sub-Image: 2019-09-01_14_04_32_DSC_5026_DxO.jpg
+# Sub-Image: 2019-09-01_14_05_46_DSC_5027_DxO.jpg
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -396,6 +446,7 @@ The church has been rebuilt at least three times - the 14th Century tower is pro
 
 TBD
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-09_14_13_23_DSC_3263_DxO.jpg)
+# Sub-Image: 2019-10-12_12_53_36_DSC_5357_DxO.jpg
 
 <!--Type: Item-->
 # Date: 12th Century AD
