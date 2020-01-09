@@ -84,7 +84,7 @@ The Battle of Maserfield (or Maserfeld, "marsh (border) field"; Welsh: Maes Cogw
 
 The original Anglo-Saxon monastery was founded by the then King of Magonsaete (king Merewalh), his daughter quickly became its abbess (she was later canonised).
 
-After Milburga's death circa 727 little is known of the monastery until the Norman conquest.  Wenlock was re-founded by the Normans as a priory of Cluniac monks in the late 11th Century by Roger de Montgomery. In 1101 it is reputed that Milburga's relics were discovered, attracting pilgrims and prosperity to the the priory allowing the impressive medieval priory to be built (which reflects the Cluniac love of elaborate decoration).
+After Milburga's death circa 727 little is known of the monastery until the Norman conquest.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2009-08-15 12-53-13_00007766_DxO_bw.jpg)
 
 <!--Type: Quote-->
@@ -148,7 +148,7 @@ With the castle being besieged and taken by Parliamentary forces during the Engl
 # Date: 1083 AD
 # Name: Shrewsbury Abbey
 
-The Abbey was founded in 1083 as a Benedictine monastery by the Norman Earl of Shrewsbury, Roger de Montgomery (who received Shropshire from William the Conqueror in 1071j. It grew to be one of the most important and influential abbeys in England, and an important centre of pilgrimage.
+The Abbey was founded in 1083 as a Benedictine monastery by the Norman Earl of Shrewsbury, Roger de Montgomery (who received Shropshire from William the Conqueror in 1071). It grew to be one of the most important and influential abbeys in England, and an important centre of pilgrimage.
 
 Also known as the abbey church of St Peter and St Paul.
 
@@ -174,6 +174,13 @@ The castle was captured by Oliver Cromwell's troops in 1644, and by 1650 it had 
 # Date: 1086 AD
 
 The Domesday book is completed.
+
+<!--Type: Item-->
+# Date: Late 11th Century AD
+# Name: Wenlock Priory
+
+Wenlock was re-founded by the Normans as a priory of Cluniac monks in the late 11th Century by Roger de Montgomery. In 1101 it is reputed that Milburga's relics were discovered, attracting pilgrims and prosperity to the the priory allowing the impressive medieval priory to be built (which reflects the Cluniac love of elaborate decoration).
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2009-08-15 12-53-13_00007766_DxO_bw.jpg)
 
 <!--Type: Header-->
 # Date: 11th & 12th Century AD
@@ -720,7 +727,7 @@ Built when Millichope Park was owned by the wealthy rector of Church Stretton.  
 # Date: 1842 AD
 # Name: Tanners Wines
 
-Originally Thomas Southam & Son of Wyle Cop(and having an excellent reputation as wine merchants), the company was taken over by Tanners in 1936.
+Originally Thomas Southam & Son of Wyle Cop (and having an excellent reputation as wine merchants), the company was taken over by Tanners in 1936.
 
 Tanners itself was established in 1872 by sea captain William Tanner and his brother - the cellars were those of the now demolished Victorian Market Hall and the offices were in Shoplatch.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-03-31_11_33_54_DSC_3772_DxO_bw.jpg)

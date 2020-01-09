@@ -44,7 +44,7 @@ TBD
 # Name: Ludlow
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2020-01-04_14_14_02_DSC_6088_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2020-01-04_14_14_02_DSC_6088_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Name: Ludlow
