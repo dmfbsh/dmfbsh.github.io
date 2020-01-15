@@ -28,7 +28,7 @@ The first reference to this castle is in 1086 - the recording of castelle Lurve 
 
 No town was recorded until 1272, although the Welsh were referring to Croes Oswald in 1254.
 
-The castle was fought over and changed ownership many times during the conflict between the English and the Welsh. By 1270 the castle’s walls had been extended to encircle the town, but by this time the castle’s military significance was in decline.
+The castle was fought over and changed ownership many times during the conflict between the English and the Welsh. By 1270 the castle's walls had been extended to encircle the town, but by this time the castle's military significance was in decline.
 
 The castle was the scene of a parliament held by Richard II in 1398.
 
@@ -43,7 +43,7 @@ Founded in 1101 by Robert de Belleme (the second Earl of Shrewsbury, succeeding 
 
 The main feature of the castle is the great square tower, built during the reign of Henry II.
 
-During the English Civil War, Bridgnorth was one of the Midlands’ main Royalist strongholds. But following a three week siege Cromwell’s Roundheads took Bridgnorth - Cromwell ordered that the castle be demolished and by 1647 little of the structure remained. As a result, the remaining parts of the great tower now lean at an angle of 15 degrees (four times the lean of the tower at Pisa).
+During the English Civil War, Bridgnorth was one of the Midlands' main Royalist strongholds. But following a three week siege Cromwell's Roundheads took Bridgnorth - Cromwell ordered that the castle be demolished and by 1647 little of the structure remained. As a result, the remaining parts of the great tower now lean at an angle of 15 degrees (four times the lean of the tower at Pisa).
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/castles/2019-02-02_14_34_09_DSC_3187_DxO.jpg)
 
 <!--Type: Item-->

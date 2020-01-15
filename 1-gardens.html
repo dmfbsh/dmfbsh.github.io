@@ -14,7 +14,7 @@ imagefolder: gardens
   {% assign orientation = "right" %}
   <div class="columnpr">
   <h3>{{ item.Name }}</h3>
-  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="">
+  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="" style="max-width:100%" width="75%">
   {{ item.Description | markdownify }}
   </div>
   </div>
@@ -23,7 +23,7 @@ imagefolder: gardens
   <div class="rowh">
   <div class="columnpl">
   <h3>{{ item.Name }}</h3>
-  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="">
+  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="" style="max-width:100%" width="75%">
   {{ item.Description | markdownify }}
   </div>
 {% endif %}

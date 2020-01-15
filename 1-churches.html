@@ -21,7 +21,7 @@ title: Churches of Shropshire
   </div>
   <div class="columnhr">
     <h3>{{ item.Name }}</h3>
-    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" align="{{ orientation }}">
+    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" align="{{ orientation }}" style="max-width:100%" width="75%">
     {{ item.Description | markdownify }}
   </div>
   {% for subimage in item.Sub-Images %}
