@@ -26,7 +26,7 @@ title: Churches of Shropshire
   </div>
   {% for subimage in item.Sub-Images %}
   {% if forloop.first %}<div class="columnsir">{% endif %}
-    <img src="assets/images/churches-sub/{{ subimage.Sub-Image }}" alt="">
+    <img src="assets/images/churches-sub/{{ subimage.Sub-Image }}" alt="" style="max-width:100%">
   {% if forloop.last %}</div>{% endif %}
   {% endfor %}
 </div>
