@@ -14,14 +14,14 @@ title: Latest Images
 {% if orientation == "left" %}
   {% assign orientation = "right" %}
   <div class="columnpr">
-  <img src="assets/images/{{ item.Thumbnail }}" alt="" style="max-width:100%" width="75%">
+  <img src="assets/images/{{ item.Thumbnail }}" alt="" style="max-width:100%">
   </div>
 </div>
 <div class="rowh">
 {% else %}
   {% assign orientation = "left" %}
   <div class="columnpl">
-  <img src="assets/images/{{ item.Thumbnail }}" alt="" style="max-width:100%" width="75%">
+  <img src="assets/images/{{ item.Thumbnail }}" alt="" style="max-width:100%">
   </div>
 {% endif %}
 
