@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Shropshire Churches - North</name>
+    <description/>
+    <Style id="icon-1899-0288D1-labelson-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-labelson-nodesc">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Folder>
+      <name>North East</name>
+      <Placemark>
+        <name>Adderley - St Peter</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.506002,52.952094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ash - Christ Church</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.628569,52.95737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calverhall - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.591578,52.931146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cheswardine - St Swithin</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.418754,52.86604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Child's Ercall - St Michael]]></name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.497565,52.822144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edstaston - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.717863,52.883196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fauls - Holy Immanuel</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.610864,52.890013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hodnet - St Luke</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.576529,52.853563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ightfield - St John the Baptist</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.608006,52.943821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Drayton - Christ Church</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.501663,52.89876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Market Drayton - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.482823,52.903044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moreton Say - St Margaret</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.551157,52.906404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newtown - King Charles the Martyr</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.77671,52.879569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norton-in-Hales - St Chad</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.442404,52.944654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peplow - Chapel of the Epiphany</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.540305,52.819107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prees - St Chad</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.66012,52.896917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stoke on Tern - St Peter</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.538214,52.847942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tilstock - Christ Church</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.68205,52.936166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wem - St Peter and St Paul</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.72573,52.855051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weston-under-Redcastle - St Luke</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.64746,52.854834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whitchurch - St Alkmund</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.684795,52.970688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whixall - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.718537,52.908695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woore - St Leonard</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.402499,52.978021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>North West</name>
+      <Placemark>
+        <name>Cockshutt - St Simon and St Jude</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.840729,52.857564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Criftins (Dudleston Heath) - St Matthew</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.946369,52.923967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dudleston - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.974284,52.93907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ellesmere - St Mary</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.889431,52.907446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gobowen - All Saints</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.040076,52.8985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halston Chapel</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.983754,52.875051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haughton - St Chad</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.933114,52.836752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hordley - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.920719,52.871323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kinnerley - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.982537,52.781977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Knockin - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.989193,52.794374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Llanyblodwel - St Michael the Archangel</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.12966,52.79807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Llanymynech - St Agatha</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.087527,52.779643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Loppington - St Michael and All Angels</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.785918,52.858178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lyneal (Colmere) - St John the Evangelist</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.837364,52.890611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maesbrook - St John</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.036704,52.784191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maesbury - St John the Baptist</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.025525,52.823628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Melverley - St Peter</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.990081,52.742447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morton - St Philip and St James</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.053518,52.814378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oswestry - St Oswald</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.05787,52.857086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oswestry - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.051948,52.857445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pradoe Church</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.945746,52.816987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Martin's - St Martin]]></name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.009059,52.919594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Selattyn - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.09176,52.89871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trefonen - All Saints</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.097799,52.834521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Welshampton - St Michael and All Angels</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.843266,52.908634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Welsh Frankton - St Andrew</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.946689,52.892192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Felton - St Michael</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.979016,52.820512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westin Rhyn - St John the Divine</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.066282,52.913458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whittington - St John the Baptist</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.002848,52.874683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>West</name>
+      <Placemark>
+        <name>Alberbury - St Michael</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.951226,52.723647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Annscroft - Christ Church</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.807636,52.665974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cardeston - St Michael</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.895632,52.704897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chirbury - St Michael the Archangel</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.091718,52.579319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ford - St Michael</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.871714,52.718929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Wollaston - St John</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.994322,52.704194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Habberley - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.889604,52.626579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hope - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.974552,52.607201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lea Cross - St Anne</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.853746,52.668695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longden - St Ruthen</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.827226,52.652117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marton - St Mark</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.051873,52.616462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Middleton-in-Chirbury - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.038361,52.587201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minsterley - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.926834,52.639655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pontesbury - St George</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.888497,52.649186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shelve - All Saints</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.980849,52.584954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snailbeach - St Luke</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9288,52.6162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westbury - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.954623,52.678672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Worthen - All Saints</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.99364,52.635802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yockleton - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.896093,52.684993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Central</name>
+      <Placemark>
+        <name>Albrighton (nr Shrewsbury) - St John the Baptist</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.745937,52.757068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Astley - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.698059,52.764801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baschurch - All Saints</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.857822,52.791342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Broughton - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.736591,52.806255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clive - All Saints</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.721052,52.811281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fitz - St Peter and St Paul</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.818471,52.755183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Ness - St Andrew</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.893906,52.765235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grinshill - All Saints</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.713087,52.80646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hadnall - St Mary Magdalene</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.710108,52.775909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>High Ercall - St Michael</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.602627,52.751985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leaton - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.787406,52.759885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lee Brockhurst - St Peter</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.675641,52.840282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Ness - St Martin</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.879681,52.773295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moreton Corbet - St Bartholomew</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.652172,52.804563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Myddle - St Peter</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.791152,52.807089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Petton Church</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.831704,52.830639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Preston Gubbals - St Martin</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.754562,52.771782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ruyton XI Towns - St John the Baptist</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.898442,52.793588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shawbury - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.654848,52.785881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stanton-upon-Hine Heath - St Andrew</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.642468,52.809597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weston Lullingfields - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.854051,52.825131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Shrewsbury</name>
+      <Placemark>
+        <name>Atcham - St Eata</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.680824,52.678273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Battlefield - St Mary Magdalene</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.723256,52.750546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicton - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.818741,52.728578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eaton Constantine - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.597051,52.652738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hanwood - St Thomas</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.824371,52.681305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haughmond Abbey
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6801586,52.7317668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Berwick Chapel</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.781387,52.72847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meole Brace - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.762098,52.690278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montford - St Chad</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.86217,52.727253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shelton and Oxon - Christ Church</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.802446,52.713882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrawardine - St Mary the Virgin</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.891159,52.731758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury Abbey</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.743748,52.707631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - All Saints</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.743343,52.714049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.746418,52.702759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - St Chad (old)</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.753175,52.706325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - St Alkmund</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.752407,52.707634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - St Chad (new)</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.758925,52.707226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - St George</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.759858,52.712517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - St Giles</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.730551,52.702063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - St John</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.737378,52.689596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - St Julian</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.75209,52.707198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - St Mary the Virgin</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.751438,52.708679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - St Michael</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.746106,52.717978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uffington - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.700385,52.720393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uppington - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.596889,52.680474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Upton Magna - St Lucy</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.662582,52.707813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Withington - St John the Baptist</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.627783,52.712569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wroxeter - St Andrew</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.647319,52.669774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Telford</name>
+      <Placemark>
+        <name>Buildwas - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.53794,52.6391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buildwas Abbey
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5283924,52.6357788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coalbrookdale - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.488557,52.636913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dawley - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.464363,52.655136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Donnington Wood - St Matthew</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.430822,52.714498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eyton-upon-the-Weald Moors - St Catherine</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.518334,52.729939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hadley - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.480245,52.704199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ironbridge - St Luke</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.485192,52.628443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jackfield - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.463178,52.623423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ketley - St Mary the Virgin</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.470707,52.691292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lawley - St John the Evangelist</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.494032,52.674981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leighton - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.573705,52.642384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Wenlock - St Lawrence</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.523336,52.658036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longon on Tern - St Bartholomew</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.560089,52.73538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madeley - St Michael</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.450776,52.633927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malinslee - St Leonard</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.461357,52.669802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oakengates - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.456186,52.692444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Preston-upon-the-Weald Moors - St Laurence</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.473809,52.734903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prioslee - St Peter</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.440471,52.686928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rodington - St George</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.609112,52.725499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Georges - St George</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.431622,52.695231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wellington - All Saints</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.517821,52.702037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wellington - Christ Church</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.510763,52.697315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wombridge - St Mary and St Leonard</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.458477,52.701576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wrockwardine - St Peter</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.556732,52.70495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wrockwardine Wood - Holy Trinity</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.446342,52.710542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stirchley - St James</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.445186,52.657369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>East</name>
+      <Placemark>
+        <name>Albrighton (nr Shifnal) - St Mary Magdalene</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.283678,52.636913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Badger - St Giles</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.343803,52.593745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beckbury - St Milburga</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.348028,52.61119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boningale - St Chad</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.279509,52.620515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chetwynd - St Michael and All Angels</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.394782,52.788461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Church Aston - St Andrew</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.381391,52.757442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crudgington - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.545752,52.759451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Donington - St Cuthbert</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.284792,52.640542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edgemond - St Peter</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.416203,52.7705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Bolas - St John the Baptist</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.524188,52.788455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kemberton - St Andrew and St John the Baptist</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.401453,52.637565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kynnersley - St Chad</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.486226,52.746839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lilleshall - St Michael and All Angels</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.403793,52.734011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lilleshall Abbey
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3901613,52.7258435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longford - Talbot Chapel</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.407754,52.762513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newport - St Nicholas</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.379189,52.769612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rowton - All Hallows</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.570957,52.774821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ryton - St Andrew</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.355601,52.62208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sambrook - St Luke</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.42498,52.81692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sheriffhales - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.359557,52.705391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shifnal - St Andrew</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.375878,52.664436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stockton - St Chad</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.401416,52.593277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sutton Maddock - St Mary</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.416851,52.609249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tibberton - All Saints</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.473951,52.780075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tong - St Mary and St Bartholomew</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.303431,52.663848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waters Upton - St Michael</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.54394,52.771235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
