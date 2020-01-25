@@ -74,7 +74,7 @@
 </wpt>
 <wpt lat="52.67827" lon="-2.68082">
 <name>Atcham - St Eata</name>
-<sym>blue</sym>
+<sym>green</sym>
 </wpt>
 <wpt lat="52.59374" lon="-2.3438">
 <name>Badger - St Giles</name>
@@ -294,7 +294,7 @@
 </wpt>
 <wpt lat="52.63691" lon="-2.48856">
 <name>Coalbrookdale - Holy Trinity</name>
-<sym>blue</sym>
+<sym>green</sym>
 </wpt>
 <wpt lat="52.85756" lon="-2.84073">
 <name>Cockshutt - St Simon and St Jude</name>
@@ -538,7 +538,7 @@
 </wpt>
 <wpt lat="52.62844" lon="-2.48519">
 <name>Ironbridge - St Luke</name>
-<sym>blue</sym>
+<sym>green</sym>
 </wpt>
 <wpt lat="52.62342" lon="-2.46318">
 <name>Jackfield - St Mary</name>

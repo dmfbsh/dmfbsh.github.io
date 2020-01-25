@@ -1,6 +1,6 @@
 
-fi = File.open("C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/Maps - Churches/Churches.csv", "r")
-fo = File.open("C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/Maps - Churches/Shropshire - Churches.gpx", "w:UTF-8")
+fi = File.open("C:/Users/David/Documents/iCloudDrive/27N4MQEA55~pro~writer/dmfbsh.github.io/_maps/churches/Churches.csv", "r")
+fo = File.open("C:/Users/David/Documents/iCloudDrive/27N4MQEA55~pro~writer/dmfbsh.github.io/_maps/churches/Shropshire - Churches.gpx", "w:UTF-8")
 
 fo.write("<?xml version=\"1.0\"?>\n") unless fo.nil?
 fo.write("<gpx>\n") unless fo.nil?

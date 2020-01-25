@@ -1,4 +1,21 @@
 <!--Type: Item-->
+# Date: Before 1075 AD
+# Name: St Eata, Atcham
+
+The only church dedicated to St Eata of Hexham.  Atcham is a contraction of Attingham, meaning "the home of Eata's people".
+
+A church was present on this site prior to 1075, this is known because the chronicler Orderic Vitalis (a Benedictine monk who wrote one of the great chronicles of 11th and 12th Century England) was baptised at the church on Easter Day in 1075.
+
+The oldest part of the present church is the nave which dates from the late Saxon or early Norman period.  The tower is probably late 12th Century, the chancel late 13th Century and the south porch is dated 1665.  The church was restored in the late 19th Century.
+
+The church is constructed from red and grey sandstone and incorporates some large blocks from the Roman city of Wroxeter.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-01-12_15_47_21_DSC_6211_DxO.jpg)
+# Sub-Image: 2020-01-12_15_52_57_DSC_6218_DxO.jpg
+# Sub-Image: 2020-01-12_15_55_16_DSC_6223_DxO.jpg
+# Sub-Image: 2020-01-12_15_55_58_DSC_6224_DxO.jpg
+# Sub-Image: 2020-01-12_15_57_40_DSC_6226_DxO.jpg
+
+<!--Type: Item-->
 # Date: 1275 AD
 # Name: St Mary, Acton Burnell
 
@@ -61,6 +78,17 @@ The oldest surviving part of the church is in the chancel; the nave and tower ar
 
 The Old English name means Ford by the Fort.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-26_15_36_44_DSC_4915_DxO.jpg)
+
+<!--Type: Item-->
+# Date: 1854 AD
+# Name: St Luke, Coalbrookdale
+
+With the support of the Darbys a new church was planned for the village of Coalbrookdale.  The foundation stone was laid by Abraham's wife, Matilda Frances, on 11th December 1851 and the completed building was consecrated by the Bishop of Hereford on 25th July 1854.
+
+The church is notable because unusually a number of the gravemarkers were locally cast in iron.
+
+The most notable grave is that of Abraham Darby IV and his Wife Matilda.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-01-12_12_48_52_DSC_6206_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -134,6 +162,15 @@ TBD
 # Sub-Image: 2019-12-21_14_59_16_DSC_6042_DxO.jpg
 # Sub-Image: 2019-12-21_15_09_36_DSC_6049_DxO.jpg
 # Sub-Image: 2019-12-21_15_13_05_DSC_6052_DxO.jpg
+
+<!--Type: Item-->
+# Date: 1837 AD
+# Name: St Luke, Ironbridge
+
+The area was originally part of the parish of Madeley, but with the growth of the population due to the bridge, it was thought necessary for Ironbridge to have its own church.
+
+The position of Ironbridge church is the reverse of the majority of churches, the sanctuary is at the west end and the tower at the east end.  This is because the land at the west end would not bear the weight of a tower.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2020-01-12_12_15_40_DSC_6177_DxO.jpg)
 
 <!--Type: Item-->
 # Date: 15th Century AD

@@ -583,6 +583,15 @@ The bridge is to a carpenters' design typically used for wood structures.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2009-04-19 17-41-55_00006342_DxO_bw.jpg)
 
 <!--Type: Item-->
+# Date: 1781 AD
+# Name: The Toll House, Ironbridge
+
+The tollhouse opened for business on day the bridge was opened, New Year's Day 1781.  In 1934 the bridge was closed to vehicles; tolls for pedestrians ceased in 1950.
+
+The Ironbridge Gorge Museum Trust acquired and restored the tollhouse building and opened it as a Tourist Information Centre in 1972.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2020-01-12_12_28_07_DSC_6193_DxO_bw.jpg)
+
+<!--Type: Item-->
 # Date: 1787 AD
 # Name: Thomas Telford arrives in the County
 
@@ -715,6 +724,15 @@ Start of the Victorian age
 
 Built by Benjamin Flouders to mark the boundaries between four large estates (and possibly the occasion of his 70th birthday).
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-04-19_11_58_29_DSC_4090_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Date: Around 1840 AD
+# Name: Warehouse for Coalbrookdale Comapny
+
+Originally constructed as a warehouse for the Coalbrookdale Company, the building is now the museum of the gorge.
+
+The building is in the Gothic Revival architectural style.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2020-01-12_12_38_33_DSC_6201_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Date: 1841-1843 AD
