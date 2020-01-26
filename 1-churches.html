@@ -5,7 +5,11 @@ title: Churches of Shropshire
 
 {% include 1-header.html %}
 
+{% assign numrecs = 0 %}
+
 {% for item in site.data.Shropshire_Notebook-Churches %}
+
+{% assign numrecs = numrecs | plus: 1 %}
 
 {% if item.Type == "Item" %}
 
@@ -34,5 +38,7 @@ title: Churches of Shropshire
 {% endif %}
 
 {% endfor %}
+
+<p>Number of records: {{ numrecs }}</p>
 
 {% include 1-footer.html %}

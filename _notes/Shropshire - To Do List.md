@@ -2,8 +2,6 @@
 
 # Web Site Updates
 
-- Lydham church
-
 ## Need Photo
 
 - Cosford RAF Museum

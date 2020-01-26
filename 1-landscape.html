@@ -7,7 +7,11 @@ title: Landscape of Shropshire
 
 <div class="rowh">
 
+{% assign numrecs = 0 %}
+
 {% for item in site.data.Shropshire_Notebook-Landscape %}
+
+{% assign numrecs = numrecs | plus: 1 %}
 
 {% if item.Type == "Item" %}
 
@@ -34,5 +38,7 @@ title: Landscape of Shropshire
 {% endfor %}
 
 </div>
+
+<p>Number of records: {{ numrecs }}</p>
 
 {% include 1-footer.html %}

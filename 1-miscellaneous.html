@@ -6,7 +6,11 @@ imagefolder: miscellaneous
 
 {% include 1-header.html %}
 
+{% assign numrecs = 0 %}
+
 {% for item in site.data.Shropshire_Notebook-Miscellaneous %}
+
+{% assign numrecs = numrecs | plus: 1 %}
 
 {% if item.Type == "Item" %}
 
@@ -35,5 +39,7 @@ imagefolder: miscellaneous
 {% if orientation == "left" %}
 </div>
 {% endif %}
+
+<p>Number of records: {{ numrecs }}</p>
 
 {% include 1-footer.html %}

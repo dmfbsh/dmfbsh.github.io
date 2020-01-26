@@ -202,6 +202,8 @@ if mode = 1
 	Gui, Add, Text, xm section w120 h20, Original Photograph:
 	Gui, Add, Edit, ys vOrigName w500 h20,
 
+	Gui, Add, Button, xm section w50 h20 Section, Folder
+
 	Gui, Add, Button, xm section Default w50 h20 Section, Save
 	Gui, Add, Button, ys w50 h20, Exit
 
@@ -388,6 +390,28 @@ ButtonMove:
 ;	Sleep, 3000
 ;	Run, "C:\Program Files\GPSoftware\Directory Opus\dopusrt.exe" /CMD Go "%TmpPath%"
 ;	Return
+
+;=====================================================================
+; GUI event handler
+;=====================================================================
+
+ButtonFolder:
+	InputBox, newFolder, Create Folder for Item, Enter name for the item's folder:
+	If not ErrorLevel
+	{
+		newFolder := BasePath . "\" . newFolder
+		FileCreateDir, %newFolder%
+		if ErrorLevel
+		{
+  		MsgBox, Failed to create folder %newFolder%
+		}
+  	else
+	  {
+  		MsgBox, Created folder %newFolder%
+	  	Run, "%A_ScriptDir%\Shropshire Photography.exe" "%argOriginal%"
+  	}
+  }
+  Return
 
 ;=====================================================================
 ; GUI event handler

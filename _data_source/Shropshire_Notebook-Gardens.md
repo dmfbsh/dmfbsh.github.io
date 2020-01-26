@@ -31,8 +31,8 @@ TBD
 <!--Type: Item-->
 # Name: Hodnet Hall Gardens
 
-TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/gardens/photo-needed.jpg)
+The gardens were created in 1922 when rare trees, shrubs and a chain of seven lakes and pools were established.  The gardens contains rhododendrons, camellias, crocuses, daffodils and magnolias.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/gardens/2016-08-29_13_12_19_DSC01077_DxO.jpg)
 
 <!--Type: Item-->
 # Name: Oakgate Nursery and Garden
