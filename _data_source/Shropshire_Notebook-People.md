@@ -43,14 +43,18 @@ Consequently, Dr Brookes is credited as a founding father of the modern Olympic 
 # Date: 1848 AD
 # Name: Matthew Webb Born
 
-TBD
+Captain Webb was born in Dawley in 1848, he learned to swim in the River Severn at Coalbrookdale.
+
+In 1875 he became the first recorded person to swim the English Channel without the use of artificial aids (in a time of less than 22 hours).  As a result, he became a celebrity, and performed many stunts in public.  He died trying to swim the Whirlpool Rapids below Niagara Falls, a feat which was declared impossible.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/people/photo-needed.jpg)
 
 <!--Type: Item-->
 # Date: 1881 AD
 # Name: Mary Webb Born
 
-TBD
+Mary Webb was a novelist and poet whose work is set mainly in the Shropshire countryside and features Shropshire characters and people.
+
+Webb was born in Leighton in 1881.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/people/2019-06-15_12_25_49_DSC02168_DxO.jpg)
 
 <!--Type: Item-->

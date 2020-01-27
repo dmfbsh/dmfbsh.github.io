@@ -719,43 +719,75 @@ ButtonCompareACDSee:
 
 ImportACDSee() {
 
-	IniRead, DBFViewerEXE, %A_ScriptDir%\Shropshire Photography.ini, Programs, DatabaseViewer
-	IniRead, SQLite3EXE, %A_ScriptDir%\Shropshire Photography.ini, Programs, SQLite3
-	IniRead, ACDSeeDBPath, %A_ScriptDir%\Shropshire Photography.ini, Paths, ACDSeeDB
-	IniRead, TempPath, %A_ScriptDir%\Shropshire Photography.ini, Paths, TempFolder
+  global
+  RunWait, %A_ScriptDir%\Load ACDSeeDB.cmd
 
-	Progress, R0-9, , Importing ACDSee Data, Database Update
+  Gui, DeltaView:Add, ListView, r25 w820, Status|FileName|Name
+  Gui, DeltaView:Default
 
-	RunWait, "%DBFViewerEXE%" "%ACDSeeDBPath%\Category.dbf" /EXPORT:"%TempPath%\ACDSee_Category.csv" /HDR /SKIPD
-  Progress, 1
+  RecordSet := ""
+  SQL := "SELECT Status, FileName, Name FROM ACDSee_Delta;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0)
+    {
+      LV_Add("", Row[1], Row[2], Row[3])
+    }
+  } Until RC < 1
+  RecordSet.Free()
 
-	RunWait, "%DBFViewerEXE%" "%ACDSeeDBPath%\JoinCategoryAsset.dbf" /EXPORT:"%TempPath%\ACDSee_JoinCategoryAsset.csv" /HDR /SKIPD
-  Progress, 2
+  LV_ModifyCol()
 
-	RunWait, "%DBFViewerEXE%" "%ACDSeeDBPath%\Asset.dbf" /EXPORT:"%TempPath%\ACDSee_Asset.csv" /HDR /SKIPD
-  Progress, 3
+  Gui, DeltaView:Add, Button, xm section w50 h20, Close
+  Gui, DeltaView:Show, w840 h530, Shropshire Photography
+  Gui, 1:Default
 
-	RunWait, "%SQLite3EXE%" "%DBFile%" "DROP TABLE IF EXISTS ACDSee_Category;"
-  Progress, 4
+;	IniRead, DBFViewerEXE, %A_ScriptDir%\Shropshire Photography.ini, Programs, DatabaseViewer
+;	IniRead, SQLite3EXE, %A_ScriptDir%\Shropshire Photography.ini, Programs, SQLite3
+;	IniRead, ACDSeeDBPath, %A_ScriptDir%\Shropshire Photography.ini, Paths, ACDSeeDB
+;	IniRead, TempPath, %A_ScriptDir%\Shropshire Photography.ini, Paths, TempFolder
 
-	RunWait, "%SQLite3EXE%" "%DBFile%" "DROP TABLE IF EXISTS ACDSee_JoinCategoryAsset;"
-  Progress, 5
+;	Progress, R0-9, , Importing ACDSee Data, Database Update
 
-	RunWait, "%SQLite3EXE%" "%DBFile%" "DROP TABLE IF EXISTS ACDSee_Asset;"
-  Progress, 6
+;	RunWait, "%DBFViewerEXE%" "%ACDSeeDBPath%\Category.dbf" /EXPORT:"%TempPath%\ACDSee_Category.csv" /HDR /SKIPD
+;  Progress, 1
 
-	RunWait, "%SQLite3EXE%" "%DBFile%" -cmd ".mode csv" ".import '%TempPath%\ACDSee_Category.csv' ACDSee_Category"
-  Progress, 7
+;	RunWait, "%DBFViewerEXE%" "%ACDSeeDBPath%\JoinCategoryAsset.dbf" /EXPORT:"%TempPath%\ACDSee_JoinCategoryAsset.csv" /HDR /SKIPD
+;  Progress, 2
 
-	RunWait, "%SQLite3EXE%" "%DBFile%" -cmd ".mode csv" ".import '%TempPath%\ACDSee_JoinCategoryAsset.csv' ACDSee_JoinCategoryAsset"
-  Progress, 8
+;	RunWait, "%DBFViewerEXE%" "%ACDSeeDBPath%\Asset.dbf" /EXPORT:"%TempPath%\ACDSee_Asset.csv" /HDR /SKIPD
+;  Progress, 3
 
-	RunWait, "%SQLite3EXE%" "%DBFile%" -cmd ".mode csv" ".import '%TempPath%\ACDSee_Asset.csv' ACDSee_Asset"
-  Progress, 9
+;	RunWait, "%SQLite3EXE%" "%DBFile%" "DROP TABLE IF EXISTS ACDSee_Category;"
+;  Progress, 4
 
-	Progress, Off
+;	RunWait, "%SQLite3EXE%" "%DBFile%" "DROP TABLE IF EXISTS ACDSee_JoinCategoryAsset;"
+;  Progress, 5
+
+;	RunWait, "%SQLite3EXE%" "%DBFile%" "DROP TABLE IF EXISTS ACDSee_Asset;"
+;  Progress, 6
+
+;	RunWait, "%SQLite3EXE%" "%DBFile%" -cmd ".mode csv" ".import '%TempPath%\ACDSee_Category.csv' ACDSee_Category"
+;  Progress, 7
+
+;	RunWait, "%SQLite3EXE%" "%DBFile%" -cmd ".mode csv" ".import '%TempPath%\ACDSee_JoinCategoryAsset.csv' ACDSee_JoinCategoryAsset"
+;  Progress, 8
+
+;	RunWait, "%SQLite3EXE%" "%DBFile%" -cmd ".mode csv" ".import '%TempPath%\ACDSee_Asset.csv' ACDSee_Asset"
+;  Progress, 9
+
+;	Progress, Off
 
 }
+
+;---------------------------------------------------------------------
+; GUI event handler
+;---------------------------------------------------------------------
+
+DeltaViewButtonClose:
+	Gui, DeltaView:Destroy
+	Return
 
 ;=====================================================================
 ; GUI event handler
