@@ -17,9 +17,7 @@
 
 - Folklore - The Wrekin
 - Folklore - The Devil’s Chair
-- Acton Scott - Church
 - Morville - Hall
-- Whitchurch - Church
 - Titterstone Clee Hill Quarry
 - Shrewsbury - St Alkmund’s
 - Pitchford - Hall
@@ -31,7 +29,6 @@
 - Haughmond - Abbey
 - Dudmaston Hall
 - Shropshire Union Railways and Canal Company
-- Betton Strange - Church
 - Ightfield - Church
 - Ightfield - Stone Cross
 

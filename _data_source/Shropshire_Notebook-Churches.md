@@ -27,10 +27,12 @@ It features a corbel-table with many grotesque carvings.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2018-06-11_15_20_23_DSC_2625_DxO.jpg)
 
 <!--Type: Item-->
-# Date: 13th Century AD
+# Date: 12th-14th Century AD
 # Name: St Margaret, Acton Scott
 
-TBD
+A church that has suffered at the hands of 19th Century restorers.
+
+Much of the masonry is Medieval, but the windows were all renewed in the 19th Century.  The porch was added in 1722 and the north chapel in 1820.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-13_09_45_21_DSC_4603_DxO.jpg)
 # Sub-Image: 2019-07-13_09_52_11_DSC_4607_DxO.jpg
 # Sub-Image: 2019-07-13_09_53_10_DSC_4609_DxO.jpg
@@ -39,7 +41,7 @@ TBD
 # Date: 1858 AD
 # Name: St Margaret, Betton Strange
 
-TBD
+A well-preserved memorial chapel built for the Scott family.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-21_12_02_47_DSC_5090_DxO.jpg)
 # Sub-Image: 2019-09-21_11_41_02_DSC_5080_DxO.jpg
 
@@ -512,7 +514,13 @@ The church has been rebuilt at least three times - the 14th Century tower is pro
 # Date: 1712 AD
 # Name: St Alkmund, Whitchurch
 
-TBD
+Whitchurch is the oldest continually inhabited town in Shropshire.
+
+Whitchurch acquired its present name after the construction of a Norman church in white Grinshill stone (replacing a wooden Saxon church), from the Middle English for "White Church".  Originally a Roman settlement it was half way between Wroxeter and Chester and so was known as Mediolanum (the place in the middle of the plain).  In the Doomsday book it was known as Westune (indicating its situation on the Western border of England).
+
+The Norman church was extended in Medieval times, but collaspsed on Sunday 31st July 1711.
+
+The present church was built on the same site, this time of red sandstone.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-09_14_13_23_DSC_3263_DxO.jpg)
 # Sub-Image: 2019-10-12_12_53_36_DSC_5357_DxO.jpg
 
