@@ -84,5 +84,5 @@ Richard Munslow is believed to be the last known 'sin-eater' in England.
 # Date: 1946 AD
 # Name: Percy Thrower Moves to Shrewsbury
 
-TBD
+Percy Thrower moved to Shrewsbury in 1946, taking the position of Parks Superintendent (the youngest to take this position).  He expected to stay only four or five years, but in fact remained in post until 1974.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/people/photo-needed.jpg)

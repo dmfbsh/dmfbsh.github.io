@@ -209,7 +209,26 @@
   Date: 1145-1148 AD
   Name: Lilleshall Abbey
   Description: |
-    TBD
+    The Abbey was founded around 1148 AD for a community of what is thought to be about 13 Augustinian canons from Dorchester Abbey in Oxfordshire.
+
+    During the 13th Century, the Abbey enjoyed great wealth and prestige - a respectable income was derived from a variety of sources, including even the tolls for the use of the Atcham Bridge.  The then king (Henry III) was entertained at the Abbey twice in about 1240 AD.
+
+    The Abbey suffered financial problems in the 14th Century (the abbott was accused of mismanagement).
+
+    The Abbey was closed in 1538, as part of the Suppression of the Monasteries.  The site then became a private dwelling until the mid-17th Century.
+
+    During the Civil War, the former Abbey buildings were severely damaged by Parliamentarian troops, at which point the site was abandoned and left to decay.
+  Thumbnail: photo-needed.jpg
+
+- Type: Item
+  Date: 1186 AD
+  Name: White Ladies Priory
+  Description: |
+    A priory of Augustinian canonesses who wore habits of undyed cloth.
+
+    Unusually for a monastic site, the buildings appear to be largely unaltered from the original.  The priory was never a large or wealthy house.
+
+    It was one of the first religious houses to be suppressed in 1535, after which most of the buildings were taken down and the site passed through various owners.
   Thumbnail: photo-needed.jpg
 
 - Type: Header
@@ -230,7 +249,13 @@
   Date: 12th Century AD
   Name: Haughmond Abbey
   Description: |
-    TBD
+    Haughmond was an Augustinian monastery and was closely associated with the FitzAlan family (who became Earls of Arundel).
+
+    It was a successful and wealthy abbey.
+
+    The commission to dissolve the abbey was issued from Woodstock Palace on 23 August 1539 and signed by Thomas Cromwell.  A deed of surrender was drawn up on 19 September.  By 16 October, the abbot, the prior and 9 canons had signed to acknowledge Henry VIII as supreme over the Church of England.
+
+    The site was sold, some buildings were used as a private residence, others were plundered for building stone.  During the Civil War, fire further destroyed the site and it was turned over for use as a farm.
   Thumbnail: 2019-03-24_15_50_39_DSC_3644_DxO_bw.jpg
 
 - Type: Item
@@ -316,10 +341,10 @@
   Thumbnail: 2018-07-14_12_57_54_DSC_2798_DxO_bw.jpg
 
 - Type: Item
-  Date: 15th Century AD
+  Date: 1604 AD
   Name: Llwyd Mansion, Oswestry
   Description: |
-    TBD
+    The mansion was built in 1604 for John Lloyd (or Llwyd in Welsh) as a home and shop area at the bottom.
   Thumbnail: 2019-06-01_14_45_04_DSC_4508_DxO_bw.jpg
 
 - Type: Header
@@ -359,7 +384,9 @@
   Date: 1546 AD
   Name: Morville Hall
   Description: |
-    TBD
+    Originally an Elizabethan country house dating from 1546.  It was enlarged and expanded around 1750 by the then MP for Bridgnorth.
+
+    The house was once part of the Aldenham estate and stands on the site of the abandoned Morville Priory.
   Thumbnail: 2019-07-12_14_45_35_DSC_4581_DxO_bw.jpg
 
 - Type: Item
@@ -373,7 +400,11 @@
   Date: c. 1560 AD
   Name: Pitchford Hall
   Description: |
-    TBD
+    The hall is considered to be one of England's finest Elizabethan half timbered houses.
+
+    The name derives from the nearby naturally occurring pitch, or bitumen, well (one of the few such wells in the country).
+
+    The present house was built for Adam Ottley, a Shrewsbury wool merchant, and possibly incorporated elements of the previous medieval structure.
   Thumbnail: 2019-06-19_14_35_01_DSC_4527_DxO_bw.jpg
 
 - Type: Item
@@ -477,10 +508,14 @@
   Thumbnail: 2019-06-19_14_49_51_DSC_4530_DxO_bw.jpg
 
 - Type: Item
-  Date: 17th Century AD
+  Date: 1695 AD
   Name: Dudmaston Hall
   Description: |
-    TBD
+    The estate dates back to the 12th Century or earlier, it was acquired by the Wolryche family in the 14th Century.
+
+    The hall was built around 1695-1700 with some remodelling in the period from 1820 to 1840.
+
+    The house was built bu Sir Thomas Wolryche (3rd Baronet).
   Thumbnail: 2013-08-19_14_11_18_DSC_0001_DxO_bw.jpg
 
 - Type: Item
@@ -754,7 +789,9 @@
   Date: 1846 AD
   Name: Shropshire Union Railways and Canal Company Formed
   Description: |
-    TBD
+    The company was formed by the amalgamation of the Chester Canal and the Birmingham and Liverpool Junction Canal and intended to convert a number of canals to railways.  However, due to a leasing arrangement with the LNWR the company lost its independence and was prevented from converting the canals.  Instead it focussed on managing the canals under its control.
+
+    The company was bought out by the LNWR in late 1922.
   Thumbnail: 2019-09-18_12_30_47_DSC_5057_DxO_bw.jpg
 
 - Type: Item
@@ -797,6 +834,13 @@
 
     The club is recognised as one of the leading rowing schools in the country, the school has achieved a number of wins at the Henley Royal Regatta.
   Thumbnail: 2013-08-03_16_29_04_DSC_0019_DxO_bw.jpg
+
+- Type: Item
+  Date: 1870 AD
+  Name: Hodnet Hall
+  Description: |
+    The original timber framed manor house dates from some time before the late 16th Century.  Historically it was owned by the Heber family, the family of the noted English cleric Reginald Heber.  The old hall was demolished in 1870 when a new hall in the neo-Elizabethan style was built.
+  Thumbnail: 2016-08-29_12_47_18_DSC01067_DxO.jpg
 
 - Type: Item
   Date: 1873 AD
@@ -911,10 +955,10 @@
   Thumbnail: photo-needed.jpg
 
 - Type: Item
-  Date: Early 1900s AD
+  Date: Early 19th Century AD Onwards
   Name: Titterstone Clee Hill Quarry
   Description: |
-    TBD
+    A number of quarries have existed on Titterstone Clee Hill.  Dhustone or basalt is quarried, which is used mainly as a construction aggregate.
   Thumbnail: 2016-05-08_18_25_57_DSC_0096_DxO_bw.jpg
 
 - Type: Item
@@ -934,13 +978,6 @@
 
     In 1976 Shawbury also became the home of the basic and advanced helicopter training school. In 1997, the school was reformed as the Defence Helicopter Flying School providing training to all three of the UK's armed services.
   Thumbnail: 2005-03-31 11-26-24_00002588_DxO_bw.jpg
-
-- Type: Item
-  Date: 1922 AD
-  Name: Hodnet Hall Garden
-  Description: |
-    TBD
-  Thumbnail: 2016-08-29_13_10_30_DSC01075_DxO.jpg
 
 - Type: Item
   Date: 1930 AD

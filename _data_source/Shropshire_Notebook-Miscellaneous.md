@@ -103,7 +103,7 @@ Lucien Boneparte (brother of Napoleon) was held as a prisoner of war at Dinham H
 <!--Type: Item-->
 # Name: Stone Cross, Ightfield
 
-TBD
+A preaching cross in the churchyard - the present shaft and cross is probably Victorian (most likley installed when the church's chancel was rebuilt in 1865).  The base most likely dates from Saxon times.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2019-12-21_14_47_24_DSC_6020_DxO_bw.jpg)
 
 <!--Type: Item-->

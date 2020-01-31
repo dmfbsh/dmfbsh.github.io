@@ -20,12 +20,18 @@ The name Oswestry literally means "Oswald's tree". Oswald was canonised, his fea
 # Date: N/A
 # Name: The Wrekin
 
-The Wrekin rises to a height of 1,335ft above the Shropshire plain.
+Thought to have been formed when a giant called Gwendol Wrekin ap Shenkin ap Mynyddmawr dumped a spadeful of earth - the giant had a grudge against the town of Shrewsbury and was intending to flood the town by depositing the earth there, but was dissuaded by a passing cobbler he met near Wellington who convinced him that Shrewsbury was very far away and so the giant decided to abandon the idea and dropped the earth.  The Ercall Hill is also said to have been formed when the giant scraped the mud off his boots.
+
+Another legend suggests that you cannot be a true Salopian unless you have passed through the Needle's Eye, which is a split between two large rocks close to the summit.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/folklore/photo-needed.jpg)
 
 <!--Type: Item-->
 # Date: N/A
 # Name: The Stiperstones - The Devil's Chair
 
-TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/folklore/photo-needed.jpg)
+It is said that when the mist descends on the rock formation Satan and a coven of witches are meeting to plan ill deeds.
+
+There are many legends of how the Devil's Chair came to be.  One suggests that the devil was carrying rocks to fill a nearby valley called "Hell's Gutter".  He sat the rocks down to rest but when he got up, the apron he was carrying the rocks in broke and so the devil left the rocks where they had fallen, cursing them.
+
+Another tells of a giantess who came collecting rocks and placing them in her apron.  The devil popped up and cut the apron strings causing the rocks to fall to the ground and the giantess ran away.  Since that day the devil returns to sit there are survey the world.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/landscape/2010-05-09 13-30-46_00009810_DxO.jpg)

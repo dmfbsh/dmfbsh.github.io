@@ -29,12 +29,6 @@ TBD
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/landscape/2018-08-04_15_29_10_DSC_2873_DxO.jpg)
 
 <!--Type: Item-->
-# Name: The Stiperstones - The Devil's Chair
-
-TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/landscape/2010-05-09 13-30-46_00009810_DxO.jpg)
-
-<!--Type: Item-->
 # Name: The Stiperstones - Nipstone Rock
 
 TBD
