@@ -122,31 +122,50 @@ if mode = 1
 
 if mode = 0
 {
-	
+
+  Menu, FileMenu, Add, Save, MenuSave
+  Menu, FileMenu, Add
+  Menu, FileMenu, Add, Exit, MenuExit
+  Menu, ImageMenu, Add, Select, MenuImageSelect
+  Menu, ImageMenu, Add, View, MenuImageView
+  Menu, ImageMenu, Add
+  Menu, ImageMenu, Add, Move, MenuImageMove
+  Menu, ProjectMenu, Add, Status, MenuStatus
+  Menu, ProjectMenu, Add
+  Menu, ProjectMenu, Add, Compare Folders, MenuCompareFolders
+  Menu, ProjectMenu, Add, Compare ACDSee, MenuCompareACDSee
+  Menu, HelpMenu, Add, About, MenuAbout
+  Menu, MyMenuBar, Add, File, :FileMenu
+  Menu, MyMenuBar, Add, Image, :ImageMenu
+  Menu, MyMenuBar, Add, Project, :ProjectMenu
+  Menu, MyMenuBar, Add, Help, :HelpMenu
+  Gui, Menu, MyMenuBar
+
+	Gui +Resize +MinSize450x500
 	Gui, Add, Text, xm section w120 h20, Places:
 	Gui, Add, DropDownList, ys vPlace gPlace w300 h180, Empty|Null
 	GuiControl, , Place, %ListOfPlaces%
 	GuiControl, Choose, Place, 1
-	Gui, Add, Button, ys w50 h20, First
-	Gui, Add, Button, ys w50 h20, Prev
-	Gui, Add, Button, ys w50 h20, Next
-	Gui, Add, Button, ys w50 h20, Last
-	Gui, Add, DropDownList, ys vFilterPlaces gFilterPlaces w80 h160, Clear Filter|History|Castle|Church|House|People|Landscape|Place|Folklore|Miscellaneous|Information
+	Gui, Add, Button, ys w20 h20 gButtonFirst, <<
+	Gui, Add, Button, ys w20 h20 gButtonPrev, <
+	Gui, Add, Button, ys w20 h20 gButtonNext, >
+	Gui, Add, Button, ys w20 h20 gButtonLast, >>
 
-	Gui, Add, Text, xm section w120 h20, Primary Category:
+	Gui, Add, Text, xm section w120 h20, Category:
 	Gui, Add, DropDownList, ys vCategory1 gCategory1 w200 h180, History|Church|Landscape|Miscellaneous|Place|Garden|Information
-	Gui, Add, Text, ys w90 h20, Sub Category:
-	Gui, Add, DropDownList, ys vCategory2 w230 h180, N/A
+;	Gui, Add, Text, ys w90 h20, Sub Category:
+	Gui, Add, DropDownList, ys vCategory2 w200 h180, N/A
+	Gui, Add, DropDownList, ys vFilterPlaces gFilterPlaces w90 h160, Clear Filter|History|Castle|Church|House|People|Landscape|Place|Folklore|Miscellaneous|Information
 
 	Gui, Add, Text, xm section w120 h20, Original Photograph:
 	Gui, Add, Edit, ys vOrigName w500 h20,
-	Gui, Add, Button, ys w50 h20, Select
-	Gui, Add, Button, ys w50 h20, View
+;	Gui, Add, Button, ys w50 h20, Select
+;	Gui, Add, Button, ys w50 h20, View
 
 	Gui, Add, Text, xm section w120 h20, DxO PhotoLab Preset:
 	Gui, Add, DropDownList, ys vDxOPLPreset w300 h180, %gDxOPresets%
-	Gui, Add, Text, ys w190 h20,
-	Gui, Add, Button, ys w50 h20, Move
+;	Gui, Add, Text, ys w190 h20,
+;	Gui, Add, Button, ys w50 h20, Move
 ;	Gui, Add, Button, xs+640 ys w50 h20, Workflow
 
 	Gui, Add, Text, xm section w120 h20, DxO PhotoLab Notes:
@@ -172,24 +191,25 @@ if mode = 0
 
 	Gui, Add, Text, xm section w120 h20, Complete:
 	Gui, Add, CheckBox, ys vComplete,
-	Gui, Add, Text, xm section vHasFile w200 h20, No Database Record
+;	Gui, Add, Text, xm section vHasFile w200 h20, No Database Record
 
 	Gui, Add, Text, xm section w120 h20, Notepad:
 	Gui, Add, Edit, ys vOverview +Wrap w500 h80,
 
-	Gui, Add, Button, xm section Default w50 h20 Section, Save
-	Gui, Add, Button, ys w50 h20, Status
-	Gui, Add, Button, ys w50 h20, Compare Folders
+;	Gui, Add, Button, xm section Default w50 h20 Section, Save
+;	Gui, Add, Button, ys w50 h20, Status
+;	Gui, Add, Button, ys w50 h20, Compare Folders
 ;	Gui, Add, Button, ys w50 h20, Compare Trello
-	Gui, Add, Button, ys w50 h20, Compare ACDSee
-	Gui, Add, Button, ys w50 h20, Exit
+;	Gui, Add, Button, ys w50 h20, Compare ACDSee
+;	Gui, Add, Button, ys w50 h20, Exit
 
   Gui, Add, StatusBar, ,
 
-	Gui, Show, w800 h565, Shropshire Photography
+	Gui, Show, w750 h500, Shropshire Photography
 
 	GuiControl, ChooseString, Place, %argPlace%
-	SB_SetText("Number of Places: " . argPlaceNum)
+	SB_SetParts(200)
+	SB_SetText("Number of Places: " . argPlaceNum, 1)
 
 }
 
@@ -216,6 +236,73 @@ if mode = 1
 DrawGUI()
 
 Return
+
+GuiSize:
+  GuiControl, Move, Category1, % "w" .  250 + ((A_GuiWidth - 750) / 2)
+  GuiControl, Move, Category2, % "w" .  250 + ((A_GuiWidth - 750) / 2) "X" .  395 + ((A_GuiWidth - 750) / 2)
+  GuiControl, Move, FilterPlaces, % "X" .  650 + (A_GuiWidth - 750)
+  GuiControl, Move, OrigName, % "w" .  A_GuiWidth - 150
+  GuiControl, Move, DxOPLPreset, % "w" .  A_GuiWidth - 150
+  GuiControl, Move, DxOPLNotes, % "w" .  A_GuiWidth - 150
+  GuiControl, Move, DxOSEPreset, % "w" .  A_GuiWidth - 150
+  GuiControl, Move, AffinityNotes, % "w" .  A_GuiWidth - 150
+  GuiControl, Move, PClearNotes, % "w" .  A_GuiWidth - 150
+  GuiControl, Move, SilverEfexNotes, % "w" .  A_GuiWidth - 150
+  GuiControl, Move, Overview, % "w" .  A_GuiWidth - 150 "h" . A_GuiHeight - 440
+  Return
+
+MenuSave:
+	Gui, Submit, NoHide
+	GuiValues()
+	SavePlace()
+	if mode = 1
+	{
+		Run, "%A_ScriptDir%\Shropshire Photography.exe" -status "%argPlace%"
+	}
+  Return
+
+MenuExit:
+	DB.CloseDB()
+	ExitApp
+
+MenuImageSelect:
+	FileSelectFile, sOrigName, 3, E:\My Pictures\Originals, Select Original File, Photographs (*.nef; *.jpg)
+	if StrLen(sOrigName) <> 0
+	{
+		NOrigName := sOrigName
+		GuiControl, Text, OrigName, %NOrigName%
+	}
+  Return
+
+MenuImageView:
+	IniRead, ViewerEXE, %A_ScriptDir%\Shropshire Photography.ini, Programs, ImageViewer
+	Run, "%ViewerEXE%" /view "%NOrigName%"
+  Return
+
+MenuImageMove:
+	FileSelectFile, tMoveName, 3, E:\My Pictures\Published\Shropshire, Select File for Item, Photographs (*.jpg)
+	if StrLen(tMoveName) <> 0
+	{
+		tDstFolder := BasePath . "\" . argPlace . "\"
+    FileMove, %tMoveName%, %tDstFolder%, 1
+    MsgBox, File for Item Moved
+	}
+  Return
+
+MenuStatus:
+	DisplayStatus()
+  Return
+
+MenuCompareFolders:
+	CompareListsFolders()
+  Return
+
+MenuCompareACDSee:
+	ImportACDSee()
+  Return
+
+MenuAbout:
+  Return
 
 ;=====================================================================
 ; GUI event handler
@@ -348,37 +435,37 @@ Category1:
 ; GUI event handler
 ;=====================================================================
 
-ButtonSelect:
-	FileSelectFile, sOrigName, 3, E:\My Pictures\Originals, Select Original File, Photographs (*.nef; *.jpg)
-	if StrLen(sOrigName) <> 0
-	{
-		NOrigName := sOrigName
-		GuiControl, Text, OrigName, %NOrigName%
-	}
-	Return
+;ButtonSelect:
+;	FileSelectFile, sOrigName, 3, E:\My Pictures\Originals, Select Original File, Photographs (*.nef; *.jpg)
+;	if StrLen(sOrigName) <> 0
+;	{
+;		NOrigName := sOrigName
+;		GuiControl, Text, OrigName, %NOrigName%
+;	}
+;	Return
 
 ;=====================================================================
 ; GUI event handler
 ;=====================================================================
 
-ButtonView:
-	IniRead, ViewerEXE, %A_ScriptDir%\Shropshire Photography.ini, Programs, ImageViewer
-	Run, "%ViewerEXE%" /view "%NOrigName%"
-	Return
+;ButtonView:
+;	IniRead, ViewerEXE, %A_ScriptDir%\Shropshire Photography.ini, Programs, ImageViewer
+;	Run, "%ViewerEXE%" /view "%NOrigName%"
+;	Return
 
 ;=====================================================================
 ; GUI event handler
 ;=====================================================================
 
-ButtonMove:
-	FileSelectFile, tMoveName, 3, E:\My Pictures\Published\Shropshire, Select File for Item, Photographs (*.jpg)
-	if StrLen(tMoveName) <> 0
-	{
-		tDstFolder := BasePath . "\" . argPlace . "\"
-    FileMove, %tMoveName%, %tDstFolder%, 1
-    MsgBox, File for Item Moved
-	}
-  Return
+;ButtonMove:
+;	FileSelectFile, tMoveName, 3, E:\My Pictures\Published\Shropshire, Select File for Item, Photographs (*.jpg)
+;	if StrLen(tMoveName) <> 0
+;	{
+;		tDstFolder := BasePath . "\" . argPlace . "\"
+;    FileMove, %tMoveName%, %tDstFolder%, 1
+;    MsgBox, File for Item Moved
+;	}
+;  Return
 
 ;=====================================================================
 ; GUI event handler
@@ -431,7 +518,8 @@ ButtonSave:
 ; GUI event handler
 ;=====================================================================
 
-ButtonStatus:
+DisplayStatus() {
+	global
 	AllPlaces := []
 	TmpPath := BasePath . "\*"
 	Loop, Files, %TmpPath%, D
@@ -615,6 +703,7 @@ ButtonStatus:
 	Gui, StatusView:Show, w840 h530, Shropshire Photography
 	Gui, 1:Default
 	Return
+}
 
 ;---------------------------------------------------------------------
 ; GUI event handler
@@ -628,9 +717,9 @@ StatusViewButtonClose:
 ; GUI event handler
 ;=====================================================================
 
-ButtonCompareFolders:
-	CompareListsFolders()
-  Return
+;ButtonCompareFolders:
+;	CompareListsFolders()
+;  Return
 
 ;---------------------------------------------------------------------
 ; Compare list of names in file system with list in database.
@@ -709,9 +798,9 @@ ImportFolders() {
 ; GUI event handler
 ;=====================================================================
 
-ButtonCompareACDSee:
-	ImportACDSee()
-  Return
+;ButtonCompareACDSee:
+;	ImportACDSee()
+;  Return
 
 ;---------------------------------------------------------------------
 ; 
@@ -793,9 +882,9 @@ DeltaViewButtonClose:
 ; GUI event handler
 ;=====================================================================
 
-ButtonExit:
-	DB.CloseDB()
-	ExitApp
+;ButtonExit:
+;	DB.CloseDB()
+;	ExitApp
 
 ;=====================================================================
 ; Build the list of Places from the folders in the project folder.
@@ -885,9 +974,11 @@ DrawGUI()
 		GuiControl, , Complete, %NComplete%
 		if NHasFile
 		{
-			GuiControl, Text, HasFile, Has Database Record
+;			GuiControl, Text, HasFile, Has Database Record
+			SB_SetText("Has Database Record", 2)
 		} else {
-			GuiControl, Text, HasFile, No Database Record
+;			GuiControl, Text, HasFile, No Database Record
+			SB_SetText("No Database Record", 2)
 		}
 		GuiControl, Text, Overview, %NOverview%
 	}

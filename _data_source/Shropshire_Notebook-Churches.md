@@ -38,6 +38,22 @@ Much of the masonry is Medieval, but the windows were all renewed in the 19th Ce
 # Sub-Image: 2019-07-13_09_53_10_DSC_4609_DxO.jpg
 
 <!--Type: Item-->
+# Date:
+# Name: St Milburga, Beckbury
+
+The parish was originally part of the estates of Wenlock Priory from at least 1120 AD and the connection is reflected in the dedication to St Milburga.
+
+The chancel is possibly 14th Century (in the Middle Ages, Beckbury was a dependent chapelry of the parish of Holy Trinity, Much Wenlock).  The nave and the tower were added in 1731.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-02-01_13_03_53_DSC_6332_DxO_bw.jpg)
+# Sub-Image: 2020-02-01_12_48_58_DSC_6306_DxO.jpg
+# Sub-Image: 2020-02-01_12_54_45_DSC_6315_DxO.jpg
+# Sub-Image: 2020-02-01_12_56_28_DSC_6320_DxO.jpg
+# Sub-Image: 2020-02-01_12_56_47_DSC_6321_DxO.jpg
+# Sub-Image: 2020-02-01_12_57_06_DSC_6323_DxO.jpg
+# Sub-Image: 2020-02-01_12_57_32_DSC_6324_DxO.jpg
+# Sub-Image: 2020-02-01_12_58_35_DSC_6325_DxO.jpg
+
+<!--Type: Item-->
 # Date: 1858 AD
 # Name: St Margaret, Betton Strange
 
