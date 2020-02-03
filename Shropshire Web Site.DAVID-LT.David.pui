@@ -1,15 +1,22 @@
 [Folders]
-.+AFwAXw-maps+AFw- - churches=1
 .+AFwAXw-database+AFw-=1
-.+AFwAXw-notes+AFw-=1
-.+AFwAXw-data+AF8-source+AFw-=1
-.+AFwAXw-posts+AFw-=1
 .+AFwAXw-maps+AFw-=1
-.+AFwAXw-data+AFw-=1
+.+AFwAXw-maps+AFw- - churches=1
+.+AFwAXw-notes+AFw-=1
+.+AFwAXw-posts+AFw-=1
 
 [Open Files]
-Active File Display Mode=-1
-Open File0=
+Active File Display Mode=1
+Active File Index=1
+Open File Line0=0
+Open File Line1=0
+Open File Pos0=0
+Open File Pos1=0
+Open File Window Pos0=0,1,-1,-1,-1,-1,5,43,1072,528
+Open File Window Pos1=0,1,-1,-1,-1,-1,5,43,1072,528
+Open File0=.+AFwAXw-notes+AFw-Shropshire - Notebook.md
+Open File1=.+AFwAXw-posts+AFw-2020-02-03-Updates.md
+Open File2=
 Remember Files=1
 
 [Project Information]

@@ -1,34 +1,34 @@
-# Acton Burnell
-
-## Castle
+ï»¿# Acton Burnell - Castle
 
 [https://en.m.wikipedia.org/wiki/Acton_Burnell_Castle](https://en.m.wikipedia.org/wiki/Acton_Burnell_Castle)
 
 [https://www.english-heritage.org.uk/visit/places/acton-burnell-castle/history/](https://www.english-heritage.org.uk/visit/places/acton-burnell-castle/history/)
- 
-## Church
+
+
+# Acton Burnell - Church
 
 [https://en.m.wikipedia.org/wiki/St_Mary%27s_Church,_Acton_Burnell](https://en.m.wikipedia.org/wiki/St_Mary%27s_Church,_Acton_Burnell)
- 
-# Acton Scott
 
-## Church
 
-# Atcham
+# Acton Scott - Church
 
-## Bridge
+
+
+# Albrighton - David Austin Roses
+
+[https://www.davidaustinroses.co.uk](https://www.davidaustinroses.co.uk)
+
+[https://en.m.wikipedia.org/wiki/David_C._H._Austin](https://en.m.wikipedia.org/wiki/David_C._H._Austin)
+
+# Atcham - Bridge
 
 [https://ancientmonuments.uk/103027-atcham-bridge-atcham](https://ancientmonuments.uk/103027-atcham-bridge-atcham)
 
 [https://www.revolutionaryplayers.org.uk/atcham-bridge-shropshire/](https://www.revolutionaryplayers.org.uk/atcham-bridge-shropshire/)
 
-# Albrighton
+# Atcham - Church
 
-# David Austin Roses
 
-[https://www.davidaustinroses.co.uk](https://www.davidaustinroses.co.uk)
-
-[https://en.m.wikipedia.org/wiki/David_C._H._Austin](https://en.m.wikipedia.org/wiki/David_C._H._Austin)
 
 # Attingham Park
 
@@ -36,35 +36,47 @@
 
 [https://www.nationaltrust.org.uk/attingham-park](https://www.nationaltrust.org.uk/attingham-park)
 
-# Benthall
+# Beckbury - Church
 
-## Benthall Hall
+
+
+# Benthall Hall
 
 [https://en.m.wikipedia.org/wiki/Benthall_Hall](https://en.m.wikipedia.org/wiki/Benthall_Hall)
 
 [https://www.nationaltrust.org.uk/benthall-hall](https://www.nationaltrust.org.uk/benthall-hall)
 
-# Betton Strange
+# Betton Strange - Church
 
-## Church
+
 
 # Bishops Castle
 
 [https://en.m.wikipedia.org/wiki/Bishop%27s_Castle](https://en.m.wikipedia.org/wiki/Bishop%27s_Castle)
 
-# Bitterley
+# Bishops Castle - Town Hall
 
-## Church and Stone Cross
+
+
+# Bitterley - Church
 
 [https://en.m.wikipedia.org/wiki/Church_of_St_Mary,_Bitterley](https://en.m.wikipedia.org/wiki/Church_of_St_Mary,_Bitterley)
 
-# Blakemoorgate
+# Bitterley - Stone Cross
 
-# Blists Hill
+[https://en.m.wikipedia.org/wiki/Church_of_St_Mary,_Bitterley](https://en.m.wikipedia.org/wiki/Church_of_St_Mary,_Bitterley)
 
-## Blast Furnace 
+# Blakemore Cottages
+
+
+
+# Blists Hill - Blast Furnace
 
 [https://en.m.wikipedia.org/wiki/Madeley_Wood_Company](https://en.m.wikipedia.org/wiki/Madeley_Wood_Company)
+
+# Blists Hill - Squatters Cottage
+
+
 
 # Boscobel House
 
@@ -74,45 +86,57 @@
 
 [https://en.m.wikipedia.org/wiki/Bridgnorth](https://en.m.wikipedia.org/wiki/Bridgnorth)
 
-## Bridge
+# Bridgnorth - Bridge
 
-## Castle
+
+
+# Bridgnorth - Castle
 
 [https://en.m.wikipedia.org/wiki/Bridgnorth_Castle](https://en.m.wikipedia.org/wiki/Bridgnorth_Castle)
 
-## Cliff Railway
+# Bridgnorth - Church 1
+
+
+
+# Bridgnorth - Church 2
+
+
+
+# Bridgnorth - Cliff Railway
 
 [https://en.m.wikipedia.org/wiki/Bridgnorth_Cliff_Railway](https://en.m.wikipedia.org/wiki/Bridgnorth_Cliff_Railway)
 
-## Lavington’s Hole
+# Bridgnorth - Daniels Mill
 
-## Station
+
+
+# Bridgnorth - Lavingtons Hole
+
+
+
+# Bridgnorth - Station
 
 [https://en.m.wikipedia.org/wiki/Bridgnorth_railway_station](https://en.m.wikipedia.org/wiki/Bridgnorth_railway_station)
 
-## Town Hall
+# Bridgnorth - Town Hall
 
-## Daniel's Mill
 
-## Church 1
 
-## Church 2
+# Broseley Pipe Works
 
-# Broseley
 
-## Pipe Works
 
-# Buildwas
-
-## Abbey
+# Buildwas Abbey
 
 [https://en.m.wikipedia.org/wiki/Buildwas_Abbey](https://en.m.wikipedia.org/wiki/Buildwas_Abbey)
- 
-# Burford
 
-## Church
+# Burford - Church
 
-## House
+
+
+# Burford - House
+
+
 
 # Cantlop Bridge
 
@@ -121,14 +145,12 @@
 # Caynton Caves
 
 [https://en.m.wikipedia.org/wiki/Caynton_Caves](https://en.m.wikipedia.org/wiki/Caynton_Caves)
- 
-# Cleobury Mortimer
 
-## Church
+# Cleobury Mortimer - Church
 
-# Clun
 
-## Castle
+
+# Clun - Castle
 
 [https://en.m.wikipedia.org/wiki/Clun_Castle](https://en.m.wikipedia.org/wiki/Clun_Castle)
 
@@ -138,51 +160,87 @@
 
 [https://en.m.wikipedia.org/wiki/Coalbrookdale](https://en.m.wikipedia.org/wiki/Coalbrookdale)
 
-## Old Furnace
+# Coalbrookdale - Church
 
-## Viaduct
 
-# Coalport
 
-## China
+# Coalbrookdale - Old Furnace
 
-## Tar Tunnel
+
+
+# Coalbrookdale - Viaduct
+
+
+
+# Coalbrookdate - Misc 1
+
+
+
+# Coalbrookdate - Misc 2
+
+
+
+# Coalbrookdate - Misc 3
+
+
+
+# Coalbrookdate - Misc 4
+
+
+
+# Coalbrookdate - Misc 5
+
+
+
+# Coalbrookdate - Misc 6
+
+
+
+# Coalport - Coalport China
+
+
+
+# Coalport - Tar Tunnel
 
 [https://en.m.wikipedia.org/wiki/Tar_Tunnel](https://en.m.wikipedia.org/wiki/Tar_Tunnel)
 
-# Cockshutt
+# Cockshutt - Church
 
-## Church
 
-# Cosford
 
-## RAF Museum
+# Cosford - RAF Museum
 
 [https://en.m.wikipedia.org/wiki/Royal_Air_Force_Museum_Cosford](https://en.m.wikipedia.org/wiki/Royal_Air_Force_Museum_Cosford)
 
-## RAF Station
+# Cosford - RAF Station
 
 [https://en.m.wikipedia.org/wiki/RAF_Cosford](https://en.m.wikipedia.org/wiki/RAF_Cosford)
- 
+
 # Cronkhill
 
 [https://en.m.wikipedia.org/wiki/Cronkhill](https://en.m.wikipedia.org/wiki/Cronkhill)
+
+# Diddlebury - Church
+
+
 
 # Dudmaston Hall
 
 [https://en.m.wikipedia.org/wiki/Dudmaston_Hall](https://en.m.wikipedia.org/wiki/Dudmaston_Hall)
 
-# Edgmond
+# Edgmond - Harper Adams College
 
-## Harper Adams College
 
-# Ellesmere
 
-## Church
+# Ellesmere - Church
 
-## Wharf
 
-# Flounder’s Folly
+
+# Ellesmere - Wharf
+
+
+
+# Flounders Folly
 
 [https://en.m.wikipedia.org/wiki/Flounders%27_Folly](https://en.m.wikipedia.org/wiki/Flounders%27_Folly)
 
@@ -196,117 +254,239 @@
 
 [https://www.hawkstoneparkfollies.co.uk/](https://www.hawkstoneparkfollies.co.uk/)
 
-# Hills
-
-## Brown Clee
+# Hill - Brown Clee
 
 [https://en.m.wikipedia.org/wiki/Brown_Clee_Hill](https://en.m.wikipedia.org/wiki/Brown_Clee_Hill)
 
-## Caer Caradoc
+# Hill - Caer Caradoc
 
 [https://en.m.wikipedia.org/wiki/Caer_Caradoc](https://en.m.wikipedia.org/wiki/Caer_Caradoc)
 
-## Callow Hill
+# Hill - Callow Hill 1
 
-## Heath Mynd
 
-## Hope Bowdler Hill
 
-## Ragleth Hill
+# Hill - Callow Hill 2
 
-## The Lawley
 
-## The Long Mynd
+
+# Hill - Callow Hill 3
+
+
+
+# Hill - Heath Mynd
+
+
+
+# Hill - Hope Bowdler Hill
+
+
+
+# Hill - Ragleth Hill
+
+
+
+# Hill - The Lawley
+
+
+
+# Hill - The Long Mynd 1
 
 [https://en.m.wikipedia.org/wiki/Long_Mynd](https://en.m.wikipedia.org/wiki/Long_Mynd)
 
-## The Stiperstones
+# Hill - The Long Mynd 2
+
+[https://en.m.wikipedia.org/wiki/Long_Mynd](https://en.m.wikipedia.org/wiki/Long_Mynd)
+
+# Hill - The Long Mynd 3
+
+[https://en.m.wikipedia.org/wiki/Long_Mynd](https://en.m.wikipedia.org/wiki/Long_Mynd)
+
+# Hill - The Long Mynd 4
+
+[https://en.m.wikipedia.org/wiki/Long_Mynd](https://en.m.wikipedia.org/wiki/Long_Mynd)
+
+# Hill - The Long Mynd 5
+
+[https://en.m.wikipedia.org/wiki/Long_Mynd](https://en.m.wikipedia.org/wiki/Long_Mynd)
+
+# Hill - The Long Mynd 6
+
+[https://en.m.wikipedia.org/wiki/Long_Mynd](https://en.m.wikipedia.org/wiki/Long_Mynd)
+
+# Hill - The Stiperstones - The Devil's Chair
 
 [https://en.m.wikipedia.org/wiki/Stiperstones](https://en.m.wikipedia.org/wiki/Stiperstones)
 
-## The Wrekin
+# Hill - The Stiperstones 1
+
+[https://en.m.wikipedia.org/wiki/Stiperstones](https://en.m.wikipedia.org/wiki/Stiperstones)
+
+# Hill - The Stiperstones 2
+
+[https://en.m.wikipedia.org/wiki/Stiperstones](https://en.m.wikipedia.org/wiki/Stiperstones)
+
+# Hill - The Stiperstones 3
+
+[https://en.m.wikipedia.org/wiki/Stiperstones](https://en.m.wikipedia.org/wiki/Stiperstones)
+
+# Hill - The Stiperstones 4
+
+[https://en.m.wikipedia.org/wiki/Stiperstones](https://en.m.wikipedia.org/wiki/Stiperstones)
+
+# Hill - The Stiperstones 5
+
+[https://en.m.wikipedia.org/wiki/Stiperstones](https://en.m.wikipedia.org/wiki/Stiperstones)
+
+# Hill - The Stiperstones 6
+
+[https://en.m.wikipedia.org/wiki/Stiperstones](https://en.m.wikipedia.org/wiki/Stiperstones)
+
+# Hill - The Stiperstones 7
+
+[https://en.m.wikipedia.org/wiki/Stiperstones](https://en.m.wikipedia.org/wiki/Stiperstones)
+
+# Hill - The Stiperstones 8
+
+[https://en.m.wikipedia.org/wiki/Stiperstones](https://en.m.wikipedia.org/wiki/Stiperstones)
+
+# Hill - The Stiperstones 9
+
+[https://en.m.wikipedia.org/wiki/Stiperstones](https://en.m.wikipedia.org/wiki/Stiperstones)
+
+# Hill - The Wrekin 1
 
 [https://en.m.wikipedia.org/wiki/The_Wrekin](https://en.m.wikipedia.org/wiki/The_Wrekin)
 
-## Titterstone Clee (and quarry)
+# Hill - The Wrekin 2
+
+[https://en.m.wikipedia.org/wiki/The_Wrekin](https://en.m.wikipedia.org/wiki/The_Wrekin)
+
+# Hill - The Wrekin 3
+
+[https://en.m.wikipedia.org/wiki/The_Wrekin](https://en.m.wikipedia.org/wiki/The_Wrekin)
+
+# Hill - Titterstone Clee
 
 [https://en.m.wikipedia.org/wiki/Titterstone_Clee_Hill](https://en.m.wikipedia.org/wiki/Titterstone_Clee_Hill)
 
-## Wenlock Edge
+# Hill - Wenlock Edge
 
 [https://en.m.wikipedia.org/wiki/Wenlock_Edge](https://en.m.wikipedia.org/wiki/Wenlock_Edge)
 
-# Hodnet
+# Hodnet - Church
 
-## Church
 
-## Hodnet Hall Garden
+
+# Hodnet - Hodnet Hall
 
 [https://en.m.wikipedia.org/wiki/Hodnet_Hall](https://en.m.wikipedia.org/wiki/Hodnet_Hall)
 
-# Hope Bagot
+# Hodnet - Hodnet Hall Garden
 
-## Church
+[https://en.m.wikipedia.org/wiki/Hodnet_Hall](https://en.m.wikipedia.org/wiki/Hodnet_Hall)
 
-## Yew Tree
+# Hope Bagot - Church
 
-# Hopton
 
-## Castle
+
+# Hope Bagot - Yew Tree
+
+
+
+# Hopton - Castle
 
 [https://en.m.wikipedia.org/wiki/Hopton_Castle](https://en.m.wikipedia.org/wiki/Hopton_Castle)
 
-# Ironbridge
+# Ightfield - Church
+
+
+
+# Ightfield - Stone Cross
+
+
+
+# Ironbridge - 1
 
 [https://en.wikipedia.org/wiki/Ironbridge](https://en.wikipedia.org/wiki/Ironbridge)
 
-## Darby Houses
+# Ironbridge - 2
+
+[https://en.wikipedia.org/wiki/Ironbridge](https://en.wikipedia.org/wiki/Ironbridge)
+
+# Ironbridge - 3
+
+[https://en.wikipedia.org/wiki/Ironbridge](https://en.wikipedia.org/wiki/Ironbridge)
+
+# Ironbridge - Church
+
+
+
+# Ironbridge - Cooling Towers Demolition
+
+
+
+# Ironbridge - Darby Houses - Dale House
 
 [https://en.m.wikipedia.org/wiki/Darby_Houses](https://en.m.wikipedia.org/wiki/Darby_Houses)
 
-## Merrythought
+# Ironbridge - Darby Houses - Rosehill House
 
-## Power Station
+[https://en.m.wikipedia.org/wiki/Darby_Houses](https://en.m.wikipedia.org/wiki/Darby_Houses)
+
+# Ironbridge - Merrythought
+
+
+
+# Ironbridge - Power Station
 
 [https://en.m.wikipedia.org/wiki/Ironbridge_power_stations](https://en.m.wikipedia.org/wiki/Ironbridge_power_stations)
 
-## The iron Bridge
+# Ironbridge - The Iron Bridge
 
 [https://en.m.wikipedia.org/wiki/The_Iron_Bridge](https://en.m.wikipedia.org/wiki/The_Iron_Bridge)
+
+# Ironbridge - Tollhouse
+
+
+
+# Ironbridge - Warehouse
+
+
 
 # Ironbridge Gorge
 
 [https://en.m.wikipedia.org/wiki/Ironbridge_Gorge](https://en.m.wikipedia.org/wiki/Ironbridge_Gorge)
 
-# Knowbury
+# Kinnerley - Church
 
-## Church
 
-# Lilleshall
 
-## Abbey
+# Knowbury - Church
+
+
+
+# Lilleshall - Abbey
 
 [https://en.m.wikipedia.org/wiki/Lilleshall_Abbey](https://en.m.wikipedia.org/wiki/Lilleshall_Abbey)
 
-## Hall
+# Lilleshall - Hall
 
 [https://en.m.wikipedia.org/wiki/Lilleshall_Hall](https://en.m.wikipedia.org/wiki/Lilleshall_Hall)
 
-# Little Stretton
+# Little Stretton - Church
 
-## Church
 
-# Llanyblodwel
 
-## Church
+# Llanyblodwel - Church
 
-# Longden
 
-## Church
 
-# Longdon on Tern
+# Longden - Church
 
-## Aqueduct
+
+
+# Longon on Tern Aqueduct
 
 [https://en.m.wikipedia.org/wiki/Longdon-on-Tern_Aqueduct](https://en.m.wikipedia.org/wiki/Longdon-on-Tern_Aqueduct)
 
@@ -314,69 +494,163 @@
 
 [https://en.m.wikipedia.org/wiki/Ludlow](https://en.m.wikipedia.org/wiki/Ludlow)
 
-## Castle
+# Ludlow - 1
+
+
+
+# Ludlow - 10
+
+
+
+# Ludlow - 2
+
+
+
+# Ludlow - 2 King St
+
+
+
+# Ludlow - 3
+
+
+
+# Ludlow - 4
+
+
+
+# Ludlow - 4 Brand Ln
+
+
+
+# Ludlow - 5
+
+
+
+# Ludlow - 6
+
+
+
+# Ludlow - 7
+
+
+
+# Ludlow - 8
+
+
+
+# Ludlow - 9
+
+
+
+# Ludlow - Castle
 
 [https://en.m.wikipedia.org/wiki/Ludlow_Castle](https://en.m.wikipedia.org/wiki/Ludlow_Castle)
 
-## Church 1
+# Ludlow - Church 1
 
-## Church 2
 
-## Dinham Bridge
 
-## Friary and Burial Ground
+# Ludlow - Church 2
 
-## The Buttercross
 
-## The Feathers
 
-## The Reader's House
+# Ludlow - Dinham Bridge
 
-## Whitcliffe Common
 
-# Melverley
 
-## Church
+# Ludlow - Dinham House
 
-# Mitchell’s Fold Stone Circle
+
+
+# Ludlow - Friary and Burial Ground
+
+
+
+# Ludlow - The Buttercross
+
+
+
+# Ludlow - The Feathers
+
+
+
+# Ludlow - The Reader's House
+
+
+
+# Ludlow - Whitcliffe Common
+
+
+
+# Lydham - Church
+
+
+
+# Melverley - Church
+
+
+
+# Millichope - Glasshouses
+
+
+
+# Millichope - Walled Garden
+
+
+
+# Mitchell's Fold Stone Circle
 
 [https://en.m.wikipedia.org/wiki/Mitchell%27s_Fold](https://en.m.wikipedia.org/wiki/Mitchell%27s_Fold)
 
-# Moreton Corbet
-
-## Castle
+# Moreton Corbet - Castle
 
 [https://en.m.wikipedia.org/wiki/Moreton_Corbet_Castle](https://en.m.wikipedia.org/wiki/Moreton_Corbet_Castle)
 
-## Church
+# Moreton Corbet - Church
 
-## Mansion
+
+
+# Moreton Corbet - Mansion
 
 [https://en.m.wikipedia.org/wiki/Moreton_Corbet_Castle](https://en.m.wikipedia.org/wiki/Moreton_Corbet_Castle)
 
-# Morville
+# Morville - Church
 
-## Church
 
-## Hall
+
+# Morville - Hall
 
 [https://en.m.wikipedia.org/wiki/Morville_Hall](https://en.m.wikipedia.org/wiki/Morville_Hall)
 
-## The Dower House
+# Morville - The Dower House
 
-# Much Wenlock
 
-## Church
 
-## Guildhall
+# Much Wenlock - Church
 
-## Wenlock Priory
+
+
+# Much Wenlock - Guildhall
+
+
+
+# Much Wenlock - Wenlock Priory
 
 [https://en.m.wikipedia.org/wiki/Wenlock_Priory](https://en.m.wikipedia.org/wiki/Wenlock_Priory)
 
-## William penny Brookes
+# Much Wenlock - William Penny Brookes
 
-# Offa’s Dyke
+
+
+# Munslow - Church
+
+
+
+# Newport - Church
+
+
+
+# Offa's Dyke
 
 [https://en.m.wikipedia.org/wiki/Offa%27s_Dyke](https://en.m.wikipedia.org/wiki/Offa%27s_Dyke)
 
@@ -384,63 +658,79 @@
 
 [https://en.m.wikipedia.org/wiki/Oswestry](https://en.m.wikipedia.org/wiki/Oswestry)
 
-## British ironworks Centre
+# Oswestry - British Ironworks Centre
 
 [https://en.m.wikipedia.org/wiki/British_Ironworks_Centre_%26_Shropshire_Sculpture_Park](https://en.m.wikipedia.org/wiki/British_Ironworks_Centre_%26_Shropshire_Sculpture_Park)
 
-## Castle
+# Oswestry - Castle
 
 [https://en.m.wikipedia.org/wiki/Oswestry_Castle](https://en.m.wikipedia.org/wiki/Oswestry_Castle)
 
-## Church
+# Oswestry - Church
 
-## Llwyd Mansion
 
-## Old Oswestry Hill Fort
+
+# Oswestry - Llwyd Mansion
+
+
+
+# Oswestry - Old Oswestry Hill Fort
 
 [https://en.m.wikipedia.org/wiki/Old_Oswestry](https://en.m.wikipedia.org/wiki/Old_Oswestry)
 
-## Oswald's Well
+# Oswestry - Oswalds Well
 
-## Wilfred Owen
 
-# Petton
 
-## Church
+# Oswestry - Wilfred Owen
 
-## Hall
 
-# Pitchford
 
-## Church
+# Petton - Church
 
-## Hall
 
-## Tree House
 
-# Prees
+# Petton - Hall
 
-## Church
 
-# Ratlinghope
 
-## Church
+# Pitchford - Church
 
-## Grave of Richard Munslow
+
+
+# Pitchford - Hall
+
+
+
+# Pitchford - Tree House
+
+
+
+# Prees - Church
+
+
+
+# Ratlinghope - Church
+
+
+
+# Ratlinghope - Grave of Richard Munslow
+
+
 
 # River Teme
 
-# Shawbury
 
-## RAF Station
+
+# Shawbury - RAF Station
 
 [https://en.m.wikipedia.org/wiki/RAF_Shawbury](https://en.m.wikipedia.org/wiki/RAF_Shawbury)
 
-# Shipton
+# Shipton - Church
 
-## Church
 
-## Shipton Hall
+
+# Shipton - Hall
 
 [https://en.m.wikipedia.org/wiki/Shipton_Hall](https://en.m.wikipedia.org/wiki/Shipton_Hall)
 
@@ -448,81 +738,147 @@
 
 [https://en.m.wikipedia.org/wiki/Shrewsbury](https://en.m.wikipedia.org/wiki/Shrewsbury)
 
-## Abbey
+# Shrewsbury - 1
+
+
+
+# Shrewsbury - 2
+
+
+
+# Shrewsbury - 3
+
+
+
+# Shrewsbury - 4
+
+
+
+# Shrewsbury - 5
+
+
+
+# Shrewsbury - 6
+
+
+
+# Shrewsbury - Abbey
 
 [https://en.m.wikipedia.org/wiki/Shrewsbury_Abbey](https://en.m.wikipedia.org/wiki/Shrewsbury_Abbey)
 
-## Abbey Foregate
+# Shrewsbury - Abbey Foregate
 
-## Castle
+
+
+# Shrewsbury - Castle
 
 [https://en.m.wikipedia.org/wiki/Shrewsbury_Castle](https://en.m.wikipedia.org/wiki/Shrewsbury_Castle)
 
-## Charles Darwin Statue
+# Shrewsbury - Charles Darwin
 
-## Clive of India Statue
 
-## Coleham Pumping Station
+
+# Shrewsbury - Clive of India Statue
+
+
+
+# Shrewsbury - Coleham Pumping Station
 
 [https://en.m.wikipedia.org/wiki/Coleham_Pumping_Station](https://en.m.wikipedia.org/wiki/Coleham_Pumping_Station)
 
-## English Bridge
+# Shrewsbury - Ebenezer Scrooge Grave
+
+
+
+# Shrewsbury - English Bridge
 
 [https://en.m.wikipedia.org/wiki/English_Bridge](https://en.m.wikipedia.org/wiki/English_Bridge)
 
-## Flax Mill
+# Shrewsbury - Flax Mill
 
 [https://en.m.wikipedia.org/wiki/Ditherington_Flax_Mill](https://en.m.wikipedia.org/wiki/Ditherington_Flax_Mill)
 
-## Library
+# Shrewsbury - Library
 
 [https://en.m.wikipedia.org/wiki/Shrewsbury_Library](https://en.m.wikipedia.org/wiki/Shrewsbury_Library)
 
-## Lord Hill Column
+# Shrewsbury - Lord Hill Column
 
 [https://en.m.wikipedia.org/wiki/Lord_Hill%27s_Column](https://en.m.wikipedia.org/wiki/Lord_Hill%27s_Column)
 
-## Mardol Dragon
+# Shrewsbury - Mardol Dragon
 
-## Mary Webb Statue
 
-## Old Market Hall
+
+# Shrewsbury - Mary Webb Statue
+
+
+
+# Shrewsbury - Old Market Hall
 
 [https://en.m.wikipedia.org/wiki/Old_Market_Hall](https://en.m.wikipedia.org/wiki/Old_Market_Hall)
 
-## Prison
+# Shrewsbury - Prison
 
 [https://en.m.wikipedia.org/wiki/HM_Prison_Shrewsbury](https://en.m.wikipedia.org/wiki/HM_Prison_Shrewsbury)
 
-## Rowley's House
+# Shrewsbury - Rowley's House
 
-## Sabrina
 
-## St Alkmund's
 
-## St Chad's - new
+# Shrewsbury - Sabrina
 
-## St Chad's - old
 
-## St Mary's
 
-## Station
+# Shrewsbury - St Alkmunds
+
+
+
+# Shrewsbury - St Chads - new
+
+
+
+# Shrewsbury - St Chads - old
+
+
+
+# Shrewsbury - St Julians
+
+
+
+# Shrewsbury - St Marys
+
+
+
+# Shrewsbury - Station
 
 [https://en.m.wikipedia.org/wiki/Shrewsbury_railway_station](https://en.m.wikipedia.org/wiki/Shrewsbury_railway_station)
 
-## Tanner's Wines
+# Shrewsbury - Tanner's Wines
 
-## The Abbott's House
 
-## The Boat House
 
-## The Dingle
+# Shrewsbury - The Abbot's House
 
-## Town Walls Tower
+
+
+# Shrewsbury - The Boat House
+
+
+
+# Shrewsbury - The Dingle 1
+
+
+
+# Shrewsbury - The Dingle 2
+
+
+
+# Shrewsbury - Town Walls Tower
 
 [https://en.m.wikipedia.org/wiki/Town_Walls_Tower](https://en.m.wikipedia.org/wiki/Town_Walls_Tower)
 
-## Welsh Bridge
+# Shrewsbury - Welsh Bridge
 
 [https://en.m.wikipedia.org/wiki/Welsh_Bridge](https://en.m.wikipedia.org/wiki/Welsh_Bridge)
 
@@ -544,99 +900,121 @@
 
 [https://en.m.wikipedia.org/wiki/Shropshire_Hills](https://en.m.wikipedia.org/wiki/Shropshire_Hills)
 
-# Smethcott
-
-## Church
+# Smethcott - Church
 
 [http://www.picklescott.org.uk/church.htm](http://www.picklescott.org.uk/church.htm)
 
-# Snailbeach
+# Snailbeach - Church
 
-## Church
 
-## Lead Mine
+
+# Snailbeach - Lead Mine
 
 [https://en.m.wikipedia.org/wiki/Snailbeach](https://en.m.wikipedia.org/wiki/Snailbeach)
 
-# Stirchley
+# Stirchley - Blast Furnace
 
-## Blast Furnace
 
-## Tower
 
-# Stokesay
+# Stirchley - Tower
 
-## Castle
+
+
+# Stokesay - Castle
 
 [https://en.m.wikipedia.org/wiki/Stokesay_Castle](https://en.m.wikipedia.org/wiki/Stokesay_Castle)
 
-## Church
+# Stokesay - Church
 
-# Telford
 
-## Matthew Webb Statue
+
+# Telford - Matthew Webb Statue
 
 This is in Dawley
 
-## Thomas Telford Status
+# Telford - Thomas Telford Statue
 
-## Telford New Town
 
-## Telford New Town 50th Anniversary
+
+# Telford New Town
+
+
+
+# Telford New Town - 50th Anniversary
+
+
 
 # The Bog Centre
 
 [https://en.m.wikipedia.org/wiki/The_Bog](https://en.m.wikipedia.org/wiki/The_Bog)
 
-# Tong
+# Titterstone Clee Hill Quarry
 
-## Church
 
-## Infirmary
 
-## Little Nell Grave
+# Tong - Church
 
-# Upton Cressett
 
-## Church
- 
+
+# Tong - Infirmary
+
+
+
+# Tong - Little Nell Grave
+
+
+
+# Upton Cressett - Church
+
 [https://en.m.wikipedia.org/wiki/St_Michael%27s_Church,_Upton_Cressett](https://en.m.wikipedia.org/wiki/St_Michael%27s_Church,_Upton_Cressett)
 
-# Wellington
-
-## Sunnycroft
+# Wellington - Sunnycroft
 
 [https://en.m.wikipedia.org/wiki/Sunnycroft](https://en.m.wikipedia.org/wiki/Sunnycroft)
 
-# Welshampton
+# Welshampton - Church
 
-## Church
 
-# Wem
 
-## Church
+# Wem - Church
 
-## Henry Eckford
 
-## Sweet Pea Festival
 
-## William Hazlitt House
+# Wem - Henry Eckford
 
-# Whitchurch
 
-## Church
+
+# Wem - Sweet Pea Festival
+
+
+
+# Wem - William Hazlitt House
+
+
+
+# Whitchurch - 1
+
+
+
+# Whitchurch - 2
+
+
+
+# Whitchurch - Church
 
 [https://en.m.wikipedia.org/wiki/St_Alkmund%27s_Church,_Whitchurch](https://en.m.wikipedia.org/wiki/St_Alkmund%27s_Church,_Whitchurch)
 
-# Whittington
+# Whitchurch - Clock Maker
 
-## Castle
 
-[https://en.m.wikipedia.org/wiki/Whittington_Castle](https://en.m.wikipedia.org/wiki/Whittington_Castle)
 
 # White Ladies Priory
 
 [https://en.m.wikipedia.org/wiki/White_Ladies_Priory](https://en.m.wikipedia.org/wiki/White_Ladies_Priory)
+
+# Whittington - Castle
+
+[https://en.m.wikipedia.org/wiki/Whittington_Castle](https://en.m.wikipedia.org/wiki/Whittington_Castle)
 
 # Wilderhope Manor
 
@@ -644,16 +1022,21 @@ This is in Dawley
 
 # Wollerton Old Hall Garden
 
-# Wroxeter
 
-## Church
+
+# Wroxeter - Church
 
 [https://en.m.wikipedia.org/wiki/St_Andrew%27s_Church,_Wroxeter](https://en.m.wikipedia.org/wiki/St_Andrew%27s_Church,_Wroxeter)
 
-## Roman City
+# Wroxeter - Roman City
 
 [https://en.m.wikipedia.org/wiki/Viroconium_Cornoviorum](https://en.m.wikipedia.org/wiki/Viroconium_Cornoviorum)
 
-## Roman Villa
+# Wroxeter - Roman Villa
 
-## Vineyard
+
+
+# Wroxeter - Vineyard
+
+
+

@@ -130,6 +130,10 @@ if mode = 0
   Menu, ImageMenu, Add, View, MenuImageView
   Menu, ImageMenu, Add
   Menu, ImageMenu, Add, Move, MenuImageMove
+  Menu, PlaceMenu, Add, Edit Notes, MenuEditNotes
+  Menu, PlaceMenu, Add
+  Menu, PlaceMenu, Add, Generate Report, MenuGenerateReport
+  Menu, PlaceMenu, Add, View Report, MenuViewReport
   Menu, ProjectMenu, Add, Status, MenuStatus
   Menu, ProjectMenu, Add
   Menu, ProjectMenu, Add, Compare Folders, MenuCompareFolders
@@ -137,6 +141,7 @@ if mode = 0
   Menu, HelpMenu, Add, About, MenuAbout
   Menu, MyMenuBar, Add, File, :FileMenu
   Menu, MyMenuBar, Add, Image, :ImageMenu
+  Menu, MyMenuBar, Add, Place, :PlaceMenu
   Menu, MyMenuBar, Add, Project, :ProjectMenu
   Menu, MyMenuBar, Add, Help, :HelpMenu
   Gui, Menu, MyMenuBar
@@ -287,6 +292,48 @@ MenuImageMove:
     FileMove, %tMoveName%, %tDstFolder%, 1
     MsgBox, File for Item Moved
 	}
+  Return
+
+MenuEditNotes:
+	Gui, Submit, NoHide
+  IniRead, TempPath, %A_ScriptDir%\Shropshire Photography.ini, Paths, TempFolder
+  TempPath := TempPath . "\temp.md"
+  tmpFile := FileOpen(TempPath, "w", "UTF-8")
+  tmpFile.Write(Overview)
+  tmpFile.Close()
+  IniRead, TxtEditor, %A_ScriptDir%\Shropshire Photography.ini, Programs, TextEditor
+  RunWait, "%TxtEditor%" "%TempPath%" /fni
+  FileRead, NOverview, %TempPath%
+  GuiControl, Text, Overview, %NOverview%
+	Gui, Submit, NoHide
+	GuiValues()
+	SavePlace()
+  Return
+
+MenuGenerateReport:
+	repName := A_ScriptDir . "\Notes.md"
+  repFile := FileOpen(repName, "w", "UTF-8")
+	SQL := "SELECT Name, GeneralNotes FROM Place ORDER BY Name;"
+  DB.Query(SQL, RecordSet)
+	Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0)
+    {
+    	repFile.WriteLine("# " . Row[1])
+    	repFile.WriteLine("")
+    	repFile.WriteLine(Row[2])
+    	repFile.WriteLine("")
+    }
+	}	Until RC < 1
+  RecordSet.Free()
+  repFile.Close()
+  MsgBox, Report Created
+  Return
+
+MenuViewReport:
+  IniRead, WebBrowser, %A_ScriptDir%\Shropshire Photography.ini, Programs, WebBrowser
+	repName := A_ScriptDir . "\Notes.md"
+  Run, "%WebBrowser%" "%repName%"
   Return
 
 MenuStatus:

@@ -30,10 +30,6 @@ The tree is thought be at least 1,000 years old, although some estimates put it 
 
 The tree is completely hollow.
 
-## St Milburga’s, Beckbury
-
-[https://britishlistedbuildings.co.uk/101367602-church-of-st-milburga-beckbury](https://britishlistedbuildings.co.uk/101367602-church-of-st-milburga-beckbury)
-
 ## Woolstaston Church
 
 ## Longnor Church

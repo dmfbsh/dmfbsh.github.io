@@ -128,6 +128,13 @@ A plain brick building constructed to replace the medieval church (dedicated to 
 # Sub-Image: 2019-09-18_14_55_20_DSC_5076_DxO.jpg
 
 <!--Type: Item-->
+# Date: 1863 AD
+# Name: St Mary, Crudgington
+
+Crudgington is mentioned in the Domesday Book, where it is called Crugetone.  The name derives from the old English of the village (tun) by the hill-hill, presumably referring to its proximity to the Wrekin.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-02-02_11_58_18_DSC_6336_DxO_bw.jpg)
+
+<!--Type: Item-->
 # Date: 11th Century (or earlier) AD
 # Name: St Peter, Diddlebury
 
