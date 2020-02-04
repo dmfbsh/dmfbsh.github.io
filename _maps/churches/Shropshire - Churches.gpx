@@ -658,7 +658,7 @@
 </wpt>
 <wpt lat="52.59965" lon="-2.75677">
 <name>Longnor - St Mary</name>
-<sym>blue</sym>
+<sym>yellow</sym>
 </wpt>
 <wpt lat="52.73538" lon="-2.56009">
 <name>Longon on Tern - St Bartholomew</name>
@@ -1070,7 +1070,7 @@
 </wpt>
 <wpt lat="52.43704" lon="-2.63965">
 <name>Stoke St Milborough - St Milburgh</name>
-<sym>blue</sym>
+<sym>yellow</sym>
 </wpt>
 <wpt lat="52.43069" lon="-2.83121">
 <name>Stokesay - st John the Baptist</name>
@@ -1222,7 +1222,7 @@
 </wpt>
 <wpt lat="52.58134" lon="-2.80945">
 <name>Woolstaston - St Michael</name>
-<sym>blue</sym>
+<sym>yellow</sym>
 </wpt>
 <wpt lat="52.97802" lon="-2.4025">
 <name>Woore - St Leonard</name>

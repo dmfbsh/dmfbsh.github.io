@@ -1,28 +1,28 @@
-## Linley Hill
-
-## Lilleshall - Abbey
-
-## White Ladies Priory
-
-## All Saints, Claverley
-
-Has an ancient yew tree thought to be around 2,500 years old  - one of the oldest and largest yew trees in Shropshire.
-
-The hollow trunk has a circumference of more than 29ft.
-
-## Church Preen
+## Church Preen - St John the Baptist
 
 Has an ancient yew tree.
 
 Ancient yew trees are at least 500 years old.
 
-## All Saints, Norbury
+## Claverley - All Saints
+
+Has an ancient yew tree thought to be around 2,500 years old  - one of the oldest and largest yew trees in Shropshire.
+
+The hollow trunk has a circumference of more than 29ft.
+
+As visit villiage to see cross.
+
+## Longnor Church - St Mary
+
+Also, photo ford with B&W building in backround?
+
+## Norbury - All Saints
 
 Has an ancient yew tree estimated to be 2,700 years old with a girth of 33ft.
 
 Also look out for the monster’s face in the tree trunk!
 
-## Holy Trinity, Uppington
+## Uppington - Holy Trinity
 
 Has an ancient yew tree with a girth of around 29ft.
 
@@ -30,9 +30,17 @@ The tree is thought be at least 1,000 years old, although some estimates put it 
 
 The tree is completely hollow.
 
-## Woolstaston Church
+## Woolstaston Church - St Michael
 
-## Longnor Church
+## Stoke St Milborough - St Milburga
+
+- Church
+
+https://www.sstm.uk/store/index.php?page=parish-church-of-st-milburga
+
+- St Milburga's Well
+
+https://www.sstm.uk/page/st-milburga-s-well
 
 ## Wilderhope Manor - NT
 
@@ -68,6 +76,27 @@ September
 Fridays only 12noon - 5pm
 
 [Link](http://www.wollertonoldhallgarden.com/)
+
+## Daniels Mill (Bridgnorth)
+
+Opening Times
+April to end of October
+Open Thursday – Sunday 11am to 4pm
+Open Bank Holiday Mondays.
+
+[Link](https://www.danielsmill.co.uk/)
+
+## Linley Hill
+
+## Lilleshall - Abbey
+
+## Lilleshall - Hall
+
+## White Ladies Priory
+
+## Boscobel House
+
+
 
 ## HHA - Aldenham Park
 
@@ -113,11 +142,3 @@ Fridays only 12noon - 5pm
 
 [Link](https://www.historichouses.org/houses/house-listing/weston-park.html)
 
-## Daniels Mill (Bridgnorth)
-
-Opening Times
-April to end of October
-Open Thursday – Sunday 11am to 4pm
-Open Bank Holiday Mondays.
-
-[Link](https://www.danielsmill.co.uk/)

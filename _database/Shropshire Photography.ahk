@@ -222,17 +222,16 @@ if mode = 1
 {
 
 	Gui, Add, Text, xm section w120 h20, Places:
-	Gui, Add, DropDownList, ys vPlace gPlace w300 h180, %ListOfPlaces%
+	Gui, Add, DropDownList, ys vPlace gPlace w390 h180, %ListOfPlaces%
+	Gui, Add, Button, ys w100 h20 Section, Create Folder
 
 	Gui, Add, Text, xm section w120 h20, Original Photograph:
 	Gui, Add, Edit, ys vOrigName w500 h20,
 
-	Gui, Add, Button, xm section w50 h20 Section, Folder
-
 	Gui, Add, Button, xm section Default w50 h20 Section, Save
-	Gui, Add, Button, ys w50 h20, Exit
+	Gui, Add, Button, ys w50 h20, Cancel
 
-	Gui, Show, w800 h550, Shropshire Photography
+	Gui, Show, w650 h90, Shropshire Photography
 	
 	GuiControl, ChooseString, Place, %argPlace%
 
@@ -529,7 +528,7 @@ Category1:
 ; GUI event handler
 ;=====================================================================
 
-ButtonFolder:
+ButtonCreateFolder:
 	InputBox, newFolder, Create Folder for Item, Enter name for the item's folder:
 	If not ErrorLevel
 	{
@@ -929,9 +928,9 @@ DeltaViewButtonClose:
 ; GUI event handler
 ;=====================================================================
 
-;ButtonExit:
-;	DB.CloseDB()
-;	ExitApp
+ButtonCancel:
+	DB.CloseDB()
+	ExitApp
 
 ;=====================================================================
 ; Build the list of Places from the folders in the project folder.
