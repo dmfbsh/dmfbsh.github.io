@@ -12,6 +12,8 @@ The hollow trunk has a circumference of more than 29ft.
 
 As visit villiage to see cross.
 
+## Clee St Margaret - St Margaret
+
 ## Longnor Church - St Mary
 
 Also, photo ford with B&W building in backround?

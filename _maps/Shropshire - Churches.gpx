@@ -3,7 +3,7 @@
 <metadata>
 <name>Shropshire - Churches.gpx</name>
 <bounds minlat="52.307598" minlon="-3.183949" maxlat="52.978367" maxlon="-2.277569"/></metadata>
-<wpt gr:gr="SO5755786598" lat="52.475670" lon="-2.626300">
+<wpt gr:gr="SO5755686597" lat="52.475662" lon="-2.626308">
 <ele>269.0</ele>
 <name>Abdon - St Margaret</name>
 <sym>blue</sym>
@@ -123,10 +123,10 @@
 <sym>blue</sym>
 <extensions>
 <i:importance>0.930483</i:importance></extensions></wpt>
-<wpt gr:gr="SO6577399991" lat="52.596642" lon="-2.506730">
+<wpt gr:gr="SO6577399991" lat="52.596642" lon="-2.506732">
 <ele>207.0</ele>
 <name>Barrow - St Giles</name>
-<sym>blue</sym>
+<sym>yellow</sym>
 <extensions>
 <i:importance>0.355113</i:importance></extensions></wpt>
 <wpt gr:gr="SJ4224921873" lat="52.791340" lon="-2.857820">
@@ -381,10 +381,10 @@
 <sym>yellow</sym>
 <extensions>
 <i:importance>0.611779</i:importance></extensions></wpt>
-<wpt gr:gr="SO5644884372" lat="52.455570" lon="-2.642340">
+<wpt gr:gr="SO5644884372" lat="52.455563" lon="-2.642343">
 <ele>206.0</ele>
 <name>Clee St Margaret - St Margaret</name>
-<sym>blue</sym>
+<sym>yellow</sym>
 <extensions>
 <i:importance>0.163720</i:importance></extensions></wpt>
 <wpt gr:gr="SO5929375314" lat="52.374359" lon="-2.599360">
@@ -549,10 +549,10 @@
 <sym>blue</sym>
 <extensions>
 <i:importance>0.553169</i:importance></extensions></wpt>
-<wpt gr:gr="SO5664495103" lat="52.552052" lon="-2.640850">
+<wpt gr:gr="SO5664495103" lat="52.552048" lon="-2.640860">
 <ele>198.0</ele>
 <name>Easthope - St Peter</name>
-<sym>blue</sym>
+<sym>yellow</sym>
 <extensions>
 <i:importance>0.034858</i:importance></extensions></wpt>
 <wpt gr:gr="SJ5970706277" lat="52.652740" lon="-2.597050">
@@ -561,10 +561,10 @@
 <sym>blue</sym>
 <extensions>
 <i:importance>0.646658</i:importance></extensions></wpt>
-<wpt gr:gr="SO5000189978" lat="52.505409" lon="-2.738040">
+<wpt gr:gr="SO5000189978" lat="52.505405" lon="-2.738040">
 <ele>160.0</ele>
 <name>Eaton-under-Heywood - St Edith</name>
-<sym>blue</sym>
+<sym>yellow</sym>
 <extensions>
 <i:importance>0.823346</i:importance></extensions></wpt>
 <wpt gr:gr="SJ7201619291" lat="52.770500" lon="-2.416200">
@@ -663,7 +663,7 @@
 <sym>blue</sym>
 <extensions>
 <i:importance>0.546670</i:importance></extensions></wpt>
-<wpt gr:gr="SJ5202523449" lat="52.806461" lon="-2.713105">
+<wpt gr:gr="SJ5202423449" lat="52.806461" lon="-2.713120">
 <ele>97.0</ele>
 <name>Grinshill - All Saints</name>
 <sym>blue</sym>

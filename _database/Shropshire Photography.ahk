@@ -138,6 +138,7 @@ if mode = 0
   Menu, ProjectMenu, Add
   Menu, ProjectMenu, Add, Compare Folders, MenuCompareFolders
   Menu, ProjectMenu, Add, Compare ACDSee, MenuCompareACDSee
+  Menu, HelpMenu, Add, Test, MenuTest
   Menu, HelpMenu, Add, About, MenuAbout
   Menu, MyMenuBar, Add, File, :FileMenu
   Menu, MyMenuBar, Add, Image, :ImageMenu
@@ -345,6 +346,9 @@ MenuCompareFolders:
 
 MenuCompareACDSee:
 	ImportACDSee()
+  Return
+
+MenuTest:
   Return
 
 MenuAbout:
