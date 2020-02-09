@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:gs="http://ukmapapp.com/GPX_STYLESHEET/v1" xmlns:i="http://ukmapapp.com/GPX_IMPORTANCE/v1" xmlns:gr="http://ukmapapp.com/GPX_GRIDREF/v1" version="1.1" creator="UK Map 4.2">
+<metadata>
+<name>Shropshire - Places</name>
+<desc>More places to add:
+- Ragleth Hill
+- Hope Bowdler Hill
+- Blakemoorgate Cottages
+- The Hollies
+- Ironbridge Rotunda
+- Shrewsbury skyline
+- House on crutches
+- etc</desc>
+<bounds minlat="52.434940" minlon="-2.959914" maxlat="52.864754" maxlon="-2.240093"/></metadata>
+<wpt gr:gr="SJ8377508277" lat="52.671970" lon="-2.241371">
+<ele>151.0</ele>
+<time>2020-02-04T15:04:47+00</time>
+<name>Boscobel House</name>
+<desc>Closed until Summer 2020 - see web site for details</desc>
+<link href="https://www.english-heritage.org.uk/visit/places/boscobel-house-and-the-royal-oak/"/>
+<sym>photo yellow</sym>
+<extensions>
+<number>1</number>
+<i:importance>0.001000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5938004542" lat="52.637119" lon="-2.601668">
+<ele>40.0</ele>
+<time>2020-02-04T15:04:47+00</time>
+<name>Cressage Bridge</name>
+<desc>Good place to take a photo of the Wrekin.</desc>
+<sym>photo yellow</sym>
+<extensions>
+<number>2</number>
+<i:importance>0.010000</i:importance></extensions></wpt>
+<wpt gr:gr="SO7178691753" lat="52.522930" lon="-2.417258">
+<ele>39.0</ele>
+<time>2020-02-04T14:51:42+00</time>
+<name>Daniel's Mill</name>
+<desc>Opening Times
+April to end of October
+Open Thursday to Sunday 11am to 4pm
+Open Bank Holiday Mondays</desc>
+<link href="https://www.danielsmill.co.uk/"/>
+<sym>photo yellow</sym>
+<extensions>
+<number>3</number>
+<i:importance>0.002000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7382314204" lat="52.724869" lon="-2.389007">
+<ele>98.0</ele>
+<time>2020-02-04T15:00:15+00</time>
+<name>Lilleshall Abbey</name>
+<desc>Free admission, see web site for opening times.</desc>
+<link href="https://www.english-heritage.org.uk/visit/places/lilleshall-abbey/"/>
+<sym>photo yellow</sym>
+<extensions>
+<number>4</number>
+<i:importance>0.003000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7478214739" lat="52.729717" lon="-2.374863">
+<ele>137.0</ele>
+<time>2020-02-04T15:01:30+00</time>
+<name>Lilleshall Hall</name>
+<desc>There are two walks from here a 2.5 mile walk and a 6 mile walk.</desc>
+<sym>photo yellow</sym>
+<extensions>
+<number>5</number>
+<i:importance>0.004000</i:importance></extensions></wpt>
+<wpt gr:gr="SO3546994354" lat="52.543221" lon="-2.952964">
+<ele>381.0</ele>
+<time>2020-02-04T14:56:01+00</time>
+<name>Linley Hill</name>
+<desc>Look out for the avenue of beech trees.
+
+These majestic trees were planted around 1740 by local MP Robert More, who was a noted amateur botanist.
+
+They stretch for about a mile along the ridge and some of them measure several feet across, although they are coming to the end of their lives now.
+
+Happily, new saplings are being planted to ensure that this magnificent sight can be enjoyed by future generations.
+
+If you want to visit this lovely spot, turn right to Linley off the A488 from Bishop's Castle. After half a mile take a left turn, signposted Linley, and then a mile later turn left to The Bog. After half a mile park in Arbour Lane and then follow the Shropshire Way footpath sign up the hill. There is no designated car park.</desc>
+<sym>photo yellow</sym>
+<extensions>
+<number>6</number>
+<i:importance>0.005000</i:importance></extensions></wpt>
+<wpt gr:gr="SO5675982308" lat="52.437042" lon="-2.637499">
+<ele>221.0</ele>
+<time>2020-02-04T15:09:53+00</time>
+<name>St Milburga's Well</name>
+<desc>The well is located a little way up the hill after going past the turning for the church heading for Clee St Margaret and can be identified by the purpose made gate at the entrance of the well site.</desc>
+<link href="https://www.sstm.uk/page/st-milburga-s-well"/>
+<sym>photo yellow</sym>
+<extensions>
+<number>7</number>
+<i:importance>0.006000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ8259007724" lat="52.666962" lon="-2.258866">
+<ele>110.0</ele>
+<time>2020-02-04T15:03:20+00</time>
+<name>White Ladies Priory</name>
+<desc>Open any reasonable time during daylight hours.
+
+There is a limited amount of parking at White Ladies Priory. Access to the site is via public footpath. It is recommended that visitors park at nearby Boscobel House and use the permissive footpath leading to the Priory.</desc>
+<link href="https://www.english-heritage.org.uk/visit/places/white-ladies-priory/"/>
+<sym>photo yellow</sym>
+<extensions>
+<number>8</number>
+<i:importance>0.007000</i:importance></extensions></wpt>
+<wpt gr:gr="SO5395992805" lat="52.531170" lon="-2.680138">
+<ele>204.0</ele>
+<time>2020-01-16T21:37:14+00</time>
+<name>Wilderhope Manor</name>
+<desc>Open 2020 - 2pm to 4pm each day:
+- Jan - Sundays
+- Feb - Sundays
+- Mar - Sundays
+- Apr - Wednesdays and Sundays
+- May - Wednesdays and Sundays
+- Jun - Wednesdays and Sundays
+- Jul - Wednesdays and Sundays
+- Aug - Wednesdays and Sundays
+- Sep - Wednesdays and Sundays
+- Oct - Sundays
+- Nov - Sundays
+- Dec - Sundays excl. 27th</desc>
+<link href="https://www.nationaltrust.org.uk/wilderhope-manor"/>
+<sym>photo yellow</sym>
+<extensions>
+<number>9</number>
+<i:importance>0.008000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6231829722" lat="52.863674" lon="-2.561159">
+<ele>70.0</ele>
+<time>2020-01-16T21:38:11+00</time>
+<name>Wollerton Old Hall Garden</name>
+<desc>2020 PUBLIC OPEN DAYS
+
+Good Friday - End of May
+Fridays, Sundays and Bank Holidays 12noon - 5pm
+
+National Garden Scheme open day 15th May. All entrance fee proceeds go to the nursing charities involved. Usual opening times apply. No concessions for RHS or HHA members on this day.
+
+June, July and August
+Thursdays, Fridays, Sundays and Bank Holidays 12noon - 5pm
+
+September
+Fridays only 12noon - 5pm</desc>
+<link href="http://www.wollertonoldhallgarden.com/"/>
+<sym>photo yellow</sym>
+<extensions>
+<number>10</number>
+<i:importance>0.009000</i:importance></extensions></wpt></gpx>

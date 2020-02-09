@@ -2,7 +2,7 @@
 
 Has an ancient yew tree.
 
-Ancient yew trees are at least 500 years old.
+Ancient yew trees are those that are at least 500 years old.
 
 ## Claverley - All Saints
 

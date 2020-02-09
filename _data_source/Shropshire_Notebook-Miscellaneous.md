@@ -123,3 +123,15 @@ TBD
 
 TBD
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2020-01-12_12_20_18_DSC_6179_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Cardington, The Royal Oak
+
+A free house since circa the 15th Century, the Royal Oak is reputed to be the oldest continuously licensed pub in Shropshire.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2020-02-08_11_51_31_DSC_6343_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Cardington, Telephone Box
+
+The old telephone box has been adopted by the village and now contains information panels about the history of the Shropshire and the village itself.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2020-02-08_12_45_11_DSC_6395_DxO.jpg)

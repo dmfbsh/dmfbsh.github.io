@@ -98,6 +98,32 @@ The Old English name means Ford by the Fort.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-26_15_36_44_DSC_4915_DxO.jpg)
 
 <!--Type: Item-->
+# Date: 12th Century AD
+# Name: St James, Cardington
+
+The presence of a church on the site is recorded in the Domesday Book.  In 1167, the village, including the church, was given to the Knights Templar (and was known as Templars' Cardington, allowing the people to share the privileges of the Knights).  It remained in their possession until 1308 (when the order was supressed).  The Knights were responsible for starting the building of the present church in the later part of the 12th century.  During the following century the chancel was rebuilt and extended, and the tower was added.  Further additions and alterations were made during the following three centuries, followed by the porch in 1639.
+
+The body of the church is constructed in sandstone rubble with ashlar dressings and has tiled roofs.  The south doorway contains a door dated 1648.
+
+In the churchyard is a sandstone sundial dating from the middle of the 18th century.
+
+In the Domesday Book the village is referred to as 'Cardintine under the Fief of Rainwald Vicecomes' and it is mentioned that there were 11 leagues of woodland.  The name 'Cardington' derives from an English chief and warrior named Carda, whose sons and followers were called the Cardinga.  They made their home where the village is, and the village they built became known as Cardington, or the town of the sons of Carda.
+
+In the church is a large monument to Chief Justice of Leighton of Plaish (died 1607), this Jacobean monument is the earliest in Shropshire which depicts the deceased lying on his side. 
+
+Judge Leighton was known as 'the hanging judge' (as was Judge Jeffries) as he condemned so many people to be hanged.  Amongst those condemned by Leighton was a local builder, who had come to the judge to ask to be pardoned for his crime.  The Judge promised him that if he would build him the finest set of chimneys he had ever yet built he would spare his life.  The builder did construct the chimneys (on Plaish Hall).  But after completing the job the Judge ordered the mans' eyes to be put out, and for him to be hanged from the same chimneys he had just built (so that he could build no more chimneys ever finer).  It is said that one can see the rope with which the builder was hanged.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-02-08_13_22_42_DSC_6401_DxO.jpg)
+# Sub-Image: 2020-02-08_11_55_02_DSC_6349_DxO.jpg
+# Sub-Image: 2020-02-08_11_56_19_DSC_6352_DxO.jpg
+# Sub-Image: 2020-02-08_12_02_45_DSC_6356_DxO.jpg
+# Sub-Image: 2020-02-08_12_08_27_DSC_6359_DxO.jpg
+# Sub-Image: 2020-02-08_12_09_43_DSC_6361_DxO.jpg
+# Sub-Image: 2020-02-08_12_11_24_DSC_6362_DxO.jpg
+# Sub-Image: 2020-02-08_12_16_11_DSC_6363_DxO.jpg
+# Sub-Image: 2020-02-08_12_22_49_DSC_6367_DxO.jpg
+# Sub-Image: 2020-02-08_12_29_55_DSC_6371_DxO.jpg
+
+<!--Type: Item-->
 # Date: 1854 AD
 # Name: St Luke, Coalbrookdale
 
