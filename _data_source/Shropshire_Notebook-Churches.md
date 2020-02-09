@@ -126,6 +126,24 @@ Judge Leighton was known as 'the hanging judge' (as was Judge Jeffries) as he co
 # Sub-Image: 2020-02-08_12_29_55_DSC_6371_DxO.jpg
 
 <!--Type: Item-->
+# Date: TBD AD
+# Name: St Laurence, Church Stretton
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-02-08_15_27_44_DSC_6496_DxO.jpg)
+# Sub-Image: 2020-02-08_15_32_15_DSC_6505_DxO.jpg
+# Sub-Image: 2020-02-08_15_32_39_DSC_6506_DxO.jpg
+# Sub-Image: 2020-02-08_15_33_08_DSC_6507_DxO.jpg
+# Sub-Image: 2020-02-08_15_33_19_DSC_6508_DxO.jpg
+# Sub-Image: 2020-02-08_15_34_23_DSC_6511_DxO.jpg
+# Sub-Image: 2020-02-08_15_34_48_DSC_6512_DxO.jpg
+# Sub-Image: 2020-02-08_15_35_05_DSC_6513_DxO.jpg
+# Sub-Image: 2020-02-08_15_35_22_DSC_6514_DxO.jpg
+# Sub-Image: 2020-02-08_15_35_42_DSC_6516_DxO.jpg
+# Sub-Image: 2020-02-08_15_36_12_DSC_6518_DxO.jpg
+# Sub-Image: 2020-02-08_15_36_29_DSC_6519_DxO.jpg
+
+<!--Type: Item-->
 # Date: 1854 AD
 # Name: St Luke, Coalbrookdale
 

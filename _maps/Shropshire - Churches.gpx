@@ -565,7 +565,7 @@ Ancient yew trees are those that are at least 500 years old.</desc>
 	<wpt gr:gr="SO4523793670" lat="52.538139" lon="-2.808820">
 		<ele>197.0</ele>
 		<name>Church Stretton - St Laurence</name>
-		<sym>blue plus</sym>
+		<sym>green plus</sym>
 		<extensions>
 			<number>62</number>
 			<i:importance>0.739981</i:importance>

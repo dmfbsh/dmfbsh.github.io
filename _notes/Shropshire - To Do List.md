@@ -2,6 +2,8 @@
 
 # Web Site Updates
 
+- Church Stretton church - date and notes
+
 ## Need Photo
 
 - Cosford RAF Museum
