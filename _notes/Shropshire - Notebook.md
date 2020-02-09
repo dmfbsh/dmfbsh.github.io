@@ -86,25 +86,21 @@ All assets relating to the project are held in my GitHub repository, which is cl
 
 [My Maps](https://www.google.co.uk/maps/d/)
 
-16. If the item is a church, change the colour in the CSV file list of locations
+16. If the item is a church, change the colour in the GPX file for the UK Maps app
 
->C:\Users\David\Documents\iCloudDrive\27N4MQEA55\~pro\~writer\dmfbsh.github.io\_maps\churches\Churches.csv
+>C:\Users\David\Documents\iCloudDrive\27N4MQEA55~pro~writer\dmfbsh.github.io\_maps\Shropshire - Churches.gpx
 
-17. If the item is a church, run the ruby script to generate the GPX file
+17. Send the GPX file to the iPhone & iPad (this is done automatically as it is held on the iCloud drive) and load into the UK Maps app<br/><br/>
 
->C:\Users\David\Documents\iCloudDrive\27N4MQEA55\~pro\~writer\dmfbsh.github.io\_maps\churches\convert_csv_to_gpx.rb
+18. If the item is a church, in ACDSee identify any photos for the sub-images<br/><br/>
 
-18. Send the GPX file to the iPhone & iPad (this is done automatically as it is held on the iCloud drive) and load into the UK Maps app<br/><br/>
+19. If the item is a church, in ACDSee assign the selected photos for the sub-images to the Church > Sub-Image category<br/><br/>
 
-19. If the item is a church, in ACDSee identify any photos for the sub-images<br/><br/>
+20. If the item is a church, in DxO PhotoLab develop the photos for the sub-images and export to disk using the Shropshire Photography output option<br/><br/>
 
-20. If the item is a church, in ACDSee assign the selected photos for the sub-images to the Church > Sub-Image category<br/><br/>
+21. If the item is a church, add the filenames of the sub-images to the MD file entry for the church<br/><br/>
 
-21. If the item is a church, in DxO PhotoLab develop the photos for the sub-images and export to disk using the Shropshire Photography output option<br/><br/>
-
-22. If the item is a church, add the filenames of the sub-images to the MD file entry for the church<br/><br/>
-
-23. If the item is a church, crop and resize the sub-images to be 240px high and save in the assets\images\churches-sub folder - there is an Export preset in ACDSee for this, the oroginal DxO files can then be deleted
+22. If the item is a church, crop and resize the sub-images to be 240px high and save in the assets\images\churches-sub folder - there is an Export preset in ACDSee for this, the oroginal DxO files can then be deleted
 
 ## Procedure to Generate the Web Site
 

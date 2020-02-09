@@ -65,7 +65,9 @@ A well-preserved memorial chapel built for the Scott family.
 # Date: 13th Century AD
 # Name: St Mary, Bitterley
 
-The church dates mostly fron the Transitional period (when the Norman style was giving way to early English).  In the Dommsday book, the nearby manor is known as Buterlie (Butter Pasture).
+The church dates mostly fron the Transitional period (when the Norman style was giving way to early English).
+
+In the Dommsday book, the nearby manor is known as Buterlie (Butter Pasture).
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-26_14_16_26_DSC_4882_DxO_LP.jpg)
 # Sub-Image: 2019-08-26_14_06_40_DSC_4867_DxO.jpg
 # Sub-Image: 2019-08-26_14_08_15_DSC_4868_DxO.jpg

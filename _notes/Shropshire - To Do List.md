@@ -2,9 +2,6 @@
 
 # Web Site Updates
 
-St James, Cardington
-Need to do 16-18
-
 ## Need Photo
 
 - Cosford RAF Museum
