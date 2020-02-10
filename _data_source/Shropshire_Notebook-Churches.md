@@ -126,15 +126,20 @@ Judge Leighton was known as 'the hanging judge' (as was Judge Jeffries) as he co
 # Sub-Image: 2020-02-08_12_29_55_DSC_6371_DxO.jpg
 
 <!--Type: Item-->
-# Date: TBD AD
+# Date: 12th Century AD
 # Name: St Laurence, Church Stretton
 
-TBD
+The Domesday book makes reference to a church in the Manor existing before the Norman conquest, most likely a small wooden building.
+
+The name Stretton is derived from the old name Stratun which means 'tun' (settlement) near to the 'Street' or Roman Road.
+
+The Norman church was probably built around 1110 to 1130 as the region was growing in prosperity and population (and the Welsh boarder was quieter).
+
+The church was extended in circa 1214 AD - a new chancel, transcepts in the form of a cruciform and the lower tower were constructed.  A century or so later, the windows were enlarged and the tower was extended.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-02-08_15_27_44_DSC_6496_DxO.jpg)
 # Sub-Image: 2020-02-08_15_32_15_DSC_6505_DxO.jpg
 # Sub-Image: 2020-02-08_15_32_39_DSC_6506_DxO.jpg
 # Sub-Image: 2020-02-08_15_33_08_DSC_6507_DxO.jpg
-# Sub-Image: 2020-02-08_15_33_19_DSC_6508_DxO.jpg
 # Sub-Image: 2020-02-08_15_34_23_DSC_6511_DxO.jpg
 # Sub-Image: 2020-02-08_15_34_48_DSC_6512_DxO.jpg
 # Sub-Image: 2020-02-08_15_35_05_DSC_6513_DxO.jpg
