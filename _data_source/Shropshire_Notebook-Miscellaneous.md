@@ -2,12 +2,14 @@
 # Name: Sabrina
 
 Hafren is the Welsh Goddess of the river Severn (Latin name is Sabrina).
+
+The pleasure craft called Sabrina provides boat trips in Shrewsbury from the Victoria Quays round the Severn loop to the English bridge and back.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2013-08-03_16_03_01_DSC_0018_DxO.jpg)
 
 <!--Type: Item-->
 # Name: The Bog Centre
 
-Lovely homemade cakes!
+The Bog Visitor Centre is located in the shadow of the Stiperstones.  It is the former Victorian school and is one of the few remaining buildings of a lost lead and barytes mining village.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2017-08-25_13_05_45_DSC_1913_DxO.jpg)
 
 <!--Type: Item-->
