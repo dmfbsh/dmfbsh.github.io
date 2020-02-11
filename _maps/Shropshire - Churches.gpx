@@ -1184,7 +1184,7 @@ Open during daylght hours.</desc>
 	<wpt gr:gr="SO3892583289" lat="52.444149" lon="-2.899970">
 		<ele>172.0</ele>
 		<name>Hopesay - St Mary</name>
-		<sym>blue plus</sym>
+		<sym>yellow plus</sym>
 		<extensions>
 			<number>129</number>
 			<i:importance>0.863784</i:importance>

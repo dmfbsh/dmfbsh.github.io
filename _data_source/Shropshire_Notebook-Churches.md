@@ -38,7 +38,7 @@ Much of the masonry is Medieval, but the windows were all renewed in the 19th Ce
 # Sub-Image: 2019-07-13_09_53_10_DSC_4609_DxO.jpg
 
 <!--Type: Item-->
-# Date:
+# Date: 14th Century AD
 # Name: St Milburga, Beckbury
 
 The parish was originally part of the estates of Wenlock Priory from at least 1120 AD and the connection is reflected in the dedication to St Milburga.

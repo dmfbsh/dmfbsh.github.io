@@ -147,7 +147,7 @@ if mode = 0
   Menu, MyMenuBar, Add, Help, :HelpMenu
   Gui, Menu, MyMenuBar
 
-	Gui +Resize +MinSize450x500
+	Gui +Resize +MinSize450x460
 	Gui, Add, Text, xm section w120 h20, Places:
 	Gui, Add, DropDownList, ys vPlace gPlace w300 h180, Empty|Null
 	GuiControl, , Place, %ListOfPlaces%
@@ -192,11 +192,11 @@ if mode = 0
 ;	Gui, Add, Text, xm section w120 h20, Subject Notes:
 ;	Gui, Add, CheckBox, ys vSubjectNotes,
 
-	Gui, Add, Text, xm section w120 h20, Notes for Web:
-	Gui, Add, CheckBox, ys vWebNotes,
+;	Gui, Add, Text, xm section w120 h20, Notes for Web:
+;	Gui, Add, CheckBox, ys vWebNotes,
 
-	Gui, Add, Text, xm section w120 h20, Complete:
-	Gui, Add, CheckBox, ys vComplete,
+;	Gui, Add, Text, xm section w120 h20, Complete:
+;	Gui, Add, CheckBox, ys vComplete,
 ;	Gui, Add, Text, xm section vHasFile w200 h20, No Database Record
 
 	Gui, Add, Text, xm section w120 h20, Notepad:
@@ -211,7 +211,7 @@ if mode = 0
 
   Gui, Add, StatusBar, ,
 
-	Gui, Show, w750 h500, Shropshire Photography
+	Gui, Show, w750 h460, Shropshire Photography
 
 	GuiControl, ChooseString, Place, %argPlace%
 	SB_SetParts(200)
@@ -253,7 +253,7 @@ GuiSize:
   GuiControl, Move, AffinityNotes, % "w" .  A_GuiWidth - 150
   GuiControl, Move, PClearNotes, % "w" .  A_GuiWidth - 150
   GuiControl, Move, SilverEfexNotes, % "w" .  A_GuiWidth - 150
-  GuiControl, Move, Overview, % "w" .  A_GuiWidth - 150 "h" . A_GuiHeight - 440
+  GuiControl, Move, Overview, % "w" .  A_GuiWidth - 150 "h" . A_GuiHeight - 380
   Return
 
 MenuSave:
@@ -576,7 +576,7 @@ DisplayStatus() {
 	{
 		statusOP := """" . A_LoopFileName . """"
 	  RecordSet := ""
-  	SQL := "SELECT Category1, Category2, Original, DxOPLPreset, DxOPLNotes, AffinityNotes, PerfectlyClearNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes, TickWebNotes, TickComplete FROM Place WHERE Name=""" . A_LoopFileName . """;"
+  	SQL := "SELECT Category1, Category2, Original, DxOPLPreset, DxOPLNotes, AffinityNotes, PerfectlyClearNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes FROM Place WHERE Name=""" . A_LoopFileName . """;"
 	  DB.Query(SQL, RecordSet)
 	  placeFound := false
   	Loop {
@@ -585,12 +585,13 @@ DisplayStatus() {
     	{
     		statusOP := statusOP . "," . Row[1]
     		placeFound := true
-    		if (Row[12])
-    		{
-    			statusOP := statusOP . ",Complete"
-    		} else {
-    			statusOP := statusOP . ",In Progress"
-    		}
+;    		if (Row[12])
+;    		{
+;    			statusOP := statusOP . ",Complete"
+;    		} else {
+;    			statusOP := statusOP . ",In Progress"
+;    		}
+				statusOP := statusOP . ",N/A"
     		statusOP := statusOP . "," . SubStr(Row[3], InStr(Row[3], "\", , -1)+1)
 ;				TmpNotes := BasePath . "\" . A_LoopFileName . "\*.pdf"
 ;				if FileExist(TmpNotes)
@@ -1020,8 +1021,8 @@ DrawGUI()
 		GuiControl, ChooseString, DxOSEPreset, %NDxOSEPreset%
 		GuiControl, Text, SilverEfexNotes, %NSilverEfexNotes%
 ;		GuiControl, , SubjectNotes, %NSubjectNotes%
-		GuiControl, , WebNotes, %NWebNotes%
-		GuiControl, , Complete, %NComplete%
+;		GuiControl, , WebNotes, %NWebNotes%
+;		GuiControl, , Complete, %NComplete%
 		if NHasFile
 		{
 ;			GuiControl, Text, HasFile, Has Database Record
@@ -1057,8 +1058,8 @@ GUIValues()
 		NDxOSEPreset := DxOSEPreset
 		NSilverEfexNotes := SilverEfexNotes
 ;		NSubjectNotes := SubjectNotes
-		NWebNotes := WebNotes
-		NComplete := Complete
+;		NWebNotes := WebNotes
+;		NComplete := Complete
 		NOverview := Overview
 	}
 }
@@ -1155,13 +1156,13 @@ SavePlace() {
     SQL := SQL . "PerfectlyClearNotes=""" . StringToDB(NPClearNotes) . """, "
     SQL := SQL . "SilverEfexPreset=""" . NDxOSEPreset . """, "
     SQL := SQL . "SilverEfexNotes=""" . StringToDB(NSilverEfexNotes) . """, "
-    SQL := SQL . "GeneralNotes=""" . StringToDB(NOverview) . """, "
+    SQL := SQL . "GeneralNotes=""" . StringToDB(NOverview) . """ "
 ;    SQL := SQL . "TickSubjectNotes=" . NSubjectNotes . ", "
-    SQL := SQL . "TickWebNotes=" . NWebNotes . ", "
-    SQL := SQL . "TickComplete=" . NComplete . " "
+;    SQL := SQL . "TickWebNotes=" . NWebNotes . ", "
+;    SQL := SQL . "TickComplete=" . NComplete . " "
     SQL := SQL . "WHERE Name=""" . argPlace . """;"
   } else {
-    SQL := "INSERT INTO Place (Name, Category1, Category2, Original, OrigName, DxOPLPreset, DxOPLNotes, AffinityNotes, PerfectlyClearNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes, TickWebNotes, TickComplete) VALUES ("
+    SQL := "INSERT INTO Place (Name, Category1, Category2, Original, OrigName, DxOPLPreset, DxOPLNotes, AffinityNotes, PerfectlyClearNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes) VALUES ("
     SQL := SQL . """" . argPlace . """, "
     SQL := SQL . """" . NCategory1 . """, "
     SQL := SQL . """" . NCategory2 . """, "
@@ -1173,10 +1174,10 @@ SavePlace() {
     SQL := SQL . """" . StringToDB(NPClearNotes) . """, "
     SQL := SQL . """" . NDxOSEPreset . """, "
     SQL := SQL . """" . StringToDB(NSilverEfexNotes) . """, "
-    SQL := SQL . """" . StringToDB(NOverview) . """, "
+    SQL := SQL . """" . StringToDB(NOverview) . """ "
 ;    SQL := SQL . NSubjectNotes . ", "
-    SQL := SQL . NWebNotes . ", "
-    SQL := SQL . NComplete . " "
+;    SQL := SQL . NWebNotes . ", "
+;    SQL := SQL . NComplete . " "
     SQL := SQL . ");"
   }
   DB.Exec(SQL)
@@ -1204,11 +1205,11 @@ LoadPlace() {
 ;		NSubjectNotes := false
 ;	}
 	NOverview := ""
-	NWebNotes := false
-	NComplete := false
+;	NWebNotes := false
+;	NComplete := false
 	NHasFile := false
   RecordSet := ""
-  SQL := "SELECT Category1, Category2, Original, DxOPLPreset, DxOPLNotes, AffinityNotes, PerfectlyClearNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes, TickWebNotes, TickComplete FROM Place WHERE Name=""" . argPlace . """;"
+  SQL := "SELECT Category1, Category2, Original, DxOPLPreset, DxOPLNotes, AffinityNotes, PerfectlyClearNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes FROM Place WHERE Name=""" . argPlace . """;"
   DB.Query(SQL, RecordSet)
   Loop {
     RC := RecordSet.Next(Row)
@@ -1223,8 +1224,8 @@ LoadPlace() {
 			NDxOSEPreset := Row[8]
 			NSilverEfexNotes := StringFromDB(Row[9])
 			NOverview := StringFromDB(Row[10])
-			NWebNotes := Row[11]
-			NComplete := Row[12]
+;			NWebNotes := Row[11]
+;			NComplete := Row[12]
 			NHasFile := true
     }
   } Until RC < 1
