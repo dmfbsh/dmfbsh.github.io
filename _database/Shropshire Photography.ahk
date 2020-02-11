@@ -591,7 +591,7 @@ DisplayStatus() {
 ;    		} else {
 ;    			statusOP := statusOP . ",In Progress"
 ;    		}
-				statusOP := statusOP . ",N/A"
+				statusOP := statusOP . "," . Row[2]
     		statusOP := statusOP . "," . SubStr(Row[3], InStr(Row[3], "\", , -1)+1)
 ;				TmpNotes := BasePath . "\" . A_LoopFileName . "\*.pdf"
 ;				if FileExist(TmpNotes)
@@ -600,15 +600,15 @@ DisplayStatus() {
 ;				} else {
 ;					statusOP := statusOP . ",None"
 ;				}
-    		if (Row[11])
-    		{
-    			statusOP := statusOP . ",Has Web Notes"
-    		} else {
-    			statusOP := statusOP . ",None"
-    		}
-    		TmpStrR1 := Row[1]
-    		StringLower, TmpStrR1, TmpStrR1
-    		statusOP := statusOP . "," . CheckThumbnail(TmpStrR1, SubStr(Row[3], InStr(Row[3], "\", , -1)+1))
+;    		if (Row[11])
+;    		{
+;    			statusOP := statusOP . ",Has Web Notes"
+;    		} else {
+;    			statusOP := statusOP . ",None"
+;    		}
+;    		TmpStrR1 := Row[1]
+;    		StringLower, TmpStrR1, TmpStrR1
+;    		statusOP := statusOP . "," . CheckThumbnail(TmpStrR1, SubStr(Row[3], InStr(Row[3], "\", , -1)+1))
 	    }
   	} Until RC < 1
   	RecordSet.Free()
@@ -625,11 +625,14 @@ DisplayStatus() {
   	}
 		AllPlaces.Push(statusOP)
 	}
-	Gui, StatusView:Add, ListView, r25 w820, Place|Primary Category|Status|Original|Web Notes|Thumbnail
+	Gui, StatusView:Add, ListView, r23 w820, Place|Primary Category|Secondary Category|Original
 	Gui, StatusView:Default
 	cntH := 0
+	cntC := 0
 	cntL := 0
 	cntO := 0
+	cntP := 0
+	cntG := 0
 	cntI := 0
 	cntWH := 0
 	cntWL := 0
@@ -645,8 +648,8 @@ DisplayStatus() {
 		col2 := ""
 		col3 := ""
 		col4 := ""
-		col5 := ""
-		col6 := ""
+;		col5 := ""
+;		col6 := ""
 ;		col7 := ""
 		Loop, parse, element, CSV
 		{
@@ -666,14 +669,14 @@ DisplayStatus() {
 			{
 				col4 := A_LoopField
 			}
-			if A_Index = 5
-			{
-				col5 := A_LoopField
-			}
-			if A_Index = 6
-			{
-				col6 := A_LoopField
-			}
+;			if A_Index = 5
+;			{
+;				col5 := A_LoopField
+;			}
+;			if A_Index = 6
+;			{
+;				col6 := A_LoopField
+;			}
 ;			if A_Index = 7
 ;			{
 ;				col7 := A_LoopField
@@ -682,76 +685,108 @@ DisplayStatus() {
 		if (col2 = "History")
 		{
 			cntH := cntH + 1
-			if (col5 = "Has Web Notes")
-			{
-				cntWH := cntWH + 1
-			}
-			if (col6 = "Has Thumbnail")
-			{
-				cntTH := cntTH + 1
-			}
+;			if (col5 = "Has Web Notes")
+;			{
+;				cntWH := cntWH + 1
+;			}
+;			if (col6 = "Has Thumbnail")
+;			{
+;				cntTH := cntTH + 1
+;			}
+		}
+		if (col2 = "Church")
+		{
+			cntC := cntC + 1
 		}
 		if (col2 = "Landscape")
 		{
 			cntL := cntL + 1
-			if (col5 = "Has Web Notes")
-			{
-				cntWL := cntWL + 1
-			}
-			if (col6 = "Has Thumbnail")
-			{
-				cntTL := cntTL + 1
-			}
+;			if (col5 = "Has Web Notes")
+;			{
+;				cntWL := cntWL + 1
+;			}
+;			if (col6 = "Has Thumbnail")
+;			{
+;				cntTL := cntTL + 1
+;			}
 		}
 		if (col2 = "Miscellaneous")
 		{
 			cntO := cntO + 1
-			if (col5 = "Has Web Notes")
-			{
-				cntWO := cntWO + 1
-			}
-			if (col6 = "Has Thumbnail")
-			{
-				cntTO := cntTO + 1
-			}
+;			if (col5 = "Has Web Notes")
+;			{
+;				cntWO := cntWO + 1
+;			}
+;			if (col6 = "Has Thumbnail")
+;			{
+;				cntTO := cntTO + 1
+;			}
+		}
+		if (col2 = "Place")
+		{
+			cntP := cntP + 1
+		}
+		if (col2 = "Garden")
+		{
+			cntG := cntG + 1
 		}
 		if (col2 = "Information")
 		{
 			cntI := cntI + 1
-			if (col5 = "Has Web Notes")
-			{
-				cntWI := cntWI + 1
-			}
-			if (col6 = "Has Thumbnail")
-			{
-				cntTI := cntTI + 1
-			}
+;			if (col5 = "Has Web Notes")
+;			{
+;				cntWI := cntWI + 1
+;			}
+;			if (col6 = "Has Thumbnail")
+;			{
+;				cntTI := cntTI + 1
+;			}
 		}
-		LV_Add("", col1, col2, col3, col4, col5, col6)
+		LV_Add("", col1, col2, col3, col4)
 	}
 	LV_ModifyCol()
-	Gui, StatusView:Add, Text, xm section w120 h20, History:
-	Gui, StatusView:Add, Text, ys vCountH w100 h20,
-	Gui, StatusView:Add, Text, ys vWebSiteSH w400 h20,
+	Gui, StatusView:Add, Text, xm section w120 h16, History:
+	Gui, StatusView:Add, Text, ys vCountH w100 h16,
+	Gui, StatusView:Add, Text, ys vWebSiteSH w400 h16,
 	GuiControl, StatusView:Text, CountH, %cntH%
-	GuiControl, StatusView:Text, WebSiteSH, Web Site - Web Notes: %cntWH%, Thumbnails: %cntTH%
-	Gui, StatusView:Add, Text, xm section w120 h20, Landscape:
-	Gui, StatusView:Add, Text, ys vCountL w100 h20,
-	Gui, StatusView:Add, Text, ys vWebSiteSL w400 h20,
+;	GuiControl, StatusView:Text, WebSiteSH, Web Site - Web Notes: %cntWH%, Thumbnails: %cntTH%
+
+	Gui, StatusView:Add, Text, xm section w120 h16, Church:
+	Gui, StatusView:Add, Text, ys vCountC w100 h16,
+	Gui, StatusView:Add, Text, ys vWebSiteSC w400 h16,
+	GuiControl, StatusView:Text, CountC, %cntC%
+
+	Gui, StatusView:Add, Text, xm section w120 h16, Landscape:
+	Gui, StatusView:Add, Text, ys vCountL w100 h16,
+	Gui, StatusView:Add, Text, ys vWebSiteSL w400 h16,
 	GuiControl, StatusView:Text, CountL, %cntL%
-	GuiControl, StatusView:Text, WebSiteSL, Web Site - Web Notes: %cntWL%, Thumbnails: %cntTL%
-	Gui, StatusView:Add, Text, xm section w120 h20, Miscellaneous:
-	Gui, StatusView:Add, Text, ys vCountO w100 h20,
-	Gui, StatusView:Add, Text, ys vWebSiteSO w400 h20,
+;	GuiControl, StatusView:Text, WebSiteSL, Web Site - Web Notes: %cntWL%, Thumbnails: %cntTL%
+
+	Gui, StatusView:Add, Text, xm section w120 h16, Miscellaneous:
+	Gui, StatusView:Add, Text, ys vCountO w100 h16,
+	Gui, StatusView:Add, Text, ys vWebSiteSO w400 h16,
 	GuiControl, StatusView:Text, CountO, %cntO%
-	GuiControl, StatusView:Text, WebSiteSO, Web Site - Web Notes: %cntWO%, Thumbnails: %cntTO%
-	Gui, StatusView:Add, Text, xm section w120 h20, Information:
-	Gui, StatusView:Add, Text, ys vCountI w100 h20,
-	Gui, StatusView:Add, Text, ys vWebSiteSI w400 h20,
+;	GuiControl, StatusView:Text, WebSiteSO, Web Site - Web Notes: %cntWO%, Thumbnails: %cntTO%
+
+	Gui, StatusView:Add, Text, xm section w120 h16, Place:
+	Gui, StatusView:Add, Text, ys vCountP w100 h16,
+	Gui, StatusView:Add, Text, ys vWebSiteSP w400 h16,
+	GuiControl, StatusView:Text, CountP, %cntP%
+
+	Gui, StatusView:Add, Text, xm section w120 h16, Garden:
+	Gui, StatusView:Add, Text, ys vCountG w100 h16,
+	Gui, StatusView:Add, Text, ys vWebSiteSG w400 h16,
+	GuiControl, StatusView:Text, CountG, %cntG%
+
+	Gui, StatusView:Add, Text, xm section w120 h16, Information:
+	Gui, StatusView:Add, Text, ys vCountI w100 h16,
+	Gui, StatusView:Add, Text, ys vWebSiteSI w400 h16,
 	GuiControl, StatusView:Text, CountI, %cntI%
-	GuiControl, StatusView:Text, WebSiteSI, Web Site - Web Notes: %cntWI%, Thumbnails: %cntTI%
+;	GuiControl, StatusView:Text, WebSiteSI, Web Site - Web Notes: %cntWI%, Thumbnails: %cntTI%
+
 	Gui, StatusView:Add, Button, xm section w50 h20, Close
-	Gui, StatusView:Show, w840 h530, Shropshire Photography
+	Gui, StatusView:Show, w840 h550, Shropshire Photography
+
 	Gui, 1:Default
 	Return
 }
