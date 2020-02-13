@@ -142,9 +142,25 @@
 
 [https://en.m.wikipedia.org/wiki/Cantlop_Bridge](https://en.m.wikipedia.org/wiki/Cantlop_Bridge)
 
+# Cardington - Church
+
+http://www.cardingtonparishcouncilshropshire.co.uk/History_6987.aspx
+
+# Cardington - Telephone Box
+
+
+
+# Cardington - The Royal Oak
+
+
+
 # Caynton Caves
 
 [https://en.m.wikipedia.org/wiki/Caynton_Caves](https://en.m.wikipedia.org/wiki/Caynton_Caves)
+
+# Church Stretton - Church
+
+
 
 # Cleobury Mortimer - Church
 
@@ -219,6 +235,10 @@
 # Cronkhill
 
 [https://en.m.wikipedia.org/wiki/Cronkhill](https://en.m.wikipedia.org/wiki/Cronkhill)
+
+# Crudgington - Church
+
+
 
 # Diddlebury - Church
 

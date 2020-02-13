@@ -100,7 +100,7 @@ If A_args.Length() = 2
 
 if mode = -1
 {
-	MsgBox, Incorrect parameters - exiting`nParameters are:`n1. No parameters - status mode, defaulting to first Place`n2. Single parameter - taken as the full path and file name of an image, allows a Place to be chosen, then goes into status mode for that Place`n3. -status <place> - status mode, with specified Place
+	MsgBox, 48, Error, Incorrect parameters - exiting`nParameters are:`n1. No parameters - status mode, defaulting to first Place`n2. Single parameter - taken as the full path and file name of an image, allows a Place to be chosen, then goes into status mode for that Place`n3. -status <place> - status mode, with specified Place
 	DB.CloseDB()
 	ExitApp
 }
@@ -134,6 +134,8 @@ if mode = 0
   Menu, PlaceMenu, Add
   Menu, PlaceMenu, Add, Generate Report, MenuGenerateReport
   Menu, PlaceMenu, Add, View Report, MenuViewReport
+  Menu, PlaceMenu, Add
+  Menu, PlaceMenu, Add, Create Folder, MenuCreateFolder
   Menu, ProjectMenu, Add, Status, MenuStatus
   Menu, ProjectMenu, Add
   Menu, ProjectMenu, Add, Compare Folders, MenuCompareFolders
@@ -285,13 +287,55 @@ MenuImageView:
   Return
 
 MenuImageMove:
-	FileSelectFile, tMoveName, 3, E:\My Pictures\Published\Shropshire, Select File for Item, Photographs (*.jpg)
-	if StrLen(tMoveName) <> 0
-	{
-		tDstFolder := BasePath . "\" . argPlace . "\"
-    FileMove, %tMoveName%, %tDstFolder%, 1
-    MsgBox, File for Item Moved
-	}
+;	FileSelectFile, tMoveName, 3, E:\My Pictures\Published\Shropshire, Select File for Item, Photographs (*.jpg)
+;	if StrLen(tMoveName) <> 0
+;	{
+;		tDstFolder := BasePath . "\" . argPlace . "\"
+;    FileMove, %tMoveName%, %tDstFolder%, 1
+;    MsgBox, 0, Information, File for Item Moved
+;	}
+	TmpPath := BasePath . "\*"
+	ListOfImages := ""
+	FirstPlace := True
+	Loop, Files, %TmpPath%, F
+  {
+		if StrLen(ListOfImages) > 1
+		{
+			ListOfImages := ListOfImages . "|"
+			if FirstPlace
+			{
+				FirstPlace := False
+				ListOfImages := ListOfImages . "|"
+			}
+		}
+		ListOfImages := ListOfImages . A_LoopFileName
+  }
+  if StrLen(ListOfImages) > 1
+  {
+  	Gui, ImageChooser:Add, Text, xm section w200 h20, Select Image File for Place:
+  	Gui, ImageChooser:Add, DropDownList, xm section vImageChosen w400 h60, %ListOfImages%
+  	Gui, ImageChooser:Add, Button, xm section w50 h20, OK
+  	Gui, ImageChooser:Add, Button, ys w50 h20, Cancel
+  	Gui, ImageChooser:Show, w440 h100, Image Chooser
+  	Gui, 1:Default
+  }
+  else
+  {
+  	MsgBox, 48, Error, There are no image files to select
+  }
+  Return
+
+ImageChooserButtonOK:
+	Gui, ImageChooser:Submit, NoHide
+	tDstFolder := BasePath . "\" . argPlace . "\"
+	tMoveName := BasePath . "\" . ImageChosen
+  FileMove, %tMoveName%, %tDstFolder%, 1
+  Gui, ImageChooser:Destroy
+  MsgBox, 0, Information, File for Item Moved
+  Return
+
+ImageChooserButtonCancel:
+  Gui, ImageChooser:Destroy
   Return
 
 MenuEditNotes:
@@ -327,13 +371,32 @@ MenuGenerateReport:
 	}	Until RC < 1
   RecordSet.Free()
   repFile.Close()
-  MsgBox, Report Created
+  MsgBox, 0, Information, Report Created
   Return
 
 MenuViewReport:
   IniRead, WebBrowser, %A_ScriptDir%\Shropshire Photography.ini, Programs, WebBrowser
 	repName := A_ScriptDir . "\Notes.md"
   Run, "%WebBrowser%" "%repName%"
+  Return
+
+MenuCreateFolder:
+	InputBox, newPlace, Create Folder for Item, Enter name for the item's folder:
+	If not ErrorLevel
+	{
+		newFolder := BasePath . "\" . newPlace
+		FileCreateDir, %newFolder%
+		if ErrorLevel
+		{
+  		MsgBox, 48, Error, Failed to create folder %newFolder%
+		}
+  	else
+	  {
+;  		MsgBox, 0, Information, Created folder %newFolder%
+  		Gui, Destroy
+	  	Run, "%A_ScriptDir%\Shropshire Photography.exe" -status %newPlace%
+  	}
+  }
   Return
 
 MenuStatus:
@@ -513,7 +576,7 @@ Category1:
 ;	{
 ;		tDstFolder := BasePath . "\" . argPlace . "\"
 ;    FileMove, %tMoveName%, %tDstFolder%, 1
-;    MsgBox, File for Item Moved
+;    MsgBox, 0, Information, File for Item Moved
 ;	}
 ;  Return
 
@@ -540,11 +603,11 @@ ButtonCreateFolder:
 		FileCreateDir, %newFolder%
 		if ErrorLevel
 		{
-  		MsgBox, Failed to create folder %newFolder%
+  		MsgBox, 48, Error, Failed to create folder %newFolder%
 		}
   	else
 	  {
-  		MsgBox, Created folder %newFolder%
+  		MsgBox, 0, Information, Created folder %newFolder%
 	  	Run, "%A_ScriptDir%\Shropshire Photography.exe" "%argOriginal%"
   	}
   }
@@ -843,13 +906,13 @@ CompareListsFolders() {
   } Until RC < 1
   RecordSet.Free()
   if (StrLen(NotInDB) <> 0) {
-  	MsgBox The following are not in the database: %NotInDB%
+  	MsgBox 0, Information, The following are not in the database: %NotInDB%
   }
   if (StrLen(NotInFS) <> 0) {
-  	MsgBox The following are not in the file system: %NotInFS%
+  	MsgBox 0, Information, The following are not in the file system: %NotInFS%
   }
   if (StrLen(NotInDB) == 0 and StrLen(NotInFS) == 0) {
-  	MsgBox The database and file system are in sync.
+  	MsgBox 0, Information, The database and file system are in sync.
   }
 }
 

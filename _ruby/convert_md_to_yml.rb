@@ -40,6 +40,12 @@ Dir.glob("../_data_source/*.md") do |srcfn|
       tmp = "  Thumbnail: " + line[line.rindex("/")+1..-3] + line[-1..-1]
       tmp = tmp.gsub("%20", " ")
       dsth.write(tmp) unless dsth.nil?
+    elsif line.start_with?("# Width:")
+      tmp = "  " + line[2..-1]
+      dsth.write(tmp) unless dsth.nil?
+    elsif line.start_with?("# Offset:")
+      tmp = "  " + line[2..-1]
+      dsth.write(tmp) unless dsth.nil?
     elsif line.start_with?("# Sub-Image:")
       if simage == "no"
         simage = "yes"
