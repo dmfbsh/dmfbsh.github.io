@@ -18,6 +18,10 @@
 
 # Development
 
+style="float:right;"
+for the sub-images
+plus need padding 10px?
+
 ## Create a Reference Page
 
 
