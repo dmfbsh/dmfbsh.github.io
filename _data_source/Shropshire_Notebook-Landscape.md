@@ -135,3 +135,21 @@ TBD
 
 TBD
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/landscape/2019-05-27_12_38_42_DSC_4335_DxO.jpg)
+
+<!--Type: Item-->
+# Name: The Battle Stones, Willstone Hill
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/landscape/2020-02-08_14_09_50_DSC_6420_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Name: Caer Caradoc
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/landscape/2020-02-08_14_28_47_DSC_6442_DxO.jpg)
+
+<!--Type: Item-->
+# Name: The Gaer Stone, Hope Bowdler Hill
+
+TBD
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/landscape/2020-02-08_14_54_42_DSC_6484_DxO_bw.jpg)
