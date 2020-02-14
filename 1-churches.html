@@ -28,17 +28,23 @@ title: Churches of Shropshire
     <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" align="{{ orientation }}" style="max-width:100%">
     {{ item.Description | markdownify }}
     {% if item.Width %}
-{% if orientation == "right" %}
-    <div id="container" style="float:right;">
-{% else %}
-    <div id="container">
-{% endif %}
     {% if item.Width == "static" %}
+      {% if orientation == "right" %}
+      <div style="float:right;">
+      {% else %}
+      <div style="float:left;">
+      {% endif %}
     	{% for subimage in item.Sub-Images %}
     	<img src="assets/images/churches-sub/{{ subimage.Sub-Image }}" alt="" />
 		  {% endfor %}
+      </div>
     {% else %}
-    <div class="photobanner" style="height:240px;width:{{ item.Width }}px;">
+      {% if orientation == "right" %}
+      <div id="container" style="float:right;">
+      {% else %}
+      <div id="container">
+      {% endif %}
+      <div class="photobanner" style="height:240px;width:{{ item.Width }}px;">
     	{% for subimage in item.Sub-Images %}
     	{% if forloop.first %}
     	<img class="first{{ numrecs }}" src="assets/images/churches-sub/{{ subimage.Sub-Image }}" alt="" />
@@ -46,9 +52,9 @@ title: Churches of Shropshire
     	<img src="assets/images/churches-sub/{{ subimage.Sub-Image }}" alt="" />
 			{% endif %}
 		  {% endfor %}
-    </div>
+      </div>
+      </div>
     {% endif %}
-    </div>
     {% endif %}
   </div>
 {% comment %}

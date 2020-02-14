@@ -1,7 +1,7 @@
 ---
 ---
 
-#container{width:500px;overflow:hidden}
+#container{width:500px;overflow:hidden;margin: 0px 10px 0px 10px}
 
 .photobanner img{-webkit-transition:all .5s ease;-moz-transition:all .5s ease;-o-transition:all .5s ease;-ms-transition:all .5s ease;transition:all .5s ease}
 
