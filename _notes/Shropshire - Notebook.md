@@ -65,7 +65,7 @@ All assets relating to the project are held in my GitHub repository, which is cl
 
 7. Move the developed photo to the item's folder - use the Move function in the AHK Shropshire Photography application to do this<br/><br/>
 
-8. Edit photo as required with Affinity Photo and / or Perfectly Clear<br/><br/>
+8. Edit photo as required with Affinity Photo and / or Luminar<br/><br/>
 
 9. In the AHK Shropshire Photography application record any adjustments made in the photo editor(s)<br/><br/>
 

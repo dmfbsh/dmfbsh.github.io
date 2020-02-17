@@ -3,7 +3,7 @@
 <metadata>
 <name>Shropshire - Places</name>
 <desc>More places to add:</desc>
-<bounds minlat="52.434563" minlon="-3.006368" maxlat="52.864754" maxlon="-2.240093"/></metadata>
+<bounds minlat="52.434563" minlon="-3.006368" maxlat="52.864746" maxlon="-2.240093"/></metadata>
 <wpt gr:gr="SJ3828702057" lat="52.612782" lon="-2.912853">
 <ele>321.9</ele>
 <time>2020-02-12T09:26:44+00</time>
@@ -13,7 +13,7 @@
 <extensions>
 <number>28</number>
 <i:importance>0.280000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ4888412031" lat="52.703541" lon="-2.757910">
+<wpt gr:gr="SJ4888412030" lat="52.703541" lon="-2.757910">
 <ele>50.0</ele>
 <time>2020-02-12T09:22:01+00</time>
 <name>Shrewsbury - view point</name>
@@ -22,7 +22,7 @@
 <extensions>
 <number>27</number>
 <i:importance>0.270000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ6688103800" lat="52.630951" lon="-2.490758">
+<wpt gr:gr="SJ6688003799" lat="52.630951" lon="-2.490758">
 <ele>107.0</ele>
 <time>2020-02-12T09:15:17+00</time>
 <name>Ironbridge - The Rotunda</name>
@@ -30,7 +30,7 @@
 <extensions>
 <number>26</number>
 <i:importance>0.260000</i:importance></extensions></wpt>
-<wpt gr:gr="SO3234188967" lat="52.494408" lon="-2.997984">
+<wpt gr:gr="SO3234188966" lat="52.494408" lon="-2.997984">
 <ele>205.1</ele>
 <time>2020-02-12T09:11:17+00</time>
 <name>Bishop's Castle - House on Crutches</name>
@@ -70,9 +70,9 @@
 <time>2020-02-04T14:51:42+00</time>
 <name>Daniel's Mill</name>
 <desc>Opening Times
-			April to end of October
-			Open Thursday to Sunday 11am to 4pm
-		Open Bank Holiday Mondays</desc>
+April to end of October
+Open Thursday to Sunday 11am to 4pm
+Open Bank Holiday Mondays</desc>
 <link href="https://www.danielsmill.co.uk/"/>
 <sym>photo yellow</sym>
 <extensions>
@@ -113,50 +113,50 @@
 <name>White Ladies Priory</name>
 <desc>Open any reasonable time during daylight hours.
 
-		There is a limited amount of parking at White Ladies Priory. Access to the site is via public footpath. It is recommended that visitors park at nearby Boscobel House and use the permissive footpath leading to the Priory.</desc>
+There is a limited amount of parking at White Ladies Priory. Access to the site is via public footpath. It is recommended that visitors park at nearby Boscobel House and use the permissive footpath leading to the Priory.</desc>
 <link href="https://www.english-heritage.org.uk/visit/places/white-ladies-priory/"/>
 <sym>photo yellow</sym>
 <extensions>
 <number>8</number>
 <i:importance>0.007000</i:importance></extensions></wpt>
 <wpt gr:gr="SO5395992805" lat="52.531170" lon="-2.680138">
-<ele>204.0</ele>
+<ele>203.9</ele>
 <time>2020-01-16T21:37:14+00</time>
 <name>Wilderhope Manor</name>
 <desc>Open 2020 - 2pm to 4pm each day:
-			- Jan - Sundays
-			- Feb - Sundays
-			- Mar - Sundays
-			- Apr - Wednesdays and Sundays
-			- May - Wednesdays and Sundays
-			- Jun - Wednesdays and Sundays
-			- Jul - Wednesdays and Sundays
-			- Aug - Wednesdays and Sundays
-			- Sep - Wednesdays and Sundays
-			- Oct - Sundays
-			- Nov - Sundays
-		- Dec - Sundays excl. 27th</desc>
+- Jan - Sundays
+- Feb - Sundays
+- Mar - Sundays
+- Apr - Wednesdays and Sundays
+- May - Wednesdays and Sundays
+- Jun - Wednesdays and Sundays
+- Jul - Wednesdays and Sundays
+- Aug - Wednesdays and Sundays
+- Sep - Wednesdays and Sundays
+- Oct - Sundays
+- Nov - Sundays
+- Dec - Sundays excl. 27th</desc>
 <link href="https://www.nationaltrust.org.uk/wilderhope-manor"/>
 <sym>photo yellow</sym>
 <extensions>
 <number>9</number>
 <i:importance>0.008000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ6231829722" lat="52.863674" lon="-2.561159">
-<ele>70.0</ele>
+<wpt gr:gr="SJ6231829722" lat="52.863667" lon="-2.561159">
+<ele>70.1</ele>
 <time>2020-01-16T21:38:11+00</time>
 <name>Wollerton Old Hall Garden</name>
 <desc>2020 PUBLIC OPEN DAYS
 
-			Good Friday - End of May
-			Fridays, Sundays and Bank Holidays 12noon - 5pm
+Good Friday - End of May
+Fridays, Sundays and Bank Holidays 12noon - 5pm
 
-			National Garden Scheme open day 15th May. All entrance fee proceeds go to the nursing charities involved. Usual opening times apply. No concessions for RHS or HHA members on this day.
+National Garden Scheme open day 15th May. All entrance fee proceeds go to the nursing charities involved. Usual opening times apply. No concessions for RHS or HHA members on this day.
 
-			June, July and August
-			Thursdays, Fridays, Sundays and Bank Holidays 12noon - 5pm
+June, July and August
+Thursdays, Fridays, Sundays and Bank Holidays 12noon - 5pm
 
-			September
-		Fridays only 12noon - 5pm</desc>
+September
+Fridays only 12noon - 5pm</desc>
 <link href="http://www.wollertonoldhallgarden.com/"/>
 <sym>photo yellow</sym>
 <extensions>

@@ -18,10 +18,7 @@
 
 # Development
 
-Process images with Luminar
-Done
-- Acton Burrell church
-- Ightfield church
+Add function to go to published folder in ACDSee
 
 ## Create a Reference Page
 
