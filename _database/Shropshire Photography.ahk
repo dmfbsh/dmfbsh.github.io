@@ -130,12 +130,13 @@ if mode = 0
   Menu, ImageMenu, Add, View, MenuImageView
   Menu, ImageMenu, Add
   Menu, ImageMenu, Add, Move, MenuImageMove
+  Menu, PlaceMenu, Add, Create Folder, MenuCreateFolder
   Menu, PlaceMenu, Add, Edit Notes, MenuEditNotes
+  Menu, PlaceMenu, Add
+  Menu, PlaceMenu, Add, Goto Published in ACDSee, MenuGotoPublished
   Menu, PlaceMenu, Add
   Menu, PlaceMenu, Add, Generate Report, MenuGenerateReport
   Menu, PlaceMenu, Add, View Report, MenuViewReport
-  Menu, PlaceMenu, Add
-  Menu, PlaceMenu, Add, Create Folder, MenuCreateFolder
   Menu, ProjectMenu, Add, Status, MenuStatus
   Menu, ProjectMenu, Add
   Menu, ProjectMenu, Add, Compare Folders, MenuCompareFolders
@@ -353,6 +354,12 @@ MenuEditNotes:
 	Gui, Submit, NoHide
 	GuiValues()
 	SavePlace()
+  Return
+
+MenuGotoPublished:
+	IniRead, ImageBrowser, %A_ScriptDir%\Shropshire Photography.ini, Programs, ImageBrowser
+  TemPath := BasePath . "\" . argPlace
+  Run, "%ImageBrowser%" "%TemPath%"
   Return
 
 MenuGenerateReport:

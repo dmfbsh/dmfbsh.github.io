@@ -18,8 +18,6 @@
 
 # Development
 
-Add function to go to published folder in ACDSee
-
 ## Create a Reference Page
 
 
