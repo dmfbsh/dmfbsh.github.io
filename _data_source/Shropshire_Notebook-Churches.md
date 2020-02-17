@@ -29,7 +29,7 @@ Acton generally means "settlement by the oaks".
 This church is considered to be the finest Early English in Shropshore.  Unlike most English parish churches, Acton Burnell is built in a same style throughout.
 
 It features a corbel-table with many grotesque carvings.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2018-06-11_15_20_23_DSC_2625_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2018-06-11_15_20_23_DSC_2625_DxO_1.jpg)
 
 <!--Type: Item-->
 # Date: 12th-14th Century AD
@@ -38,7 +38,7 @@ It features a corbel-table with many grotesque carvings.
 A church that has suffered at the hands of 19th Century restorers.
 
 Much of the masonry is Medieval, but the windows were all renewed in the 19th Century.  The porch was added in 1722 and the north chapel in 1820.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-13_09_45_21_DSC_4603_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-13_09_45_21_DSC_4603_DxO_1.jpg)
 # Width: 1120
 # Offset: -572
 # Sub-Image: 2019-07-13_09_52_11_DSC_4607_DxO.jpg
@@ -53,7 +53,7 @@ Much of the masonry is Medieval, but the windows were all renewed in the 19th Ce
 The parish was originally part of the estates of Wenlock Priory from at least 1120 AD and the connection is reflected in the dedication to St Milburga.
 
 The chancel is possibly 14th Century (in the Middle Ages, Beckbury was a dependent chapelry of the parish of Holy Trinity, Much Wenlock).  The nave and the tower were added in 1731.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-02-01_13_03_53_DSC_6332_DxO_bw.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-02-01_13_03_53_DSC_6332_DxO_1.jpg)
 # Width: 2140
 # Offset: -1454
 # Sub-Image: 2020-02-01_12_48_58_DSC_6306_DxO.jpg
@@ -131,7 +131,7 @@ In the Domesday Book the village is referred to as 'Cardintine under the Fief of
 In the church is a large monument to Chief Justice of Leighton of Plaish (died 1607), this Jacobean monument is the earliest in Shropshire which depicts the deceased lying on his side. 
 
 Judge Leighton was known as 'the hanging judge' (as was Judge Jeffries) as he condemned so many people to be hanged.  Amongst those condemned by Leighton was a local builder, who had come to the judge to ask to be pardoned for his crime.  The Judge promised him that if he would build him the finest set of chimneys he had ever yet built he would spare his life.  The builder did construct the chimneys (on Plaish Hall).  But after completing the job the Judge ordered the mans' eyes to be put out, and for him to be hanged from the same chimneys he had just built (so that he could build no more chimneys ever finer).  It is said that one can see the rope with which the builder was hanged.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-02-08_13_22_42_DSC_6401_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-02-08_13_22_42_DSC_6401_DxO_1.jpg)
 # Width: 2317
 # Offset: -1757
 # Sub-Image: 2020-02-08_11_55_02_DSC_6349_DxO.jpg
@@ -201,7 +201,7 @@ The shingled spire is not quite symmetrical when seen from certain viewpoints.
 # Name: St Simon and St Jude, Cockshutt
 
 A plain brick building constructed to replace the medieval church (dedicated to St Helena) which fell into dis-repair. The church clock (made in 1789) is thought to be the only collaborative piece between two well-known Shropshire clockmakers - Bullock and Davies.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-18_14_53_43_DSC_5075_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-18_14_53_43_DSC_5075_DxO_1.jpg)
 # Width: static
 # Sub-Image: 2019-09-18_14_55_20_DSC_5076_DxO.jpg
 
@@ -245,7 +245,7 @@ Noted for its tower which is entirely octagonal from top to bottom and the only 
 The church is constructed of sandstone.
 
 Hodnet's name has Celtic origins derived from the Welsh hawdd meaning pleasant or peaceful and nant, a glen or valley.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-02_15_39_58_DSC_3481_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-02_15_39_58_DSC_3481_DxO_1.jpg)
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -267,7 +267,7 @@ Hope means an enclosed place or valley and Bagot is a derivation of Richard Baga
 Mentioned in the Doomsday book as Istefelt, the name Ightfield may derive from the Old English 'Ihtfeld' (Iht means creature and Feld means field), referring to the fact that the area was rural and farming was prevalent.  Alternatively, it is thought it could dervice from Giht, an ancient British river name.
 
 The church has 15th Century origins and was partly rebuilt in the 19th Century (although records show a church here dedicated to St John the Baptist in 1072 AD).
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-12-21_14_42_27_DSC_6010_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-12-21_14_42_27_DSC_6010_DxO_1.jpg)
 # Width: 1344
 # Offset: -674
 # Sub-Image: 2019-12-21_14_54_15_DSC_6034_DxO.jpg
@@ -331,7 +331,7 @@ The building is painted to look half-timbered.  However, the whole interior is w
 # Name: St Michael the Archangel, Llanyblodwel
 
 The present church was the result of rebuilding the old medieval church in stages between 1847 and 1853 by the then vicar.  The almost detached steeple was designed and added in 1855-6 by the same vicar, he was convinced that the shape would be stronger than the usual hollow spire construction where the thickness of the straight sides diminishes towards the apex.  The height is 104 ft (tower 57 ft and spire 47 ft).
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-03_11_19_00_DSC_4692_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-03_11_19_00_DSC_4692_DxO_bw.jpg)
 # Width: 1122
 # Offset: -562
 # Sub-Image: 2019-08-03_11_40_25_DSC_4701_DxO.jpg
@@ -412,7 +412,7 @@ The church stands very close to the river Vyrnwy.
 The medieval church was burnt by Owain Glyndwr in 1401.  The present church was built soon after.
 
 It is noted for being one of just a small number of half timbered churches in the country.  The entire structure is held together with just pegs.  The fact that the wattle and daub is narrower than the timbers shows the early construction of this church using this technique.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-01_11_14_24_DSC_4420_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-01_11_14_24_DSC_4420_DxO_1.jpg)
 # Width: 1522
 # Offset: -762
 # Sub-Image: 2019-06-01_11_16_57_DSC_4422_DxO.jpg
@@ -488,7 +488,7 @@ In 642 AD Oswald, the King of Northumbria who had previously converted to Christ
 The present church was built in the 13th Century.  Only the lower parts of the tower remain from the original building as the church was heavily damaged in the Civil War (having been used as a lookout tower).  The church was rebuilt in the 17th Century and further restored in the 19th Century.  Most of the windows are Victorian.
 
 The church has a memorial to the Yale family - a descendant of the figures in the memorial made his fortune in India in the 18th Century and gave his money to a fledgling university in the USA - Yale.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-01_14_35_20_DSC_4491_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-01_14_35_20_DSC_4491_DxO_1.jpg)
 # Width: static
 # Sub-Image: 2019-06-01_13_55_10_DSC_4469_DxO.jpg
 # Sub-Image: 2019-06-01_13_57_28_DSC_4473_DxO.jpg
@@ -509,7 +509,7 @@ Although the exterior is plain, the interior contains many items collected from 
 The church founded and built by Ralph de Pitchford.
 
 Noted for a solid oak carved tomb effigy (one of only three in the country) of a crusader called Sir John De Pitchford.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-19_16_04_01_DSC_4544_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-06-19_16_04_01_DSC_4544_DxO_1.jpg)
 # Width: 1522
 # Offset: -762
 # Sub-Image: 2019-06-19_15_56_04_DSC_4539_DxO.jpg
@@ -625,7 +625,7 @@ Smethcott means "the smith's cottage".
 # Name: St Luke, Snailbeach
 
 A somewhat austere chapel.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO_1.jpg)
 # Width: static
 # Sub-Image: 2019-05-06_11_37_16_DSC_4154_DxO.jpg
 
@@ -675,7 +675,7 @@ The present church was preceeded by a Saxon or Norman church, a medieval buildin
 Welshampton is recorded in the Domesday book as Hantone, meaning high settlement.
 
 An African prince is buried in the churchyard - the then vicar was as offered a post in Lesotho, which he turned down but maintained contact with the country.  The prince came to England to train as a priest and visited Welshampton when the new church was consecrated in 1863, but during the visit he caught a fever and died and so was buried at the church.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-21_13_20_12_DSC_4685_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-21_13_20_12_DSC_4685_DxO_1.jpg)
 
 <!--Type: Item-->
 # Date: 14th Century AD

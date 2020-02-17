@@ -140,6 +140,8 @@ if mode = 0
   Menu, ProjectMenu, Add
   Menu, ProjectMenu, Add, Compare Folders, MenuCompareFolders
   Menu, ProjectMenu, Add, Compare ACDSee, MenuCompareACDSee
+  Menu, ProjectMenu, Add
+  Menu, ProjectMenu, Add, Unused Images, MenuUnusedImages
   Menu, HelpMenu, Add, Test, MenuTest
   Menu, HelpMenu, Add, About, MenuAbout
   Menu, MyMenuBar, Add, File, :FileMenu
@@ -149,7 +151,7 @@ if mode = 0
   Menu, MyMenuBar, Add, Help, :HelpMenu
   Gui, Menu, MyMenuBar
 
-	Gui +Resize +MinSize450x460
+	Gui +Resize +MinSize450x410
 	Gui, Add, Text, xm section w120 h20, Places:
 	Gui, Add, DropDownList, ys vPlace gPlace w300 h180, Empty|Null
 	GuiControl, , Place, %ListOfPlaces%
@@ -179,11 +181,11 @@ if mode = 0
 	Gui, Add, Text, xm section w120 h20, DxO PhotoLab Notes:
 	Gui, Add, Edit, ys vDxOPLNotes +Wrap w500 h50,
 
-	Gui, Add, Text, xm section w120 h20, Affinity Photo Notes:
+	Gui, Add, Text, xm section w120 h20, Other Edits Notes:
 	Gui, Add, Edit, ys vAffinityNotes +Wrap w500 h50,
 
-	Gui, Add, Text, xm section w120 h20, PerfectlyClear Notes:
-	Gui, Add, Edit, ys vPClearNotes +Wrap w500 h50,
+;	Gui, Add, Text, xm section w120 h20, PerfectlyClear Notes:
+;	Gui, Add, Edit, ys vPClearNotes +Wrap w500 h50,
 
 	Gui, Add, Text, xm section w120 h20, DxO Silver Efex Preset:
 	Gui, Add, DropDownList, ys vDxOSEPreset w300 h180, %gSilverEfexPresets%
@@ -213,7 +215,7 @@ if mode = 0
 
   Gui, Add, StatusBar, ,
 
-	Gui, Show, w750 h460, Shropshire Photography
+	Gui, Show, w750 h410, Shropshire Photography
 
 	GuiControl, ChooseString, Place, %argPlace%
 	SB_SetParts(200)
@@ -253,9 +255,9 @@ GuiSize:
   GuiControl, Move, DxOPLNotes, % "w" .  A_GuiWidth - 150
   GuiControl, Move, DxOSEPreset, % "w" .  A_GuiWidth - 150
   GuiControl, Move, AffinityNotes, % "w" .  A_GuiWidth - 150
-  GuiControl, Move, PClearNotes, % "w" .  A_GuiWidth - 150
+;  GuiControl, Move, PClearNotes, % "w" .  A_GuiWidth - 150
   GuiControl, Move, SilverEfexNotes, % "w" .  A_GuiWidth - 150
-  GuiControl, Move, Overview, % "w" .  A_GuiWidth - 150 "h" . A_GuiHeight - 380
+  GuiControl, Move, Overview, % "w" .  A_GuiWidth - 150 "h" . A_GuiHeight - 330
   Return
 
 MenuSave:
@@ -299,16 +301,15 @@ MenuImageMove:
 	FirstPlace := True
 	Loop, Files, %TmpPath%, F
   {
-		if StrLen(ListOfImages) > 1
-		{
-			ListOfImages := ListOfImages . "|"
-			if FirstPlace
-			{
-				FirstPlace := False
-				ListOfImages := ListOfImages . "|"
-			}
-		}
 		ListOfImages := ListOfImages . A_LoopFileName
+		if FirstPlace
+		{
+			FirstPlace := False
+			ListOfImages := ListOfImages . "||"
+		}
+		else {
+			ListOfImages := ListOfImages . "|"
+		}
   }
   if StrLen(ListOfImages) > 1
   {
@@ -410,6 +411,128 @@ MenuCompareFolders:
 MenuCompareACDSee:
 	ImportACDSee()
   Return
+
+MenuUnusedImages:
+	SQL := "DELETE FROM Compare_Temp;"
+  DB.Exec(SQL)
+	Progress, R0-25, , Importing Asset and MD Lists, Database Update
+  UnusedImagesLoadAssets("Castle", "castles")
+  Progress, 1
+  UnusedImagesLoadAssets("Church", "churches")
+  Progress, 2
+  UnusedImagesLoadAssets("Folklore", "folklore")
+  Progress, 3
+  UnusedImagesLoadAssets("Garden", "gardens")
+  Progress, 4
+  UnusedImagesLoadAssets("History", "history")
+  Progress, 5
+  UnusedImagesLoadAssets("House", "houses")
+  Progress, 6
+  UnusedImagesLoadAssets("Landscape", "landscape")
+  Progress, 7
+  UnusedImagesLoadAssets("Miscellaneous", "miscellaneous")
+  Progress, 8
+  UnusedImagesLoadAssets("People", "people")
+  Progress, 9
+  UnusedImagesLoadAssets("Place", "places")
+  Progress, 10
+  UnusedImagesLoadMD("Castle", "Shropshire_Notebook-Castles.md")
+  Progress, 11
+  UnusedImagesLoadMD("Church", "Shropshire_Notebook-Churches.md")
+  Progress, 12
+  UnusedImagesLoadMD("Folklore", "Shropshire_Notebook-Folklore.md")
+  Progress, 13
+  UnusedImagesLoadMD("Garden", "Shropshire_Notebook-Gardens.md")
+  Progress, 14
+  UnusedImagesLoadMD("History", "Shropshire_Notebook-History.md")
+  Progress, 15
+  UnusedImagesLoadMD("House", "Shropshire_Notebook-Houses.md")
+  Progress, 16
+  UnusedImagesLoadMD("Landscape", "Shropshire_Notebook-Landscape.md")
+  Progress, 17
+  UnusedImagesLoadMD("Miscellaneous", "Shropshire_Notebook-Miscellaneous.md")
+  Progress, 18
+  UnusedImagesLoadMD("People", "Shropshire_Notebook-People.md")
+  Progress, 19
+  UnusedImagesLoadMD("Place", "Shropshire_Notebook-Bridgnorth.md")
+  Progress, 20
+  UnusedImagesLoadMD("Place", "Shropshire_Notebook-Ludlow.md")
+  Progress, 21
+  UnusedImagesLoadMD("Place", "Shropshire_Notebook-Oswestry.md")
+  Progress, 22
+  UnusedImagesLoadMD("Place", "Shropshire_Notebook-Shrewsbury.md")
+  Progress, 23
+  UnusedImagesLoadMD("Place", "Shropshire_Notebook-Telford.md")
+  Progress, 24
+  UnusedImagesLoadMD("Place", "Shropshire_Notebook-Whtchurch.md")
+	Progress, Off
+
+  Gui, UnusedView:Add, ListView, r25 w820, What|Status|FileName
+  Gui, UnusedView:Default
+
+  RecordSet := ""
+  SQL := "SELECT What, FileName FROM Compare_Temp WHERE What = 'Church' AND Type = 'Asset' AND FileName NOT IN (SELECT FileName FROM Compare_Temp WHERE What = 'Church' AND Type = 'MD');"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0)
+    {
+      LV_Add("", Row[1], "In Asset but not used in MD", Row[2])
+    }
+  } Until RC < 1
+  RecordSet.Free()
+  RecordSet := ""
+  SQL := "SELECT What, FileName FROM Compare_Temp WHERE What = 'Church' AND Type = 'MD' AND FileName NOT IN (SELECT FileName FROM Compare_Temp WHERE What = 'Church' AND Type = 'Asset');"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0)
+    {
+      LV_Add("", Row[1], "In MD but has no Asset", Row[2])
+    }
+  } Until RC < 1
+  RecordSet.Free()
+
+  LV_ModifyCol()
+
+  Gui, UnusedView:Add, Button, xm section w50 h20, Close
+  Gui, UnusedView:Show, w840 h530, Shropshire Photography
+  Gui, 1:Default
+
+  Return
+
+UnusedViewButtonClose:
+	Gui, UnusedView:Destroy
+	Return
+
+UnusedImagesLoadAssets(pWhat, pAsset) {
+	global
+	TmpPath := A_ScriptDir . "\..\assets\images\" . pAsset . "\*.jpg"
+	Loop, Files, %TmpPath%, F
+	{
+		if A_LoopFileName <> photo-needed.jpg
+		{
+			SQL := "INSERT INTO Compare_Temp (What, Type, FileName) VALUES ('" . pWhat . "', 'Asset', '" . A_LoopFileName . "');"
+			DB.Exec(SQL)
+		}
+  }
+}
+
+UnusedImagesLoadMD(pWhat, pFilename) {
+	global
+	TmpPath := A_ScriptDir . "\..\_data_source\" . pFilename
+  Loop, Read, %TmpPath%
+  {
+  	if InStr(A_LoopReadLine, "![](") == 1
+  	{
+  		si := InStr(A_LoopReadLine, "/", False, -1)
+  		ei := InStr(A_LoopReadLine, ".jpg", False, -1)
+  		TmpName := SubStr(A_LoopReadLine, si + 1, (ei - si) + 3)
+			SQL := "INSERT INTO Compare_Temp (What, Type, FileName) VALUES ('" . pWhat . "', 'MD', '" . TmpName . "');"
+			DB.Exec(SQL)
+  	}
+  }
+}
 
 MenuTest:
   Return
@@ -639,7 +762,7 @@ DisplayStatus() {
 	{
 		statusOP := """" . A_LoopFileName . """"
 	  RecordSet := ""
-  	SQL := "SELECT Category1, Category2, Original, DxOPLPreset, DxOPLNotes, AffinityNotes, PerfectlyClearNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes FROM Place WHERE Name=""" . A_LoopFileName . """;"
+  	SQL := "SELECT Category1, Category2, Original, DxOPLPreset, DxOPLNotes, AffinityNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes FROM Place WHERE Name=""" . A_LoopFileName . """;"
 	  DB.Query(SQL, RecordSet)
 	  placeFound := false
   	Loop {
@@ -1115,7 +1238,7 @@ DrawGUI()
 		GuiControl, ChooseString, DxOPLPreset, %NDxOPLPreset%
 		GuiControl, Text, DxOPLNotes, %NDxOPLNotes%
 		GuiControl, Text, AffinityNotes, %NAffinityNotes%
-		GuiControl, Text, PClearNotes, %NPClearNotes%
+;		GuiControl, Text, PClearNotes, %NPClearNotes%
 		GuiControl, ChooseString, DxOSEPreset, %NDxOSEPreset%
 		GuiControl, Text, SilverEfexNotes, %NSilverEfexNotes%
 ;		GuiControl, , SubjectNotes, %NSubjectNotes%
@@ -1152,7 +1275,7 @@ GUIValues()
 		NDxOPLPreset := DxOPLPreset
 		NDxOPLNotes := DxOPLNotes
 		NAffinityNotes := AffinityNotes
-		NPClearNotes := PClearNotes
+;		NPClearNotes := PClearNotes
 		NDxOSEPreset := DxOSEPreset
 		NSilverEfexNotes := SilverEfexNotes
 ;		NSubjectNotes := SubjectNotes
@@ -1251,7 +1374,7 @@ SavePlace() {
     SQL := SQL . "DxOPLPreset=""" . NDxOPLPreset . """, "
     SQL := SQL . "DxOPLNotes=""" . StringToDB(NDxOPLNotes) . """, "
     SQL := SQL . "AffinityNotes=""" . StringToDB(NAffinityNotes) . """, "
-    SQL := SQL . "PerfectlyClearNotes=""" . StringToDB(NPClearNotes) . """, "
+;    SQL := SQL . "PerfectlyClearNotes=""" . StringToDB(NPClearNotes) . """, "
     SQL := SQL . "SilverEfexPreset=""" . NDxOSEPreset . """, "
     SQL := SQL . "SilverEfexNotes=""" . StringToDB(NSilverEfexNotes) . """, "
     SQL := SQL . "GeneralNotes=""" . StringToDB(NOverview) . """ "
@@ -1260,7 +1383,7 @@ SavePlace() {
 ;    SQL := SQL . "TickComplete=" . NComplete . " "
     SQL := SQL . "WHERE Name=""" . argPlace . """;"
   } else {
-    SQL := "INSERT INTO Place (Name, Category1, Category2, Original, OrigName, DxOPLPreset, DxOPLNotes, AffinityNotes, PerfectlyClearNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes) VALUES ("
+    SQL := "INSERT INTO Place (Name, Category1, Category2, Original, OrigName, DxOPLPreset, DxOPLNotes, AffinityNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes) VALUES ("
     SQL := SQL . """" . argPlace . """, "
     SQL := SQL . """" . NCategory1 . """, "
     SQL := SQL . """" . NCategory2 . """, "
@@ -1269,7 +1392,7 @@ SavePlace() {
     SQL := SQL . """" . NDxOPLPreset . """, "
     SQL := SQL . """" . StringToDB(NDxOPLNotes) . """, "
     SQL := SQL . """" . StringToDB(NAffinityNotes) . """, "
-    SQL := SQL . """" . StringToDB(NPClearNotes) . """, "
+;    SQL := SQL . """" . StringToDB(NPClearNotes) . """, "
     SQL := SQL . """" . NDxOSEPreset . """, "
     SQL := SQL . """" . StringToDB(NSilverEfexNotes) . """, "
     SQL := SQL . """" . StringToDB(NOverview) . """ "
@@ -1293,7 +1416,7 @@ LoadPlace() {
 	NDxOPLPreset := "1 - DxO Standard"
 	NDxOPLNotes := ""
 	NAffinityNotes := ""
-	NPClearNotes := ""
+;	NPClearNotes := ""
 	NDxOSEPreset := "DxO Silver Efex Not Used"
 	NSilverEfexNotes := ""
 ;	if FileExist(BasePath . "\" . argPlace . "\*.pdf")
@@ -1307,7 +1430,7 @@ LoadPlace() {
 ;	NComplete := false
 	NHasFile := false
   RecordSet := ""
-  SQL := "SELECT Category1, Category2, Original, DxOPLPreset, DxOPLNotes, AffinityNotes, PerfectlyClearNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes FROM Place WHERE Name=""" . argPlace . """;"
+  SQL := "SELECT Category1, Category2, Original, DxOPLPreset, DxOPLNotes, AffinityNotes, SilverEfexPreset, SilverEfexNotes, GeneralNotes FROM Place WHERE Name=""" . argPlace . """;"
   DB.Query(SQL, RecordSet)
   Loop {
     RC := RecordSet.Next(Row)
@@ -1318,10 +1441,10 @@ LoadPlace() {
     	NDxOPLPreset := Row[4]
 			NDxOPLNotes := StringFromDB(Row[5])
 			NAffinityNotes := StringFromDB(Row[6])
-			NPClearNotes := StringFromDB(Row[7])
-			NDxOSEPreset := Row[8]
-			NSilverEfexNotes := StringFromDB(Row[9])
-			NOverview := StringFromDB(Row[10])
+;			NPClearNotes := StringFromDB(Row[7])
+			NDxOSEPreset := Row[7]
+			NSilverEfexNotes := StringFromDB(Row[8])
+			NOverview := StringFromDB(Row[9])
 ;			NWebNotes := Row[11]
 ;			NComplete := Row[12]
 			NHasFile := true

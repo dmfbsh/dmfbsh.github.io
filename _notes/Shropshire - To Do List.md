@@ -18,9 +18,10 @@
 
 # Development
 
-style="float:right;"
-for the sub-images
-plus need padding 10px?
+Process images with Luminar
+Done
+- Acton Burrell church
+- Ightfield church
 
 ## Create a Reference Page
 
