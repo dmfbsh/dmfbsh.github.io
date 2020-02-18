@@ -28,7 +28,7 @@ The Eckford Sweet Pea Society of Wem held a festival each July from 1989 to 2019
 # Name: Stone Cross, Bitterley
 
 Dating from the 14th Century, a stone cross in the churchyard of St Mary's church at Bitterley.  This one is thought to be the finest surviving stone cross in the county.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2019-08-26_14_13_36_DSC_4874_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2019-08-26_14_13_36_DSC_4874_DxO_1.jpg)
 
 <!--Type: Item-->
 # Name: Coalbrookdale
