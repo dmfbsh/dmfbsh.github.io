@@ -3,147 +3,23 @@
 <metadata>
 <name>Shropshire - Places</name>
 <desc>More places to add:</desc>
-<bounds minlat="52.382805" minlon="-3.039212" maxlat="52.995575" maxlon="-2.239814"/></metadata>
-<wpt gr:gr="SJ3034038010" lat="52.934967" lon="-3.037863">
-<ele>93.0</ele>
-<time>2020-02-18T16:03:48+00</time>
-<name>HHA - Brynkinalt</name>
+<bounds minlat="52.382805" minlon="-3.039213" maxlat="52.995575" maxlon="-2.239814"/></metadata>
+<wpt gr:gr="SO7668699344" lat="52.591404" lon="-2.345575">
+<ele>60.0</ele>
+<time>2020-02-19T13:16:35+00</time>
+<name>Badger Dingle</name>
+<desc>Has a waterfall.</desc>
 <sym>yellow photo</sym>
 <extensions>
-<number>40</number>
-<i:importance>0.400000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ8065810677" lat="52.693451" lon="-2.287595">
-<ele>109.1</ele>
-<time>2020-02-18T15:42:41+00</time>
-<name>HHA - Weston Park</name>
-<link href="https://www.historichouses.org/houses/house-listing/weston-park.html"/>
-<sym>yellow photo</sym>
-<extensions>
-<number>39</number>
-<i:importance>0.390000</i:importance></extensions></wpt>
-<wpt gr:gr="SO3476185059" lat="52.459583" lon="-2.961578">
-<ele>171.9</ele>
-<time>2020-02-18T15:41:07+00</time>
-<name>HHA - Walcot Hall</name>
-<link href="https://www.historichouses.org/houses/house-listing/walcot-hall.html"/>
-<sym>yellow photo</sym>
-<extensions>
-<number>38</number>
-<i:importance>0.380000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ7655804356" lat="52.636463" lon="-2.347821">
-<ele>75.9</ele>
-<time>2020-02-18T15:39:15+00</time>
-<name>HHA - Hatton Grange</name>
-<link href="https://www.historichouses.org/houses/house-listing/hatton-grange.html"/>
-<sym>yellow photo</sym>
-<extensions>
-<number>37</number>
-<i:importance>0.370000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ5912944275" lat="52.994259" lon="-2.610349">
-<ele>79.9</ele>
-<time>2020-02-18T15:35:16+00</time>
-<name>HHA - Combermere Abbey</name>
-<link href="https://www.historichouses.org/houses/house-listing/combermere-abbey.html"/>
-<sym>yellow photo</sym>
-<extensions>
-<number>36</number>
-<i:importance>0.360000</i:importance></extensions></wpt>
-<wpt gr:gr="SO3886276579" lat="52.383823" lon="-2.899675">
-<ele>132.0</ele>
-<time>2020-02-18T15:33:35+00</time>
-<name>HHA - Broadward Hall Estate</name>
-<link href="https://www.historichouses.org/houses/house-listing/broadward-hall-estate.html"/>
-<sym>yellow photo</sym>
-<extensions>
-<number>35</number>
-<i:importance>0.350000</i:importance></extensions></wpt>
-<wpt gr:gr="SO6728999168" lat="52.589336" lon="-2.484270">
-<ele>135.0</ele>
-<time>2020-02-18T15:31:25+00</time>
-<name>HHA - Willey Park</name>
-<link href="https://www.historichouses.org/houses/house-listing/willey-park.html"/>
-<sym>yellow photo</sym>
-<extensions>
-<number>34</number>
-<i:importance>0.340000</i:importance></extensions></wpt>
-<wpt gr:gr="SO4443178655" lat="52.403080" lon="-2.818206">
-<ele>143.0</ele>
-<time>2020-02-18T15:29:35+00</time>
-<name>HHA - Stokesay Court</name>
-<link href="https://www.historichouses.org/houses/house-listing/stokesay-court.html"/>
-<sym>yellow photo</sym>
-<extensions>
-<number>33</number>
-<i:importance>0.330000</i:importance></extensions></wpt>
-<wpt gr:gr="SO5265988369" lat="52.491188" lon="-2.698668">
-<ele>146.9</ele>
-<time>2020-02-18T15:27:13+00</time>
-<name>HHA - Millichope Park</name>
-<link href="https://www.historichouses.org/houses/house-listing/millichope-park.html"/>
-<sym>yellow photo</sym>
-<extensions>
-<number>32</number>
-<i:importance>0.320000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ5046342019" lat="52.973240" lon="-2.739120">
-<ele>86.0</ele>
-<time>2020-02-18T15:23:05+00</time>
-<name>HHA - Iscoyd Park</name>
-<link href="https://www.historichouses.org/houses/house-listing/iscoyd-park.html"/>
-<sym>yellow photo</sym>
-<extensions>
-<number>31</number>
-<i:importance>0.310000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ3756434236" lat="52.901936" lon="-2.929654">
-<ele>107.0</ele>
-<time>2020-02-18T15:20:56+00</time>
-<name>HHA - Hardwick</name>
-<link href="https://www.historichouses.org/houses/house-listing/hardwick.html"/>
-<sym>yellow photo</sym>
-<extensions>
-<number>30</number>
-<i:importance>0.300000</i:importance></extensions></wpt>
-<wpt gr:gr="SO6705495362" lat="52.555115" lon="-2.487359">
-<ele>130.1</ele>
-<time>2020-02-18T15:16:49+00</time>
-<name>HHA - Aldenham Park</name>
-<link href="https://www.historichouses.org/houses/house-listing/aldenham-park.html"/>
-<sym>yellow photo</sym>
-<extensions>
-<number>29</number>
-<i:importance>0.290000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ3828702057" lat="52.612782" lon="-2.912853">
-<ele>321.9</ele>
-<time>2020-02-12T09:26:44+00</time>
-<name>The Stiperstones - The Hollies</name>
-<desc>The Hollies nature reserve, home to Holly trees of exceptional character and age - some are over three centuries old.</desc>
-<sym>yellow photo</sym>
-<extensions>
-<number>28</number>
-<i:importance>0.280000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ4888412030" lat="52.703541" lon="-2.757910">
-<ele>50.0</ele>
-<time>2020-02-12T09:22:01+00</time>
-<name>Shrewsbury - view point</name>
-<desc>Somewhere round here is a good view point to photograph the Shrewsbury skyline.</desc>
-<sym>yellow photo</sym>
-<extensions>
-<number>27</number>
-<i:importance>0.270000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ6688003799" lat="52.630951" lon="-2.490758">
-<ele>107.0</ele>
-<time>2020-02-12T09:15:17+00</time>
-<name>Ironbridge - The Rotunda</name>
-<sym>yellow photo</sym>
-<extensions>
-<number>26</number>
-<i:importance>0.260000</i:importance></extensions></wpt>
+<number>1</number>
+<i:importance>0.410000</i:importance></extensions></wpt>
 <wpt gr:gr="SO3234188966" lat="52.494408" lon="-2.997984">
 <ele>205.1</ele>
 <time>2020-02-12T09:11:17+00</time>
 <name>Bishop's Castle - House on Crutches</name>
 <sym>yellow photo</sym>
 <extensions>
-<number>25</number>
+<number>2</number>
 <i:importance>0.250000</i:importance></extensions></wpt>
 <wpt gr:gr="SJ3779901126" lat="52.604359" lon="-2.919884">
 <ele>413.9</ele>
@@ -151,7 +27,7 @@
 <name>Blakemoorgate Cottages</name>
 <sym>yellow photo</sym>
 <extensions>
-<number>24</number>
+<number>3</number>
 <i:importance>0.240000</i:importance></extensions></wpt>
 <wpt gr:gr="SJ8377508277" lat="52.671970" lon="-2.241371">
 <ele>151.0</ele>
@@ -161,7 +37,7 @@
 <link href="https://www.english-heritage.org.uk/visit/places/boscobel-house-and-the-royal-oak/"/>
 <sym>photo yellow</sym>
 <extensions>
-<number>1</number>
+<number>4</number>
 <i:importance>0.001000</i:importance></extensions></wpt>
 <wpt gr:gr="SJ5938004542" lat="52.637119" lon="-2.601668">
 <ele>40.0</ele>
@@ -170,7 +46,7 @@
 <desc>Good place to take a photo of the Wrekin.</desc>
 <sym>photo yellow</sym>
 <extensions>
-<number>2</number>
+<number>5</number>
 <i:importance>0.010000</i:importance></extensions></wpt>
 <wpt gr:gr="SO7178691753" lat="52.522930" lon="-2.417258">
 <ele>39.0</ele>
@@ -183,8 +59,124 @@ Open Bank Holiday Mondays</desc>
 <link href="https://www.danielsmill.co.uk/"/>
 <sym>photo yellow</sym>
 <extensions>
-<number>3</number>
+<number>6</number>
 <i:importance>0.002000</i:importance></extensions></wpt>
+<wpt gr:gr="SO6705495362" lat="52.555115" lon="-2.487359">
+<ele>130.1</ele>
+<time>2020-02-18T15:16:49+00</time>
+<name>HHA - Aldenham Park</name>
+<link href="https://www.historichouses.org/houses/house-listing/aldenham-park.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>7</number>
+<i:importance>0.290000</i:importance></extensions></wpt>
+<wpt gr:gr="SO3886276579" lat="52.383823" lon="-2.899675">
+<ele>132.0</ele>
+<time>2020-02-18T15:33:35+00</time>
+<name>HHA - Broadward Hall Estate</name>
+<link href="https://www.historichouses.org/houses/house-listing/broadward-hall-estate.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>8</number>
+<i:importance>0.350000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3033938010" lat="52.934967" lon="-3.037863">
+<ele>93.0</ele>
+<time>2020-02-18T16:03:48+00</time>
+<name>HHA - Brynkinalt</name>
+<link href="https://www.historichouses.org/houses/house-listing/brynkinalt.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>9</number>
+<i:importance>0.400000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5912944275" lat="52.994259" lon="-2.610349">
+<ele>79.9</ele>
+<time>2020-02-18T15:35:16+00</time>
+<name>HHA - Combermere Abbey</name>
+<link href="https://www.historichouses.org/houses/house-listing/combermere-abbey.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>10</number>
+<i:importance>0.360000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3756434236" lat="52.901936" lon="-2.929654">
+<ele>107.0</ele>
+<time>2020-02-18T15:20:56+00</time>
+<name>HHA - Hardwick Hall</name>
+<link href="https://www.historichouses.org/houses/house-listing/hardwick.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>11</number>
+<i:importance>0.300000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7655804356" lat="52.636463" lon="-2.347821">
+<ele>75.9</ele>
+<time>2020-02-18T15:39:15+00</time>
+<name>HHA - Hatton Grange</name>
+<link href="https://www.historichouses.org/houses/house-listing/hatton-grange.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>12</number>
+<i:importance>0.370000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5046342019" lat="52.973240" lon="-2.739120">
+<ele>86.0</ele>
+<time>2020-02-18T15:23:05+00</time>
+<name>HHA - Iscoyd Park</name>
+<link href="https://www.historichouses.org/houses/house-listing/iscoyd-park.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>13</number>
+<i:importance>0.310000</i:importance></extensions></wpt>
+<wpt gr:gr="SO5265988369" lat="52.491188" lon="-2.698668">
+<ele>146.9</ele>
+<time>2020-02-18T15:27:13+00</time>
+<name>HHA - Millichope Park</name>
+<link href="https://www.historichouses.org/houses/house-listing/millichope-park.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>14</number>
+<i:importance>0.320000</i:importance></extensions></wpt>
+<wpt gr:gr="SO4443178655" lat="52.403080" lon="-2.818206">
+<ele>143.0</ele>
+<time>2020-02-18T15:29:35+00</time>
+<name>HHA - Stokesay Court</name>
+<link href="https://www.historichouses.org/houses/house-listing/stokesay-court.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>15</number>
+<i:importance>0.330000</i:importance></extensions></wpt>
+<wpt gr:gr="SO3476185059" lat="52.459583" lon="-2.961578">
+<ele>171.9</ele>
+<time>2020-02-18T15:41:07+00</time>
+<name>HHA - Walcot Hall</name>
+<link href="https://www.historichouses.org/houses/house-listing/walcot-hall.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>16</number>
+<i:importance>0.380000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ8065810677" lat="52.693451" lon="-2.287595">
+<ele>109.1</ele>
+<time>2020-02-18T15:42:41+00</time>
+<name>HHA - Weston Park</name>
+<link href="https://www.historichouses.org/houses/house-listing/weston-park.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>17</number>
+<i:importance>0.390000</i:importance></extensions></wpt>
+<wpt gr:gr="SO6728999168" lat="52.589336" lon="-2.484270">
+<ele>135.0</ele>
+<time>2020-02-18T15:31:25+00</time>
+<name>HHA - Willey Park</name>
+<link href="https://www.historichouses.org/houses/house-listing/willey-park.html"/>
+<sym>yellow photo</sym>
+<extensions>
+<number>18</number>
+<i:importance>0.340000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6688003799" lat="52.630951" lon="-2.490758">
+<ele>107.0</ele>
+<time>2020-02-12T09:15:17+00</time>
+<name>Ironbridge - The Rotunda</name>
+<sym>yellow photo</sym>
+<extensions>
+<number>19</number>
+<i:importance>0.260000</i:importance></extensions></wpt>
 <wpt gr:gr="SJ7382314204" lat="52.724869" lon="-2.389007">
 <ele>98.0</ele>
 <time>2020-02-04T15:00:15+00</time>
@@ -193,7 +185,7 @@ Open Bank Holiday Mondays</desc>
 <link href="https://www.english-heritage.org.uk/visit/places/lilleshall-abbey/"/>
 <sym>photo yellow</sym>
 <extensions>
-<number>4</number>
+<number>20</number>
 <i:importance>0.003000</i:importance></extensions></wpt>
 <wpt gr:gr="SJ7478214739" lat="52.729717" lon="-2.374863">
 <ele>137.0</ele>
@@ -202,8 +194,17 @@ Open Bank Holiday Mondays</desc>
 <desc>There are two walks from here a 2.5 mile walk and a 6 mile walk.</desc>
 <sym>photo yellow</sym>
 <extensions>
-<number>5</number>
+<number>21</number>
 <i:importance>0.004000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4888412030" lat="52.703541" lon="-2.757910">
+<ele>50.0</ele>
+<time>2020-02-12T09:22:01+00</time>
+<name>Shrewsbury - view point</name>
+<desc>Somewhere round here is a good view point to photograph the Shrewsbury skyline.</desc>
+<sym>yellow photo</sym>
+<extensions>
+<number>22</number>
+<i:importance>0.270000</i:importance></extensions></wpt>
 <wpt gr:gr="SO5675982308" lat="52.437042" lon="-2.637499">
 <ele>221.0</ele>
 <time>2020-02-04T15:09:53+00</time>
@@ -212,8 +213,17 @@ Open Bank Holiday Mondays</desc>
 <link href="https://www.sstm.uk/page/st-milburga-s-well"/>
 <sym>photo yellow</sym>
 <extensions>
-<number>7</number>
+<number>23</number>
 <i:importance>0.006000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3828702057" lat="52.612782" lon="-2.912853">
+<ele>321.9</ele>
+<time>2020-02-12T09:26:44+00</time>
+<name>The Stiperstones - The Hollies</name>
+<desc>The Hollies nature reserve, home to Holly trees of exceptional character and age - some are over three centuries old.</desc>
+<sym>yellow photo</sym>
+<extensions>
+<number>24</number>
+<i:importance>0.280000</i:importance></extensions></wpt>
 <wpt gr:gr="SJ8259007724" lat="52.666962" lon="-2.258866">
 <ele>110.0</ele>
 <time>2020-02-04T15:03:20+00</time>
@@ -224,7 +234,7 @@ There is a limited amount of parking at White Ladies Priory. Access to the site 
 <link href="https://www.english-heritage.org.uk/visit/places/white-ladies-priory/"/>
 <sym>photo yellow</sym>
 <extensions>
-<number>8</number>
+<number>25</number>
 <i:importance>0.007000</i:importance></extensions></wpt>
 <wpt gr:gr="SO5395992805" lat="52.531170" lon="-2.680138">
 <ele>203.9</ele>
@@ -246,7 +256,7 @@ There is a limited amount of parking at White Ladies Priory. Access to the site 
 <link href="https://www.nationaltrust.org.uk/wilderhope-manor"/>
 <sym>photo yellow</sym>
 <extensions>
-<number>9</number>
+<number>26</number>
 <i:importance>0.008000</i:importance></extensions></wpt>
 <wpt gr:gr="SJ6231829721" lat="52.863667" lon="-2.561159">
 <ele>70.1</ele>
@@ -267,5 +277,5 @@ Fridays only 12noon - 5pm</desc>
 <link href="http://www.wollertonoldhallgarden.com/"/>
 <sym>photo yellow</sym>
 <extensions>
-<number>10</number>
+<number>27</number>
 <i:importance>0.009000</i:importance></extensions></wpt></gpx>
