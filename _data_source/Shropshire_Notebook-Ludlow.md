@@ -44,16 +44,16 @@ TBD
 # Name: Ludlow
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2020-01-04_14_14_02_DSC_6088_DxO_bw.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2020-01-04_14_14_02_DSC_6088_DxO_L.jpg)
 
 <!--Type: Item-->
 # Name: Ludlow
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2020-01-04_14_16_23_DSC_6093_DxO_bw.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2020-01-04_14_16_23_DSC_6093_DxO_L.jpg)
 
 <!--Type: Item-->
 # Name: Ludlow
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2020-01-04_14_23_04_DSC_6100_DxO_PerfectlyClear.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2020-01-04_14_23_04_DSC_6100_DxO_L.jpg)

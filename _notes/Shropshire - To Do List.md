@@ -2,6 +2,8 @@
 
 # Web Site Updates
 
+- Replace _1 with _L
+
 ## Need Photo
 
 - Cosford RAF Museum
