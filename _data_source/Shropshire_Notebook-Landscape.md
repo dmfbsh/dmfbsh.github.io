@@ -140,7 +140,7 @@ TBD
 # Name: The Battle Stones, Willstone Hill
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/landscape/2020-02-08_14_09_50_DSC_6420_DxO_bw.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/landscape/2020-02-08_14_09_50_DSC_6420_DxO.jpg)
 
 <!--Type: Item-->
 # Name: Caer Caradoc
