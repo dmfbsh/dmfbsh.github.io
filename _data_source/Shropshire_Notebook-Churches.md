@@ -267,7 +267,8 @@ Hope means an enclosed place or valley and Bagot is a derivation of Richard Baga
 Mentioned in the Doomsday book as Istefelt, the name Ightfield may derive from the Old English 'Ihtfeld' (Iht means creature and Feld means field), referring to the fact that the area was rural and farming was prevalent.  Alternatively, it is thought it could dervice from Giht, an ancient British river name.
 
 The church has 15th Century origins and was partly rebuilt in the 19th Century (although records show a church here dedicated to St John the Baptist in 1072 AD).
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-12-21_14_42_27_DSC_6010_DxO_1.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-12-21_14_42_27_DSC_6010_DxO_1.jpg)
+
 # Width: 1344
 # Offset: -674
 # Sub-Image: 2019-12-21_14_54_15_DSC_6034_DxO.jpg
@@ -286,7 +287,7 @@ The church has 15th Century origins and was partly rebuilt in the 19th Century (
 The area was originally part of the parish of Madeley, but with the growth of the population due to the bridge, it was thought necessary for Ironbridge to have its own church.
 
 The position of Ironbridge church is the reverse of the majority of churches, the sanctuary is at the west end and the tower at the east end.  This is because the land at the west end would not bear the weight of a tower.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2020-01-12_12_15_40_DSC_6177_DxO_1.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-01-12_12_15_40_DSC_6177_DxO_1.jpg)
 
 <!--Type: Item-->
 # Date: 15th Century AD
@@ -297,7 +298,8 @@ The mother church of all churches south of Oswestry.
 The church came into the Diocese of Lichfield on the disestablishment of the Welsh Church.
 
 The lower part of the tower is medieval and dates to the late 14th Century or early 15th Century.  The church was rebuilt in 1773 / 1774.  The font is probably 12th Century.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2020-01-18_12_17_51_DSC_6238_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-01-18_12_17_51_DSC_6238_DxO.jpg)
+
 # Width: 1795
 # Offset: -1189
 # Sub-Image: 2020-01-18_12_38_49_DSC_6244_DxO.jpg
@@ -389,7 +391,7 @@ A suburban church built by Sir Arthur Blomfield (English architect).
 There was probably a Saxon church here as Lidum is mentioned in the Doomsday book.  The present church is of medieval origin, but was substantially rebuilt in 1642.
 
 The churchyard is noted as it has 35 yews shaped by a topiarist.  The church also has an excellent roof.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2020-01-25_15_13_18_DSC_6295_DxO_bw.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-01-25_15_13_18_DSC_6295_DxO_bw.jpg)
 # Width: 1595
 # Offset: -1007
 # Sub-Image: 2020-01-25_14_59_41_IMG_6240_DxO.jpg
