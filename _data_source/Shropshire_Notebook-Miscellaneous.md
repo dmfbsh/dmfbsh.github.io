@@ -1,4 +1,22 @@
 <!--Type: Item-->
+# Name: Cressage - Flooded Fields
+
+In the late Winter / early Spring of 2020 there was severe flooding in Shropshire - this picture shows the flooding (River Severn at Cressage).
+![](../assets/images/miscellaneous/2020-03-01_14_24_30_DSC_6652_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Attingham Park - Flooded Parkland
+
+In the late Winter / early Spring of 2020 there was severe flooding in Shropshire - this picture shows the parkland at Attingham Park.
+![](../assets/images/miscellaneous/2020-03-01_13_28_06_DSC_6572_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Atcham - Tree in Flood Water
+
+In the late Winter / early Spring of 2020 there was severe flooding in Shropshire - this picture shows a tree in the flood water at Atcham.
+![](../assets/images/miscellaneous/2020-03-01_15_52_51_DSC_6687_DxO_bw.jpg)
+
+<!--Type: Item-->
 # Name: Sabrina
 
 Hafren is the Welsh Goddess of the river Severn (Latin name is Sabrina).
@@ -28,7 +46,7 @@ The Eckford Sweet Pea Society of Wem held a festival each July from 1989 to 2019
 # Name: Stone Cross, Bitterley
 
 Dating from the 14th Century, a stone cross in the churchyard of St Mary's church at Bitterley.  This one is thought to be the finest surviving stone cross in the county.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2019-08-26_14_13_36_DSC_4874_DxO_1.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/miscellaneous/2019-08-26_14_13_36_DSC_4874_DxO_L.jpg)
 
 <!--Type: Item-->
 # Name: Coalbrookdale

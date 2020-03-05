@@ -4,6 +4,7 @@
 Britain is cut off from continental Europe by the English Channel.
 
 <!--Type: Header-->
+
 # Date: c. 2500 BC to 800 BC - Bronze Age
 
 Remains of Bronze Age settlements are not common in Britain and none have been recorded in Shropshire so far.  It is believed that many tribes led a nomadic lifestyle based on cattle and agriculture so did not build to last.  There is evidence of tree clearing at this time to make space for crops; and, communities were often based near rivers for transport.
@@ -243,7 +244,7 @@ During the 12th Century the Marcher lordships emerged as almost independent stat
 Established by Robert de Say after the Norman invasion, Clun Castle was an important Marcher lord castle in the 12th Century.
 
 Clun played a key part in protecting the region from Welsh attack, but the family (Fitzalan) gradually abandoned it as a property in favour of their more luxurious castle at Arundel.  The family converted the castle into a hunting lodge in the 14th Century, but by the 16th Century the castle was largely ruined.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2018-06-30_15_25_44_DSC_2668_DxO_bw_1.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2018-06-30_15_25_44_DSC_2668_DxO_L_bw.jpg)
 
 <!--Type: Item-->
 # Date: 12th Century AD
@@ -291,6 +292,13 @@ It is most probable that Walter de Opton (over time becoming de Hopton) built th
 
 The last Walter Hopton died during the Wars of the Roses in the 15th century and the castle passed by marriage to the Corbet family of Moreton Corbet castle.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2018-02-24_16_11_09_DSC_2160_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Date: 1269 AD
+# Name: Cruck Cottage, Upton Magna
+
+This cottage is thought to be the oldest still-standing cruck cottage in England (and one of the oldest still-standing cruck cottages in Europe).  The Historic England listing suggests that the cottage dates from the 15th or 16th Century (and building does appear to have been remodelled in the 15th century), but dendrochronological tests on the crucks in the cottage have dated the timber to 1269.
+![](../assets/images/history/2020-03-01_15_34_46_DSC_6681_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Date: 1284 AD
@@ -578,6 +586,14 @@ In common with other towns, Bishop's Castle had its own Guildhall, which in 1615
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2018-06-30_13_55_45_DSC_2638_DxO_bw.jpg)
 
 <!--Type: Item-->
+# Date: 1769-1771 AD
+# Name: Atcham Bridge
+
+There is a record of a bridge at Atcham as early as the 13th Century.  In 1550 Sir Rowland Hill funded the building of a stone bridge with 18 arches, this bridge was replaced by the present bridge which dates from 1769-71 (but may have been completed as late as 1776).  The bridge was designed by John Gwynn - Gwynn was born in Shrewsbury and was one of the founder members of the Royal Academy in 1768, his work includes Magdalen bridge in Oxford as well as several other bridges in Shropshire (one of which is the English bridge in Shrewsbury). 
+![](../assets/images/history/2020-03-01_13_35_37_DSC_6578_DxO_bw.jpg)
+
+<!--Type: Item-->
+
 # Date: 1772 AD
 # Name: Attingham Park
 
@@ -729,6 +745,15 @@ Consequently, Dr Brookes is credited as a founding father of the modern Olympic 
 
 A bridge was first recorded in 1272 when a man was killed on the bridge; also, a map of 1313 shows a bridge built of stone.  The present bridge is the result of repairs to the design and specification of Thomas Telford.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-02-02_15_03_19_DSC_3205_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Date: 1813 AD
+# Name: Cantlop Bridge
+
+Made of cast-iron, this bridge was part of an expanding network of bridges built to improve communication and trade in Shropshire.  The design was approved by Thomas Telford.  Unlike the Iron Bridge, built by Abraham Darby, Cantlop Bridge does not follow the design of a wooden bridge, as Telford recognised the strength of iron and engineered lighter frames that required less of this material.
+
+Cantlop Bridge is the only Telford-approved cast-iron bridge remaining in situ in Shropshire.
+![](../assets/images/history/2020-03-01_14_57_25_DSC_6666_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Date: 1820s AD

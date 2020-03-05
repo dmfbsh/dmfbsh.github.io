@@ -17,13 +17,22 @@ The name Oswestry literally means "Oswald's tree". Oswald was canonised, his fea
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/folklore/2019-06-01_13_37_32_DSC_4458_DxO.jpg)
 
 <!--Type: Item-->
+# Date: 1834 AD
+# Name: John "Mad Jack" Mytton's Ghost
+
+John "Mad Jack" Mytton was a Regency eccentric (born and buried in Shropshire) - he inherited a fortune, but died in a debtor's prison at the age of 38.  His many pranks made him a legend, it was said that his life amounted to a series of suicide attempts.
+
+His ghost is said to appear annually on Mytton's birthday, September 30th, at the Mytton & Mermaid Hotel at Atcham as his funeral procession stopped at the Mytton, then a coaching inn, on the way to Halston Chapel where he is buried.
+![](../assets/images/folklore/2020-03-01_13_36_56_DSC_6582_DxO.jpg)
+
+<!--Type: Item-->
 # Date: N/A
 # Name: The Wrekin
 
 Thought to have been formed when a giant called Gwendol Wrekin ap Shenkin ap Mynyddmawr dumped a spadeful of earth - the giant had a grudge against the town of Shrewsbury and was intending to flood the town by depositing the earth there, but was dissuaded by a passing cobbler he met near Wellington who convinced him that Shrewsbury was very far away and so the giant decided to abandon the idea and dropped the earth.  The Ercall Hill is also said to have been formed when the giant scraped the mud off his boots.
 
 Another legend suggests that you cannot be a true Salopian unless you have passed through the Needle's Eye, which is a split between two large rocks close to the summit.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/folklore/photo-needed.jpg)
+![](../assets/images/folklore/2020-03-01_14_22_57_DSC_6648_DxO.jpg)
 
 <!--Type: Item-->
 # Date: N/A
@@ -34,4 +43,4 @@ It is said that when the mist descends on the rock formation Satan and a coven o
 There are many legends of how the Devil's Chair came to be.  One suggests that the devil was carrying rocks to fill a nearby valley called "Hell's Gutter".  He sat the rocks down to rest but when he got up, the apron he was carrying the rocks in broke and so the devil left the rocks where they had fallen, cursing them.
 
 Another tells of a giantess who came collecting rocks and placing them in her apron.  The devil popped up and cut the apron strings causing the rocks to fall to the ground and the giantess ran away.  Since that day the devil returns to sit there are survey the world.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/landscape/2010-05-09_13-30-46_00009810_DxO.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/folklore/2010-05-09_13-30-46_00009810_DxO.jpg)

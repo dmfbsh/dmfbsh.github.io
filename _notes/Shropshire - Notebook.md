@@ -1,5 +1,5 @@
-# Shropshire Notebook
 {{TOC}}
+[TOC]
 
 # Introduction
 To learn more about the beautiful county of Shropshire, I use my photographs to investigate the history and explore the landscape.
@@ -87,15 +87,19 @@ All assets relating to the project are held in my GitHub repository, which is cl
 
 17. Send the GPX file to the iPhone & iPad (this is done automatically as it is held on the iCloud drive) and load into the UK Maps app
 
-18. If the item is a church, in ACDSee identify any photos for the sub-images
+    *Additional steps for Church sub-images:*
 
-19. If the item is a church, in ACDSee assign the selected photos for the sub-images to the Church > Sub-Image category
+18. In ACDSee identify any photos for the sub-images
 
-20. If the item is a church, in DxO PhotoLab develop the photos for the sub-images and export to disk using the Shropshire Photography output option
+19. In ACDSee assign the selected photos for the sub-images to the Church > Sub-Image category
 
-21. If the item is a church, add the filenames of the sub-images to the MD file entry for the church
+20. In DxO PhotoLab develop the photos for the sub-images and export to disk using the Shropshire Photography output option
 
-22. If the item is a church, crop and resize the sub-images to be 240px high and save in the assets\images\churches-sub folder - there is an Export preset in ACDSee for this, the oroginal DxO files can then be deleted
+21. Add the filenames of the sub-images to the MD file entry for the church, along with the Width and Offset parameters for the scrolling slideshow
+
+    <!--Need to document how to calculate Width and Offset-->
+
+22. Crop and resize the sub-images to be 240px high and save in the assets\images\churches-sub folder - there is an Export preset in ACDSee for this, the oroginal DxO files can then be deleted
 
 ## Procedure to Generate the Web Site
 

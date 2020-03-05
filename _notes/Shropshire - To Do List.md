@@ -1,8 +1,9 @@
 {{TOC}}
+[TOC]
 
 # Web Site Updates
 
-- Replace _1 with _L
+- Images can be relative!
 
 ## Need Photo
 

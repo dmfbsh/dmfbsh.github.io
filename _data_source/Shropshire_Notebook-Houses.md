@@ -1,4 +1,11 @@
 <!--Type: Item-->
+# Date: 1269 AD
+# Name: Cruck Cottage, Upton Magna
+
+This cottage is thought to be the oldest still-standing cruck cottage in England (and one of the oldest still-standing cruck cottages in Europe).  The Historic England listing suggests that the cottage dates from the 15th or 16th Century (and building does appear to have been remodelled in the 15th century), but dendrochronological tests on the crucks in the cottage have dated the timber to 1269.
+![](../assets/images/houses/2020-03-01_15_34_46_DSC_6681_DxO.jpg)
+
+<!--Type: Item-->
 # Date: 1459 AD
 # Name: The Abbot's House, Shrewsbury
 

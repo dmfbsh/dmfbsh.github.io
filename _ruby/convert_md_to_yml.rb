@@ -25,6 +25,13 @@ Dir.glob("../_data_source/*.md") do |srcfn|
         tmp = "  Description: |"
         dsth.write(tmp) unless dsth.nil?
       end
+    elsif line.start_with?("## Date:")
+      tmp = "  " + line[3..-1]
+      dsth.write(tmp) unless dsth.nil?
+      if ctype.start_with?("<!--Type: Header")
+        tmp = "  Description: |"
+        dsth.write(tmp) unless dsth.nil?
+      end
     elsif line.start_with?("# Name:")
       tmp = "  " + line[2..-1]
       dsth.write(tmp) unless dsth.nil?
@@ -47,6 +54,19 @@ Dir.glob("../_data_source/*.md") do |srcfn|
       tmp = "  " + line[2..-1]
       dsth.write(tmp) unless dsth.nil?
     elsif line.start_with?("# Sub-Image:")
+      if simage == "no"
+        simage = "yes"
+        dsth.write("  Sub-Images:\n") unless dsth.nil?
+      end
+      tmp = "    - " + line[2..-1]
+      dsth.write(tmp) unless dsth.nil?
+    elsif line.start_with?("- Width:")
+      tmp = "  " + line[2..-1]
+      dsth.write(tmp) unless dsth.nil?
+    elsif line.start_with?("- Offset:")
+      tmp = "  " + line[2..-1]
+      dsth.write(tmp) unless dsth.nil?
+    elsif line.start_with?("- Sub-Image:")
       if simage == "no"
         simage = "yes"
         dsth.write("  Sub-Images:\n") unless dsth.nil?

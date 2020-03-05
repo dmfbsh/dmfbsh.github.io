@@ -32,8 +32,8 @@ The castle was fought over and changed ownership many times during the conflict 
 
 The castle was the scene of a parliament held by Richard II in 1398.
 
-The castle was captured by Oliver Cromwell’s troops in 1644, and by 1650 it had largely been demolished by the Roundheads.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/castles/2019-02-16_13_23_41_DSC_3368_DxO_1.jpg)
+The castle was captured by Oliver Cromwellâ€™s troops in 1644, and by 1650 it had largely been demolished by the Roundheads.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/castles/2019-02-16_13_23_41_DSC_3368_DxO_L.jpg)
 
 <!--Type: Item-->
 # Date: 1101 AD
@@ -53,7 +53,7 @@ During the English Civil War, Bridgnorth was one of the Midlands' main Royalist 
 Established by Robert de Say after the Norman invasion, Clun Castle was an important Marcher lord castle in the 12th Century.
 
 Clun played a key part in protecting the region from Welsh attack, but the family (Fitzalan) gradually abandoned it as a property in favour of their more luxurious castle at Arundel. The family converted the castle into a hunting lodge in the 14th Century, but by the 16th Century the castle was largely ruined.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/castles/2018-06-30_15_25_44_DSC_2668_DxO_1.jpg)
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/castles/2018-06-30_15_25_44_DSC_2668_DxO_L.jpg)
 
 <!--Type: Item-->
 # Date: Circa 1200 AD
@@ -77,7 +77,7 @@ The original castle was captured and destroyed by the King of Gwynedd in 1223 - 
 
 It is believed that the castle was founded in the 12th century as a motte and bailey castle by one of the de Optons as a mesne lord of the Says of Clun Castle. The family was politically significant, Sir Walter de Opton being Sheriff of the large, adjacent counties of Shropshire and Staffordshire.
 
-It is most probable that Walter de Opton (over time becoming de Hopton) built the stone castle during the Barons’ War of the 1260s. The bailey was fortified in stone and the rectangular two-storey keep was built.
+It is most probable that Walter de Opton (over time becoming de Hopton) built the stone castle during the Baronsâ€™ War of the 1260s. The bailey was fortified in stone and the rectangular two-storey keep was built.
 
 The last Walter Hopton died during the Wars of the Roses in the 15th century and the castle passed by marriage to the Corbet family of Moreton Corbet castle.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/castles/2018-02-24_16_11_09_DSC_2160_DxO.jpg)

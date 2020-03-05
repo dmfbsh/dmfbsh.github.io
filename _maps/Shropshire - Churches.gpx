@@ -537,7 +537,7 @@ Open 10-4:30.</desc>
 <wpt gr:gr="SJ6247912063" lat="52.704948" lon="-2.556730">
 <ele>109.0</ele>
 <name>Wrockwardine - St Peter</name>
-<sym>blue plus</sym>
+<sym>green plus</sym>
 <extensions>
 <number>310</number>
 <i:importance>0.268022</i:importance></extensions></wpt>
@@ -698,7 +698,7 @@ Open 10-4:30.</desc>
 <wpt gr:gr="SJ5533012442" lat="52.707809" lon="-2.662580">
 <ele>73.0</ele>
 <name>Upton Magna - St Lucy</name>
-<sym>blue plus</sym>
+<sym>green plus</sym>
 <extensions>
 <number>283</number>
 <i:importance>0.708342</i:importance></extensions></wpt>
@@ -1321,7 +1321,7 @@ Open 10-4:30.</desc>
 <wpt gr:gr="SJ6227815450" lat="52.735378" lon="-2.560090">
 <ele>56.0</ele>
 <name>Longon on Tern - St Bartholomew</name>
-<sym>blue plus</sym>
+<sym>green plus</sym>
 <extensions>
 <number>166</number>
 <i:importance>0.152755</i:importance></extensions></wpt>
@@ -1818,7 +1818,7 @@ Open 10-4:30.</desc>
 <wpt gr:gr="SJ5922403985" lat="52.632099" lon="-2.603900">
 <ele>56.0</ele>
 <name>Cressage - Christ Church</name>
-<sym>blue plus</sym>
+<sym>green plus</sym>
 <extensions>
 <number>79</number>
 <i:importance>0.655875</i:importance></extensions></wpt>
