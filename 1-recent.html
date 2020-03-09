@@ -7,7 +7,16 @@ title: Latest Images
 
 <div class="rowh">
 
+{% assign nextdate = "0000-00" %}
+
 {% for item in site.data.Shropshire_Notebook-Recent %}
+
+{% assign filedatea = item.Thumbnail | split: '/' %}
+{% assign filedate = filedatea[1] | truncate: 7, "" %}
+{% if filedate != nextdate %}
+<h1>{{ filedate }}</h1>
+{% assign nextdate = filedate %}
+{% endif %}
 
 {% if item.Type == "Item" %}
 

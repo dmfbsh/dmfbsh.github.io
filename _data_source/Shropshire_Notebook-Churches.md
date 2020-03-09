@@ -116,6 +116,19 @@ It is aligned north-south, rather than the more usual west-east.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-09-21_15_16_30_DSC_5116_DxO.jpg)
 
 <!--Type: Item-->
+## Date: 1720 AD
+# Name: Holy Trinity, Buildwas
+
+The name Buildwas may derive its name from the Saxon words 'beild' or 'belde' (a shelter). and 'was' (water), surrounded as it is on three sides by hills and on the fourth by the river Severn.  Another view is that the name is from the Old English 'waesse' which means 'swamp' or 'marsh' and is usually translated as 'land by a meanering river which floods and drains quickly'.
+
+The village of Buildwas has been recognised since 1086 as the first reference to it was made in the Domesday Book.
+
+There has been a church on the present site since medieval times, the present church dates from 1720.  The chancel was rebuilt in 1864, a painting from 1790 shows a shorter western turret with a flatter pyramid top - the present timber-framed belfry probably also dates from 1864.
+
+Within the church are memorial tablets to members of two local families who were closely linked to the Industrial Revolution.  In the churchyard, there are some unusual cast iron headstones and tombstones, which were cast locally.
+![](../assets/images/churches/2020-03-08_17_08_37_DSC_6747_DxO.jpg)
+
+<!--Type: Item-->
 ## Date: 12th Century AD
 # Name: St Mary, Burford
 

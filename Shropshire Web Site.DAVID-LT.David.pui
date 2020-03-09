@@ -1,6 +1,7 @@
 [Folders]
 .+AFw-assets+AFw- - images=1
-.+AFwAXw-ruby+AFw-=1
+.+AFwAXw-posts+AFw-=1
+.+AFwAXw-maps+AFw-=1
 
 [Open Files]
 Active File Display Mode=-1
@@ -9,4 +10,5 @@ Remember Files=1
 
 [Project Information]
 Project Start=E40701000200150009000000120000001E
-Working Time=10585
+Working Time=10610
+

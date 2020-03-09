@@ -10,7 +10,7 @@ fl = cl + hl + ll + ml + pl + gl
 gl = Array.new
 
 fl.each { |ni|
-  nf = ni[ni.rindex("/")+1, 100] + "#" + ni[16..ni.rindex("/")-1]
+  nf = ni[ni.rindex("/")+1, 100] + "#" + ni[17..ni.rindex("/")-1]
   gl.push(nf)
 }
 
