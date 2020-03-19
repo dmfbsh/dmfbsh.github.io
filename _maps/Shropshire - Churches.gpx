@@ -523,7 +523,7 @@ Open 10-4:30.</desc>
 <wpt gr:gr="SJ3952110074" lat="52.684990" lon="-2.896090">
 <ele>100.0</ele>
 <name>Yockleton - Holy Trinity</name>
-<sym>blue plus</sym>
+<sym>green plus</sym>
 <extensions>
 <number>313</number>
 <i:importance>0.585444</i:importance></extensions></wpt>
@@ -1916,7 +1916,7 @@ Open 10-4:30.</desc>
 <wpt gr:gr="SO2612098503" lat="52.579319" lon="-3.091720">
 <ele>108.0</ele>
 <name>Chirbury - St Michael the Archangel</name>
-<sym>blue plus</sym>
+<sym>green plus</sym>
 <extensions>
 <number>58</number>
 <i:importance>0.187086</i:importance></extensions></wpt>

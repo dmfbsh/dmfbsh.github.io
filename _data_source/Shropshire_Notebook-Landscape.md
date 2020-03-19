@@ -17,6 +17,12 @@ The Wrekin is the subject of a well-known legend in Shropshire folklore concerni
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/landscape/2017-10-22_13_59_23_DSC_1972_DxO.jpg)
 
 <!--Type: Item-->
+# Name: The Wrekin
+
+View of the Wrekin from the road bridge over the River Severn at Cressage.
+![](../assets/images/landscape/2020-03-08_16_46_16_DSC_6735_DxO.jpg)
+
+<!--Type: Item-->
 # Name: The Long Mynd
 
 View of the Stiperstone ridge from Pole Bank.

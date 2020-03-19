@@ -169,6 +169,38 @@ Judge Leighton was known as 'the hanging judge' (as was Judge Jeffries) as he co
 
 <!--Type: Item-->
 ## Date: 12th Century AD
+# Name: St Michael the Archangel, Chirbury
+
+An Anglo-Saxon church was founded circa 915 when a fort was built on the site.  The current building dates from the 12th Century.  The aisles and arcades were added in the 13th Century - the arcades noticeably lean outwards.  The tower was constructed around 1300 and the chancel was added in 1733.  The church was restored in 1871-72.  The tower and body of the church were constructed using limestone rubble with pink sandstone ashlar dressings and slate roofs.  The chancel is red brick with a tiled roof.
+
+In the Anglo-Saxon Chronicle the place name was recorded as Cyricbyrig.  Later in 1086 in the Domesday book, the place name was recorded as Cireberie which means "a fortified place with a church".
+
+The church was reformed into the church of the Augustinian Priory at Chirbury when the order relocated from Snead (near Bishop's Castle) round about 1220.  With the dissolution of the Priory in 1535, the church became a parish church once again.  The church as seen today is the nave of the Priory.
+![](../assets/images/churches/2020-03-14_14_09_50_DSC_6783_DxO_L.jpg)
+- Width: 4375
+- Offset: -3815
+- Sub-Image: 2020-03-14_14_12_39_DSC_6785_DxO.jpg
+- Sub-Image: 2020-03-14_14_21_50_DSC_6789_DxO.jpg
+- Sub-Image: 2020-03-14_14_25_48_DSC_6794_DxO.jpg
+- Sub-Image: 2020-03-14_14_26_16_DSC_6795_DxO.jpg
+- Sub-Image: 2020-03-14_14_26_53_DSC_6797_DxO.jpg
+- Sub-Image: 2020-03-14_14_28_52_DSC_6800_DxO.jpg
+- Sub-Image: 2020-03-14_14_29_23_DSC_6801_DxO.jpg
+- Sub-Image: 2020-03-14_14_30_38_DSC_6802_DxO.jpg
+- Sub-Image: 2020-03-14_14_31_22_DSC_6803_DxO.jpg
+- Sub-Image: 2020-03-14_14_33_07_DSC_6806_DxO.jpg
+- Sub-Image: 2020-03-14_14_35_30_DSC_6808_DxO.jpg
+- Sub-Image: 2020-03-14_14_38_26_DSC_6812_DxO.jpg
+- Sub-Image: 2020-03-14_14_39_36_DSC_6813_DxO.jpg
+- Sub-Image: 2020-03-14_14_40_41_DSC_6814_DxO.jpg
+- Sub-Image: 2020-03-14_14_41_05_DSC_6815_DxO.jpg
+- Sub-Image: 2020-03-14_14_41_31_DSC_6818_DxO.jpg
+- Sub-Image: 2020-03-14_14_46_07_DSC_6820_DxO.jpg
+- Sub-Image: 2020-03-14_14_12_39_DSC_6785_DxO.jpg
+- Sub-Image: 2020-03-14_14_21_50_DSC_6789_DxO.jpg
+
+<!--Type: Item-->
+## Date: 12th Century AD
 # Name: St Laurence, Church Stretton
 
 The Domesday book makes reference to a church in the Manor existing before the Norman conquest, most likely a small wooden building.
@@ -779,3 +811,21 @@ This church is likely more steeped in history than any other in Shropshire.
 
 Masonry from the Roman fort of Viroconium was plundered for the construction of the church.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-03-10_11_42_17_IMG_9737_DxO.jpg)
+
+<!--Type: Item-->
+## Date: 1861 AD
+# Name: Holy Trinity, Yockleton
+
+Yockleton became a parish in it's own right in the 19th century, and those who lived in Yockleton and the surrounding areas decided to build their own Church.  The land on which the Church stands was donated by Col. Wingfield of Onslow, a local landowner.
+
+The Church is built of grey Alberbury stone with insets of pink Grinshill and pale Cardeston stone.
+![](../assets/images/churches/2020-03-14_12_31_55_DSC_6763_DxO_bw.jpg)
+- Width: 2008
+- Offset: -1444
+- Sub-Image: 2020-03-14_12_35_10_DSC_6767_DxO.jpg
+- Sub-Image: 2020-03-14_12_36_30_DSC_6768_DxO.jpg
+- Sub-Image: 2020-03-14_12_37_11_DSC_6770_DxO.jpg
+- Sub-Image: 2020-03-14_12_37_26_DSC_6771_DxO.jpg
+- Sub-Image: 2020-03-14_12_40_19_DSC_6775_DxO.jpg
+- Sub-Image: 2020-03-14_12_35_10_DSC_6767_DxO.jpg
+- Sub-Image: 2020-03-14_12_36_30_DSC_6768_DxO.jpg

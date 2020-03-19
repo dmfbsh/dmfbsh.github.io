@@ -2,6 +2,8 @@
 .+AFw-assets+AFw- - images=1
 .+AFwAXw-posts+AFw-=1
 .+AFwAXw-maps+AFw-=1
+.+AFwAXw-includes+AFw-=1
+.+AFwAXw-layouts+AFw-=1
 
 [Open Files]
 Active File Display Mode=-1
@@ -9,6 +11,6 @@ Open File0=
 Remember Files=1
 
 [Project Information]
-Project Start=E40701000200150009000000120000001E
+Project Start=E407030005000D000A0039000300000046
 Working Time=10610
 
