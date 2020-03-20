@@ -904,18 +904,10 @@ A local builder, Rowland Smitheman, took over a row of cottages which he then co
 Henry Eckford was a Scottish horticulturist and reputedly the most famous breeder of sweet peas.  In 1888 he moved to Wem and it was in Wem that he perfected the breeding of his Grandiflora sweet peas.  He is buried at the Whitchurch Road Cemetery in Wem.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/photo-needed.jpg)
 
-<!--Type: Item-->
-# Date: 1888 AD
-# Name: Salop County Council
+<!--Type: Header-->
+# Date: 1889 AD
 
-Salop County Council is set up following the Local Government Act.
-
-The arms of the council were awarded in 1895 (the arms are derived from the arms of the county town, Shrewsbury).  The flag of Shropshire (Salop) was registered in March 2012.
-
-On the 1st April 1980 the name change to Shropshire came into effect.
-
-In 1992 the Local Government Act authorised the creation of two unitary authorities, as a result Telford & Wrekin Council was created in 1998 - but remains part of the ceremonial county.
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/flag.png)
+Salop County Council is set up following the Local Government Act 1888.
 
 <!--Type: Item-->
 # Date: 1891 AD
@@ -939,6 +931,13 @@ Owen was born on 18 March 1893 at Plas Wilmot, a house in Weston Lane, near Oswe
 
 He was one of the leading poets of the First World War.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-06-01_13_13_01_DSC_4443_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Date: 1895 AD
+# Name: Arms of the Council Awarded
+
+The arms of the council were awarded in 1895 (the arms are derived from the arms of the county town, Shrewsbury).  
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/photo-needed.jpg)
 
 <!--Type: Item-->
 # Date: 19th Century AD
@@ -1052,6 +1051,11 @@ Originally a storage facility for the RAF museum at Hendon, the Cosford site was
 In 2002 the RAF Museum Conservation Centre was relocated to Cosford.  The site now houses many very rare aircraft.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/photo-needed.jpg)
 
+<!--Type: Header-->
+# Date: 1980 AD
+
+On the 1st April 1980 the name change to Shropshire comes into effect.
+
 <!--Type: Item-->
 # Date: 1986 AD
 # Name: British Ironworks Centre, Oswestry
@@ -1067,11 +1071,25 @@ The vineyard was planted in 1991.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/photo-needed.jpg)
 
 <!--Type: Item-->
+# Date: 1998 AD
+# Name: Telford & Wrekin Council Created
+
+In 1992 the Local Government Act authorised the creation of two unitary authorities, as a result Telford & Wrekin Council was created in 1998 - but remains part of the ceremonial county of Shropshire.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/photo-needed.jpg)
+
+<!--Type: Item-->
 # Date: 2011 AD
 # Name: Replica Roman Villa, Wroxeter
 
 Built using authentic Roman techniques by a team of 21st Century builders and local volunteers, the project featured in the Channel 4 television series "Rome Wasn't Built in a Day".
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/2019-02-03_13_45_05_DSC_3223_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Date: 2012 AD
+# Name: Flag of Shropshire is Registered
+
+The flag of Shropshire was registered in March 2012.
+![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/history/flag.png)
 
 <!--Type: Item-->
 # Date: 2018 AD
