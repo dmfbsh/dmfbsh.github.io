@@ -7,7 +7,7 @@ Britain is cut off from continental Europe by the English Channel.
 
 # Date: c. 2500 BC to 800 BC - Bronze Age
 
-Remains of Bronze Age settlements are not common in Britain and none have been recorded in Shropshire so far.  It is believed that many tribes led a nomadic lifestyle based on cattle and agriculture so did not build to last.  There is evidence of tree clearing at this time to make space for crops; and, communities were often based near rivers for transport.
+Remains of Bronze Age settlements are not common in Britain and none have been recorded in Shropshire so far.  It is believed that many tribes led a nomadic lifestyle based on cattle and agriculture so did not build structures to last (communities were often based near rivers for transport).  There is evidence, however, of tree clearing at this time to make space for crops.
 
 Tumuli (burial mounds) were built during this time on areas of high ground.  As well as providing a place to inter the cremated remains of their dead, the tumuli may also be where a tribe gathered at certain times of the year for religious purposes.  The stone circles at Mitchell's Fold, Hoarstones and Whetstones (now destroyed) date from this time.
 
@@ -25,7 +25,7 @@ c. 500 BC - Celts inhabit much of Europe, and begin to colonize the British Isle
 
 The area now known as Shropshire was part of the territory of the Celtic Cornovii tribe (they also occupied the areas now known as Cheshire, Staffordshire north Herefordshire and parts of the eastern areas of Wales - areas now known Flintshire, Powys and Wrexham).
 
-The capital of the tribe was most probably the Wrekin hill fort.  The first mention of the tribe occurs in the works of Ptolemy in the 2nd Century AD.  The origin of the name is unknown, but it may mean 'People of the Horn' referring to a horned god cult followed by the tribe.
+The capital of the tribe was most probably the Wrekin hill fort.  The first mention of the tribe occurs in the works of Ptolemy in the 2nd Century AD.  The origin of the name Cornovii is unknown, but it may mean 'People of the Horn' referring to a horned god cult followed by the tribe.
 
 <!--Type: Item-->
 # Date: Iron Age
@@ -91,7 +91,7 @@ After Milburga's death circa 727 little is known of the monastery until the Norm
 <!--Type: Quote-->
 # Name: County Day
 
-Shropshire's county day is 23rd February is the feast day of St Milburga abbess of Wenlock Priory.
+Shropshire's county day is the 23rd February which is the feast day of St Milburga abbess of Wenlock Priory.
 
 <!--Type: Item-->
 # Date: Late 8th Century AD
