@@ -2,16 +2,17 @@
 ## Date: Before 1075 AD
 # Name: St Eata, Atcham
 
-The name Atcham is a contraction of Attingham, meaning "the home of Eata's people".
+This is the only church in England dedicated to St Eata of Hexham.
 
-This is the only church dedicated to St Eata of Hexham.
-
-A church was present on this site prior to 1075, this is known because the chronicler Orderic Vitalis (a Benedictine monk who wrote one of the great chronicles of 11th and 12th Century England) was baptised at the church on Easter Day in 1075.
+The first church to St Eata is said to have been built in the 8th Century but there is no longer any trace of this.  The present church has been on this site since at least 1075, this is known because the chronicler Orderic Vitalis (a Benedictine monk who wrote one of the great chronicles of 11th and 12th Century England) was baptised at the church on Easter Day in 1075.
 
 The oldest part of the present church is the nave which dates from the late Saxon or early Norman period.  The tower is probably late 12th Century, the chancel late 13th Century and the south porch is dated 1665.  The church was restored in the late 19th Century.
 
 The church is constructed from red and grey sandstone and incorporates some large blocks from the Roman city of Wroxeter.
+
+The name Atcham is a contraction of Attingham, meaning "the home of Eata's people".
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-01-12_15_47_21_DSC_6211_DxO.jpg)
+
 - Sub-Image: 2020-01-12_15_52_57_DSC_6218_DxO.jpg
 - Sub-Image: 2020-01-12_15_55_16_DSC_6223_DxO.jpg
 - Sub-Image: 2020-01-12_15_55_58_DSC_6224_DxO.jpg
@@ -21,24 +22,22 @@ The church is constructed from red and grey sandstone and incorporates some larg
 ## Date: 1275 AD
 # Name: St Mary, Acton Burnell
 
+This church is considered to be the finest Early English (13th Century) church in Shropshire.  Unlike most English parish churches, Acton Burnell is built in a same style throughout.
+
+It features a corbel-table with many grotesque carvings (a corbel-table is a continuous row of corbels, and a corbel is a block of stone projecting from a wall and supporting some heavy feature).
+
 Acton generally means "settlement (farm or estate) by the oaks" and this estate belonged to Robert Burnell an English bishop who served as Lord Chancellor of England from 1274 to 1292.
-
-This church is considered to be the finest Early English church in Shropshore.  Unlike most English parish churches, Acton Burnell is built in a same style throughout.
-
-It features a corbel-table with many grotesque carvings.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2018-06-11_15_20_23_DSC_2625_DxO_L.jpg)
 
 <!--Type: Item-->
 ## Date: 12th-14th Century AD
 # Name: St Margaret, Acton Scott
 
-Acton generally means "settlement (farm or estate) by the oaks" and the 'Scott' originates from the medieval name Reynold le. Scot who held a share in the manor in 1255.
+This is a church that has suffered at the hands of 19th Century restorers.  Much of the masonry is medieval, but the windows were all renewed in the 19th Century.  The porch was added in 1722 and the north chapel in 1820.
+
+Acton generally means "settlement (farm or estate) by the oaks" and the "Scott" originates from the medieval name Reynold le. Scot who held a share in the manor in 1255.
 
 The settlement was registered as Actune in the Domesday Book.
-
-This is a church that has suffered at the hands of 19th Century restorers.
-
-Much of the masonry is Medieval, but the windows were all renewed in the 19th Century.  The porch was added in 1722 and the north chapel in 1820.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-13_09_45_21_DSC_4603_DxO_L.jpg)
 - Sub-Image: 2019-07-13_09_52_11_DSC_4607_DxO.jpg
 - Sub-Image: 2019-07-13_09_53_10_DSC_4609_DxO.jpg
@@ -47,11 +46,11 @@ Much of the masonry is Medieval, but the windows were all renewed in the 19th Ce
 ## Date: 14th Century AD
 # Name: St Milburga, Beckbury
 
-Beckbury was included in the  Domesday Book and the name means Beocca's Fort or defended place (Beocca being a personal name).
+Beckbury was included in the Domesday Book and the name means Beocca's Fort or defended place (Beocca being a personal name).
 
-The parish was originally part of the estates of Wenlock Priory from at least 1120 AD and the connection is reflected in the dedication to St Milburga.
+The parish was originally part of the estates of Wenlock Priory from at least 1120 AD and the connection is reflected in the dedication to St Milburga.  In the Middle Ages, Beckbury was a dependent chapelry of the parish of Holy Trinity, Much Wenlock.
 
-The chancel is possibly 14th Century (in the Middle Ages, Beckbury was a dependent chapelry of the parish of Holy Trinity, Much Wenlock).  The nave and the tower were added in 1731.
+The chancel is possibly 14th Century, the nave and the tower were added in 1731.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-02-01_13_03_53_DSC_6332_DxO_L.jpg)
 - Sub-Image: 2020-02-01_12_48_58_DSC_6306_DxO.jpg
 - Sub-Image: 2020-02-01_12_54_45_DSC_6315_DxO.jpg
@@ -73,7 +72,7 @@ A well-preserved memorial chapel built for the Scott family.
 ## Date: 13th Century AD
 # Name: St Mary, Bitterley
 
-The church dates mostly fron the Transitional period (when the Norman style was giving way to early English).
+The church dates mostly fron the Transitional period (when the Norman style was giving way to Early English style).
 
 In the Dommsday book, the nearby manor is known as Buterlie (Butter Pasture).
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-26_14_16_26_DSC_4882_DxO_L.jpg)
@@ -102,7 +101,7 @@ It is aligned north-south, rather than the more usual west-east.
 ## Date: 1720 AD
 # Name: Holy Trinity, Buildwas
 
-The name Buildwas may derive its name from the Saxon words 'beild' or 'belde' (a shelter). and 'was' (water), surrounded as it is on three sides by hills and on the fourth by the river Severn.  Another view is that the name is from the Old English 'waesse' which means 'swamp' or 'marsh' and is usually translated as 'land by a meanering river which floods and drains quickly'.
+The name Buildwas may derive its name from the Saxon words "beild" or "belde" (a shelter). and "was" (water), surrounded as it is on three sides by hills and on the fourth by the river Severn.  Another view is that the name is from the Old English "waesse" which means "swamp" or "marsh" and is usually translated as "land by a meanering river which floods and drains quickly".
 
 The village of Buildwas has been recognised since 1086 as the first reference to it was made in the Domesday Book.
 
@@ -115,26 +114,26 @@ Within the church are memorial tablets to members of two local families who were
 ## Date: 12th Century AD
 # Name: St Mary, Burford
 
-The oldest surviving part of the church is in the chancel; the nave and tower are later and date from the 14th Century.  In 1889-90 the church was extensively restored by Aston Webb, an English architect who designed the principal facade of Buckingham Palace and the main building of the Victoria and Albert Museum.
+The church comprises a mixture of medieval and Victorian elements; the chancel is 12th Century the nave and tower are later and date from the 14th Century.  In 1889-90 the church was extensively restored by Aston Webb, an English architect who designed the principal facade of Buckingham Palace and the main building of the Victoria and Albert Museum.
 
-The Old English name means Ford by the Fort.
+The Old English name means "Ford by the Fort".
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-26_15_36_44_DSC_4915_DxO.jpg)
 
 <!--Type: Item-->
 ## Date: 12th Century AD
 # Name: St James, Cardington
 
-The presence of a church on the site is recorded in the Domesday Book.  In 1167, the village, including the church, was given to the Knights Templar (and was known as Templars' Cardington, allowing the people to share the privileges of the Knights).  It remained in their possession until 1308 (when the order was supressed).  The Knights were responsible for starting the building of the present church in the later part of the 12th century.  During the following century the chancel was rebuilt and extended, and the tower was added.  Further additions and alterations were made during the following three centuries, followed by the porch in 1639.
+The presence of a church on the site is recorded in the Domesday Book.  In 1167, the village, including the church, was given to the Knights Templar (and was known as Templars' Cardington, allowing the people to share the privileges of the Knights).  It remained in their possession until 1308 (when the order was supressed).  The Knights were responsible for starting the building of the present church in the later part of the 12th Century.  During the following century the chancel was rebuilt and extended, and the tower was added.  Further additions and alterations were made during the following three centuries, followed by the porch in 1639.
 
 The body of the church is constructed in sandstone rubble with ashlar dressings and has tiled roofs.  The south doorway contains a door dated 1648.
 
-In the churchyard is a sandstone sundial dating from the middle of the 18th century.
+In the churchyard is a sandstone sundial dating from the middle of the 18th Century.
 
-In the Domesday Book the village is referred to as 'Cardintine under the Fief of Rainwald Vicecomes' and it is mentioned that there were 11 leagues of woodland.  The name 'Cardington' derives from an English chief and warrior named Carda, whose sons and followers were called the Cardinga.  They made their home where the village is, and the village they built became known as Cardington, or the town of the sons of Carda.
+In the Domesday Book the village is referred to as "Cardintine under the Fief of Rainwald Vicecomes" and it is mentioned that there were 11 leagues of woodland.  The name "Cardington" derives from an English chief and warrior named Carda, whose sons and followers were called the Cardinga.  They made their home where the village is, and the village they built became known as Cardington, or the town of the sons of Carda.
 
 In the church is a large monument to Chief Justice of Leighton of Plaish (died 1607), this Jacobean monument is the earliest in Shropshire which depicts the deceased lying on his side. 
 
-Judge Leighton was known as 'the hanging judge' (as was Judge Jeffries) as he condemned so many people to be hanged.  Amongst those condemned by Leighton was a local builder, who had come to the judge to ask to be pardoned for his crime.  The Judge promised him that if he would build him the finest set of chimneys he had ever yet built he would spare his life.  The builder did construct the chimneys (on Plaish Hall).  But after completing the job the Judge ordered the mans' eyes to be put out, and for him to be hanged from the same chimneys he had just built (so that he could build no more chimneys ever finer).  It is said that one can see the rope with which the builder was hanged.
+Judge Leighton was known as "the hanging judge" (as was Judge Jeffries) as he condemned so many people to be hanged.  Amongst those condemned by Leighton was a local builder, who had come to the judge to ask to be pardoned for his crime.  The Judge promised him that if he would build him the finest set of chimneys he had ever yet built he would spare his life.  The builder did construct the chimneys (on Plaish Hall).  But after completing the job the Judge ordered the mans' eyes to be put out, and for him to be hanged from the same chimneys he had just built (so that he could build no more chimneys ever finer).  It is said that one can see the rope with which the builder was hanged.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-02-08_13_22_42_DSC_6401_DxO_L.jpg)
 - Sub-Image: 2020-02-08_11_55_02_DSC_6349_DxO.jpg
 - Sub-Image: 2020-02-08_11_56_19_DSC_6352_DxO.jpg
@@ -180,7 +179,7 @@ The church was reformed into the church of the Augustinian Priory at Chirbury wh
 
 The Domesday book makes reference to a church in the Manor existing before the Norman conquest, most likely a small wooden building.
 
-The name Stretton is derived from the old name Stratun which means 'tun' (settlement) near to the 'Street' or Roman Road.
+The name Stretton is derived from the old name Stratun which means "tun" (settlement) near to the "Street" or Roman Road.
 
 The Norman church was probably built around 1110 to 1130 as the region was growing in prosperity and population (and the Welsh boarder was quieter).
 
@@ -292,7 +291,7 @@ Hope means an enclosed place or valley and Bagot is a derivation of Richard Baga
 ## Date: 1490 AD
 # Name: St John the Baptist, Ightfield
 
-Mentioned in the Doomsday book as Istefelt, the name Ightfield may derive from the Old English 'Ihtfeld' (Iht means creature and Feld means field), referring to the fact that the area was rural and farming was prevalent.  Alternatively, it is thought it could dervice from Giht, an ancient British river name.
+Mentioned in the Doomsday book as Istefelt, the name Ightfield may derive from the Old English "Ihtfeld" (Iht means creature and Feld means field), referring to the fact that the area was rural and farming was prevalent.  Alternatively, it is thought it could dervice from Giht, an ancient British river name.
 
 The church has 15th Century origins and was partly rebuilt in the 19th Century (although records show a church here dedicated to St John the Baptist in 1072 AD).
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-12-21_14_42_27_DSC_6010_DxO_L.jpg)
@@ -348,6 +347,8 @@ The building is painted to look half-timbered.  However, the whole interior is w
 # Name: St Michael the Archangel, Llanyblodwel
 
 The present church was the result of rebuilding the old medieval church in stages between 1847 and 1853 by the then vicar.  The almost detached steeple was designed and added in 1855-6 by the same vicar, he was convinced that the shape would be stronger than the usual hollow spire construction where the thickness of the straight sides diminishes towards the apex.  The height is 104 ft (tower 57 ft and spire 47 ft).
+
+The place name means "an enclosure (especially a church or churchyard) by a spring or well which is red (this may refer to a red-leaved tree or red soil)".
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-08-03_11_19_00_DSC_4692_DxO_bw.jpg)
 - Sub-Image: 2019-08-03_11_40_25_DSC_4701_DxO.jpg
 - Sub-Image: 2019-08-03_11_40_49_DSC_4702_DxO.jpg
@@ -407,7 +408,7 @@ There was probably a Saxon church here as Lidum is mentioned in the Doomsday boo
 
 The churchyard is noted as it has 35 yews shaped by a topiarist.  The church also has an excellent roof.
 
-The origin of the name Lydham is unknowm, but may be the old English for 'at the gates' or 'at the slopes'.
+The origin of the name Lydham is unknowm, but may be the old English for "at the gates" or "at the slopes".
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2020-01-25_15_13_18_DSC_6295_DxO_bw.jpg)
 - Sub-Image: 2020-01-25_14_59_41_IMG_6240_DxO.jpg
 - Sub-Image: 2020-01-25_15_04_00_DSC_6291_DxO.jpg
@@ -577,7 +578,7 @@ St Alkmund died circa 802 AD, he was the younger son of Alhred (king of Northumb
 
 The church stands at the highest point in the town.
 
-The original Medieval church is thought to have been a very fine example.  However, following the collapse of Old St Chad's in 1788, there was concern about the safety of the church.  An act of Parliament decreed the demolition and rebuilding of all but the tower.
+The original medieval church is thought to have been a very fine example.  However, following the collapse of Old St Chad's in 1788, there was concern about the safety of the church.  An act of Parliament decreed the demolition and rebuilding of all but the tower.
 
 The present tower and spire were built around 1475 AD.  The rest of the present church is Georgian.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2018-07-14_12_53_39_DSC_2794_DxO.jpg)
@@ -601,7 +602,7 @@ This church is considered to be the finest 18th Century church in Shropshire.  T
 ## Date: 12th Century AD
 # Name: St Julian, Shrewsbury
 
-This church is one of the four Saxon foundations in Shrewsbury.  The tower dates from the 12th century whereas the present nave was designed by Thomas Farnolls Pritchard who also designed the Iron Bridge at Telford.  Pritchard was born in Shrewsbury and baptised in St Julian's Church on 11 May 1723.
+This church is one of the four Saxon foundations in Shrewsbury.  The tower dates from the 12th Century whereas the present nave was designed by Thomas Farnolls Pritchard who also designed the Iron Bridge at Telford.  Pritchard was born in Shrewsbury and baptised in St Julian's Church on 11 May 1723.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-10-04_13_26_29_DSC_0039_DxO.jpg)
 
 <!--Type: Item-->
@@ -646,7 +647,7 @@ The name of Stokesay is derived from the old English "stoc" meaning a place or s
 ## Date: 1410 AD
 # Name: St Bartholomew, Tong
 
-Sometimes referred to as the 'Westminster Abbey of the Midlands'; the church is noted for its architecture which includes a fan vaulted side chapel (which is rare in Shropshire) and its numerous tombs.
+Sometimes referred to as the "Westminster Abbey of the Midlands"; the church is noted for its architecture which includes a fan vaulted side chapel (which is rare in Shropshire) and its numerous tombs.
 
 The church was founded by the widowed Isabel Lingen as a chantry and collegiate church.  The commission to dissolve the college was issued on 17th September 1546 and referred to the legislation that permitted the king's commissioners to seize property on his behalf.
 
@@ -673,7 +674,7 @@ The name is derived from the old English meaning higher farm or settlement (Upto
 
 Magna is Latin, meaning "great", so the translation of Upton Magna is "Great Upton".
 
-The nave and chancel are originally Norman, as is the south doorway of the Nave.  Some original masonry survives in the chancel but the church was substantially rebuilt and enriched by the architect G E Street (best known as the designer of the Royal Courts of Justice) in the 1850s and 1860s.  The tower is Perpendicular (he final phase of Gothic architecture, which spanned the late 14th century to the early 16th century).
+The nave and chancel are originally Norman, as is the south doorway of the Nave.  Some original masonry survives in the chancel but the church was substantially rebuilt and enriched by the architect G E Street (best known as the designer of the Royal Courts of Justice) in the 1850s and 1860s.  The tower is Perpendicular (he final phase of Gothic architecture, which spanned the late 14th Century to the early 16th Century).
 
 This church is the only one in Shropshire dedicated to St Lucy (a Christian martyr who died during the Diocletianic Persecution - the last and most severe persecution of Christians in the Roman Empire).
 ![](../assets/images/churches/2020-03-01_15_22_17_DSC_6668_DxO.jpg)
@@ -684,7 +685,7 @@ This church is the only one in Shropshire dedicated to St Lucy (a Christian mart
 
 The present church was preceeded by a Saxon or Norman church, a medieval building dating from 1391 and church built in 1788 which became inadequate for the needs of the parish and fell into disrepair.  In 1861 a new building was commissioned from the leading architect of the day Sir George Gilbert Scott.  The walls are of yellow sandstone ashlar; the church has a slate roof which has a lozenge pattern over the nave and a zig-zag pattern over the chancel.
 
-Welshampton is recorded in the Domesday book as Hantone, meaning high farm or settlement.  The prefix 'Welsh' is a reflection of its proximity to Flintshire.
+Welshampton is recorded in the Domesday book as Hantone, meaning high farm or settlement.  The prefix "Welsh" is a reflection of its proximity to Flintshire.
 
 An African prince is buried in the churchyard - the then vicar was as offered a post in Lesotho, which he turned down but maintained contact with the country.  The prince came to England to train as a priest and visited Welshampton when the new church was consecrated in 1863, but during the visit he caught a fever and died and so was buried at the church.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-07-21_13_20_12_DSC_4685_DxO_L.jpg)
@@ -706,7 +707,7 @@ Whitchurch is the oldest continually inhabited town in Shropshire.
 
 Whitchurch acquired its present name after the construction of a Norman church in white Grinshill stone (replacing a wooden Saxon church), from the Middle English for "White Church".  Originally a Roman settlement it was half way between Wroxeter and Chester and so was known as Mediolanum (the place in the middle of the plain).  In the Doomsday book it was known as Westune (indicating its situation on the Western border of England).
 
-The Norman church was extended in Medieval times, but collaspsed on Sunday 31st July 1711.
+The Norman church was extended in medieval times, but collaspsed on Sunday 31st July 1711.
 
 The present church was built on the same site, this time of red sandstone.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/churches/2019-02-09_14_13_23_DSC_3263_DxO.jpg)
@@ -734,7 +735,7 @@ Masonry from the Roman fort of Viroconium was plundered for the construction of 
 ## Date: 1861 AD
 # Name: Holy Trinity, Yockleton
 
-Yockleton became a parish in it's own right in the 19th century, and those who lived in Yockleton and the surrounding areas decided to build their own Church.  The land on which the Church stands was donated by Col. Wingfield of Onslow, a local landowner.
+Yockleton became a parish in it's own right in the 19th Century, and those who lived in Yockleton and the surrounding areas decided to build their own Church.  The land on which the Church stands was donated by Col. Wingfield of Onslow, a local landowner.
 
 The Church is built of grey Alberbury stone with insets of pink Grinshill and pale Cardeston stone.
 ![](../assets/images/churches/2020-03-14_12_31_55_DSC_6763_DxO_bw.jpg)
