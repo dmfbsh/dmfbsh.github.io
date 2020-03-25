@@ -21,7 +21,7 @@
 
 ## Need Notes
 
-- Stoke on Tern church
+- 
 
 ## Scratch Pad
 
@@ -30,5 +30,3 @@
 # Development
 
 - Create a Reference Page
-- Month / year for recent photos?
-- Relocate the GibHub repository to a different place on iCloud?

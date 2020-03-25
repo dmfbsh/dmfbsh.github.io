@@ -95,9 +95,7 @@ All assets relating to the project are held in my GitHub repository, which is cl
 
 20. In DxO PhotoLab develop the photos for the sub-images and export to disk using the Shropshire Photography output option
 
-21. Add the filenames of the sub-images to the MD file entry for the church, along with the Width and Offset parameters for the scrolling slideshow
-
-    <!--Need to document how to calculate Width and Offset-->
+21. Add the filenames of the sub-images to the MD file entry for the church
 
 22. Crop and resize the sub-images to be 240px high and save in the assets\images\churches-sub folder - there is an Export preset in ACDSee for this, the oroginal DxO files can then be deleted
 
