@@ -477,6 +477,22 @@ The name Munslow derives from the old English hlaw (low) meaning tumulus or buri
 
 <!--Type: Item-->
 ## Date: 12th Century AD
+# Name: St John the Baptist, Myndtown
+
+The church may even date back to before the 12th Century.  It is thought to be unique not just within Shropshire, but in the whole of England, in that it has not been the subject of Victorian restoration or alteration.  It is a simple and plain country church.
+
+The church has two bells, one is 15th Century, and the other is from 1150, making it one of the oldest bells listed in the National Bell Register.
+
+Some of the roof timbers have been identified as being from trees felled between 1225 and 1250, which makes them some of the oldest in situ church roof timbers.  The original roof was replaced after about 100 years, the timbers in the replacement roof are from trees felled between 1326 and 1348.
+
+The name Myndtown literally means place or town by the mynd (mountain).  Myndtown was once a significant medieval village.  The village is recorded as "Munete" in the Domesday book.
+![](../assets/images/churches/2020-03-21_14_08_42_DSC_6901_DxO.jpg)
+- Sub-Image: 2020-03-21_13_56_02_DSC_6896_DxO.jpg
+- Sub-Image: 2020-03-21_13_56_46_DSC_6897_DxO.jpg
+- Sub-Image: 2020-03-21_13_57_23_DSC_6898_DxO.jpg
+
+<!--Type: Item-->
+## Date: 12th Century AD
 # Name: St Nicholas, Newport
 
 Although the church dates back to the 12th Century, virtually nothing from this time survives.
