@@ -2,13 +2,11 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:gs="http://ukmapapp.com/GPX_STYLESHEET/v1" xmlns:i="http://ukmapapp.com/GPX_IMPORTANCE/v1" xmlns:gr="http://ukmapapp.com/GPX_GRIDREF/v1" version="1.1" creator="UK Map 4.2">
 <metadata>
 <name>Shropshire - Places</name>
-<desc>More places to add:</desc>
 <bounds minlat="52.382805" minlon="-3.039213" maxlat="52.995575" maxlon="-2.239814"/></metadata>
 <wpt gr:gr="SO7668699344" lat="52.591404" lon="-2.345575">
 <ele>60.0</ele>
 <time>2020-02-19T13:16:35+00</time>
 <name>Badger Dingle</name>
-<desc>Has a waterfall.</desc>
 <sym>yellow photo</sym>
 <extensions>
 <number>1</number>
@@ -33,8 +31,6 @@
 <ele>151.0</ele>
 <time>2020-02-04T15:04:47+00</time>
 <name>Boscobel House</name>
-<desc>Closed until Summer 2020 - see web site for details</desc>
-<link href="https://www.english-heritage.org.uk/visit/places/boscobel-house-and-the-royal-oak/"/>
 <sym>photo yellow</sym>
 <extensions>
 <number>4</number>
@@ -43,7 +39,6 @@
 <ele>40.0</ele>
 <time>2020-02-04T15:04:47+00</time>
 <name>Cressage Bridge</name>
-<desc>Good place to take a photo of the Wrekin.</desc>
 <sym>photo yellow</sym>
 <extensions>
 <number>5</number>
@@ -52,11 +47,6 @@
 <ele>39.0</ele>
 <time>2020-02-04T14:51:42+00</time>
 <name>Daniel's Mill</name>
-<desc>Opening Times
-April to end of October
-Open Thursday to Sunday 11am to 4pm
-Open Bank Holiday Mondays</desc>
-<link href="https://www.danielsmill.co.uk/"/>
 <sym>photo yellow</sym>
 <extensions>
 <number>6</number>
@@ -181,8 +171,6 @@ Open Bank Holiday Mondays</desc>
 <ele>98.0</ele>
 <time>2020-02-04T15:00:15+00</time>
 <name>Lilleshall Abbey</name>
-<desc>Free admission, see web site for opening times.</desc>
-<link href="https://www.english-heritage.org.uk/visit/places/lilleshall-abbey/"/>
 <sym>photo yellow</sym>
 <extensions>
 <number>20</number>
@@ -191,7 +179,6 @@ Open Bank Holiday Mondays</desc>
 <ele>137.0</ele>
 <time>2020-02-04T15:01:30+00</time>
 <name>Lilleshall Hall</name>
-<desc>There are two walks from here a 2.5 mile walk and a 6 mile walk.</desc>
 <sym>photo yellow</sym>
 <extensions>
 <number>21</number>
@@ -200,7 +187,6 @@ Open Bank Holiday Mondays</desc>
 <ele>50.0</ele>
 <time>2020-02-12T09:22:01+00</time>
 <name>Shrewsbury - view point</name>
-<desc>Somewhere round here is a good view point to photograph the Shrewsbury skyline.</desc>
 <sym>yellow photo</sym>
 <extensions>
 <number>22</number>
@@ -209,8 +195,6 @@ Open Bank Holiday Mondays</desc>
 <ele>221.0</ele>
 <time>2020-02-04T15:09:53+00</time>
 <name>St Milburga's Well</name>
-<desc>The well is located a little way up the hill after going past the turning for the church heading for Clee St Margaret and can be identified by the purpose made gate at the entrance of the well site.</desc>
-<link href="https://www.sstm.uk/page/st-milburga-s-well"/>
 <sym>photo yellow</sym>
 <extensions>
 <number>23</number>
@@ -219,7 +203,6 @@ Open Bank Holiday Mondays</desc>
 <ele>321.9</ele>
 <time>2020-02-12T09:26:44+00</time>
 <name>The Stiperstones - The Hollies</name>
-<desc>The Hollies nature reserve, home to Holly trees of exceptional character and age - some are over three centuries old.</desc>
 <sym>yellow photo</sym>
 <extensions>
 <number>24</number>
@@ -228,10 +211,6 @@ Open Bank Holiday Mondays</desc>
 <ele>110.0</ele>
 <time>2020-02-04T15:03:20+00</time>
 <name>White Ladies Priory</name>
-<desc>Open any reasonable time during daylight hours.
-
-There is a limited amount of parking at White Ladies Priory. Access to the site is via public footpath. It is recommended that visitors park at nearby Boscobel House and use the permissive footpath leading to the Priory.</desc>
-<link href="https://www.english-heritage.org.uk/visit/places/white-ladies-priory/"/>
 <sym>photo yellow</sym>
 <extensions>
 <number>25</number>
@@ -240,20 +219,6 @@ There is a limited amount of parking at White Ladies Priory. Access to the site 
 <ele>203.9</ele>
 <time>2020-01-16T21:37:14+00</time>
 <name>Wilderhope Manor</name>
-<desc>Open 2020 - 2pm to 4pm each day:
-- Jan - Sundays
-- Feb - Sundays
-- Mar - Sundays
-- Apr - Wednesdays and Sundays
-- May - Wednesdays and Sundays
-- Jun - Wednesdays and Sundays
-- Jul - Wednesdays and Sundays
-- Aug - Wednesdays and Sundays
-- Sep - Wednesdays and Sundays
-- Oct - Sundays
-- Nov - Sundays
-- Dec - Sundays excl. 27th</desc>
-<link href="https://www.nationaltrust.org.uk/wilderhope-manor"/>
 <sym>photo yellow</sym>
 <extensions>
 <number>26</number>
@@ -262,19 +227,6 @@ There is a limited amount of parking at White Ladies Priory. Access to the site 
 <ele>70.1</ele>
 <time>2020-01-16T21:38:11+00</time>
 <name>Wollerton Old Hall Garden</name>
-<desc>2020 PUBLIC OPEN DAYS
-
-Good Friday - End of May
-Fridays, Sundays and Bank Holidays 12noon - 5pm
-
-National Garden Scheme open day 15th May. All entrance fee proceeds go to the nursing charities involved. Usual opening times apply. No concessions for RHS or HHA members on this day.
-
-June, July and August
-Thursdays, Fridays, Sundays and Bank Holidays 12noon - 5pm
-
-September
-Fridays only 12noon - 5pm</desc>
-<link href="http://www.wollertonoldhallgarden.com/"/>
 <sym>photo yellow</sym>
 <extensions>
 <number>27</number>

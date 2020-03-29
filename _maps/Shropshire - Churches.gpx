@@ -929,7 +929,7 @@ Open 10-4:30.</desc>
 <wpt gr:gr="SO3364199021" lat="52.584949" lon="-2.980850">
 <ele>345.0</ele>
 <name>Shelve - All Saints</name>
-<sym>blue plus</sym>
+<sym>green plus</sym>
 <extensions>
 <number>237</number>
 <i:importance>0.074024</i:importance></extensions></wpt>
@@ -1194,8 +1194,8 @@ Open 10-4:30.</desc>
 <i:importance>0.148797</i:importance></extensions></wpt>
 <wpt gr:gr="SO3902689518" lat="52.500160" lon="-2.899630">
 <ele>221.0</ele>
-<name>Mindtown - St John the Baptist</name>
-<sym>blue plus</sym>
+<name>Myndtown - St John the Baptist</name>
+<sym>green plus</sym>
 <extensions>
 <number>188</number>
 <i:importance>0.798267</i:importance></extensions></wpt>
