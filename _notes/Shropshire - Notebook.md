@@ -85,7 +85,7 @@ All assets relating to the project are held in my GitHub repository, which is cl
 
 >C:\Users\David\Documents\iCloudDrive\27N4MQEA55~pro~writer\dmfbsh.github.io\_maps\Shropshire - Churches.gpx
 
-17. Send the GPX file to the iPhone & iPad (this is done automatically as it is held on the iCloud drive) and load into the UK Maps app
+17. Send the GPX file to the iPhone & iPad (this is done via GitHub) and load into the UK Maps app
 
     *Additional steps for Church sub-images:*
 
