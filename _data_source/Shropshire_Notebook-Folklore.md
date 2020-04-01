@@ -42,5 +42,5 @@ It is said that when the mist descends on the rock formation Satan and a coven o
 
 There are many legends of how the Devil's Chair came to be.  One suggests that the devil was carrying rocks to fill a nearby valley called "Hell's Gutter".  He sat the rocks down to rest but when he got up, the apron he was carrying the rocks in broke and so the devil left the rocks where they had fallen, cursing them.
 
-Another tells of a giantess who came collecting rocks and placing them in her apron.  The devil popped up and cut the apron strings causing the rocks to fall to the ground and the giantess ran away.  Since that day the devil returns to sit there are survey the world.
+Another tells of a giantess who came collecting rocks and placing them in her apron.  The devil popped up and cut the apron strings causing the rocks to fall to the ground and the giantess ran away.  Since that day the devil returns to sit there and survey the world.
 ![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/folklore/2010-05-09_13-30-46_00009810_DxO.jpg)
