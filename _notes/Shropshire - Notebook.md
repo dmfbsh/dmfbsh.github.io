@@ -119,12 +119,24 @@ All assets relating to the project are held in my GitHub repository, which is cl
 
 The following tools are used by the project:
 
-- Ruby
-- Jekyll
-- UltraEdit
-- iA Writer
-- AutoHotKey
-- GitHub Desktop
+- MS Windows 10
+  - Ruby
+  - Jekyll
+  - UltraEdit
+  - Typora
+  - AutoHotKey
+  - GitHub Desktop
+  - OneNote
+  - ACDSee Photo Studio Professional
+  - DB Browser (SQLite)
+  - Inkscape
+  - Google Maps
+- iOS
+  - Working Copy
+  - UK Map
+  - OneNote
+
+![Diagram 1](diagram1.svg)
 
 To install Ruby and Jekyll, do the following:
 
@@ -142,7 +154,7 @@ A project - Shropshire Web Site - is set up in UltraEdit to ease access to the f
 
 UltraEdit is installed with no specific configuration.  A project - Shropshire Web Site - has been set up to allow easy access to the files, and provide shortcuts to access the various tools and scripts.
 
-iA Write is installed with no specific configuration.  A librray is set up in iA Writer for the project to ease access to the files.
+Typora is installed with no specific configuration.
 
 AutoHotKey (64-bit) is installed, with no additional configuration.
 
