@@ -23,7 +23,11 @@ title: Folklore of Shropshire
   </div>
   <div class="columnhr">
   <h3>{{ item.Name }}</h3>
-  <img src="assets/images/folklore/{{ item.Thumbnail }}" alt="" align="{{ orientation }}" style="max-width:100%">
+{% if orientation == "right" %}
+    <img src="assets/images/folklore/{{ item.Thumbnail }}" alt="" class="ml" align="right" style="max-width:100%">
+{% else %}
+    <img src="assets/images/folklore/{{ item.Thumbnail }}" alt="" class="mr" align="left" style="max-width:100%">
+{% endif %}
 {{ item.Description | markdownify }}
   </div>
 </div>

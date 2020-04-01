@@ -27,9 +27,9 @@ title: Churches of Shropshire
     <h3>{{ item.Name }}</h3>
     <table><tr><td>
 {% if orientation == "right" %}
-    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" class="ml" align="{{ orientation }}" style="max-width:100%">
+    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" class="ml" align="right" style="max-width:100%">
 {% else %}
-    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" class="mr" align="{{ orientation }}" style="max-width:100%">
+    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" class="mr" align="left" style="max-width:100%">
 {% endif %}
     {{ item.Description | markdownify }}
   	{% for subimage in item.Sub-Images %}
