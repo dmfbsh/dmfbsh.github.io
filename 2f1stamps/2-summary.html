@@ -1,0 +1,29 @@
+---
+layout: f1stamps
+---
+
+{% include 2-header.html %}
+
+<div class="wrapper col3">
+	<div id="featured_intro">
+		<div>
+			<div class="f1text">
+				<b>Summary</b>
+				<br>
+				<table><tr><th>Description of Item</th><th>Number of Item</th></tr>
+{% for item in site.data.F1Stamps-Summary %}
+{% if forloop.last %}
+				</table>
+				<br/><br/>
+				Last generated: {{ item.Value }}
+				<br/>
+{% else %}
+<tr><td>{{ item.What }}</td><td>{{ item.Value }}</td></tr>
+{% endif %}
+{% endfor %}
+			</div>
+		</div>
+	</div>
+</div>
+
+{% include 2-footer.html %}

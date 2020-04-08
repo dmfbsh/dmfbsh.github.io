@@ -1,0 +1,92 @@
+---
+layout: shropshire
+title: My Shropshire
+---
+
+{% include 1-header.html %}
+
+<div class="rowh">
+<div class="columntl">
+<i>
+<p style="color:#DDDDDD;">
+Shropshire is a county in the West Midlands of England, bordering Wales to the west, Cheshire to the north, Staffordshire to the east, and Worcestershire and Herefordshire to the south.
+</p>
+<p style="color:#DDDDDD;">
+As well as Shropshire, the county still goes by its old name of Salop, in fact Shropshire's residents are referred to as "Salopians".
+</p>
+<p style="color:#DDDDDD;">
+A county council was first established in 1889 and was called Salop County Council; following the Local Government Act 1972, Salop became the official name for the county.  However, the name was not favoured by the residents and following a campaign to have it changed, the country and the council were renamed as Shropshire in 1980.
+</p>
+<p style="color:#DDDDDD;">
+Shropshire came into existence as a unit of government in the early 10th Century.  The first known recorded mention of Shropshire is in the Anglo-Saxon Chronicle annal for 1006.
+</p>
+<p style="color:#DDDDDD;">
+During the middle ages, the extent of the county varied quite considerably as large areas were lost from the jurisdiction of the sheriff to the Marcher lords.  The county largely took its present form under the reign of Henry VIII when the Marcher lordships were abolished.
+</p>
+<p style="color:#DDDDDD;">
+The origin of the name is thought to be from the Old English Scrobbesbyrigscir (this literally translates as "Shrewsburyshire"), which means "the shire of the fortified place in the scrublands (or shrubs)".  Alternatively, it has been suggested the name could derive from a personal name such as Scrope (also spelt Scrobbe).
+</p>
+<p style="color:#DDDDDD;">
+The Normans, howevr, found the name difficult to pronounce and so softened the name to be "Salopesberia" and "Salopescira" (hence Salop).
+</p>
+<br>
+<br>
+<p style="color:#DDDDDD;"><b>Click on the links above to explore more.</b></p>
+</div>
+<div class="columntr">
+<div id="slideshow">
+{% for image in site.static_files %}
+    {% if image.path contains 'castles/' %}
+    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
+        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
+    {% endunless %}
+    {% endif %}
+    {% if image.path contains 'churches/' %}
+    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
+        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
+    {% endunless %}
+    {% endif %}
+    {% if image.path contains 'gardens/' %}
+    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
+        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
+    {% endunless %}
+    {% endif %}
+    {% if image.path contains 'history/' %}
+    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
+        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
+    {% endunless %}
+    {% endif %}
+    {% if image.path contains 'houses/' %}
+    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
+        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
+    {% endunless %}
+    {% endif %}
+    {% if image.path contains 'landscape/' %}
+    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
+        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
+    {% endunless %}
+    {% endif %}
+    {% if image.path contains 'miscellaneous/' %}
+    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
+        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
+    {% endunless %}
+    {% endif %}
+    {% if image.path contains 'places/' %}
+    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
+        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
+    {% endunless %}
+    {% endif %}
+{% endfor %}
+</div>
+</div>
+</div>
+
+<div class="rowh">
+<div class="columntl">
+<h2>Latest Posts</h2>
+{% for post in site.posts %}
+<h3>{{ post.date | date_to_string }} - {{ post.title }}</h3>
+<p>{{ post.content }}</p>
+{% endfor %}
+</div>
+</div>

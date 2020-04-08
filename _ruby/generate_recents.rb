@@ -1,16 +1,16 @@
 
-cl = Dir.glob("../assets/images/churches/20*.jpg")
-hl = Dir.glob("../assets/images/history/20*.jpg")
-ll = Dir.glob("../assets/images/landscape/20*.jpg")
-ml = Dir.glob("../assets/images/miscellaneous/20*.jpg")
-pl = Dir.glob("../assets/images/places/20*.jpg")
-gl = Dir.glob("../assets/images/gardens/20*.jpg")
+cl = Dir.glob("../1shropshire/assets/images/churches/20*.jpg")
+hl = Dir.glob("../1shropshire/assets/images/history/20*.jpg")
+ll = Dir.glob("../1shropshire/assets/images/landscape/20*.jpg")
+ml = Dir.glob("../1shropshire/assets/images/miscellaneous/20*.jpg")
+pl = Dir.glob("../1shropshire/assets/images/places/20*.jpg")
+gl = Dir.glob("../1shropshire/assets/images/gardens/20*.jpg")
 
 fl = cl + hl + ll + ml + pl + gl
 gl = Array.new
 
 fl.each { |ni|
-  nf = ni[ni.rindex("/")+1, 100] + "#" + ni[17..ni.rindex("/")-1]
+  nf = ni[ni.rindex("/")+1, 100] + "#" + ni[29..ni.rindex("/")-1]
   gl.push(nf)
 }
 

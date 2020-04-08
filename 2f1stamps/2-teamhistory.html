@@ -1,0 +1,21 @@
+---
+layout: f1stamps
+---
+
+{% include 2-header.html %}
+
+<div class="wrapper col3">
+	<div id="featured_intro">
+		<div>
+			<div class="f1text">
+				<b>Team Histories</b><br>Some of the teams that have particpated in Formula 1 have been involved in the sport for many years; during their time in the sport those teams have achieved much success.  This page lists some of the &quot;great&quot; teams that have particpated in the sport over the years, click on a team name to see the detailed history of that team depicted using postage stamps.
+			</div>
+{% for item in site.data.F1Stamps-TeamHistory %}
+<div class="f1text"><a href="2-history{{ item.Team }}.html"><b>{{ item.Team }}</b></a></div>
+<div class="f1text"><table><tr class="bb"><td align="center" width="25%"><img src="Photos/{{ item.PrincipalPicture }}" height="120"></td><td>First competed in Formula 1 : {{ item.StartYear }}</br>Last competed in Formula 1 : {{ item.EndYear }}</br>Founder / Main Team Principal : {{ item.PrincipalName }}</br></td></tr></table></div>
+{% endfor %}
+		</div>
+	</div>
+</div>
+
+{% include 2-footer.html %}

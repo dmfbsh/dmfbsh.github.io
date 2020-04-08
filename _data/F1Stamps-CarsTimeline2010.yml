@@ -1,0 +1,296 @@
+- Year: 2010
+  Cars:
+  - Name: Ferrari F10
+    Count: 3
+    Images:
+      - Image: stamp0299bc.jpg
+      - Image: stamp0296.jpg
+      - Image: stamp0540ac.jpg
+  - Name: McLaren MP4/25
+    Count: 2
+    Images:
+      - Image: stamp0289gc.jpg
+      - Image: stamp0295.jpg
+  - Name: Mercedes MGP W01
+    Count: 1
+    Images:
+      - Image: stamp0294.jpg
+  - Name: Red Bull RB6
+    Count: 2
+    Images:
+      - Image: stamp0319.jpg
+      - Image: stamp0320.jpg
+- Year: 2011
+  Cars:
+  - Name: Ferrari 150 Italia
+    Count: 2
+    Images:
+      - Image: stamp0299ac.jpg
+      - Image: stamp0384.jpg
+  - Name: McLaren MP4/26
+    Count: 5
+    Images:
+      - Image: stamp0545.jpg
+      - Image: stamp0546.jpg
+      - Image: stamp0287.jpg
+      - Image: stamp0544.jpg
+  - Name: Mercedes MGP W02
+    Count: 1
+    Images:
+      - Image: stamp0540cc.jpg
+  - Name: Renault R31
+    Count: 1
+    Images:
+      - Image: stamp0540bc.jpg
+- Year: 2012
+  Cars:
+  - Name: Caterham CT01
+    Count: 1
+    Images:
+      - Image: stamp0647ac.jpg
+  - Name: Ferrari F2012
+    Count: 3
+    Images:
+      - Image: stamp0321.jpg
+      - Image: stamp0650bc.jpg
+      - Image: stamp0383.jpg
+  - Name: Force India VJM05
+    Count: 1
+    Images:
+      - Image: stamp0646ac.jpg
+  - Name: HRT F112
+    Count: 1
+    Images:
+      - Image: stamp0649bc.jpg
+  - Name: Lotus E20
+    Count: 2
+    Images:
+      - Image: stamp0646bc.jpg
+      - Image: stamp0541dc.jpg
+  - Name: Marussia MR01
+    Count: 1
+    Images:
+      - Image: stamp0649ac.jpg
+  - Name: McLaren MP4/27
+    Count: 2
+    Images:
+      - Image: stamp0648ac.jpg
+      - Image: stamp0541cc.jpg
+  - Name: Mercedes F1 W03
+    Count: 3
+    Images:
+      - Image: stamp0650ac.jpg
+      - Image: stamp0301cc.jpg
+      - Image: stamp0541ac.jpg
+  - Name: Red Bull RB8
+    Count: 2
+    Images:
+      - Image: stamp0541bc.jpg
+      - Image: stamp0648bc.jpg
+  - Name: Sauber C31
+    Count: 1
+    Images:
+      - Image: stamp0645bc.jpg
+  - Name: Toro Rosso STR7
+    Count: 1
+    Images:
+      - Image: stamp0645ac.jpg
+  - Name: Williams FW34
+    Count: 1
+    Images:
+      - Image: stamp0647bc.jpg
+- Year: 2013
+  Cars:
+  - Name: Force India VJM06
+    Count: 1
+    Images:
+      - Image: stamp0575bc.jpg
+  - Name: Mercedes F1 W04
+    Count: 1
+    Images:
+      - Image: stamp0674ac.jpg
+  - Name: Red Bull RB9
+    Count: 1
+    Images:
+      - Image: stamp0598ac.jpg
+  - Name: Williams FW35
+    Count: 1
+    Images:
+      - Image: stamp0575cc.jpg
+- Year: 2014
+  Cars:
+  - Name: Ferrari F14 T
+    Count: 2
+    Images:
+      - Image: stamp0678cc.jpg
+      - Image: stamp0674bc.jpg
+  - Name: Marussia MR03
+    Count: 1
+    Images:
+      - Image: stamp0675dc.jpg
+  - Name: McLaren MP4/29
+    Count: 1
+    Images:
+      - Image: stamp0679.jpg
+  - Name: Mercedes F1 W05 Hybrid
+    Count: 3
+    Images:
+      - Image: stamp0616ac.jpg
+      - Image: stamp0678ac.jpg
+      - Image: stamp0598bc.jpg
+  - Name: Red Bull RB10
+    Count: 2
+    Images:
+      - Image: stamp0678bc.jpg
+      - Image: stamp0616bc.jpg
+  - Name: Williams FW36
+    Count: 1
+    Images:
+      - Image: stamp0559.jpg
+- Year: 2015
+  Cars:
+  - Name: Ferrari SF15-T
+    Count: 4
+    Images:
+      - Image: stamp0581.jpg
+      - Image: stamp0582cc.jpg
+      - Image: stamp0594.jpg
+  - Name: Lotus E23
+    Count: 1
+    Images:
+      - Image: stamp0582.jpg
+  - Name: McLaren MP4/30
+    Count: 1
+    Images:
+      - Image: stamp0582dc.jpg
+  - Name: Mercedes F1 W06
+    Count: 3
+    Images:
+      - Image: stamp0595.jpg
+      - Image: stamp0582bc.jpg
+      - Image: stamp0675ac.jpg
+  - Name: Red Bull RB11
+    Count: 3
+    Images:
+      - Image: stamp0593.jpg
+      - Image: stamp0581.jpg
+  - Name: Sauber C34
+    Count: 1
+    Images:
+      - Image: stamp0581.jpg
+  - Name: Toro Rosso STR10
+    Count: 1
+    Images:
+      - Image: stamp0582.jpg
+  - Name: Williams FW37
+    Count: 3
+    Images:
+      - Image: stamp0592.jpg
+      - Image: stamp0582ac.jpg
+- Year: 2016
+  Cars:
+  - Name: Ferrari SF16-H
+    Count: 5
+    Images:
+      - Image: stamp0644bc.jpg
+      - Image: stamp0656ac.jpg
+      - Image: stamp0617dc.jpg
+      - Image: stamp0669cc.jpg
+  - Name: Force India VJM09
+    Count: 1
+    Images:
+      - Image: stamp0691dc.jpg
+  - Name: Haas VF-16
+    Count: 1
+    Images:
+      - Image: stamp0655bc.jpg
+  - Name: Manor MRT05
+    Count: 1
+    Images:
+      - Image: stamp0668.jpg
+  - Name: McLaren MP4/31
+    Count: 3
+    Images:
+      - Image: stamp0644ec.jpg
+      - Image: stamp0660bc.jpg
+      - Image: stamp0617ac.jpg
+  - Name: Mercedes F1 W07 Hybrid
+    Count: 6
+    Images:
+      - Image: stamp0617cc.jpg
+      - Image: stamp0669ac.jpg
+      - Image: stamp0660cc.jpg
+      - Image: stamp0644ac.jpg
+  - Name: Red Bull RB12
+    Count: 5
+    Images:
+      - Image: stamp0660fc.jpg
+      - Image: stamp0668ac.jpg
+      - Image: stamp0644cc.jpg
+      - Image: stamp0660dc.jpg
+  - Name: Renault R.S.16
+    Count: 2
+    Images:
+      - Image: stamp0669bc.jpg
+      - Image: stamp0644fc.jpg
+  - Name: Sauber C35
+    Count: 1
+    Images:
+      - Image: stamp0669dc.jpg
+  - Name: Williams FW38
+    Count: 2
+    Images:
+      - Image: stamp0668.jpg
+      - Image: stamp0644dc.jpg
+- Year: 2017
+  Cars:
+  - Name: Ferrari SF70H
+    Count: 3
+    Images:
+      - Image: stamp0670ac.jpg
+      - Image: stamp0672.jpg
+      - Image: stamp0673bc.jpg
+  - Name: Force India VJM10
+    Count: 2
+    Images:
+      - Image: stamp0691bc.jpg
+      - Image: stamp0675fc.jpg
+  - Name: McLaren MCL32
+    Count: 4
+    Images:
+      - Image: stamp0674.jpg
+      - Image: stamp0675ec.jpg
+      - Image: stamp0691ac.jpg
+      - Image: stamp0672.jpg
+  - Name: Mercedes AMG F1 W08 EQ Power+
+    Count: 4
+    Images:
+      - Image: stamp0674.jpg
+      - Image: stamp0692.jpg
+      - Image: stamp0671bc.jpg
+      - Image: stamp0673ac.jpg
+  - Name: Red Bull RB13
+    Count: 1
+    Images:
+      - Image: stamp0673dc.jpg
+  - Name: Renault R.S.17
+    Count: 3
+    Images:
+      - Image: stamp0673cc.jpg
+      - Image: stamp0692ac.jpg
+      - Image: stamp0675hc.jpg
+  - Name: Sauber C36
+    Count: 3
+    Images:
+      - Image: stamp0675gc.jpg
+      - Image: stamp0691cc.jpg
+      - Image: stamp0679.jpg
+  - Name: Williams FW40
+    Count: 2
+    Images:
+      - Image: stamp0674.jpg
+      - Image: stamp0692.jpg
+- Year: 2018
+  Cars:
+- Year: 2019
+  Cars:

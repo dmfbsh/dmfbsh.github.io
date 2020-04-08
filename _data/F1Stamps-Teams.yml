@@ -1,0 +1,222 @@
+- Name: Alfa Romeo
+  Count: 8
+  Images:
+    - Image: stamp0347.jpg
+    - Image: stamp0335.jpg
+    - Image: stamp0369.jpg
+    - Image: stamp0231.jpg
+- Name: Anglo American Racers
+  Count: 1
+  Images:
+    - Image: stamp0518.jpg
+- Name: Arrows
+  Count: 5
+  Images:
+    - Image: stamp0183.jpg
+    - Image: stamp0029.jpg
+    - Image: stamp0026.jpg
+    - Image: stamp0087.jpg
+- Name: ATS
+  Count: 1
+  Images:
+    - Image: stamp0113.jpg
+- Name: Benetton
+  Count: 20
+  Images:
+    - Image: stamp0032.jpg
+    - Image: stamp0374.jpg
+    - Image: stamp0183.jpg
+    - Image: stamp0087.jpg
+- Name: BMW Sauber
+  Count: 3
+  Images:
+    - Image: stamp0199.jpg
+    - Image: stamp0401.jpg
+    - Image: stamp0289.jpg
+- Name: Brabham
+  Count: 17
+  Images:
+    - Image: stamp0126.jpg
+    - Image: stamp0061.jpg
+    - Image: stamp0510.jpg
+    - Image: stamp0323.jpg
+- Name: Brawn GP
+  Count: 3
+  Images:
+    - Image: stamp0064.jpg
+    - Image: stamp0495.jpg
+    - Image: stamp0070.jpg
+- Name: BRM
+  Count: 11
+  Images:
+    - Image: stamp0534.jpg
+    - Image: stamp0039.jpg
+    - Image: stamp0348.jpg
+    - Image: stamp0037.jpg
+- Name: Bugatti
+  Count: 1
+  Images:
+    - Image: stamp0200.jpg
+- Name: Cooper
+  Count: 6
+  Images:
+    - Image: stamp0340.jpg
+    - Image: stamp0123.jpg
+    - Image: stamp0337.jpg
+    - Image: stamp0104.jpg
+- Name: Ferrari
+  Count: 203
+  Images:
+    - Image: stamp0195.jpg
+    - Image: stamp0507.jpg
+    - Image: stamp0033.jpg
+    - Image: stamp0045.jpg
+- Name: Force India
+  Count: 1
+  Images:
+    - Image: stamp0575.jpg
+- Name: Honda
+  Count: 8
+  Images:
+    - Image: stamp0076.jpg
+    - Image: stamp0029.jpg
+    - Image: stamp0087.jpg
+    - Image: stamp0269.jpg
+- Name: Jaguar
+  Count: 5
+  Images:
+    - Image: stamp0087.jpg
+    - Image: stamp0240.jpg
+    - Image: stamp0280.jpg
+    - Image: stamp0026.jpg
+- Name: Jordan
+  Count: 11
+  Images:
+    - Image: stamp0525.jpg
+    - Image: stamp0244.jpg
+    - Image: stamp0219.jpg
+    - Image: stamp0240.jpg
+- Name: Ligier
+  Count: 2
+  Images:
+    - Image: stamp0200.jpg
+    - Image: stamp0113.jpg
+- Name: Lotus
+  Count: 54
+  Images:
+    - Image: stamp0434.jpg
+    - Image: stamp0024.jpg
+    - Image: stamp0339.jpg
+    - Image: stamp0039.jpg
+- Name: March
+  Count: 1
+  Images:
+    - Image: stamp0586.jpg
+- Name: Maserati
+  Count: 12
+  Images:
+    - Image: stamp0532.jpg
+    - Image: stamp0425.jpg
+    - Image: stamp0231.jpg
+    - Image: stamp0361.jpg
+- Name: Matra
+  Count: 5
+  Images:
+    - Image: stamp0145.jpg
+    - Image: stamp0127.jpg
+    - Image: stamp0350.jpg
+    - Image: stamp0200.jpg
+- Name: McLaren
+  Count: 112
+  Images:
+    - Image: stamp0254.jpg
+    - Image: stamp0109.jpg
+    - Image: stamp0625.jpg
+    - Image: stamp0282.jpg
+- Name: Mercedes
+  Count: 24
+  Images:
+    - Image: stamp0643.jpg
+    - Image: stamp0572.jpg
+    - Image: stamp0588.jpg
+    - Image: stamp0343.jpg
+- Name: Minardi
+  Count: 5
+  Images:
+    - Image: stamp0029.jpg
+    - Image: stamp0026.jpg
+    - Image: stamp0087.jpg
+    - Image: stamp0239.jpg
+- Name: Porsche
+  Count: 1
+  Images:
+    - Image: stamp0200.jpg
+- Name: Prost
+  Count: 6
+  Images:
+    - Image: stamp0076.jpg
+    - Image: stamp0247.jpg
+    - Image: stamp0087.jpg
+    - Image: stamp0238.jpg
+- Name: Red Bull
+  Count: 39
+  Images:
+    - Image: stamp0530.jpg
+    - Image: stamp0596.jpg
+    - Image: stamp0581.jpg
+    - Image: stamp0475.jpg
+- Name: Renault
+  Count: 18
+  Images:
+    - Image: stamp0402.jpg
+    - Image: stamp0282.jpg
+    - Image: stamp0155.jpg
+    - Image: stamp0177.jpg
+- Name: Sauber
+  Count: 8
+  Images:
+    - Image: stamp0100.jpg
+    - Image: stamp0029.jpg
+    - Image: stamp0581.jpg
+    - Image: stamp0224.jpg
+- Name: Stewart Grand Prix
+  Count: 1
+  Images:
+    - Image: stamp0224.jpg
+- Name: Super Aguri
+  Count: 1
+  Images:
+    - Image: stamp0396.jpg
+- Name: Team Surtees
+  Count: 1
+  Images:
+    - Image: stamp0494.jpg
+- Name: Toyota
+  Count: 1
+  Images:
+    - Image: stamp0289.jpg
+- Name: Tyrrell
+  Count: 19
+  Images:
+    - Image: stamp0045.jpg
+    - Image: stamp0038.jpg
+    - Image: stamp0070.jpg
+    - Image: stamp0037.jpg
+- Name: Vanwall
+  Count: 7
+  Images:
+    - Image: stamp0512.jpg
+    - Image: stamp0039.jpg
+    - Image: stamp0288.jpg
+    - Image: stamp0501.jpg
+- Name: Williams
+  Count: 73
+  Images:
+    - Image: stamp0238.jpg
+    - Image: stamp0524.jpg
+    - Image: stamp0084.jpg
+    - Image: stamp0360.jpg
+- Name: Wolf
+  Count: 1
+  Images:
+    - Image: stamp0061.jpg

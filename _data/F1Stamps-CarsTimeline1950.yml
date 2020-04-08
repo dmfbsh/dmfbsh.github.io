@@ -1,0 +1,267 @@
+- Year: 1950
+  Cars:
+  - Name: Alfa Romeo 158
+    Count: 5
+    Images:
+      - Image: stamp0533.jpg
+      - Image: stamp0335.jpg
+      - Image: stamp0301ac.jpg
+      - Image: stamp0104ac.jpg
+  - Name: Ferrari 125 F1
+    Count: 1
+    Images:
+      - Image: stamp0241ac.jpg
+  - Name: Ferrari 375 F1
+    Count: 2
+    Images:
+      - Image: stamp0476bc.jpg
+      - Image: stamp0068ac.jpg
+  - Name: Maserati 4CLT
+    Count: 2
+    Images:
+      - Image: stamp0532.jpg
+      - Image: stamp0288ac.jpg
+- Year: 1951
+  Cars:
+  - Name: Alfa Romeo 158
+    Count: 5
+    Images:
+      - Image: stamp0335.jpg
+      - Image: stamp0533.jpg
+      - Image: stamp0317ac.jpg
+      - Image: stamp0104ac.jpg
+  - Name: Alfa Romeo 159
+    Count: 3
+    Images:
+      - Image: stamp0361.jpg
+      - Image: stamp0231ac.jpg
+      - Image: stamp0347.jpg
+  - Name: BRM Type 15
+    Count: 1
+    Images:
+      - Image: stamp0534.jpg
+  - Name: Ferrari 125 F1
+    Count: 1
+    Images:
+      - Image: stamp0241ac.jpg
+  - Name: Ferrari 375 F1
+    Count: 2
+    Images:
+      - Image: stamp0476bc.jpg
+      - Image: stamp0068ac.jpg
+  - Name: Maserati 4CLT
+    Count: 2
+    Images:
+      - Image: stamp0532.jpg
+      - Image: stamp0288ac.jpg
+- Year: 1952
+  Cars:
+  - Name: Cooper T20
+    Count: 2
+    Images:
+      - Image: stamp0288bc.jpg
+      - Image: stamp0613dc.jpg
+  - Name: Ferrari 125 F1
+    Count: 1
+    Images:
+      - Image: stamp0241ac.jpg
+  - Name: Ferrari Tipo 500 F2
+    Count: 8
+    Images:
+      - Image: stamp0095ac.jpg
+      - Image: stamp0056ac.jpg
+      - Image: stamp0024ac.jpg
+      - Image: stamp0344.jpg
+  - Name: Maserati 4CLT
+    Count: 2
+    Images:
+      - Image: stamp0532.jpg
+      - Image: stamp0288ac.jpg
+- Year: 1953
+  Cars:
+  - Name: Cooper T20
+    Count: 2
+    Images:
+      - Image: stamp0288bc.jpg
+      - Image: stamp0613dc.jpg
+  - Name: Ferrari 553 F1
+    Count: 1
+    Images:
+      - Image: stamp0046bc.jpg
+  - Name: Ferrari Tipo 500 F2
+    Count: 8
+    Images:
+      - Image: stamp0056ac.jpg
+      - Image: stamp0344.jpg
+      - Image: stamp0095ac.jpg
+      - Image: stamp0331.jpg
+- Year: 1954
+  Cars:
+  - Name: Ferrari 553 F1
+    Count: 1
+    Images:
+      - Image: stamp0046bc.jpg
+  - Name: Ferrari 625 F1
+    Count: 5
+    Images:
+      - Image: stamp0017ac.jpg
+      - Image: stamp0241bc.jpg
+      - Image: stamp0104bc.jpg
+      - Image: stamp0279dc.jpg
+  - Name: Ferrari Tipo 500 F2
+    Count: 8
+    Images:
+      - Image: stamp0371.jpg
+      - Image: stamp0056ac.jpg
+      - Image: stamp0095ac.jpg
+      - Image: stamp0053ac.jpg
+  - Name: Maserati 250F
+    Count: 14
+    Images:
+      - Image: stamp0333.jpg
+      - Image: stamp0231dc.jpg
+      - Image: stamp0361.jpg
+      - Image: stamp0213.jpg
+  - Name: Mercedes-Benz W196
+    Count: 15
+    Images:
+      - Image: stamp0685.jpg
+      - Image: stamp0372.jpg
+      - Image: stamp0363.jpg
+      - Image: stamp0114ac.jpg
+- Year: 1955
+  Cars:
+  - Name: Ferrari 625 F1
+    Count: 5
+    Images:
+      - Image: stamp0241bc.jpg
+      - Image: stamp0279dc.jpg
+      - Image: stamp0017ac.jpg
+      - Image: stamp0305.jpg
+  - Name: Ferrari D50
+    Count: 5
+    Images:
+      - Image: stamp0046cc.jpg
+      - Image: stamp0361.jpg
+      - Image: stamp0342.jpg
+      - Image: stamp0316.jpg
+  - Name: Ferrari Tipo 500 F2
+    Count: 8
+    Images:
+      - Image: stamp0344.jpg
+      - Image: stamp0056ac.jpg
+      - Image: stamp0024ac.jpg
+      - Image: stamp0053bc.jpg
+  - Name: Maserati 250F
+    Count: 14
+    Images:
+      - Image: stamp0425.jpg
+      - Image: stamp0536.jpg
+      - Image: stamp0333.jpg
+      - Image: stamp0323cc.jpg
+  - Name: Mercedes-Benz W196
+    Count: 15
+    Images:
+      - Image: stamp0588.jpg
+      - Image: stamp0114ac.jpg
+      - Image: stamp0210.jpg
+      - Image: stamp0231bc.jpg
+- Year: 1956
+  Cars:
+  - Name: Bugatti T251
+    Count: 1
+    Images:
+      - Image: stamp0200ac.jpg
+  - Name: Ferrari D50
+    Count: 5
+    Images:
+      - Image: stamp0046cc.jpg
+      - Image: stamp0361.jpg
+      - Image: stamp0316.jpg
+      - Image: stamp0231cc.jpg
+  - Name: Ferrari Tipo 500 F2
+    Count: 8
+    Images:
+      - Image: stamp0053ac.jpg
+      - Image: stamp0371.jpg
+      - Image: stamp0025ac.jpg
+      - Image: stamp0331.jpg
+  - Name: Maserati 250F
+    Count: 14
+    Images:
+      - Image: stamp0641cc.jpg
+      - Image: stamp0361.jpg
+      - Image: stamp0104cc.jpg
+      - Image: stamp0213.jpg
+- Year: 1957
+  Cars:
+  - Name: Cooper T43
+    Count: 1
+    Images:
+      - Image: stamp0104dc.jpg
+  - Name: Ferrari 801 F1
+    Count: 2
+    Images:
+      - Image: stamp0056bc.jpg
+      - Image: stamp0006ac.jpg
+  - Name: Ferrari D50
+    Count: 5
+    Images:
+      - Image: stamp0316.jpg
+      - Image: stamp0046cc.jpg
+      - Image: stamp0342.jpg
+      - Image: stamp0231cc.jpg
+  - Name: Maserati 250F
+    Count: 14
+    Images:
+      - Image: stamp0425.jpg
+      - Image: stamp0323cc.jpg
+      - Image: stamp0231dc.jpg
+      - Image: stamp0333.jpg
+  - Name: Vanwall VW5
+    Count: 7
+    Images:
+      - Image: stamp0512.jpg
+      - Image: stamp0288cc.jpg
+      - Image: stamp0037ac.jpg
+      - Image: stamp0341.jpg
+- Year: 1958
+  Cars:
+  - Name: Cooper T43
+    Count: 1
+    Images:
+      - Image: stamp0104dc.jpg
+  - Name: Ferrari 246 F1
+    Count: 13
+    Images:
+      - Image: stamp0291bc.jpg
+      - Image: stamp0368ac.jpg
+      - Image: stamp0315.jpg
+      - Image: stamp0175cc.jpg
+  - Name: Maserati 250F
+    Count: 14
+    Images:
+      - Image: stamp0175bc.jpg
+      - Image: stamp0536.jpg
+      - Image: stamp0333.jpg
+      - Image: stamp0276ac.jpg
+  - Name: Vanwall VW5
+    Count: 7
+    Images:
+      - Image: stamp0341.jpg
+      - Image: stamp0512.jpg
+      - Image: stamp0288cc.jpg
+      - Image: stamp0037ac.jpg
+- Year: 1959
+  Cars:
+  - Name: Cooper T43
+    Count: 1
+    Images:
+      - Image: stamp0104dc.jpg
+  - Name: Ferrari 246 F1
+    Count: 13
+    Images:
+      - Image: stamp0291bc.jpg
+      - Image: stamp0006bc.jpg
+      - Image: stamp0315.jpg
+      - Image: stamp0046dc.jpg

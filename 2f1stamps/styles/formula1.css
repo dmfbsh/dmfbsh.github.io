@@ -1,0 +1,56 @@
+.f1h1 {
+font-weight: bold;
+font-style: italic;
+font-family: Leelawadee;
+font-size: 36px;
+}
+
+.f1h2 {
+font-weight: bold;
+font-style: italic;
+font-family: Leelawadee;
+font-size: 30px;
+}
+
+.f1h3 {
+font-weight: bold;
+font-style: italic;
+font-family: Leelawadee;
+font-size: 24px;
+}
+
+.f1year {
+font-weight: bold;
+font-style: italic;
+font-family: Leelawadee;
+font-size: 48px;
+}
+
+.f1text {
+font-family: Leelawadee;
+font-size: 18px;
+}
+
+.menu_bg
+{
+background:url(images/menu_bg.gif) left top repeat-x;
+height:34px;
+}
+.menu_link{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 34px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #CCCCCC;
+	background-color:inherit;
+	text-decoration: none;
+}
+.menu_link:hover
+{
+color:#FFFFFF;
+text-decoration:none;
+background-color:inherit;
+}

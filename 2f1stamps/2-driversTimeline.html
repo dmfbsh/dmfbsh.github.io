@@ -1,0 +1,23 @@
+---
+layout: f1stamps
+---
+
+{% include 2-header.html %}
+
+<div class="wrapper col3">
+	<div id="featured_intro">
+		<div>
+			<div class="f1text">
+				<b>Drivers Timeline</b><br>The timelines are organised by decade - click on a decade below to see the drivers that competed in that decade.
+			</div>
+{% for item in site.data.F1Stamps-DriversTimeline %}
+<div class="f1text"><b><a href="2-driversTimeline{{ item.Year }}.html" target="_blank">{{ item.Year }}</a></b><br/>
+<img src="Thumbs/120/{{ item.Image }}" align="left"/>
+{{ item.Description }}
+</div>
+{% endfor %}
+		</div>
+	</div>
+</div>
+
+{% include 2-footer.html %}
