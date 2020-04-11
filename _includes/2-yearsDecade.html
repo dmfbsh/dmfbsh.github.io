@@ -13,7 +13,7 @@
 <tr class="bb"><td><div class="f1text">Driver Title: <a class="bb" href="popups/popup_{{ item.Driver | downcase | remove: " " }}.html" target="_blank">{{ item.Driver }}</a><br/><img src="Thumbs/120/{{ item.DriverImage }}" height="120"/></div></td></tr></table>
 <table>
 {% for event in item.Events %}
-<tr class="bb"><td><div class="f1text"<a href="popups/popup_{{ event.Name | downcase | remove: " " }}.html" target="_blank">{{ event.Name }}</a><img src="Thumbs/120/{{ event.Image }}" height="120"/></div></td></tr>
+<tr class="bb"><td><div class="f1text"<a href="popups/popup_{{ event.Name | downcase | remove: " " | remove: "{" | remove: ")" | remove: "/" }}.html" target="_blank">{{ event.Name }}</a><img src="Thumbs/120/{{ event.Image }}" height="120"/></div></td></tr>
 {% endfor %}
 </table>
 {% if forloop.last != true %}

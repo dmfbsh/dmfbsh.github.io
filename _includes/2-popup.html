@@ -1,0 +1,29 @@
+{% include 2-headerPopup.html %}
+
+<div class="wrapper col3">
+	<div id="featured_intro">
+		<div>
+			<div class="f1text"><b>{{ page.popup }}</b></div>
+{% capture theFile %}popup_{{ page.popup | downcase | remove: " " | remove: "(" | remove: ")" | remove: "/" }}{% endcapture %}
+{% for popup in site.data[theFile] %}
+<table>
+{% for stamp in popup.Stamps %}
+{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+{% if thecycle == 'odd' %}
+<tr class="bb">
+{% endif %}
+<td width="50%" align="center"><img src="../Photos/{{ stamp.Image }}" width="{{ stamp.Width }}"/></td>
+{% if thecycle == 'even' %}
+</tr>
+{% endif %}
+{% endfor %}
+{% if thecycle == 'odd' %}
+</tr>
+{% endif %}
+</table>
+{% endfor %}
+		</div>
+	</div>
+</div>
+
+{% include 2-footer.html %}

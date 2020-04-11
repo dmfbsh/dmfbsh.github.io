@@ -11,7 +11,7 @@
 <table>
 	<tr>
 		<td width="120px">
-			<a name="{{ country.Country | downcase | remove: " " | remove: "(" | remove: ")" }}"></a>
+			<a name="{{ country.Country | downcase | remove: " " | remove: "(" | remove: ")" | remove: "/" }}"></a>
 			<img src="Flags/{{ country.Flag }}" width="100px" alt="No Flag"/>
 		</td>
 		<td>{{ country.Country }}

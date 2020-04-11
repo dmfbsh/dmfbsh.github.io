@@ -6,7 +6,7 @@
 			<div class="f1text"><b>{{ page.country }}</b></div>
 			<div class="f1text">
 				<table><tr>
-{% capture theFile %}F1Stamps-Country{{ page.country | downcase | remove: " " | remove: "(" | remove: ")" }}{% endcapture %}
+{% capture theFile %}F1Stamps-Country{{ page.country | downcase | remove: " " | remove: "(" | remove: ")" | remove: "/" }}{% endcapture %}
 {% for country in site.data[theFile] %}
 <td width="120px"><img src="Flags/{{ country.Flag }}" width="100px" alt="No Flag"/></td><td>
 {% for stamp in country.Stamps %}
