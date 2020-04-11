@@ -1,0 +1,143 @@
+- Year: 2012
+  Cars:
+  - Car: Caterham CT01
+    Count: 1
+    Images:
+    - Image: stamp0647ac.jpg
+  - Car: Ferrari F2012
+    Count: 3
+    Images:
+    - Image: stamp0383.jpg
+    - Image: stamp0650bc.jpg
+    - Image: stamp0321.jpg
+  - Car: Force India VJM05
+    Count: 1
+    Images:
+    - Image: stamp0646ac.jpg
+  - Car: HRT F112
+    Count: 1
+    Images:
+    - Image: stamp0649bc.jpg
+  - Car: Lotus E20
+    Count: 2
+    Images:
+    - Image: stamp0646bc.jpg
+    - Image: stamp0541dc.jpg
+  - Car: Marussia MR01
+    Count: 1
+    Images:
+    - Image: stamp0649ac.jpg
+  - Car: McLaren MP4/27
+    Count: 2
+    Images:
+    - Image: stamp0541cc.jpg
+    - Image: stamp0648ac.jpg
+  - Car: Mercedes F1 W03
+    Count: 3
+    Images:
+    - Image: stamp0650ac.jpg
+    - Image: stamp0541ac.jpg
+    - Image: stamp0301cc.jpg
+  - Car: Red Bull RB8
+    Count: 2
+    Images:
+    - Image: stamp0541bc.jpg
+    - Image: stamp0648bc.jpg
+  - Car: Sauber C31
+    Count: 1
+    Images:
+    - Image: stamp0645bc.jpg
+  - Car: Toro Rosso STR7
+    Count: 1
+    Images:
+    - Image: stamp0645ac.jpg
+  - Car: Williams FW34
+    Count: 1
+    Images:
+    - Image: stamp0647bc.jpg
+  Drivers:
+  - Driver: Daniel Ricciardo
+    Count: 2
+    Images:
+    - Image: stamp0680cd.jpg
+    - Image: stamp0617bd.jpg
+  - Driver: Felipe Massa
+    Count: 3
+    Images:
+    - Image: stamp0495.jpg
+    - Image: stamp0160.jpg
+    - Image: stamp0164ad.jpg
+  - Driver: Fernando Alonso
+    Count: 23
+    Images:
+    - Image: stamp0528.jpg
+    - Image: stamp0321.jpg
+    - Image: stamp0383.jpg
+    - Image: stamp0397ad.jpg
+  - Driver: Jenson Button
+    Count: 21
+    Images:
+    - Image: stamp0682cd.jpg
+    - Image: stamp0282.jpg
+    - Image: stamp0029ad.jpg
+    - Image: stamp0239ed.jpg
+  - Driver: Kimi Raikkonen
+    Count: 16
+    Images:
+    - Image: stamp0031.jpg
+    - Image: stamp0164bd.jpg
+    - Image: stamp0184bd.jpg
+    - Image: stamp0388gd.jpg
+  - Driver: Lewis Hamilton
+    Count: 33
+    Images:
+    - Image: stamp0540dd.jpg
+    - Image: stamp0140.jpg
+    - Image: stamp0680bd.jpg
+    - Image: stamp0503.jpg
+  - Driver: Mark Webber
+    Count: 11
+    Images:
+    - Image: stamp0530.jpg
+    - Image: stamp0283.jpg
+    - Image: stamp0285.jpg
+    - Image: stamp0489.jpg
+  - Driver: Michael Schumacher
+    Count: 81
+    Images:
+    - Image: stamp0222.jpg
+    - Image: stamp0001ad.jpg
+    - Image: stamp0202.jpg
+    - Image: stamp0570.jpg
+  - Driver: Nico Rosberg
+    Count: 6
+    Images:
+    - Image: stamp0683.jpg
+    - Image: stamp0398bd.jpg
+    - Image: stamp0615.jpg
+    - Image: stamp0643.jpg
+  - Driver: Pedro de la Rosa
+    Count: 3
+    Images:
+    - Image: stamp0399bd.jpg
+    - Image: stamp0239ed.jpg
+    - Image: stamp0029ad.jpg
+  - Driver: Romain Grosjean
+    Count: 1
+    Images:
+    - Image: stamp0382.jpg
+  - Driver: Sebastian Vettel
+    Count: 30
+    Images:
+    - Image: stamp0283.jpg
+    - Image: stamp0282.jpg
+    - Image: stamp0549ad.jpg
+    - Image: stamp0643.jpg
+  - Driver: Valtteri Bottas
+    Count: 1
+    Images:
+    - Image: stamp0680ad.jpg
+  - Driver: Vitaly Petrov
+    Count: 1
+    Images:
+    - Image: stamp0540bd.jpg

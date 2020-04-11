@@ -1,3 +1,19 @@
+- Year: 2020
+  Team: McLaren
+  Title: No
+  Cars:
+  - Name: McLaren MCL35
+  Drivers:
+  - Name: Lando Norris
+  - Name: Carl Sainz Jr
+- Year: 2019
+  Team: McLaren
+  Title: No
+  Cars:
+  - Name: McLaren MCL34
+  Drivers:
+  - Name: Lando Norris
+  - Name: Carl Sainz Jr
 - Year: 2018
   Team: McLaren
   Title: No
@@ -5,7 +21,7 @@
   - Name: McLaren MCL33
   Drivers:
   - Name: Fernando Alonso
-    Image: stamp0529.jpg
+    Image: stamp0486.jpg
     Champion: No
   - Name: Stoffel Vandoorne
 - Year: 2017
@@ -13,14 +29,14 @@
   Title: No
   Cars:
   - Name: McLaren MCL32
-    Image: stamp0674.jpg
+    Image: stamp0675ec.jpg
   Drivers:
   - Name: Fernando Alonso
-    Image: stamp0390.jpg
+    Image: stamp0682dd.jpg
     Champion: No
   - Name: Stoffel Vandoorne
   - Name: Jenson Button
-    Image: stamp0286.jpg
+    Image: stamp0283.jpg
     Champion: No
 - Year: 2016
   Team: McLaren
@@ -29,10 +45,10 @@
   - Name: McLaren MP4-31
   Drivers:
   - Name: Fernando Alonso
-    Image: stamp0524ed.jpg
+    Image: stamp0383.jpg
     Champion: No
   - Name: Jenson Button
-    Image: stamp0238dd.jpg
+    Image: stamp0070jd.jpg
     Champion: No
 - Year: 2015
   Team: McLaren
@@ -41,10 +57,10 @@
   - Name: McLaren MP4-30
   Drivers:
   - Name: Fernando Alonso
-    Image: stamp0495.jpg
+    Image: stamp0549bd.jpg
     Champion: No
   - Name: Jenson Button
-    Image: stamp0546.jpg
+    Image: stamp0682cd.jpg
     Champion: No
 - Year: 2014
   Team: McLaren
@@ -54,7 +70,7 @@
   Drivers:
   - Name: Kevin Magnussen
   - Name: Jenson Button
-    Image: stamp0239ed.jpg
+    Image: stamp0545.jpg
     Champion: No
 - Year: 2013
   Team: McLaren
@@ -63,7 +79,7 @@
   - Name: McLaren MP4/28
   Drivers:
   - Name: Jenson Button
-    Image: stamp0282.jpg
+    Image: stamp0495.jpg
     Champion: No
   - Name: Sergio Perez
 - Year: 2012
@@ -74,10 +90,10 @@
     Image: stamp0541cc.jpg
   Drivers:
   - Name: Jenson Button
-    Image: stamp0070jd.jpg
+    Image: stamp0286.jpg
     Champion: No
   - Name: Lewis Hamilton
-    Image: stamp0617cd.jpg
+    Image: stamp0159.jpg
     Champion: No
 - Year: 2011
   Team: McLaren
@@ -87,33 +103,33 @@
     Image: stamp0540dc.jpg
   Drivers:
   - Name: Lewis Hamilton
-    Image: stamp0503.jpg
+    Image: stamp0286.jpg
     Champion: No
   - Name: Jenson Button
-    Image: stamp0560dd.jpg
+    Image: stamp0283.jpg
     Champion: No
 - Year: 2010
   Team: McLaren
   Title: No
   Cars:
   - Name: McLaren MP4/25
-    Image: stamp0289gc.jpg
+    Image: stamp0295.jpg
   Drivers:
   - Name: Jenson Button
-    Image: stamp0400ad.jpg
+    Image: stamp0326dd.jpg
     Champion: No
   - Name: Lewis Hamilton
-    Image: stamp0667ed.jpg
+    Image: stamp0140.jpg
     Champion: No
 - Year: 2009
   Team: McLaren
   Title: No
   Cars:
   - Name: McLaren MP4/24
-    Image: stamp0289hc.jpg
+    Image: stamp0575ac.jpg
   Drivers:
   - Name: Lewis Hamilton
-    Image: stamp0616bd.jpg
+    Image: stamp0677.jpg
     Champion: No
   - Name: Heikki Kovalainen
 - Year: 2008
@@ -121,10 +137,10 @@
   Title: No
   Cars:
   - Name: McLaren MP4/23
-    Image: stamp0094.jpg
+    Image: stamp0144ac.jpg
   Drivers:
   - Name: Lewis Hamilton
-    Image: stamp0546.jpg
+    Image: stamp0093.jpg
     Champion: Yes
   - Name: Heikki Kovalainen
 - Year: 2007
@@ -135,10 +151,10 @@
     Image: stamp0162.jpg
   Drivers:
   - Name: Fernando Alonso
-    Image: stamp0617ad.jpg
+    Image: stamp0495.jpg
     Champion: No
   - Name: Lewis Hamilton
-    Image: stamp0545.jpg
+    Image: stamp0159.jpg
     Champion: No
 - Year: 2006
   Team: McLaren
@@ -147,13 +163,13 @@
   - Name: McLaren MP4/21
   Drivers:
   - Name: Kimi Raikkonen
-    Image: stamp0560cd.jpg
+    Image: stamp0031.jpg
     Champion: No
   - Name: Juan Pablo Montoya
     Image: stamp0075id.jpg
     Champion: No
   - Name: Pedro de la Rosa
-    Image: stamp0029ad.jpg
+    Image: stamp0399bd.jpg
     Champion: No
 - Year: 2005
   Team: McLaren
@@ -162,13 +178,13 @@
   - Name: McLaren MP4/20
   Drivers:
   - Name: Kimi Raikkonen
-    Image: stamp0164bd.jpg
+    Image: stamp0560cd.jpg
     Champion: No
   - Name: Juan Pablo Montoya
     Image: stamp0326cd.jpg
     Champion: No
   - Name: Pedro de la Rosa
-    Image: stamp0239ed.jpg
+    Image: stamp0029ad.jpg
     Champion: No
   - Name: Alexander Wurz
     Image: stamp0029ad.jpg
@@ -181,10 +197,10 @@
   - Name: McLaren MP4/19
   Drivers:
   - Name: David Coulthard
-    Image: stamp0075cd.jpg
+    Image: stamp0029ad.jpg
     Champion: No
   - Name: Kimi Raikkonen
-    Image: stamp0031.jpg
+    Image: stamp0524cd.jpg
     Champion: No
 - Year: 2003
   Team: McLaren
@@ -193,10 +209,10 @@
   - Name: McLaren MP4/17D
   Drivers:
   - Name: David Coulthard
-    Image: stamp0081.jpg
+    Image: stamp0215.jpg
     Champion: No
   - Name: Kimi Raikkonen
-    Image: stamp0388gd.jpg
+    Image: stamp0541dd.jpg
     Champion: No
 - Year: 2002
   Team: McLaren
@@ -209,7 +225,7 @@
     Image: stamp0081.jpg
     Champion: No
   - Name: Kimi Raikkonen
-    Image: stamp0399ad.jpg
+    Image: stamp0142bd.jpg
     Champion: No
 - Year: 2001
   Team: McLaren
@@ -221,20 +237,20 @@
     Image: stamp0189id.jpg
     Champion: No
   - Name: David Coulthard
-    Image: stamp0238bd.jpg
+    Image: stamp0291fd.jpg
     Champion: No
 - Year: 2000
   Team: McLaren
   Title: No
   Cars:
   - Name: McLaren MP4/15
-    Image: stamp0071.jpg
+    Image: stamp0215.jpg
   Drivers:
   - Name: Mika Hakkinen
-    Image: stamp0086ad.jpg
+    Image: stamp0377.jpg
     Champion: No
   - Name: David Coulthard
-    Image: stamp0075cd.jpg
+    Image: stamp0081.jpg
     Champion: No
 - Year: 1999
   Team: McLaren
@@ -244,23 +260,23 @@
     Image: stamp0157bc.jpg
   Drivers:
   - Name: Mika Hakkinen
-    Image: stamp0377.jpg
+    Image: stamp0030.jpg
     Champion: Yes
   - Name: David Coulthard
-    Image: stamp0249dd.jpg
+    Image: stamp0029ad.jpg
     Champion: No
 - Year: 1998
   Team: McLaren
   Title: Yes
   Cars:
   - Name: McLaren MP4/13
-    Image: stamp0291fc.jpg
+    Image: stamp0638.jpg
   Drivers:
   - Name: David Coulthard
-    Image: stamp0249dd.jpg
+    Image: stamp0084dd.jpg
     Champion: No
   - Name: Mika Hakkinen
-    Image: stamp0111bd.jpg
+    Image: stamp0189id.jpg
     Champion: Yes
 - Year: 1997
   Team: McLaren
@@ -269,10 +285,10 @@
   - Name: McLaren MP4/12
   Drivers:
   - Name: Mika Hakkinen
-    Image: stamp0111bd.jpg
+    Image: stamp0143bd.jpg
     Champion: No
   - Name: David Coulthard
-    Image: stamp0215.jpg
+    Image: stamp0081.jpg
     Champion: No
 - Year: 1996
   Team: McLaren
@@ -281,10 +297,10 @@
   - Name: McLaren MP4/11
   Drivers:
   - Name: Mika Hakkinen
-    Image: stamp0249bd.jpg
+    Image: stamp0157bd.jpg
     Champion: No
   - Name: David Coulthard
-    Image: stamp0249dd.jpg
+    Image: stamp0395ad.jpg
     Champion: No
 - Year: 1995
   Team: McLaren
@@ -296,10 +312,10 @@
   Drivers:
   - Name: Mark Blundell
   - Name: Nigel Mansell
-    Image: stamp0578.jpg
+    Image: stamp0479fd.jpg
     Champion: No
   - Name: Mika Hakkinen
-    Image: stamp0030.jpg
+    Image: stamp0029ad.jpg
     Champion: No
   - Name: Jan Magnussen
 - Year: 1994
@@ -309,7 +325,7 @@
   - Name: McLaren MP4/9
   Drivers:
   - Name: Mika Hakkinen
-    Image: stamp0601hd.jpg
+    Image: stamp0487.jpg
     Champion: No
   - Name: Philippe Alliot
 - Year: 1993
@@ -321,10 +337,10 @@
   Drivers:
   - Name: Michael Andretti
   - Name: Mika Hakkinen
-    Image: stamp0029ad.jpg
+    Image: stamp0638.jpg
     Champion: No
   - Name: Ayrton Senna
-    Image: stamp0189ad.jpg
+    Image: stamp0578.jpg
     Champion: No
 - Year: 1992
   Team: McLaren
@@ -334,7 +350,7 @@
   - Name: McLaren MP4/6B
   Drivers:
   - Name: Ayrton Senna
-    Image: stamp0543.jpg
+    Image: stamp0179ad.jpg
     Champion: No
   - Name: Gerhard Berger
     Image: stamp0168bd.jpg
@@ -344,10 +360,10 @@
   Title: Yes
   Cars:
   - Name: McLaren MP4/6
-    Image: stamp0373.jpg
+    Image: stamp0360.jpg
   Drivers:
   - Name: Ayrton Senna
-    Image: stamp0551.jpg
+    Image: stamp0373.jpg
     Champion: Yes
   - Name: Gerhard Berger
     Image: stamp0168bd.jpg
@@ -360,10 +376,10 @@
     Image: stamp0630.jpg
   Drivers:
   - Name: Ayrton Senna
-    Image: stamp0201bd.jpg
+    Image: stamp0520.jpg
     Champion: Yes
   - Name: Gerhard Berger
-    Image: stamp0168bd.jpg
+    Image: stamp0407.jpg
     Champion: No
 - Year: 1989
   Team: McLaren
@@ -373,23 +389,23 @@
     Image: stamp0629.jpg
   Drivers:
   - Name: Ayrton Senna
-    Image: stamp0370ad.jpg
+    Image: stamp0565.jpg
     Champion: No
   - Name: Alain Prost
-    Image: stamp0152.jpg
+    Image: stamp0370ed.jpg
     Champion: Yes
 - Year: 1988
   Team: McLaren
   Title: Yes
   Cars:
   - Name: McLaren MP4/4
-    Image: stamp0599.jpg
+    Image: stamp0628.jpg
   Drivers:
   - Name: Alain Prost
-    Image: stamp0152.jpg
+    Image: stamp0176ad.jpg
     Champion: No
   - Name: Ayrton Senna
-    Image: stamp0479gd.jpg
+    Image: stamp0250.jpg
     Champion: Yes
 - Year: 1987
   Team: McLaren
@@ -398,7 +414,7 @@
   - Name: McLaren MP4/3
   Drivers:
   - Name: Alain Prost
-    Image: stamp0152.jpg
+    Image: stamp0367.jpg
     Champion: No
   - Name: Stefan Johansson
 - Year: 1986
@@ -406,13 +422,13 @@
   Title: No
   Cars:
   - Name: McLaren MP4/2C
-    Image: stamp0625.jpg
+    Image: stamp0024cc.jpg
   Drivers:
   - Name: Alain Prost
-    Image: stamp0364.jpg
+    Image: stamp0391.jpg
     Champion: Yes
   - Name: Keke Rosberg
-    Image: stamp0622.jpg
+    Image: stamp0603gd.jpg
     Champion: No
 - Year: 1985
   Team: McLaren
@@ -421,11 +437,11 @@
   - Name: McLaren MP4/2B
   Drivers:
   - Name: Niki Lauda
-    Image: stamp0355.jpg
+    Image: stamp0624.jpg
     Champion: No
   - Name: John Watson
   - Name: Alain Prost
-    Image: stamp0579.jpg
+    Image: stamp0578.jpg
     Champion: Yes
 - Year: 1984
   Team: McLaren
@@ -435,10 +451,10 @@
     Image: stamp0261.jpg
   Drivers:
   - Name: Niki Lauda
-    Image: stamp0370hd.jpg
+    Image: stamp0508.jpg
     Champion: Yes
   - Name: Alain Prost
-    Image: stamp0409ad.jpg
+    Image: stamp0409cd.jpg
     Champion: No
 - Year: 1983
   Team: McLaren
@@ -448,7 +464,7 @@
   - Name: McLaren MP4/1C
   Drivers:
   - Name: Niki Lauda
-    Image: stamp0139fd.jpg
+    Image: stamp0135.jpg
     Champion: No
   - Name: John Watson
 - Year: 1982
@@ -458,7 +474,7 @@
   - Name: McLaren MP4B
   Drivers:
   - Name: Niki Lauda
-    Image: stamp0139fd.jpg
+    Image: stamp0114dd.jpg
     Champion: No
   - Name: John Watson
 - Year: 1981
@@ -483,7 +499,7 @@
   Drivers:
   - Name: John Watson
   - Name: Alain Prost
-    Image: stamp0323dd.jpg
+    Image: stamp0633.jpg
     Champion: No
   - Name: Stephen South
 - Year: 1979
@@ -503,7 +519,7 @@
   - Name: McLaren M26
   Drivers:
   - Name: James Hunt
-    Image: stamp0037ed.jpg
+    Image: stamp0014cd.jpg
     Champion: No
   - Name: Patrick Tambay
   - Name: Bruno Giacomelli
@@ -513,10 +529,10 @@
   Cars:
   - Name: McLaren M26
   - Name: McLaren M23
-    Image: stamp0362.jpg
+    Image: stamp0038ec.jpg
   Drivers:
   - Name: James Hunt
-    Image: stamp0037ed.jpg
+    Image: stamp0038ed.jpg
     Champion: No
   - Name: Jochen Mass
   - Name: Gilles Villeneuve
@@ -529,7 +545,7 @@
   Cars:
   - Name: McLaren M26
   - Name: McLaren M23
-    Image: stamp0037ec.jpg
+    Image: stamp0109ac.jpg
   Drivers:
   - Name: James Hunt
     Image: stamp0039ed.jpg
@@ -540,10 +556,10 @@
   Title: No
   Cars:
   - Name: McLaren M23
-    Image: stamp0353.jpg
+    Image: stamp0362.jpg
   Drivers:
   - Name: Emerson Fittipaldi
-    Image: stamp0201cd.jpg
+    Image: stamp0010hd.jpg
     Champion: No
   - Name: Jochen Mass
 - Year: 1974
@@ -551,16 +567,16 @@
   Title: Yes
   Cars:
   - Name: McLaren M23
-    Image: stamp0045fc.jpg
+    Image: stamp0109ac.jpg
   Drivers:
   - Name: Emerson Fittipaldi
-    Image: stamp0088fd.jpg
+    Image: stamp0416.jpg
     Champion: Yes
   - Name: Denis Hulme
-    Image: stamp0088ad.jpg
+    Image: stamp0112ad.jpg
     Champion: No
   - Name: Mike Hailwood
-    Image: stamp0493.jpg
+    Image: stamp0494.jpg
     Champion: No
   - Name: David Hobbs
   - Name: Jochen Mass
@@ -569,21 +585,21 @@
   Title: No
   Cars:
   - Name: McLaren M23
-    Image: stamp0362.jpg
+    Image: stamp0355.jpg
   - Name: McLaren M19C
   - Name: McLaren M19A
   Drivers:
   - Name: Denis Hulme
-    Image: stamp0349.jpg
+    Image: stamp0088ad.jpg
     Champion: No
   - Name: Peter Revson
     Image: stamp0603ad.jpg
     Champion: No
   - Name: Jody Scheckter
-    Image: stamp0170ad.jpg
+    Image: stamp0134.jpg
     Champion: No
   - Name: Jacky Ickx
-    Image: stamp0004ad.jpg
+    Image: stamp0089cd.jpg
     Champion: No
 - Year: 1972
   Team: McLaren
@@ -600,7 +616,7 @@
     Champion: No
   - Name: Brian Redman
   - Name: Jody Scheckter
-    Image: stamp0216ad.jpg
+    Image: stamp0302.jpg
     Champion: No
 - Year: 1971
   Team: McLaren
@@ -610,7 +626,7 @@
   - Name: McLaren M14A
   Drivers:
   - Name: Denis Hulme
-    Image: stamp0112ad.jpg
+    Image: stamp0349.jpg
     Champion: No
   - Name: Peter Gethin
   - Name: Jackie Oliver
@@ -643,10 +659,10 @@
     Image: stamp0471.jpg
   Drivers:
   - Name: Bruce McLaren
-    Image: stamp0005bd.jpg
+    Image: stamp0112bd.jpg
     Champion: No
   - Name: Denis Hulme
-    Image: stamp0221bd.jpg
+    Image: stamp0088ad.jpg
     Champion: No
   - Name: Derek Bell
 - Year: 1968
@@ -680,5 +696,5 @@
   - Name: McLaren M2B
   Drivers:
   - Name: Bruce McLaren
-    Image: stamp0009bd.jpg
+    Image: stamp0112bd.jpg
     Champion: No

@@ -1,0 +1,112 @@
+- Year: 1993
+  Cars:
+  - Car: Benetton B193
+    Count: 2
+    Images:
+    - Image: stamp0655cc.jpg
+    - Image: stamp0601fc.jpg
+  - Car: Ferrari F93A
+    Count: 1
+    Images:
+    - Image: stamp0242dc.jpg
+  - Car: McLaren MP4/8
+    Count: 1
+    Images:
+    - Image: stamp0157ac.jpg
+  - Car: Williams FW15C
+    Count: 3
+    Images:
+    - Image: stamp0641bc.jpg
+    - Image: stamp0633.jpg
+    - Image: stamp0032bc.jpg
+  Drivers:
+  - Driver: Alain Prost
+    Count: 27
+    Images:
+    - Image: stamp0141bd.jpg
+    - Image: stamp0579.jpg
+    - Image: stamp0626.jpg
+    - Image: stamp0370ed.jpg
+  - Driver: Andrea de Cesaris
+    Count: 1
+    Images:
+    - Image: stamp0561fd.jpg
+  - Driver: Ayrton Senna
+    Count: 81
+    Images:
+    - Image: stamp0062.jpg
+    - Image: stamp0611cd.jpg
+    - Image: stamp0448.jpg
+    - Image: stamp0531.jpg
+  - Driver: Damon Hill
+    Count: 12
+    Images:
+    - Image: stamp0079ad.jpg
+    - Image: stamp0378.jpg
+    - Image: stamp0634.jpg
+    - Image: stamp0440.jpg
+  - Driver: Eddie Irvine
+    Count: 10
+    Images:
+    - Image: stamp0158ad.jpg
+    - Image: stamp0169bd.jpg
+    - Image: stamp0172bd.jpg
+    - Image: stamp0075hd.jpg
+  - Driver: Gerhard Berger
+    Count: 7
+    Images:
+    - Image: stamp0169ad.jpg
+    - Image: stamp0579.jpg
+    - Image: stamp0168bd.jpg
+    - Image: stamp0601ad.jpg
+  - Driver: Jean Alesi
+    Count: 8
+    Images:
+    - Image: stamp0029ad.jpg
+    - Image: stamp0170bd.jpg
+    - Image: stamp0388cd.jpg
+    - Image: stamp0238ed.jpg
+  - Driver: Johnny Herbert
+    Count: 5
+    Images:
+    - Image: stamp0110ad.jpg
+    - Image: stamp0239ed.jpg
+    - Image: stamp0182.jpg
+    - Image: stamp0240dd.jpg
+  - Driver: Michael Schumacher
+    Count: 81
+    Images:
+    - Image: stamp0542.jpg
+    - Image: stamp0079dd.jpg
+    - Image: stamp0326bd.jpg
+    - Image: stamp0429.jpg
+  - Driver: Michele Alboreto
+    Count: 5
+    Images:
+    - Image: stamp0205.jpg
+    - Image: stamp0504.jpg
+    - Image: stamp0557.jpg
+    - Image: stamp0603hd.jpg
+  - Driver: Mika Hakkinen
+    Count: 21
+    Images:
+    - Image: stamp0487.jpg
+    - Image: stamp0029ad.jpg
+    - Image: stamp0249bd.jpg
+    - Image: stamp0080cd.jpg
+  - Driver: Riccardo Patrese
+    Count: 2
+    Images:
+    - Image: stamp0561cd.jpg
+    - Image: stamp0181.jpg
+  - Driver: Rubens Barrichello
+    Count: 12
+    Images:
+    - Image: stamp0029ad.jpg
+    - Image: stamp0240bd.jpg
+    - Image: stamp0388ad.jpg
+    - Image: stamp0001bd.jpg
+  - Driver: Ukyo Katayama
+    Count: 1
+    Images:
+    - Image: stamp0236.jpg

@@ -1,0 +1,94 @@
+- Year: 1963
+  Cars:
+  - Car: BRM P61
+    Count: 1
+    Images:
+    - Image: stamp0104fc.jpg
+  - Car: Ferrari 156
+    Count: 7
+    Images:
+    - Image: stamp0056dc.jpg
+    - Image: stamp0369bc.jpg
+    - Image: stamp0314.jpg
+    - Image: stamp0262.jpg
+  - Car: Lotus 18
+    Count: 4
+    Images:
+    - Image: stamp0613cc.jpg
+    - Image: stamp0133.jpg
+    - Image: stamp0600ac.jpg
+    - Image: stamp0104ec.jpg
+  - Car: Lotus 25
+    Count: 11
+    Images:
+    - Image: stamp0037cc.jpg
+    - Image: stamp0346.jpg
+    - Image: stamp0288dc.jpg
+    - Image: stamp0200bc.jpg
+  - Car: Porsche 718
+    Count: 1
+    Images:
+    - Image: stamp0200cc.jpg
+  Drivers:
+  - Driver: Bruce McLaren
+    Count: 3
+    Images:
+    - Image: stamp0112bd.jpg
+    - Image: stamp0005bd.jpg
+    - Image: stamp0009bd.jpg
+  - Driver: Dan Gurney
+    Count: 1
+    Images:
+    - Image: stamp0600bd.jpg
+  - Driver: Gerhard Mitter
+    Count: 1
+    Images:
+    - Image: stamp0005cd.jpg
+  - Driver: Graham Hill
+    Count: 15
+    Images:
+    - Image: stamp0010gd.jpg
+    - Image: stamp0348.jpg
+    - Image: stamp0435.jpg
+    - Image: stamp0434.jpg
+  - Driver: Jack Brabham
+    Count: 11
+    Images:
+    - Image: stamp0340.jpg
+    - Image: stamp0336.jpg
+    - Image: stamp0642cd.jpg
+    - Image: stamp0427.jpg
+  - Driver: Jim Clark
+    Count: 21
+    Images:
+    - Image: stamp0045cd.jpg
+    - Image: stamp0317bd.jpg
+    - Image: stamp0345.jpg
+    - Image: stamp0037cd.jpg
+  - Driver: Joakim Bonnier
+    Count: 1
+    Images:
+    - Image: stamp0602id.jpg
+  - Driver: John Surtees
+    Count: 10
+    Images:
+    - Image: stamp0303.jpg
+    - Image: stamp0121cd.jpg
+    - Image: stamp0010ed.jpg
+    - Image: stamp0458.jpg
+  - Driver: Ludovico Scarfiotti
+    Count: 1
+    Images:
+    - Image: stamp0089ad.jpg
+  - Driver: Mike Hailwood
+    Count: 2
+    Images:
+    - Image: stamp0494.jpg
+    - Image: stamp0493.jpg
+  - Driver: Phil Hill
+    Count: 9
+    Images:
+    - Image: stamp0186ad.jpg
+    - Image: stamp0010ad.jpg
+    - Image: stamp0445.jpg
+    - Image: stamp0421.jpg

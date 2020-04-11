@@ -1,0 +1,71 @@
+- Year: 1959
+  Cars:
+  - Car: Cooper T43
+    Count: 1
+    Images:
+    - Image: stamp0104dc.jpg
+  - Car: Ferrari 246 F1
+    Count: 13
+    Images:
+    - Image: stamp0315.jpg
+    - Image: stamp0006bc.jpg
+    - Image: stamp0046dc.jpg
+    - Image: stamp0053cc.jpg
+  Drivers:
+  - Driver: Bruce McLaren
+    Count: 3
+    Images:
+    - Image: stamp0112bd.jpg
+    - Image: stamp0009bd.jpg
+    - Image: stamp0005bd.jpg
+  - Driver: Dan Gurney
+    Count: 1
+    Images:
+    - Image: stamp0600bd.jpg
+  - Driver: Graham Hill
+    Count: 15
+    Images:
+    - Image: stamp0558.jpg
+    - Image: stamp0037bd.jpg
+    - Image: stamp0339.jpg
+    - Image: stamp0045bd.jpg
+  - Driver: Jack Brabham
+    Count: 11
+    Images:
+    - Image: stamp0089dd.jpg
+    - Image: stamp0427.jpg
+    - Image: stamp0004cd.jpg
+    - Image: stamp0009dd.jpg
+  - Driver: Joakim Bonnier
+    Count: 1
+    Images:
+    - Image: stamp0602id.jpg
+  - Driver: Olivier Gendebien
+    Count: 1
+    Images:
+    - Image: stamp0443.jpg
+  - Driver: Phil Hill
+    Count: 9
+    Images:
+    - Image: stamp0445.jpg
+    - Image: stamp0010ad.jpg
+    - Image: stamp0334.jpg
+    - Image: stamp0139dd.jpg
+  - Driver: Stirling Moss
+    Count: 15
+    Images:
+    - Image: stamp0600ad.jpg
+    - Image: stamp0602dd.jpg
+    - Image: stamp0210.jpg
+    - Image: stamp0379.jpg
+  - Driver: Tony Brooks
+    Count: 2
+    Images:
+    - Image: stamp0602gd.jpg
+    - Image: stamp0288cd.jpg
+  - Driver: Wolfgang von Trips
+    Count: 3
+    Images:
+    - Image: stamp0014ad.jpg
+    - Image: stamp0317ad.jpg
+    - Image: stamp0230.jpg

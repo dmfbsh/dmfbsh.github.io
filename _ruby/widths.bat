@@ -1,1 +1,1 @@
-exiftool.exe -csv -filename -imagewidth ..\assets\images\churches-sub\*.jpg > widths.csv
+exiftool.exe -csv -filename -imagewidth ..\1shropshire\assets\images\churches-sub\*.jpg > widths.csv

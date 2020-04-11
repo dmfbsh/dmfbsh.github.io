@@ -1,0 +1,61 @@
+- Year: 1950
+  Cars:
+  - Car: Alfa Romeo 158
+    Count: 5
+    Images:
+    - Image: stamp0317ac.jpg
+    - Image: stamp0301ac.jpg
+    - Image: stamp0533.jpg
+    - Image: stamp0104ac.jpg
+  - Car: Ferrari 125 F1
+    Count: 1
+    Images:
+    - Image: stamp0241ac.jpg
+  - Car: Ferrari 375 F1
+    Count: 2
+    Images:
+    - Image: stamp0476bc.jpg
+    - Image: stamp0068ac.jpg
+  - Car: Maserati 4CLT
+    Count: 2
+    Images:
+    - Image: stamp0532.jpg
+    - Image: stamp0288ac.jpg
+  Drivers:
+  - Driver: Alberto Ascari
+    Count: 9
+    Images:
+    - Image: stamp0568ad.jpg
+    - Image: stamp0659ad.jpg
+    - Image: stamp0331.jpg
+    - Image: stamp0139ad.jpg
+  - Driver: Giuseppe Farina
+    Count: 8
+    Images:
+    - Image: stamp0468.jpg
+    - Image: stamp0642ad.jpg
+    - Image: stamp0615.jpg
+    - Image: stamp0301ad.jpg
+  - Driver: Jose Froilan Gonzalez
+    Count: 4
+    Images:
+    - Image: stamp0068.jpg
+    - Image: stamp0204.jpg
+    - Image: stamp0602ad.jpg
+    - Image: stamp0364.jpg
+  - Driver: Juan Manuel Fangio
+    Count: 42
+    Images:
+    - Image: stamp0179bd.jpg
+    - Image: stamp0361.jpg
+    - Image: stamp0611ad.jpg
+    - Image: stamp0446.jpg
+  - Driver: Louis Chiron
+    Count: 1
+    Images:
+    - Image: stamp0460.jpg
+  - Driver: Reg Parnell
+    Count: 2
+    Images:
+    - Image: stamp0288ad.jpg
+    - Image: stamp0532.jpg

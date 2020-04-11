@@ -1,0 +1,121 @@
+- Year: 2010
+  Cars:
+  - Car: Ferrari F10
+    Count: 3
+    Images:
+    - Image: stamp0299bc.jpg
+    - Image: stamp0296.jpg
+    - Image: stamp0540ac.jpg
+  - Car: McLaren MP4/25
+    Count: 2
+    Images:
+    - Image: stamp0295.jpg
+    - Image: stamp0289gc.jpg
+  - Car: Mercedes MGP W01
+    Count: 1
+    Images:
+    - Image: stamp0294.jpg
+  - Car: Red Bull RB6
+    Count: 2
+    Images:
+    - Image: stamp0319.jpg
+    - Image: stamp0320.jpg
+  Drivers:
+  - Driver: Christian Klien
+    Count: 1
+    Images:
+    - Image: stamp0183dd.jpg
+  - Driver: Felipe Massa
+    Count: 3
+    Images:
+    - Image: stamp0495.jpg
+    - Image: stamp0164ad.jpg
+    - Image: stamp0160.jpg
+  - Driver: Fernando Alonso
+    Count: 23
+    Images:
+    - Image: stamp0571ad.jpg
+    - Image: stamp0682dd.jpg
+    - Image: stamp0528.jpg
+    - Image: stamp0527.jpg
+  - Driver: Jarno Trulli
+    Count: 3
+    Images:
+    - Image: stamp0240fd.jpg
+    - Image: stamp0239ed.jpg
+    - Image: stamp0029ad.jpg
+  - Driver: Jenson Button
+    Count: 21
+    Images:
+    - Image: stamp0682cd.jpg
+    - Image: stamp0326dd.jpg
+    - Image: stamp0549cd.jpg
+    - Image: stamp0529.jpg
+  - Driver: Lewis Hamilton
+    Count: 33
+    Images:
+    - Image: stamp0667ed.jpg
+    - Image: stamp0502.jpg
+    - Image: stamp0580.jpg
+    - Image: stamp0144ad.jpg
+  - Driver: Mark Webber
+    Count: 11
+    Images:
+    - Image: stamp0488.jpg
+    - Image: stamp0285.jpg
+    - Image: stamp0489.jpg
+    - Image: stamp0398ad.jpg
+  - Driver: Michael Schumacher
+    Count: 81
+    Images:
+    - Image: stamp0118.jpg
+    - Image: stamp0075fd.jpg
+    - Image: stamp0202.jpg
+    - Image: stamp0155ad.jpg
+  - Driver: Nick Heidfeld
+    Count: 6
+    Images:
+    - Image: stamp0401ad.jpg
+    - Image: stamp0238fd.jpg
+    - Image: stamp0245.jpg
+    - Image: stamp0282.jpg
+  - Driver: Nico Rosberg
+    Count: 6
+    Images:
+    - Image: stamp0643.jpg
+    - Image: stamp0683.jpg
+    - Image: stamp0615.jpg
+    - Image: stamp0398bd.jpg
+  - Driver: Pedro de la Rosa
+    Count: 3
+    Images:
+    - Image: stamp0239ed.jpg
+    - Image: stamp0399bd.jpg
+    - Image: stamp0029ad.jpg
+  - Driver: Robert Kubica
+    Count: 2
+    Images:
+    - Image: stamp0199dd.jpg
+    - Image: stamp0401bd.jpg
+  - Driver: Rubens Barrichello
+    Count: 12
+    Images:
+    - Image: stamp0118.jpg
+    - Image: stamp0192.jpg
+    - Image: stamp0524bd.jpg
+    - Image: stamp0075dd.jpg
+  - Driver: Sakon Yamamoto
+    Count: 1
+    Images:
+    - Image: stamp0396bd.jpg
+  - Driver: Sebastian Vettel
+    Count: 30
+    Images:
+    - Image: stamp0617dd.jpg
+    - Image: stamp0643.jpg
+    - Image: stamp0559.jpg
+    - Image: stamp0681.jpg
+  - Driver: Vitaly Petrov
+    Count: 1
+    Images:
+    - Image: stamp0540bd.jpg

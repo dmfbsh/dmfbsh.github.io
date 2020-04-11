@@ -1,0 +1,44 @@
+- Year: 2018
+  Cars:
+  Drivers:
+  - Driver: Daniel Ricciardo
+    Count: 2
+    Images:
+    - Image: stamp0617bd.jpg
+    - Image: stamp0680cd.jpg
+  - Driver: Fernando Alonso
+    Count: 23
+    Images:
+    - Image: stamp0321.jpg
+    - Image: stamp0540ad.jpg
+    - Image: stamp0529.jpg
+    - Image: stamp0284.jpg
+  - Driver: Kimi Raikkonen
+    Count: 16
+    Images:
+    - Image: stamp0524gd.jpg
+    - Image: stamp0164bd.jpg
+    - Image: stamp0155cd.jpg
+    - Image: stamp0184bd.jpg
+  - Driver: Lewis Hamilton
+    Count: 33
+    Images:
+    - Image: stamp0503.jpg
+    - Image: stamp0682bd.jpg
+    - Image: stamp0680bd.jpg
+    - Image: stamp0549dd.jpg
+  - Driver: Romain Grosjean
+    Count: 1
+    Images:
+    - Image: stamp0382.jpg
+  - Driver: Sebastian Vettel
+    Count: 30
+    Images:
+    - Image: stamp0286.jpg
+    - Image: stamp0651ad.jpg
+    - Image: stamp0529.jpg
+    - Image: stamp0527.jpg
+  - Driver: Valtteri Bottas
+    Count: 1
+    Images:
+    - Image: stamp0680ad.jpg

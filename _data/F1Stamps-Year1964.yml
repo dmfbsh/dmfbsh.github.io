@@ -1,0 +1,105 @@
+- Year: 1964
+  Cars:
+  - Car: Ferrari 156
+    Count: 7
+    Images:
+    - Image: stamp0519.jpg
+    - Image: stamp0369bc.jpg
+    - Image: stamp0662.jpg
+    - Image: stamp0262.jpg
+  - Car: Ferrari 158
+    Count: 5
+    Images:
+    - Image: stamp0263.jpg
+    - Image: stamp0045dc.jpg
+    - Image: stamp0461ac.jpg
+    - Image: stamp0303.jpg
+  - Car: Ferrari 512 F1
+    Count: 1
+    Images:
+    - Image: stamp0165ac.jpg
+  - Car: Lotus 25
+    Count: 11
+    Images:
+    - Image: stamp0129.jpg
+    - Image: stamp0045cc.jpg
+    - Image: stamp0346.jpg
+    - Image: stamp0288dc.jpg
+  - Car: Porsche 718
+    Count: 1
+    Images:
+    - Image: stamp0200cc.jpg
+  Drivers:
+  - Driver: Bruce McLaren
+    Count: 3
+    Images:
+    - Image: stamp0112bd.jpg
+    - Image: stamp0009bd.jpg
+    - Image: stamp0005bd.jpg
+  - Driver: Dan Gurney
+    Count: 1
+    Images:
+    - Image: stamp0600bd.jpg
+  - Driver: Gerhard Mitter
+    Count: 1
+    Images:
+    - Image: stamp0005cd.jpg
+  - Driver: Graham Hill
+    Count: 15
+    Images:
+    - Image: stamp0558.jpg
+    - Image: stamp0436.jpg
+    - Image: stamp0434.jpg
+    - Image: stamp0435.jpg
+  - Driver: Jack Brabham
+    Count: 11
+    Images:
+    - Image: stamp0004cd.jpg
+    - Image: stamp0602hd.jpg
+    - Image: stamp0427.jpg
+    - Image: stamp0340.jpg
+  - Driver: Jim Clark
+    Count: 21
+    Images:
+    - Image: stamp0418.jpg
+    - Image: stamp0439.jpg
+    - Image: stamp0323ad.jpg
+    - Image: stamp0600dd.jpg
+  - Driver: Joakim Bonnier
+    Count: 1
+    Images:
+    - Image: stamp0602id.jpg
+  - Driver: Jochen Rindt
+    Count: 10
+    Images:
+    - Image: stamp0089ed.jpg
+    - Image: stamp0455.jpg
+    - Image: stamp0453.jpg
+    - Image: stamp0454.jpg
+  - Driver: John Surtees
+    Count: 10
+    Images:
+    - Image: stamp0423.jpg
+    - Image: stamp0070dd.jpg
+    - Image: stamp0010ed.jpg
+    - Image: stamp0458.jpg
+  - Driver: Ludovico Scarfiotti
+    Count: 1
+    Images:
+    - Image: stamp0089ad.jpg
+  - Driver: Mike Hailwood
+    Count: 2
+    Images:
+    - Image: stamp0494.jpg
+    - Image: stamp0493.jpg
+  - Driver: Peter Revson
+    Count: 1
+    Images:
+    - Image: stamp0603ad.jpg
+  - Driver: Phil Hill
+    Count: 9
+    Images:
+    - Image: stamp0010ad.jpg
+    - Image: stamp0139dd.jpg
+    - Image: stamp0138.jpg
+    - Image: stamp0186ad.jpg

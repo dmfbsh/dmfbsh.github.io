@@ -1,0 +1,87 @@
+- Year: 2013
+  Cars:
+  - Car: Force India VJM06
+    Count: 1
+    Images:
+    - Image: stamp0575bc.jpg
+  - Car: Mercedes F1 W04
+    Count: 1
+    Images:
+    - Image: stamp0674ac.jpg
+  - Car: Red Bull RB9
+    Count: 1
+    Images:
+    - Image: stamp0598ac.jpg
+  - Car: Williams FW35
+    Count: 1
+    Images:
+    - Image: stamp0575cc.jpg
+  Drivers:
+  - Driver: Daniel Ricciardo
+    Count: 2
+    Images:
+    - Image: stamp0680cd.jpg
+    - Image: stamp0617bd.jpg
+  - Driver: Felipe Massa
+    Count: 3
+    Images:
+    - Image: stamp0160.jpg
+    - Image: stamp0495.jpg
+    - Image: stamp0164ad.jpg
+  - Driver: Fernando Alonso
+    Count: 23
+    Images:
+    - Image: stamp0571ad.jpg
+    - Image: stamp0549bd.jpg
+    - Image: stamp0560bd.jpg
+    - Image: stamp0486.jpg
+  - Driver: Jenson Button
+    Count: 21
+    Images:
+    - Image: stamp0560dd.jpg
+    - Image: stamp0400ad.jpg
+    - Image: stamp0545.jpg
+    - Image: stamp0326dd.jpg
+  - Driver: Kimi Raikkonen
+    Count: 16
+    Images:
+    - Image: stamp0571dd.jpg
+    - Image: stamp0524gd.jpg
+    - Image: stamp0680dd.jpg
+    - Image: stamp0541dd.jpg
+  - Driver: Lewis Hamilton
+    Count: 33
+    Images:
+    - Image: stamp0382.jpg
+    - Image: stamp0614dd.jpg
+    - Image: stamp0667ed.jpg
+    - Image: stamp0199ad.jpg
+  - Driver: Mark Webber
+    Count: 11
+    Images:
+    - Image: stamp0488.jpg
+    - Image: stamp0530.jpg
+    - Image: stamp0284.jpg
+    - Image: stamp0064.jpg
+  - Driver: Nico Rosberg
+    Count: 6
+    Images:
+    - Image: stamp0683.jpg
+    - Image: stamp0398bd.jpg
+    - Image: stamp0677.jpg
+    - Image: stamp0616ad.jpg
+  - Driver: Romain Grosjean
+    Count: 1
+    Images:
+    - Image: stamp0382.jpg
+  - Driver: Sebastian Vettel
+    Count: 30
+    Images:
+    - Image: stamp0498.jpg
+    - Image: stamp0527.jpg
+    - Image: stamp0559.jpg
+    - Image: stamp0614cd.jpg
+  - Driver: Valtteri Bottas
+    Count: 1
+    Images:
+    - Image: stamp0680ad.jpg

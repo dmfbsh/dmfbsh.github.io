@@ -1,0 +1,128 @@
+- Year: 2008
+  Cars:
+  - Car: BMW F1.08
+    Count: 1
+    Images:
+    - Image: stamp0289dc.jpg
+  - Car: Ferrari F2008
+    Count: 3
+    Images:
+    - Image: stamp0025bc.jpg
+    - Image: stamp0289bc.jpg
+    - Image: stamp0299dc.jpg
+  - Car: McLaren MP4/23
+    Count: 5
+    Images:
+    - Image: stamp0502.jpg
+    - Image: stamp0094.jpg
+    - Image: stamp0161.jpg
+    - Image: stamp0144ac.jpg
+  - Car: Renault R28
+    Count: 1
+    Images:
+    - Image: stamp0574ac.jpg
+  - Car: Toyota TF108
+    Count: 1
+    Images:
+    - Image: stamp0289fc.jpg
+  Drivers:
+  - Driver: David Coulthard
+    Count: 14
+    Images:
+    - Image: stamp0326ed.jpg
+    - Image: stamp0249dd.jpg
+    - Image: stamp0238bd.jpg
+    - Image: stamp0291fd.jpg
+  - Driver: Felipe Massa
+    Count: 3
+    Images:
+    - Image: stamp0495.jpg
+    - Image: stamp0160.jpg
+    - Image: stamp0164ad.jpg
+  - Driver: Fernando Alonso
+    Count: 23
+    Images:
+    - Image: stamp0397ad.jpg
+    - Image: stamp0284.jpg
+    - Image: stamp0383.jpg
+    - Image: stamp0390.jpg
+  - Driver: Giancarlo Fisichella
+    Count: 6
+    Images:
+    - Image: stamp0215.jpg
+    - Image: stamp0086ad.jpg
+    - Image: stamp0524dd.jpg
+    - Image: stamp0239ed.jpg
+  - Driver: Jarno Trulli
+    Count: 3
+    Images:
+    - Image: stamp0240fd.jpg
+    - Image: stamp0239ed.jpg
+    - Image: stamp0029ad.jpg
+  - Driver: Jenson Button
+    Count: 21
+    Images:
+    - Image: stamp0545.jpg
+    - Image: stamp0571bd.jpg
+    - Image: stamp0183ad.jpg
+    - Image: stamp0400ad.jpg
+  - Driver: Kimi Raikkonen
+    Count: 16
+    Images:
+    - Image: stamp0376.jpg
+    - Image: stamp0155cd.jpg
+    - Image: stamp0571dd.jpg
+    - Image: stamp0680dd.jpg
+  - Driver: Lewis Hamilton
+    Count: 33
+    Images:
+    - Image: stamp0199ad.jpg
+    - Image: stamp0571cd.jpg
+    - Image: stamp0614dd.jpg
+    - Image: stamp0159.jpg
+  - Driver: Mark Webber
+    Count: 11
+    Images:
+    - Image: stamp0489.jpg
+    - Image: stamp0284.jpg
+    - Image: stamp0488.jpg
+    - Image: stamp0530.jpg
+  - Driver: Nick Heidfeld
+    Count: 6
+    Images:
+    - Image: stamp0245.jpg
+    - Image: stamp0238fd.jpg
+    - Image: stamp0401ad.jpg
+    - Image: stamp0239ed.jpg
+  - Driver: Nico Rosberg
+    Count: 6
+    Images:
+    - Image: stamp0643.jpg
+    - Image: stamp0677.jpg
+    - Image: stamp0615.jpg
+    - Image: stamp0616ad.jpg
+  - Driver: Robert Kubica
+    Count: 2
+    Images:
+    - Image: stamp0401bd.jpg
+    - Image: stamp0199dd.jpg
+  - Driver: Rubens Barrichello
+    Count: 12
+    Images:
+    - Image: stamp0400bd.jpg
+    - Image: stamp0192.jpg
+    - Image: stamp0240bd.jpg
+    - Image: stamp0202.jpg
+  - Driver: Sebastian Vettel
+    Count: 30
+    Images:
+    - Image: stamp0541bd.jpg
+    - Image: stamp0474.jpg
+    - Image: stamp0300.jpg
+    - Image: stamp0475.jpg
+  - Driver: Takuma Sato
+    Count: 3
+    Images:
+    - Image: stamp0219.jpg
+    - Image: stamp0326ad.jpg
+    - Image: stamp0396ad.jpg

@@ -1,0 +1,91 @@
+- Year: 1954
+  Cars:
+  - Car: Ferrari 553 F1
+    Count: 1
+    Images:
+    - Image: stamp0046bc.jpg
+  - Car: Ferrari 625 F1
+    Count: 5
+    Images:
+    - Image: stamp0305.jpg
+    - Image: stamp0104bc.jpg
+    - Image: stamp0017ac.jpg
+    - Image: stamp0279dc.jpg
+  - Car: Ferrari Tipo 500 F2
+    Count: 8
+    Images:
+    - Image: stamp0331.jpg
+    - Image: stamp0344.jpg
+    - Image: stamp0024ac.jpg
+    - Image: stamp0095ac.jpg
+  - Car: Maserati 250F
+    Count: 14
+    Images:
+    - Image: stamp0613ac.jpg
+    - Image: stamp0175bc.jpg
+    - Image: stamp0213.jpg
+    - Image: stamp0361.jpg
+  - Car: Mercedes-Benz W196
+    Count: 15
+    Images:
+    - Image: stamp0007.jpg
+    - Image: stamp0332.jpg
+    - Image: stamp0685.jpg
+    - Image: stamp0210.jpg
+  Drivers:
+  - Driver: Alberto Ascari
+    Count: 9
+    Images:
+    - Image: stamp0097.jpg
+    - Image: stamp0139ad.jpg
+    - Image: stamp0568ad.jpg
+    - Image: stamp0121ed.jpg
+  - Driver: Giuseppe Farina
+    Count: 8
+    Images:
+    - Image: stamp0468.jpg
+    - Image: stamp0413.jpg
+    - Image: stamp0569.jpg
+    - Image: stamp0301ad.jpg
+  - Driver: Jose Froilan Gonzalez
+    Count: 4
+    Images:
+    - Image: stamp0602ad.jpg
+    - Image: stamp0204.jpg
+    - Image: stamp0364.jpg
+    - Image: stamp0068.jpg
+  - Driver: Juan Manuel Fangio
+    Count: 42
+    Images:
+    - Image: stamp0055.jpg
+    - Image: stamp0121ad.jpg
+    - Image: stamp0422.jpg
+    - Image: stamp0343.jpg
+  - Driver: Luigi Musso
+    Count: 1
+    Images:
+    - Image: stamp0442.jpg
+  - Driver: Mike Hawthorn
+    Count: 8
+    Images:
+    - Image: stamp0653ad.jpg
+    - Image: stamp0417.jpg
+    - Image: stamp0341.jpg
+    - Image: stamp0288bd.jpg
+  - Driver: Peter Collins
+    Count: 2
+    Images:
+    - Image: stamp0602fd.jpg
+    - Image: stamp0444.jpg
+  - Driver: Reg Parnell
+    Count: 2
+    Images:
+    - Image: stamp0532.jpg
+    - Image: stamp0288ad.jpg
+  - Driver: Stirling Moss
+    Count: 15
+    Images:
+    - Image: stamp0210.jpg
+    - Image: stamp0213.jpg
+    - Image: stamp0602dd.jpg
+    - Image: stamp0037ad.jpg

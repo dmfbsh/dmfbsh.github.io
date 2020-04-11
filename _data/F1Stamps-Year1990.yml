@@ -1,0 +1,81 @@
+- Year: 1990
+  Cars:
+  - Car: Ferrari 641
+    Count: 1
+    Images:
+    - Image: stamp0310.jpg
+  - Car: McLaren MP4/5B
+    Count: 2
+    Images:
+    - Image: stamp0640.jpg
+    - Image: stamp0630.jpg
+  - Car: Tyrrell 019
+    Count: 1
+    Images:
+    - Image: stamp0601cc.jpg
+  Drivers:
+  - Driver: Alain Prost
+    Count: 27
+    Images:
+    - Image: stamp0578.jpg
+    - Image: stamp0579.jpg
+    - Image: stamp0062.jpg
+    - Image: stamp0367.jpg
+  - Driver: Andrea de Cesaris
+    Count: 1
+    Images:
+    - Image: stamp0561fd.jpg
+  - Driver: Ayrton Senna
+    Count: 81
+    Images:
+    - Image: stamp0250.jpg
+    - Image: stamp0531.jpg
+    - Image: stamp0640.jpg
+    - Image: stamp0176bd.jpg
+  - Driver: Gerhard Berger
+    Count: 7
+    Images:
+    - Image: stamp0173ad.jpg
+    - Image: stamp0407.jpg
+    - Image: stamp0601ad.jpg
+    - Image: stamp0169ad.jpg
+  - Driver: Jean Alesi
+    Count: 8
+    Images:
+    - Image: stamp0407.jpg
+    - Image: stamp0238ed.jpg
+    - Image: stamp0170bd.jpg
+    - Image: stamp0029ad.jpg
+  - Driver: Johnny Herbert
+    Count: 5
+    Images:
+    - Image: stamp0110ad.jpg
+    - Image: stamp0029ad.jpg
+    - Image: stamp0182.jpg
+    - Image: stamp0240dd.jpg
+  - Driver: Michele Alboreto
+    Count: 5
+    Images:
+    - Image: stamp0205.jpg
+    - Image: stamp0603hd.jpg
+    - Image: stamp0561dd.jpg
+    - Image: stamp0557.jpg
+  - Driver: Nelson Piquet
+    Count: 12
+    Images:
+    - Image: stamp0243.jpg
+    - Image: stamp0189ed.jpg
+    - Image: stamp0190dd.jpg
+    - Image: stamp0114cd.jpg
+  - Driver: Nigel Mansell
+    Count: 26
+    Images:
+    - Image: stamp0189fd.jpg
+    - Image: stamp0479ad.jpg
+    - Image: stamp0479ed.jpg
+    - Image: stamp0407.jpg
+  - Driver: Riccardo Patrese
+    Count: 2
+    Images:
+    - Image: stamp0181.jpg
+    - Image: stamp0561cd.jpg

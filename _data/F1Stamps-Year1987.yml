@@ -1,0 +1,75 @@
+- Year: 1987
+  Cars:
+  - Car: Ferrari F1/87
+    Count: 2
+    Images:
+    - Image: stamp0165fc.jpg
+    - Image: stamp0228.jpg
+  - Car: Lotus 99T
+    Count: 1
+    Images:
+    - Image: stamp0197ec.jpg
+  - Car: Williams FW11B
+    Count: 3
+    Images:
+    - Image: stamp0130.jpg
+    - Image: stamp0627.jpg
+    - Image: stamp0019.jpg
+  Drivers:
+  - Driver: Alain Prost
+    Count: 27
+    Images:
+    - Image: stamp0611dd.jpg
+    - Image: stamp0367.jpg
+    - Image: stamp0291ed.jpg
+    - Image: stamp0658ad.jpg
+  - Driver: Andrea de Cesaris
+    Count: 1
+    Images:
+    - Image: stamp0561fd.jpg
+  - Driver: Ayrton Senna
+    Count: 81
+    Images:
+    - Image: stamp0373.jpg
+    - Image: stamp0565.jpg
+    - Image: stamp0180.jpg
+    - Image: stamp0538.jpg
+  - Driver: Gerhard Berger
+    Count: 7
+    Images:
+    - Image: stamp0169ad.jpg
+    - Image: stamp0173ad.jpg
+    - Image: stamp0601ad.jpg
+    - Image: stamp0010cd.jpg
+  - Driver: Michele Alboreto
+    Count: 5
+    Images:
+    - Image: stamp0205.jpg
+    - Image: stamp0504.jpg
+    - Image: stamp0557.jpg
+    - Image: stamp0603hd.jpg
+  - Driver: Nelson Piquet
+    Count: 12
+    Images:
+    - Image: stamp0506.jpg
+    - Image: stamp0189ed.jpg
+    - Image: stamp0190dd.jpg
+    - Image: stamp0114cd.jpg
+  - Driver: Nigel Mansell
+    Count: 26
+    Images:
+    - Image: stamp0578.jpg
+    - Image: stamp0479fd.jpg
+    - Image: stamp0176cd.jpg
+    - Image: stamp0407.jpg
+  - Driver: Rene Arnoux
+    Count: 3
+    Images:
+    - Image: stamp0653cd.jpg
+    - Image: stamp0623.jpg
+    - Image: stamp0507.jpg
+  - Driver: Riccardo Patrese
+    Count: 2
+    Images:
+    - Image: stamp0561cd.jpg
+    - Image: stamp0181.jpg

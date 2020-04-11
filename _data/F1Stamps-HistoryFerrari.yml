@@ -1,3 +1,23 @@
+- Year: 2020
+  Team: Ferrari
+  Title: No
+  Cars:
+  - Name: Ferrari SF1000
+  Drivers:
+  - Name: Sebastian Vettel
+    Image: stamp0527.jpg
+    Champion: No
+  - Name: Charles Leclerc
+- Year: 2019
+  Team: Ferrari
+  Title: No
+  Cars:
+  - Name: Ferrari SF90
+  Drivers:
+  - Name: Sebastian Vettel
+    Image: stamp0570.jpg
+    Champion: No
+  - Name: Charles Leclerc
 - Year: 2018
   Team: Ferrari
   Title: No
@@ -5,10 +25,10 @@
   - Name: Ferrari SF71H
   Drivers:
   - Name: Sebastian Vettel
-    Image: stamp0286.jpg
+    Image: stamp0281.jpg
     Champion: No
   - Name: Kimi Raikkonen
-    Image: stamp0571dd.jpg
+    Image: stamp0031.jpg
     Champion: No
 - Year: 2017
   Team: Ferrari
@@ -18,21 +38,23 @@
     Image: stamp0670ac.jpg
   Drivers:
   - Name: Sebastian Vettel
-    Image: stamp0682ad.jpg
+    Image: stamp0643.jpg
     Champion: No
-  - Name: Kimi R?ikk?nen
+  - Name: Kimi Raikkonen
+    Image: stamp0560cd.jpg
+    Champion: No
 - Year: 2016
   Team: Ferrari
   Title: No
   Cars:
   - Name: Ferrari SF16-H
-    Image: stamp0644bc.jpg
+    Image: stamp0669cc.jpg
   Drivers:
   - Name: Sebastian Vettel
-    Image: stamp0282.jpg
+    Image: stamp0300.jpg
     Champion: No
   - Name: Kimi Raikkonen
-    Image: stamp0399ad.jpg
+    Image: stamp0524gd.jpg
     Champion: No
 - Year: 2015
   Team: Ferrari
@@ -42,10 +64,10 @@
     Image: stamp0582cc.jpg
   Drivers:
   - Name: Sebastian Vettel
-    Image: stamp0474.jpg
+    Image: stamp0484.jpg
     Champion: No
   - Name: Kimi Raikkonen
-    Image: stamp0399ad.jpg
+    Image: stamp0560cd.jpg
     Champion: No
 - Year: 2014
   Team: Ferrari
@@ -55,10 +77,10 @@
     Image: stamp0678cc.jpg
   Drivers:
   - Name: Kimi Raikkonen
-    Image: stamp0388gd.jpg
+    Image: stamp0184bd.jpg
     Champion: No
   - Name: Fernando Alonso
-    Image: stamp0484.jpg
+    Image: stamp0486.jpg
     Champion: No
 - Year: 2013
   Team: Ferrari
@@ -67,20 +89,20 @@
   - Name: Ferrari F138
   Drivers:
   - Name: Fernando Alonso
-    Image: stamp0390.jpg
+    Image: stamp0540ad.jpg
     Champion: No
   - Name: Felipe Massa
-    Image: stamp0160.jpg
+    Image: stamp0164ad.jpg
     Champion: No
 - Year: 2012
   Team: Ferrari
   Title: No
   Cars:
   - Name: Ferrari F2012
-    Image: stamp0321.jpg
+    Image: stamp0650bc.jpg
   Drivers:
   - Name: Fernando Alonso
-    Image: stamp0530.jpg
+    Image: stamp0155dd.jpg
     Champion: No
   - Name: Felipe Massa
     Image: stamp0164ad.jpg
@@ -93,7 +115,7 @@
     Image: stamp0299ac.jpg
   Drivers:
   - Name: Fernando Alonso
-    Image: stamp0617ad.jpg
+    Image: stamp0549bd.jpg
     Champion: No
   - Name: Felipe Massa
     Image: stamp0164ad.jpg
@@ -103,13 +125,13 @@
   Title: No
   Cars:
   - Name: Ferrari F10
-    Image: stamp0296.jpg
+    Image: stamp0299bc.jpg
   Drivers:
   - Name: Felipe Massa
-    Image: stamp0164ad.jpg
+    Image: stamp0495.jpg
     Champion: No
   - Name: Fernando Alonso
-    Image: stamp0485.jpg
+    Image: stamp0284.jpg
     Champion: No
 - Year: 2009
   Team: Ferrari
@@ -119,14 +141,14 @@
     Image: stamp0299cc.jpg
   Drivers:
   - Name: Felipe Massa
-    Image: stamp0160.jpg
+    Image: stamp0164ad.jpg
     Champion: No
   - Name: Luca Badoer
   - Name: Giancarlo Fisichella
     Image: stamp0086ad.jpg
     Champion: No
   - Name: Kimi Raikkonen
-    Image: stamp0524gd.jpg
+    Image: stamp0155cd.jpg
     Champion: No
 - Year: 2008
   Team: Ferrari
@@ -136,23 +158,23 @@
     Image: stamp0299dc.jpg
   Drivers:
   - Name: Kimi Raikkonen
-    Image: stamp0155cd.jpg
+    Image: stamp0388gd.jpg
     Champion: No
   - Name: Felipe Massa
-    Image: stamp0164ad.jpg
+    Image: stamp0495.jpg
     Champion: No
 - Year: 2007
   Team: Ferrari
   Title: Yes
   Cars:
   - Name: Ferrari F2007
-    Image: stamp0191dc.jpg
+    Image: stamp0583bc.jpg
   Drivers:
   - Name: Felipe Massa
-    Image: stamp0164ad.jpg
+    Image: stamp0495.jpg
     Champion: No
   - Name: Kimi Raikkonen
-    Image: stamp0155cd.jpg
+    Image: stamp0142bd.jpg
     Champion: Yes
 - Year: 2006
   Team: Ferrari
@@ -162,10 +184,10 @@
     Image: stamp0013.jpg
   Drivers:
   - Name: Michael Schumacher
-    Image: stamp0190bd.jpg
+    Image: stamp0432.jpg
     Champion: No
   - Name: Felipe Massa
-    Image: stamp0164ad.jpg
+    Image: stamp0495.jpg
     Champion: No
 - Year: 2005
   Team: Ferrari
@@ -176,95 +198,95 @@
   - Name: Ferrari F2004M
   Drivers:
   - Name: Michael Schumacher
-    Image: stamp0258.jpg
+    Image: stamp0202.jpg
     Champion: No
   - Name: Rubens Barrichello
-    Image: stamp0215.jpg
+    Image: stamp0400bd.jpg
     Champion: No
 - Year: 2004
   Team: Ferrari
   Title: Yes
   Cars:
   - Name: Ferrari F2004
-    Image: stamp0036fc.jpg
+    Image: stamp0035fc.jpg
   Drivers:
   - Name: Michael Schumacher
-    Image: stamp0374.jpg
+    Image: stamp0641ad.jpg
     Champion: Yes
   - Name: Rubens Barrichello
-    Image: stamp0029ad.jpg
+    Image: stamp0239ed.jpg
     Champion: No
 - Year: 2003
   Team: Ferrari
   Title: Yes
   Cars:
   - Name: Ferrari F2003-GA
-    Image: stamp0036ec.jpg
+    Image: stamp0309.jpg
   - Name: Ferrari F2002
     Image: stamp0035dc.jpg
   Drivers:
   - Name: Michael Schumacher
-    Image: stamp0430.jpg
+    Image: stamp0240ad.jpg
     Champion: Yes
   - Name: Rubens Barrichello
-    Image: stamp0118.jpg
+    Image: stamp0400bd.jpg
     Champion: No
 - Year: 2002
   Team: Ferrari
   Title: Yes
   Cars:
   - Name: Ferrari F2002
-    Image: stamp0036dc.jpg
+    Image: stamp0168cc.jpg
   - Name: Ferrari F2001
-    Image: stamp0036cc.jpg
+    Image: stamp0049ac.jpg
   Drivers:
   - Name: Michael Schumacher
-    Image: stamp0374.jpg
+    Image: stamp0485.jpg
     Champion: Yes
   - Name: Rubens Barrichello
-    Image: stamp0239ed.jpg
+    Image: stamp0240bd.jpg
     Champion: No
 - Year: 2001
   Team: Ferrari
   Title: Yes
   Cars:
   - Name: Ferrari F2001
-    Image: stamp0193fc.jpg
+    Image: stamp0034cc.jpg
   Drivers:
   - Name: Michael Schumacher
-    Image: stamp0301cd.jpg
+    Image: stamp0524fd.jpg
     Champion: Yes
   - Name: Rubens Barrichello
-    Image: stamp0202.jpg
+    Image: stamp0192.jpg
     Champion: No
 - Year: 2000
   Team: Ferrari
   Title: Yes
   Cars:
   - Name: Ferrari F1-2000
-    Image: stamp0036bc.jpg
+    Image: stamp0193ec.jpg
   Drivers:
   - Name: Michael Schumacher
-    Image: stamp0370bd.jpg
+    Image: stamp0222.jpg
     Champion: Yes
   - Name: Rubens Barrichello
-    Image: stamp0239ed.jpg
+    Image: stamp0192.jpg
     Champion: No
 - Year: 1999
   Team: Ferrari
   Title: Yes
   Cars:
   - Name: Ferrari F399
-    Image: stamp0034ac.jpg
+    Image: stamp0639.jpg
   Drivers:
   - Name: Michael Schumacher
-    Image: stamp0155ad.jpg
+    Image: stamp0326bd.jpg
     Champion: No
   - Name: Mika Salo
     Image: stamp0239bd.jpg
     Champion: No
   - Name: Eddie Irvine
-    Image: stamp0029ad.jpg
+    Image: stamp0639.jpg
     Champion: No
 - Year: 1998
   Team: Ferrari
@@ -274,10 +296,10 @@
     Image: stamp0095bc.jpg
   Drivers:
   - Name: Michael Schumacher
-    Image: stamp0370bd.jpg
+    Image: stamp0029ad.jpg
     Champion: No
   - Name: Eddie Irvine
-    Image: stamp0172bd.jpg
+    Image: stamp0326fd.jpg
     Champion: No
 - Year: 1997
   Team: Ferrari
@@ -286,20 +308,20 @@
   - Name: Ferrari 310 B
   Drivers:
   - Name: Michael Schumacher
-    Image: stamp0258.jpg
+    Image: stamp0430.jpg
     Champion: No
   - Name: Eddie Irvine
-    Image: stamp0029ad.jpg
+    Image: stamp0239ed.jpg
     Champion: No
 - Year: 1996
   Team: Ferrari
   Title: No
   Cars:
   - Name: Ferrari F310
-    Image: stamp0242fc.jpg
+    Image: stamp0056kc.jpg
   Drivers:
   - Name: Michael Schumacher
-    Image: stamp0487.jpg
+    Image: stamp0239ed.jpg
     Champion: No
   - Name: Eddie Irvine
     Image: stamp0075hd.jpg
@@ -312,10 +334,10 @@
     Image: stamp0168bc.jpg
   Drivers:
   - Name: Jean Alesi
-    Image: stamp0239ed.jpg
+    Image: stamp0029ad.jpg
     Champion: No
   - Name: Gerhard Berger
-    Image: stamp0407.jpg
+    Image: stamp0173ad.jpg
     Champion: No
 - Year: 1994
   Team: Ferrari
@@ -324,11 +346,11 @@
   - Name: Ferrari 412 T
   Drivers:
   - Name: Jean Alesi
-    Image: stamp0388cd.jpg
+    Image: stamp0407.jpg
     Champion: No
   - Name: Nicola Larini
   - Name: Gerhard Berger
-    Image: stamp0601ad.jpg
+    Image: stamp0010cd.jpg
     Champion: No
 - Year: 1993
   Team: Ferrari
@@ -341,14 +363,14 @@
     Image: stamp0239ed.jpg
     Champion: No
   - Name: Gerhard Berger
-    Image: stamp0168bd.jpg
+    Image: stamp0407.jpg
     Champion: No
 - Year: 1992
   Team: Ferrari
   Title: No
   Cars:
   - Name: Ferrari F92A
-    Image: stamp0242cc.jpg
+    Image: stamp0170bc.jpg
   Drivers:
   - Name: Jean Alesi
     Image: stamp0239ed.jpg
@@ -364,11 +386,11 @@
     Image: stamp0193cc.jpg
   Drivers:
   - Name: Alain Prost
-    Image: stamp0625.jpg
+    Image: stamp0364.jpg
     Champion: No
   - Name: Gianni Morbidelli
   - Name: Jean Alesi
-    Image: stamp0601cd.jpg
+    Image: stamp0170bd.jpg
     Champion: No
 - Year: 1990
   Team: Ferrari
@@ -378,36 +400,36 @@
     Image: stamp0310.jpg
   Drivers:
   - Name: Alain Prost
-    Image: stamp0629.jpg
+    Image: stamp0409bd.jpg
     Champion: No
   - Name: Nigel Mansell
-    Image: stamp0171bd.jpg
+    Image: stamp0084cd.jpg
     Champion: No
 - Year: 1989
   Team: Ferrari
   Title: No
   Cars:
   - Name: Ferrari F1/89 (640)
-    Image: stamp0479cc.jpg
+    Image: stamp0311.jpg
   Drivers:
   - Name: Nigel Mansell
-    Image: stamp0479bd.jpg
+    Image: stamp0074hd.jpg
     Champion: No
   - Name: Gerhard Berger
-    Image: stamp0579.jpg
+    Image: stamp0010cd.jpg
     Champion: No
 - Year: 1988
   Team: Ferrari
   Title: No
   Cars:
   - Name: Ferrari F1/87/88C
-    Image: stamp0169ac.jpg
+    Image: stamp0048ac.jpg
   Drivers:
   - Name: Michele Alboreto
     Image: stamp0561dd.jpg
     Champion: No
   - Name: Gerhard Berger
-    Image: stamp0173ad.jpg
+    Image: stamp0169ad.jpg
     Champion: No
 - Year: 1987
   Team: Ferrari
@@ -420,7 +442,7 @@
     Image: stamp0557.jpg
     Champion: No
   - Name: Gerhard Berger
-    Image: stamp0407.jpg
+    Image: stamp0169ad.jpg
     Champion: No
 - Year: 1986
   Team: Ferrari
@@ -430,7 +452,7 @@
     Image: stamp0242ac.jpg
   Drivers:
   - Name: Michele Alboreto
-    Image: stamp0603hd.jpg
+    Image: stamp0557.jpg
     Champion: No
   - Name: Stefan Johansson
 - Year: 1985
@@ -438,13 +460,13 @@
   Title: No
   Cars:
   - Name: Ferrari 156/85
-    Image: stamp0056ic.jpg
+    Image: stamp0369bc.jpg
   Drivers:
   - Name: Michele Alboreto
-    Image: stamp0205.jpg
+    Image: stamp0561dd.jpg
     Champion: No
   - Name: Rene Arnoux
-    Image: stamp0507.jpg
+    Image: stamp0653cd.jpg
     Champion: No
   - Name: Stefan Johansson
 - Year: 1984
@@ -455,7 +477,7 @@
     Image: stamp0504.jpg
   Drivers:
   - Name: Rene Arnoux
-    Image: stamp0507.jpg
+    Image: stamp0623.jpg
     Champion: No
   - Name: Michele Alboreto
     Image: stamp0504.jpg
@@ -465,39 +487,39 @@
   Title: Yes
   Cars:
   - Name: Ferrari 126 C3
-    Image: stamp0623.jpg
+    Image: stamp0366.jpg
   - Name: Ferrari 126 C2B
   Drivers:
   - Name: Patrick Tambay
   - Name: Rene Arnoux
-    Image: stamp0623.jpg
+    Image: stamp0507.jpg
     Champion: No
 - Year: 1982
   Team: Ferrari
   Title: Yes
   Cars:
   - Name: Ferrari 126 C2
-    Image: stamp0113ec.jpg
+    Image: stamp0046ec.jpg
   Drivers:
   - Name: Gilles Villeneuve
-    Image: stamp0027.jpg
+    Image: stamp0364ad.jpg
     Champion: No
   - Name: Didier Pironi
     Image: stamp0622.jpg
     Champion: No
   - Name: Patrick Tambay
   - Name: Mario Andretti
-    Image: stamp0477.jpg
+    Image: stamp0099cd.jpg
     Champion: No
 - Year: 1981
   Team: Ferrari
   Title: No
   Cars:
   - Name: Ferrari 126 CK
-    Image: stamp0056hc.jpg
+    Image: stamp0267.jpg
   Drivers:
   - Name: Gilles Villeneuve
-    Image: stamp0653bd.jpg
+    Image: stamp0168ad.jpg
     Champion: No
   - Name: Didier Pironi
     Image: stamp0622.jpg
@@ -510,25 +532,25 @@
     Image: stamp0165dc.jpg
   Drivers:
   - Name: Jody Scheckter
-    Image: stamp0134.jpg
+    Image: stamp0170ad.jpg
     Champion: No
   - Name: Gilles Villeneuve
-    Image: stamp0667bd.jpg
+    Image: stamp0027.jpg
     Champion: No
 - Year: 1979
   Team: Ferrari
   Title: Yes
   Cars:
   - Name: Ferrari 312 T4
-    Image: stamp0056gc.jpg
+    Image: stamp0653bc.jpg
   - Name: Ferrari 312 T3
-    Image: stamp0307.jpg
+    Image: stamp0279cc.jpg
   Drivers:
   - Name: Jody Scheckter
-    Image: stamp0099ad.jpg
+    Image: stamp0216ad.jpg
     Champion: Yes
   - Name: Gilles Villeneuve
-    Image: stamp0364ad.jpg
+    Image: stamp0168ad.jpg
     Champion: No
 - Year: 1978
   Team: Ferrari
@@ -539,10 +561,10 @@
   - Name: Ferrari 312 T2B
   Drivers:
   - Name: Carlos Reutemann
-    Image: stamp0364.jpg
+    Image: stamp0323bd.jpg
     Champion: No
   - Name: Gilles Villeneuve
-    Image: stamp0653bd.jpg
+    Image: stamp0603fd.jpg
     Champion: No
 - Year: 1977
   Team: Ferrari
@@ -551,13 +573,13 @@
   - Name: Ferrari 312 T2B
   Drivers:
   - Name: Niki Lauda
-    Image: stamp0074ad.jpg
+    Image: stamp0135.jpg
     Champion: Yes
   - Name: Carlos Reutemann
-    Image: stamp0323bd.jpg
+    Image: stamp0621.jpg
     Champion: No
   - Name: Gilles Villeneuve
-    Image: stamp0014bd.jpg
+    Image: stamp0667bd.jpg
     Champion: No
 - Year: 1976
   Team: Ferrari
@@ -569,28 +591,28 @@
     Image: stamp0265.jpg
   Drivers:
   - Name: Niki Lauda
-    Image: stamp0139fd.jpg
+    Image: stamp0135.jpg
     Champion: No
   - Name: Clay Regazzoni
     Image: stamp0088ed.jpg
     Champion: No
   - Name: Carlos Reutemann
-    Image: stamp0621.jpg
+    Image: stamp0323bd.jpg
     Champion: No
 - Year: 1975
   Team: Ferrari
   Title: Yes
   Cars:
   - Name: Ferrari 312 T
-    Image: stamp0354.jpg
+    Image: stamp0476dc.jpg
   - Name: Ferrari 312 B3
     Image: stamp0227.jpg
   Drivers:
   - Name: Clay Regazzoni
-    Image: stamp0088ed.jpg
+    Image: stamp0010bd.jpg
     Champion: No
   - Name: Niki Lauda
-    Image: stamp0603bd.jpg
+    Image: stamp0370hd.jpg
     Champion: Yes
 - Year: 1974
   Team: Ferrari
@@ -600,22 +622,22 @@
     Image: stamp0227.jpg
   Drivers:
   - Name: Clay Regazzoni
-    Image: stamp0603cd.jpg
+    Image: stamp0088ed.jpg
     Champion: No
   - Name: Niki Lauda
-    Image: stamp0099dd.jpg
+    Image: stamp0370hd.jpg
     Champion: No
 - Year: 1973
   Team: Ferrari
   Title: No
   Cars:
   - Name: Ferrari 312 B3
-    Image: stamp0227.jpg
+    Image: stamp0193ac.jpg
   - Name: Ferrari 312 B2
     Image: stamp0006ec.jpg
   Drivers:
   - Name: Jacky Ickx
-    Image: stamp0009ed.jpg
+    Image: stamp0089cd.jpg
     Champion: No
   - Name: Arturo Merzario
 - Year: 1972
@@ -623,16 +645,16 @@
   Title: No
   Cars:
   - Name: Ferrari 312 B2
-    Image: stamp0046fc.jpg
+    Image: stamp0165cc.jpg
   Drivers:
   - Name: Clay Regazzoni
-    Image: stamp0010bd.jpg
+    Image: stamp0004bd.jpg
     Champion: No
   - Name: Jacky Ickx
-    Image: stamp0009ed.jpg
+    Image: stamp0088bd.jpg
     Champion: No
   - Name: Mario Andretti
-    Image: stamp0009gd.jpg
+    Image: stamp0074fd.jpg
     Champion: No
   - Name: Nanni Galli
   - Name: Arturo Merzario
@@ -641,18 +663,18 @@
   Title: No
   Cars:
   - Name: Ferrari 312 B2
-    Image: stamp0006ec.jpg
+    Image: stamp0165cc.jpg
   - Name: Ferrari 312 B
-    Image: stamp0241cc.jpg
+    Image: stamp0114bc.jpg
   Drivers:
   - Name: Mario Andretti
-    Image: stamp0478.jpg
+    Image: stamp0388dd.jpg
     Champion: No
   - Name: Jacky Ickx
-    Image: stamp0009ed.jpg
+    Image: stamp0004ad.jpg
     Champion: No
   - Name: Clay Regazzoni
-    Image: stamp0004bd.jpg
+    Image: stamp0088ed.jpg
     Champion: No
 - Year: 1970
   Team: Ferrari
@@ -668,14 +690,14 @@
     Image: stamp0005dd.jpg
     Champion: No
   - Name: Clay Regazzoni
-    Image: stamp0603cd.jpg
+    Image: stamp0010bd.jpg
     Champion: No
 - Year: 1969
   Team: Ferrari
   Title: No
   Cars:
   - Name: Ferrari 312
-    Image: stamp0006dc.jpg
+    Image: stamp0165bc.jpg
   Drivers:
   - Name: Chris Amon
   - Name: Pedro Rodriguez
@@ -684,7 +706,7 @@
   Title: No
   Cars:
   - Name: Ferrari 312
-    Image: stamp0165bc.jpg
+    Image: stamp0006dc.jpg
   Drivers:
   - Name: Chris Amon
   - Name: Jacky Ickx
@@ -697,7 +719,7 @@
   Title: No
   Cars:
   - Name: Ferrari 312
-    Image: stamp0006dc.jpg
+    Image: stamp0200ec.jpg
   Drivers:
   - Name: Chris Amon
   - Name: Lorenzo Bandini
@@ -731,7 +753,7 @@
   - Name: Ferrari 1512
   Drivers:
   - Name: John Surtees
-    Image: stamp0221ad.jpg
+    Image: stamp0137.jpg
     Champion: No
   - Name: Lorenzo Bandini
   - Name: Nino Vaccarella
@@ -745,12 +767,12 @@
   Title: Yes
   Cars:
   - Name: Ferrari 156
-    Image: stamp0334.jpg
+    Image: stamp0314.jpg
   - Name: Ferrari 158
-    Image: stamp0263.jpg
+    Image: stamp0056ec.jpg
   Drivers:
   - Name: John Surtees
-    Image: stamp0458.jpg
+    Image: stamp0010ed.jpg
     Champion: Yes
   - Name: Lorenzo Bandini
   - Name: Ludovico Scarfiotti
@@ -762,10 +784,10 @@
   Title: No
   Cars:
   - Name: Ferrari 156
-    Image: stamp0262.jpg
+    Image: stamp0314.jpg
   Drivers:
   - Name: John Surtees
-    Image: stamp0303.jpg
+    Image: stamp0139ed.jpg
     Champion: No
   - Name: Willy Mairesse
   - Name: Ludovico Scarfiotti
@@ -777,12 +799,12 @@
   Title: No
   Cars:
   - Name: Ferrari 156
-    Image: stamp0369bc.jpg
+    Image: stamp0314.jpg
   Drivers:
   - Name: Ricardo Rodriguez
   - Name: Giancarlo Baghetti
   - Name: Phil Hill
-    Image: stamp0186ad.jpg
+    Image: stamp0449.jpg
     Champion: No
   - Name: Willy Mairesse
   - Name: Lorenzo Bandini
@@ -794,10 +816,10 @@
     Image: stamp0519.jpg
   Drivers:
   - Name: Phil Hill
-    Image: stamp0334.jpg
+    Image: stamp0445.jpg
     Champion: Yes
   - Name: Wolfgang von Trips
-    Image: stamp0230.jpg
+    Image: stamp0014ad.jpg
     Champion: No
   - Name: Richie Ginther
   - Name: Olivier Gendebien
@@ -811,18 +833,18 @@
   Cars:
   - Name: Ferrari Dino 156
   - Name: Ferrari 246 P F1
-    Image: stamp0006cc.jpg
+    Image: stamp0461cc.jpg
   - Name: Ferrari 246 F1
-    Image: stamp0368ac.jpg
+    Image: stamp0045ac.jpg
   Drivers:
   - Name: Phil Hill
-    Image: stamp0421.jpg
+    Image: stamp0334.jpg
     Champion: No
   - Name: Jose Froilan Gonzalez
-    Image: stamp0602ad.jpg
+    Image: stamp0068.jpg
     Champion: No
   - Name: Wolfgang von Trips
-    Image: stamp0317ad.jpg
+    Image: stamp0014ad.jpg
     Champion: No
   - Name: Cliff Allison
   - Name: Richie Ginther
@@ -833,14 +855,14 @@
   Cars:
   - Name: Ferrari Dino 156
   - Name: Ferrari 246 F1
-    Image: stamp0156ac.jpg
+    Image: stamp0368ac.jpg
   Drivers:
   - Name: Cliff Allison
   - Name: Tony Brooks
-    Image: stamp0602gd.jpg
+    Image: stamp0288cd.jpg
     Champion: No
   - Name: Phil Hill
-    Image: stamp0010ad.jpg
+    Image: stamp0449.jpg
     Champion: No
   - Name: Jean Behra
   - Name: Dan Gurney
@@ -855,10 +877,10 @@
   Cars:
   - Name: Ferrari Dino 156
   - Name: Ferrari 246 F1
-    Image: stamp0315.jpg
+    Image: stamp0056cc.jpg
   Drivers:
   - Name: Mike Hawthorn
-    Image: stamp0417.jpg
+    Image: stamp0139cd.jpg
     Champion: Yes
   - Name: Peter Collins
     Image: stamp0602fd.jpg
@@ -873,19 +895,19 @@
     Image: stamp0443.jpg
     Champion: No
   - Name: Phil Hill
-    Image: stamp0291bd.jpg
+    Image: stamp0445.jpg
     Champion: No
 - Year: 1957
   Team: Ferrari
   Title: No
   Cars:
   - Name: Ferrari 801 F1
-    Image: stamp0006ac.jpg
+    Image: stamp0056bc.jpg
   - Name: Ferrari Tipo 500 F2
-    Image: stamp0053bc.jpg
+    Image: stamp0095ac.jpg
   Drivers:
   - Name: Peter Collins
-    Image: stamp0444.jpg
+    Image: stamp0602fd.jpg
     Champion: No
   - Name: Luigi Musso
     Image: stamp0442.jpg
@@ -894,10 +916,10 @@
     Image: stamp0602cd.jpg
     Champion: No
   - Name: Mike Hawthorn
-    Image: stamp0341.jpg
+    Image: stamp0070ad.jpg
     Champion: No
   - Name: Wolfgang von Trips
-    Image: stamp0230.jpg
+    Image: stamp0014ad.jpg
     Champion: No
   - Name: Cesare Perdisa
 - Year: 1956
@@ -905,13 +927,13 @@
   Title: No
   Cars:
   - Name: Ferrari Tipo 500 F2
-    Image: stamp0371.jpg
+    Image: stamp0344.jpg
   - Name: Ferrari D50
     Image: stamp0046cc.jpg
   - Name: Ferrari 555
   Drivers:
   - Name: Juan Manuel Fangio
-    Image: stamp0007.jpg
+    Image: stamp0332.jpg
     Champion: Yes
   - Name: Eugenio Castellotti
     Image: stamp0602cd.jpg
@@ -931,17 +953,17 @@
   Title: No
   Cars:
   - Name: Ferrari Tipo 500 F2
-    Image: stamp0344.jpg
+    Image: stamp0053bc.jpg
   - Name: Ferrari 555
   - Name: Ferrari 625 F1
-    Image: stamp0104bc.jpg
+    Image: stamp0241bc.jpg
   Drivers:
   - Name: Umberto Maglioli
   - Name: Giuseppe Farina
-    Image: stamp0335.jpg
+    Image: stamp0642ad.jpg
     Champion: No
   - Name: Jose Froilan Gonzalez
-    Image: stamp0068.jpg
+    Image: stamp0364.jpg
     Champion: No
   - Name: Maurice Trintignant
   - Name: Harry Schell
@@ -953,18 +975,18 @@
   - Name: Ferrari 553 F1
     Image: stamp0046bc.jpg
   - Name: Ferrari Tipo 500 F2
-    Image: stamp0053ac.jpg
+    Image: stamp0344.jpg
   - Name: Ferrari 625 F1
-    Image: stamp0017ac.jpg
+    Image: stamp0305.jpg
   Drivers:
   - Name: Giuseppe Farina
     Image: stamp0642ad.jpg
     Champion: No
   - Name: Jose Froilan Gonzalez
-    Image: stamp0602ad.jpg
+    Image: stamp0068.jpg
     Champion: No
   - Name: Mike Hawthorn
-    Image: stamp0070ad.jpg
+    Image: stamp0045ad.jpg
     Champion: No
   - Name: Umberto Maglioli
   - Name: Maurice Trintignant
@@ -978,13 +1000,13 @@
   - Name: Ferrari 500 F2
   Drivers:
   - Name: Giuseppe Farina
-    Image: stamp0413.jpg
+    Image: stamp0642ad.jpg
     Champion: No
   - Name: Alberto Ascari
-    Image: stamp0139ad.jpg
+    Image: stamp0344.jpg
     Champion: Yes
   - Name: Mike Hawthorn
-    Image: stamp0341.jpg
+    Image: stamp0417.jpg
     Champion: No
   - Name: Luigi Villoresi
   - Name: Umberto Maglioli
@@ -997,10 +1019,10 @@
   - Name: Ferrari 500 F2
   Drivers:
   - Name: Alberto Ascari
-    Image: stamp0344.jpg
+    Image: stamp0568ad.jpg
     Champion: Yes
   - Name: Giuseppe Farina
-    Image: stamp0561bd.jpg
+    Image: stamp0468.jpg
     Champion: No
   - Name: Piero Taruffi
   - Name: Andre Simon
@@ -1010,15 +1032,15 @@
   Title: No
   Cars:
   - Name: Ferrari 375 F1
-    Image: stamp0476bc.jpg
+    Image: stamp0068ac.jpg
   Drivers:
   - Name: Luigi Villoresi
   - Name: Alberto Ascari
-    Image: stamp0097.jpg
+    Image: stamp0344.jpg
     Champion: No
   - Name: Piero Taruffi
   - Name: Jose Froilan Gonzalez
-    Image: stamp0068.jpg
+    Image: stamp0364.jpg
     Champion: No
 - Year: 1950
   Team: Ferrari
@@ -1032,7 +1054,7 @@
   Drivers:
   - Name: Luigi Villoresi
   - Name: Alberto Ascari
-    Image: stamp0568ad.jpg
+    Image: stamp0097.jpg
     Champion: No
   - Name: Raymond Sommer
   - Name: Dorino Serafini

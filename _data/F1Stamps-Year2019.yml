@@ -1,0 +1,42 @@
+- Year: 2019
+  Cars:
+  Drivers:
+  - Driver: Daniel Ricciardo
+    Count: 2
+    Images:
+    - Image: stamp0617bd.jpg
+    - Image: stamp0680cd.jpg
+  - Driver: Kimi Raikkonen
+    Count: 16
+    Images:
+    - Image: stamp0031.jpg
+    - Image: stamp0680dd.jpg
+    - Image: stamp0560cd.jpg
+    - Image: stamp0399ad.jpg
+  - Driver: Lewis Hamilton
+    Count: 33
+    Images:
+    - Image: stamp0545.jpg
+    - Image: stamp0667ed.jpg
+    - Image: stamp0560ad.jpg
+    - Image: stamp0614dd.jpg
+  - Driver: Robert Kubica
+    Count: 2
+    Images:
+    - Image: stamp0199dd.jpg
+    - Image: stamp0401bd.jpg
+  - Driver: Romain Grosjean
+    Count: 1
+    Images:
+    - Image: stamp0382.jpg
+  - Driver: Sebastian Vettel
+    Count: 30
+    Images:
+    - Image: stamp0614cd.jpg
+    - Image: stamp0651ad.jpg
+    - Image: stamp0486.jpg
+    - Image: stamp0499.jpg
+  - Driver: Valtteri Bottas
+    Count: 1
+    Images:
+    - Image: stamp0680ad.jpg

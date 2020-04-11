@@ -1,0 +1,77 @@
+- Year: 1988
+  Cars:
+  - Car: Benetton B188
+    Count: 1
+    Images:
+    - Image: stamp0197fc.jpg
+  - Car: Ferrari F1/87/88C
+    Count: 4
+    Images:
+    - Image: stamp0583ac.jpg
+    - Image: stamp0048ac.jpg
+    - Image: stamp0601ac.jpg
+    - Image: stamp0169ac.jpg
+  - Car: McLaren MP4/4
+    Count: 3
+    Images:
+    - Image: stamp0599.jpg
+    - Image: stamp0020.jpg
+    - Image: stamp0628.jpg
+  Drivers:
+  - Driver: Alain Prost
+    Count: 27
+    Images:
+    - Image: stamp0189cd.jpg
+    - Image: stamp0633.jpg
+    - Image: stamp0098ad.jpg
+    - Image: stamp0409ad.jpg
+  - Driver: Andrea de Cesaris
+    Count: 1
+    Images:
+    - Image: stamp0561fd.jpg
+  - Driver: Ayrton Senna
+    Count: 81
+    Images:
+    - Image: stamp0531.jpg
+    - Image: stamp0539.jpg
+    - Image: stamp0630.jpg
+    - Image: stamp0144dd.jpg
+  - Driver: Gerhard Berger
+    Count: 7
+    Images:
+    - Image: stamp0173ad.jpg
+    - Image: stamp0601ad.jpg
+    - Image: stamp0579.jpg
+    - Image: stamp0168bd.jpg
+  - Driver: Michele Alboreto
+    Count: 5
+    Images:
+    - Image: stamp0603hd.jpg
+    - Image: stamp0504.jpg
+    - Image: stamp0205.jpg
+    - Image: stamp0561dd.jpg
+  - Driver: Nelson Piquet
+    Count: 12
+    Images:
+    - Image: stamp0074gd.jpg
+    - Image: stamp0114cd.jpg
+    - Image: stamp0216cd.jpg
+    - Image: stamp0578.jpg
+  - Driver: Nigel Mansell
+    Count: 26
+    Images:
+    - Image: stamp0171bd.jpg
+    - Image: stamp0370gd.jpg
+    - Image: stamp0092.jpg
+    - Image: stamp0189fd.jpg
+  - Driver: Rene Arnoux
+    Count: 3
+    Images:
+    - Image: stamp0507.jpg
+    - Image: stamp0653cd.jpg
+    - Image: stamp0623.jpg
+  - Driver: Riccardo Patrese
+    Count: 2
+    Images:
+    - Image: stamp0561cd.jpg
+    - Image: stamp0181.jpg

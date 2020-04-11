@@ -1,0 +1,23 @@
+---
+layout: f1stamps
+---
+
+{% include 2-header.html %}
+
+<div class="wrapper col3">
+	<div id="featured_intro">
+		<div>
+			<div class="f1text">
+				<b>Formula 1 Seasons</b><br>The Formula 1 seasons are organised by decade, click on a decade below to see the cars, drivers and events featured on stamps for the Formula 1 seasons in that decade.
+			</div>
+{% for item in site.data.F1Stamps-Years %}
+<div class="f1text"><b><a href="2-years{{ item.Year }}.html" target="_blank">{{ item.Year }}</a></b><br/>
+<img src="Thumbs/120/{{ item.Image }}" align="left"/>
+{{ item.Description }}
+</div>
+{% endfor %}
+		</div>
+	</div>
+</div>
+
+{% include 2-footer.html %}

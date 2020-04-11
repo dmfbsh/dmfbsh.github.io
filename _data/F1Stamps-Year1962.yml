@@ -1,0 +1,88 @@
+- Year: 1962
+  Cars:
+  - Car: BRM P57
+    Count: 7
+    Images:
+    - Image: stamp0037bc.jpg
+    - Image: stamp0515.jpg
+    - Image: stamp0348.jpg
+    - Image: stamp0045bc.jpg
+  - Car: Ferrari 156
+    Count: 7
+    Images:
+    - Image: stamp0314.jpg
+    - Image: stamp0334.jpg
+    - Image: stamp0519.jpg
+    - Image: stamp0056dc.jpg
+  - Car: Lotus 18
+    Count: 4
+    Images:
+    - Image: stamp0613cc.jpg
+    - Image: stamp0600ac.jpg
+    - Image: stamp0133.jpg
+    - Image: stamp0104ec.jpg
+  - Car: Lotus 25
+    Count: 11
+    Images:
+    - Image: stamp0600cc.jpg
+    - Image: stamp0514.jpg
+    - Image: stamp0175ac.jpg
+    - Image: stamp0037cc.jpg
+  - Car: Porsche 718
+    Count: 1
+    Images:
+    - Image: stamp0200cc.jpg
+  - Car: Porsche 804
+    Count: 1
+    Images:
+    - Image: stamp0600bc.jpg
+  Drivers:
+  - Driver: Bruce McLaren
+    Count: 3
+    Images:
+    - Image: stamp0009bd.jpg
+    - Image: stamp0005bd.jpg
+    - Image: stamp0112bd.jpg
+  - Driver: Dan Gurney
+    Count: 1
+    Images:
+    - Image: stamp0600bd.jpg
+  - Driver: Graham Hill
+    Count: 15
+    Images:
+    - Image: stamp0045bd.jpg
+    - Image: stamp0420.jpg
+    - Image: stamp0436.jpg
+    - Image: stamp0011.jpg
+  - Driver: Jack Brabham
+    Count: 11
+    Images:
+    - Image: stamp0291cd.jpg
+    - Image: stamp0600ed.jpg
+    - Image: stamp0427.jpg
+    - Image: stamp0337.jpg
+  - Driver: Jim Clark
+    Count: 21
+    Images:
+    - Image: stamp0418.jpg
+    - Image: stamp0288dd.jpg
+    - Image: stamp0070cd.jpg
+    - Image: stamp0642dd.jpg
+  - Driver: Joakim Bonnier
+    Count: 1
+    Images:
+    - Image: stamp0602id.jpg
+  - Driver: John Surtees
+    Count: 10
+    Images:
+    - Image: stamp0303.jpg
+    - Image: stamp0070dd.jpg
+    - Image: stamp0045dd.jpg
+    - Image: stamp0139ed.jpg
+  - Driver: Phil Hill
+    Count: 9
+    Images:
+    - Image: stamp0449.jpg
+    - Image: stamp0186ad.jpg
+    - Image: stamp0291bd.jpg
+    - Image: stamp0445.jpg

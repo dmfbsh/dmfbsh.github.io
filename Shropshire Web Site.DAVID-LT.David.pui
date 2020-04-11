@@ -2,10 +2,8 @@
 .+AFw-assets+AFw- - images=1
 .+AFwAXw-site+AFw- - assets - images=1
 .+AFw-1shropshire+AFw- - assets=1
-.+AFwAXw-ruby+AFw-=1
-.+AFw-1shropshire+AFw-=1
-.+AFwAXw-data+AFw-=1
 .+AFw-1shropshire+AFw- - assets - images=1
+.+AFwAXw-site+AFw-=1
 
 [Open Files]
 Active File Display Mode=-1
@@ -13,5 +11,6 @@ Open File0=
 Remember Files=1
 
 [Project Information]
-Project Start=E407030005000D000A0039000300000046
+Project Start=E4070400030008000E0026003500000063
 Working Time=10610
+

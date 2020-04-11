@@ -1,0 +1,73 @@
+- Year: 1952
+  Cars:
+  - Car: Cooper T20
+    Count: 2
+    Images:
+    - Image: stamp0613dc.jpg
+    - Image: stamp0288bc.jpg
+  - Car: Ferrari 125 F1
+    Count: 1
+    Images:
+    - Image: stamp0241ac.jpg
+  - Car: Ferrari Tipo 500 F2
+    Count: 8
+    Images:
+    - Image: stamp0056ac.jpg
+    - Image: stamp0331.jpg
+    - Image: stamp0024ac.jpg
+    - Image: stamp0344.jpg
+  - Car: Maserati 4CLT
+    Count: 2
+    Images:
+    - Image: stamp0288ac.jpg
+    - Image: stamp0532.jpg
+  Drivers:
+  - Driver: Alberto Ascari
+    Count: 9
+    Images:
+    - Image: stamp0561ad.jpg
+    - Image: stamp0121ed.jpg
+    - Image: stamp0568ad.jpg
+    - Image: stamp0344.jpg
+  - Driver: Chico Landi
+    Count: 1
+    Images:
+    - Image: stamp0023.jpg
+  - Driver: Giuseppe Farina
+    Count: 8
+    Images:
+    - Image: stamp0413.jpg
+    - Image: stamp0468.jpg
+    - Image: stamp0569.jpg
+    - Image: stamp0615.jpg
+  - Driver: Jose Froilan Gonzalez
+    Count: 4
+    Images:
+    - Image: stamp0602ad.jpg
+    - Image: stamp0204.jpg
+    - Image: stamp0364.jpg
+    - Image: stamp0068.jpg
+  - Driver: Mike Hawthorn
+    Count: 8
+    Images:
+    - Image: stamp0045ad.jpg
+    - Image: stamp0070ad.jpg
+    - Image: stamp0417.jpg
+    - Image: stamp0653ad.jpg
+  - Driver: Peter Collins
+    Count: 2
+    Images:
+    - Image: stamp0444.jpg
+    - Image: stamp0602fd.jpg
+  - Driver: Reg Parnell
+    Count: 2
+    Images:
+    - Image: stamp0288ad.jpg
+    - Image: stamp0532.jpg
+  - Driver: Stirling Moss
+    Count: 15
+    Images:
+    - Image: stamp0037ad.jpg
+    - Image: stamp0600ad.jpg
+    - Image: stamp0602dd.jpg
+    - Image: stamp0009cd.jpg
