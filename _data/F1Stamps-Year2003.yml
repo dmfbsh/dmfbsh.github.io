@@ -22,16 +22,16 @@
     Count: 14
     Images:
     - Image: stamp0326ed.jpg
-    - Image: stamp0084dd.jpg
     - Image: stamp0239ed.jpg
-    - Image: stamp0291fd.jpg
+    - Image: stamp0238bd.jpg
+    - Image: stamp0080bd.jpg
   - Driver: Fernando Alonso
     Count: 23
     Images:
     - Image: stamp0484.jpg
     - Image: stamp0549bd.jpg
     - Image: stamp0495.jpg
-    - Image: stamp0528.jpg
+    - Image: stamp0529.jpg
   - Driver: Giancarlo Fisichella
     Count: 6
     Images:
@@ -63,9 +63,9 @@
     Count: 21
     Images:
     - Image: stamp0544.jpg
-    - Image: stamp0529.jpg
-    - Image: stamp0651dd.jpg
-    - Image: stamp0238dd.jpg
+    - Image: stamp0287.jpg
+    - Image: stamp0682cd.jpg
+    - Image: stamp0283.jpg
   - Driver: Jos Verstappen
     Count: 2
     Images:
@@ -94,7 +94,7 @@
     Count: 11
     Images:
     - Image: stamp0488.jpg
-    - Image: stamp0284.jpg
+    - Image: stamp0199cd.jpg
     - Image: stamp0398ad.jpg
     - Image: stamp0064.jpg
   - Driver: Michael Schumacher
@@ -107,10 +107,10 @@
   - Driver: Nick Heidfeld
     Count: 6
     Images:
-    - Image: stamp0282.jpg
-    - Image: stamp0238fd.jpg
-    - Image: stamp0401ad.jpg
     - Image: stamp0239ed.jpg
+    - Image: stamp0245.jpg
+    - Image: stamp0401ad.jpg
+    - Image: stamp0238fd.jpg
   - Driver: Olivier Panis
     Count: 2
     Images:

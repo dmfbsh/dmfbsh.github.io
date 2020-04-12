@@ -12,10 +12,10 @@
   - Driver: David Coulthard
     Count: 14
     Images:
+    - Image: stamp0239ed.jpg
+    - Image: stamp0249dd.jpg
     - Image: stamp0084dd.jpg
-    - Image: stamp0215.jpg
-    - Image: stamp0081.jpg
-    - Image: stamp0291fd.jpg
+    - Image: stamp0080bd.jpg
   - Driver: Felipe Massa
     Count: 3
     Images:
@@ -26,7 +26,7 @@
     Count: 23
     Images:
     - Image: stamp0155dd.jpg
-    - Image: stamp0527.jpg
+    - Image: stamp0528.jpg
     - Image: stamp0495.jpg
     - Image: stamp0484.jpg
   - Driver: Giancarlo Fisichella
@@ -52,8 +52,8 @@
   - Driver: Jenson Button
     Count: 21
     Images:
-    - Image: stamp0239ed.jpg
-    - Image: stamp0283.jpg
+    - Image: stamp0282.jpg
+    - Image: stamp0529.jpg
     - Image: stamp0545.jpg
     - Image: stamp0400ad.jpg
   - Driver: Juan Pablo Montoya
@@ -74,9 +74,9 @@
     Count: 11
     Images:
     - Image: stamp0488.jpg
-    - Image: stamp0528.jpg
+    - Image: stamp0284.jpg
     - Image: stamp0064.jpg
-    - Image: stamp0527.jpg
+    - Image: stamp0283.jpg
   - Driver: Michael Schumacher
     Count: 81
     Images:
@@ -87,16 +87,16 @@
   - Driver: Nick Heidfeld
     Count: 6
     Images:
-    - Image: stamp0238fd.jpg
-    - Image: stamp0282.jpg
-    - Image: stamp0401ad.jpg
+    - Image: stamp0245.jpg
     - Image: stamp0239ed.jpg
+    - Image: stamp0401ad.jpg
+    - Image: stamp0238fd.jpg
   - Driver: Nico Rosberg
     Count: 6
     Images:
+    - Image: stamp0616ad.jpg
     - Image: stamp0643.jpg
     - Image: stamp0677.jpg
-    - Image: stamp0683.jpg
     - Image: stamp0398bd.jpg
   - Driver: Pedro de la Rosa
     Count: 3
@@ -136,7 +136,7 @@
     Images:
     - Image: stamp0495.jpg
     - Image: stamp0475.jpg
-    - Image: stamp0285.jpg
+    - Image: stamp0282.jpg
     - Image: stamp0487.jpg
   - Driver: Takuma Sato
     Count: 3

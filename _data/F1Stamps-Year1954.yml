@@ -10,7 +10,7 @@
     - Image: stamp0305.jpg
     - Image: stamp0104bc.jpg
     - Image: stamp0017ac.jpg
-    - Image: stamp0279dc.jpg
+    - Image: stamp0241bc.jpg
   - Car: Ferrari Tipo 500 F2
     Count: 8
     Images:
@@ -30,8 +30,8 @@
     Images:
     - Image: stamp0007.jpg
     - Image: stamp0332.jpg
-    - Image: stamp0685.jpg
-    - Image: stamp0210.jpg
+    - Image: stamp0655ac.jpg
+    - Image: stamp0231bc.jpg
   Drivers:
   - Driver: Alberto Ascari
     Count: 9
@@ -85,7 +85,7 @@
   - Driver: Stirling Moss
     Count: 15
     Images:
+    - Image: stamp0253.jpg
     - Image: stamp0210.jpg
-    - Image: stamp0213.jpg
     - Image: stamp0602dd.jpg
     - Image: stamp0037ad.jpg

@@ -3,10 +3,10 @@
   - Car: Ferrari 625 F1
     Count: 5
     Images:
-    - Image: stamp0241bc.jpg
+    - Image: stamp0279dc.jpg
     - Image: stamp0017ac.jpg
     - Image: stamp0305.jpg
-    - Image: stamp0279dc.jpg
+    - Image: stamp0241bc.jpg
   - Car: Ferrari D50
     Count: 5
     Images:
@@ -33,7 +33,7 @@
     Images:
     - Image: stamp0372.jpg
     - Image: stamp0361.jpg
-    - Image: stamp0210.jpg
+    - Image: stamp0231bc.jpg
     - Image: stamp0332.jpg
   Drivers:
   - Driver: Alberto Ascari
@@ -102,7 +102,7 @@
   - Driver: Stirling Moss
     Count: 15
     Images:
-    - Image: stamp0253.jpg
+    - Image: stamp0276ad.jpg
     - Image: stamp0600ad.jpg
-    - Image: stamp0213.jpg
+    - Image: stamp0210.jpg
     - Image: stamp0379.jpg

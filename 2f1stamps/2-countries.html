@@ -11,7 +11,7 @@ layout: f1stamps
 <div class="f1text"><table>
 {% for item in site.data.F1Stamps-Countries %}
 <tr><td width="120px"><img src="Flags/{{ item.Flag }}" width="100px" alt="No Flag"/></td>
-<td><a href="2-country{{ item.Country | downcase | remove: " " | remove: "(" | remove: ")" }}.html"  target="_blank">{{ item.Country }}</a><br/>
+<td><a href="2-country{{ item.Country | downcase | remove: " " | remove: "(" | remove: ")" | remove: "/" }}.html"  target="_blank">{{ item.Country }}</a><br/>
 {{ item.Continent }} ({{ item.ISOCode }})</td></tr>
 {% endfor %}
 </table></div>

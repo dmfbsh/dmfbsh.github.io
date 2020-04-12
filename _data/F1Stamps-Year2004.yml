@@ -19,10 +19,10 @@
   - Driver: David Coulthard
     Count: 14
     Images:
-    - Image: stamp0291fd.jpg
+    - Image: stamp0080bd.jpg
     - Image: stamp0395ad.jpg
     - Image: stamp0029ad.jpg
-    - Image: stamp0249dd.jpg
+    - Image: stamp0251.jpg
   - Driver: Felipe Massa
     Count: 3
     Images:
@@ -32,10 +32,10 @@
   - Driver: Fernando Alonso
     Count: 23
     Images:
+    - Image: stamp0529.jpg
     - Image: stamp0528.jpg
-    - Image: stamp0527.jpg
     - Image: stamp0484.jpg
-    - Image: stamp0255.jpg
+    - Image: stamp0284.jpg
   - Driver: Giancarlo Fisichella
     Count: 6
     Images:
@@ -63,10 +63,10 @@
   - Driver: Jenson Button
     Count: 21
     Images:
-    - Image: stamp0283.jpg
+    - Image: stamp0529.jpg
     - Image: stamp0560dd.jpg
     - Image: stamp0183ad.jpg
-    - Image: stamp0682cd.jpg
+    - Image: stamp0651dd.jpg
   - Driver: Juan Pablo Montoya
     Count: 5
     Images:
@@ -89,24 +89,24 @@
   - Driver: Mark Webber
     Count: 11
     Images:
-    - Image: stamp0285.jpg
-    - Image: stamp0199cd.jpg
-    - Image: stamp0489.jpg
     - Image: stamp0530.jpg
+    - Image: stamp0527.jpg
+    - Image: stamp0489.jpg
+    - Image: stamp0285.jpg
   - Driver: Michael Schumacher
     Count: 81
     Images:
     - Image: stamp0172ad.jpg
     - Image: stamp0542.jpg
     - Image: stamp0075fd.jpg
-    - Image: stamp0211bd.jpg
+    - Image: stamp0199bd.jpg
   - Driver: Nick Heidfeld
     Count: 6
     Images:
-    - Image: stamp0239ed.jpg
-    - Image: stamp0282.jpg
     - Image: stamp0238fd.jpg
+    - Image: stamp0239ed.jpg
     - Image: stamp0245.jpg
+    - Image: stamp0282.jpg
   - Driver: Olivier Panis
     Count: 2
     Images:

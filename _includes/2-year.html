@@ -11,7 +11,7 @@
 <div class="f1text"><b>Cars</b></div>
 <table>
 {% for car in item.Cars %}
-<tr class="bb"><td colspan="4"><div class="f1text"><a class="bb" href="popups/popup_{{ car.Car | downcase | remove: " " }}.html" target="_blank">{{ car.Car }} ({{ car.Count }} item(s))</a></div></td></tr><tr class="bb">
+<tr class="bb"><td colspan="4"><div class="f1text"><a class="bb" href="popups/popup_{{ car.Car | downcase | remove: " " | remove: "(" | remove: ")" | remove: "/" }}.html" target="_blank">{{ car.Car }} ({{ car.Count }} item(s))</a></div></td></tr><tr class="bb">
 {% assign numrecs = 0 %}
 {% for icon in car.Images %}
 <td align="center" width="25%"><img src="Thumbs/120/{{ icon.Image }}" height="120"/></td>
@@ -25,7 +25,7 @@
 <div class="f1text"><b>Drivers</b></div>
 <table>
 {% for driver in item.Drivers %}
-<tr class="bb"><td colspan="4"><div class="f1text"><a class="bb" href="popups/popup_{{ driver.Driver | downcase | remove: " " }}.html" target="_blank">{{ driver.Driver }} ({{ driver.Count }} item(s))</a></div></td></tr><tr class="bb">
+<tr class="bb"><td colspan="4"><div class="f1text"><a class="bb" href="popups/popup_{{ driver.Driver | downcase | remove: " " | remove: "(" | remove: ")" | remove: "/" }}.html" target="_blank">{{ driver.Driver }} ({{ driver.Count }} item(s))</a></div></td></tr><tr class="bb">
 {% assign numrecs = 0 %}
 {% for icon in driver.Images %}
 <td align="center" width="25%"><img src="Thumbs/120/{{ icon.Image }}" height="120"/></td>

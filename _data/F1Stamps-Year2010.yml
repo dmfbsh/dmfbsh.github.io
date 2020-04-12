@@ -35,9 +35,9 @@
     Count: 23
     Images:
     - Image: stamp0571ad.jpg
-    - Image: stamp0682dd.jpg
+    - Image: stamp0617ad.jpg
+    - Image: stamp0529.jpg
     - Image: stamp0528.jpg
-    - Image: stamp0527.jpg
   - Driver: Jarno Trulli
     Count: 3
     Images:
@@ -47,14 +47,14 @@
   - Driver: Jenson Button
     Count: 21
     Images:
-    - Image: stamp0682cd.jpg
+    - Image: stamp0651dd.jpg
     - Image: stamp0326dd.jpg
     - Image: stamp0549cd.jpg
-    - Image: stamp0529.jpg
+    - Image: stamp0287.jpg
   - Driver: Lewis Hamilton
     Count: 33
     Images:
-    - Image: stamp0667ed.jpg
+    - Image: stamp0652.jpg
     - Image: stamp0502.jpg
     - Image: stamp0580.jpg
     - Image: stamp0144ad.jpg
@@ -62,7 +62,7 @@
     Count: 11
     Images:
     - Image: stamp0488.jpg
-    - Image: stamp0285.jpg
+    - Image: stamp0530.jpg
     - Image: stamp0489.jpg
     - Image: stamp0398ad.jpg
   - Driver: Michael Schumacher
@@ -70,21 +70,21 @@
     Images:
     - Image: stamp0118.jpg
     - Image: stamp0075fd.jpg
-    - Image: stamp0202.jpg
+    - Image: stamp0240ad.jpg
     - Image: stamp0155ad.jpg
   - Driver: Nick Heidfeld
     Count: 6
     Images:
     - Image: stamp0401ad.jpg
-    - Image: stamp0238fd.jpg
     - Image: stamp0245.jpg
     - Image: stamp0282.jpg
+    - Image: stamp0239ed.jpg
   - Driver: Nico Rosberg
     Count: 6
     Images:
-    - Image: stamp0643.jpg
+    - Image: stamp0616ad.jpg
+    - Image: stamp0677.jpg
     - Image: stamp0683.jpg
-    - Image: stamp0615.jpg
     - Image: stamp0398bd.jpg
   - Driver: Pedro de la Rosa
     Count: 3
@@ -111,10 +111,10 @@
   - Driver: Sebastian Vettel
     Count: 30
     Images:
+    - Image: stamp0616cd.jpg
     - Image: stamp0617dd.jpg
-    - Image: stamp0643.jpg
     - Image: stamp0559.jpg
-    - Image: stamp0681.jpg
+    - Image: stamp0651ad.jpg
   - Driver: Vitaly Petrov
     Count: 1
     Images:

@@ -14,7 +14,7 @@
 {% for car in item.Cars %}
 {{ car.Name }}
 {% if car.Image %}
-<a href="popups/popup_{{ car.Name | downcase | remove: " " }}.html" target="_blank"><img src="Thumbs/120/{{ car.Image }}" height="120"/></a>
+<a href="popups/popup_{{ car.Name | downcase | remove: " " | remove: "(" | remove: ")" | remove: "/" }}.html" target="_blank"><img src="Thumbs/120/{{ car.Image }}" height="120"/></a>
 {% endif %}
 <br/>
 {% endfor %}
@@ -23,7 +23,7 @@
 {% for driver in item.Drivers %}
 {{ driver.Name }}
 {% if driver.Image %}
-<a href="popups/popup_{{ driver.Name | downcase | remove: " " }}.html" target="_blank"><img src="Thumbs/120/{{ driver.Image }}" height="120"/></a>
+<a href="popups/popup_{{ driver.Name | downcase | remove: " " | remove: "(" | remove: ")" | remove: "/" }}.html" target="_blank"><img src="Thumbs/120/{{ driver.Image }}" height="120"/></a>
 {% endif %}
 {% if driver.Champion %}(Drivers' Championship){% endif %}
 <br/>

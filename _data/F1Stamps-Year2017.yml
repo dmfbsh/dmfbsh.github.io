@@ -9,22 +9,22 @@
   - Car: Force India VJM10
     Count: 2
     Images:
-    - Image: stamp0691bc.jpg
     - Image: stamp0675fc.jpg
+    - Image: stamp0691bc.jpg
   - Car: McLaren MCL32
     Count: 4
     Images:
+    - Image: stamp0675ec.jpg
+    - Image: stamp0672.jpg
     - Image: stamp0691ac.jpg
     - Image: stamp0674.jpg
-    - Image: stamp0672.jpg
-    - Image: stamp0675ec.jpg
   - Car: Mercedes AMG F1 W08 EQ Power+
     Count: 4
     Images:
-    - Image: stamp0673ac.jpg
     - Image: stamp0671bc.jpg
     - Image: stamp0692.jpg
     - Image: stamp0674.jpg
+    - Image: stamp0673ac.jpg
   - Car: Red Bull RB13
     Count: 1
     Images:
@@ -32,20 +32,20 @@
   - Car: Renault R.S.17
     Count: 3
     Images:
+    - Image: stamp0673cc.jpg
     - Image: stamp0675hc.jpg
     - Image: stamp0692ac.jpg
-    - Image: stamp0673cc.jpg
   - Car: Sauber C36
     Count: 3
     Images:
-    - Image: stamp0691cc.jpg
     - Image: stamp0679.jpg
     - Image: stamp0675gc.jpg
+    - Image: stamp0691cc.jpg
   - Car: Williams FW40
     Count: 2
     Images:
-    - Image: stamp0692.jpg
     - Image: stamp0674.jpg
+    - Image: stamp0692.jpg
   Drivers:
   - Driver: Daniel Ricciardo
     Count: 2
@@ -61,10 +61,10 @@
   - Driver: Fernando Alonso
     Count: 23
     Images:
-    - Image: stamp0255.jpg
+    - Image: stamp0284.jpg
     - Image: stamp0388bd.jpg
     - Image: stamp0155dd.jpg
-    - Image: stamp0682dd.jpg
+    - Image: stamp0617ad.jpg
   - Driver: Kimi Raikkonen
     Count: 16
     Images:
@@ -75,10 +75,10 @@
   - Driver: Lewis Hamilton
     Count: 33
     Images:
-    - Image: stamp0652.jpg
+    - Image: stamp0617cd.jpg
     - Image: stamp0541cd.jpg
-    - Image: stamp0682bd.jpg
-    - Image: stamp0667ed.jpg
+    - Image: stamp0680bd.jpg
+    - Image: stamp0652.jpg
   - Driver: Romain Grosjean
     Count: 1
     Images:
@@ -87,7 +87,7 @@
     Count: 30
     Images:
     - Image: stamp0495.jpg
-    - Image: stamp0282.jpg
+    - Image: stamp0529.jpg
     - Image: stamp0559.jpg
     - Image: stamp0474.jpg
   - Driver: Valtteri Bottas

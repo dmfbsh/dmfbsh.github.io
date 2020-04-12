@@ -10,7 +10,7 @@
 {% for item in site.data[theFile] %}
 <div class="f1text"><b>{{ item.Year }}</b></div>
 {% for driver in item.Drivers %}
-<table><tr class="bb"><td colspan="4"><div class="f1text"><a class="bb" href="popups/popup_{{ driver.Name | downcase | remove: " " | remove: "/" }}.html" target="_blank">{{ driver.Name }} ({{ driver.Count }} item(s))</a></div></td></tr><tr class="bb">
+<table><tr class="bb"><td colspan="4"><div class="f1text"><a class="bb" href="popups/popup_{{ driver.Name | downcase | remove: " " | remove: "(" | remove: ")" | remove: "/" }}.html" target="_blank">{{ driver.Name }} ({{ driver.Count }} item(s))</a></div></td></tr><tr class="bb">
 {% assign numrecs = 0 %}
 {% for icon in driver.Images %}
 <td align="center" width="25%"><img src="Thumbs/120/{{ icon.Image }}" height="120"/></td>

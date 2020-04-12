@@ -18,9 +18,9 @@
   - Driver: David Coulthard
     Count: 14
     Images:
-    - Image: stamp0239ed.jpg
-    - Image: stamp0081.jpg
     - Image: stamp0238bd.jpg
+    - Image: stamp0084dd.jpg
+    - Image: stamp0215.jpg
     - Image: stamp0184cd.jpg
   - Driver: Eddie Irvine
     Count: 10
@@ -37,7 +37,7 @@
     Count: 23
     Images:
     - Image: stamp0321.jpg
-    - Image: stamp0617ad.jpg
+    - Image: stamp0682dd.jpg
     - Image: stamp0486.jpg
     - Image: stamp0155dd.jpg
   - Driver: Gaston Mazzacane
@@ -111,7 +111,7 @@
     - Image: stamp0430.jpg
     - Image: stamp0172ad.jpg
     - Image: stamp0641ad.jpg
-    - Image: stamp0082.jpg
+    - Image: stamp0080ad.jpg
   - Driver: Mika Hakkinen
     Count: 21
     Images:
@@ -122,10 +122,10 @@
   - Driver: Nick Heidfeld
     Count: 6
     Images:
-    - Image: stamp0239ed.jpg
     - Image: stamp0238fd.jpg
+    - Image: stamp0245.jpg
     - Image: stamp0401ad.jpg
-    - Image: stamp0282.jpg
+    - Image: stamp0239ed.jpg
   - Driver: Olivier Panis
     Count: 2
     Images:
