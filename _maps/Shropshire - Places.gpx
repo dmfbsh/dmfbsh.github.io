@@ -3,7 +3,31 @@
 <metadata>
 <name>Shropshire - Places</name>
 <bounds minlat="52.382805" minlon="-3.039213" maxlat="52.995575" maxlon="-2.239814"/></metadata>
-<wpt gr:gr="SO7668699344" lat="52.591404" lon="-2.345575">
+<wpt gr:gr="SO6221699836" lat="52.595013" lon="-2.559226">
+<ele>156.1</ele>
+<time>2020-04-13T17:49:08+01</time>
+<name>Ashfield Hall</name>
+<sym>yellow photo</sym>
+<extensions>
+<number>44</number>
+<i:importance>0.440000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4944912860" lat="52.711048" lon="-2.749677">
+<ele>68.0</ele>
+<time>2020-04-13T17:44:58+01</time>
+<name>Laura’s Tower</name>
+<sym>yellow photo</sym>
+<extensions>
+<number>43</number>
+<i:importance>0.430000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4933412376" lat="52.706684" lon="-2.751304">
+<ele>64.0</ele>
+<time>2020-04-13T17:38:24+01</time>
+<name>Wyle Cop</name>
+<sym>yellow photo</sym>
+<extensions>
+<number>42</number>
+<i:importance>0.420000</i:importance></extensions></wpt>
+<wpt gr:gr="SO7668699343" lat="52.591404" lon="-2.345575">
 <ele>60.0</ele>
 <time>2020-02-19T13:16:35+00</time>
 <name>Badger Dingle</name>
