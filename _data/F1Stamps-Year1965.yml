@@ -3,10 +3,10 @@
   - Car: Ferrari 158
     Count: 5
     Images:
-    - Image: stamp0056ec.jpg
     - Image: stamp0045dc.jpg
     - Image: stamp0303.jpg
-    - Image: stamp0263.jpg
+    - Image: stamp0461ac.jpg
+    - Image: stamp0056ec.jpg
   - Car: Ferrari 512 F1
     Count: 1
     Images:
@@ -14,17 +14,17 @@
   - Car: Lotus 25
     Count: 11
     Images:
-    - Image: stamp0045cc.jpg
-    - Image: stamp0129.jpg
-    - Image: stamp0288dc.jpg
     - Image: stamp0600cc.jpg
+    - Image: stamp0045cc.jpg
+    - Image: stamp0175ac.jpg
+    - Image: stamp0037cc.jpg
   Drivers:
   - Driver: Bruce McLaren
     Count: 3
     Images:
     - Image: stamp0112bd.jpg
-    - Image: stamp0009bd.jpg
     - Image: stamp0005bd.jpg
+    - Image: stamp0009bd.jpg
   - Driver: Dan Gurney
     Count: 1
     Images:
@@ -33,8 +33,8 @@
     Count: 4
     Images:
     - Image: stamp0112ad.jpg
-    - Image: stamp0349.jpg
     - Image: stamp0088ad.jpg
+    - Image: stamp0349.jpg
     - Image: stamp0221bd.jpg
   - Driver: Gerhard Mitter
     Count: 1
@@ -43,31 +43,31 @@
   - Driver: Graham Hill
     Count: 15
     Images:
-    - Image: stamp0339.jpg
-    - Image: stamp0010gd.jpg
-    - Image: stamp0436.jpg
+    - Image: stamp0434.jpg
     - Image: stamp0037bd.jpg
+    - Image: stamp0045bd.jpg
+    - Image: stamp0558.jpg
   - Driver: Jack Brabham
     Count: 11
     Images:
-    - Image: stamp0291cd.jpg
-    - Image: stamp0337.jpg
-    - Image: stamp0004cd.jpg
+    - Image: stamp0336.jpg
     - Image: stamp0009dd.jpg
+    - Image: stamp0004cd.jpg
+    - Image: stamp0427.jpg
   - Driver: Jackie Stewart
     Count: 24
     Images:
-    - Image: stamp0037dd.jpg
-    - Image: stamp0415.jpg
-    - Image: stamp0604.jpg
-    - Image: stamp0350.jpg
+    - Image: stamp0089bd.jpg
+    - Image: stamp0145ad.jpg
+    - Image: stamp0074ed.jpg
+    - Image: stamp0370fd.jpg
   - Driver: Jim Clark
-    Count: 21
+    Count: 22
     Images:
-    - Image: stamp0418.jpg
-    - Image: stamp0317bd.jpg
-    - Image: stamp0370cd.jpg
-    - Image: stamp0346.jpg
+    - Image: stamp0005ad.jpg
+    - Image: stamp0345.jpg
+    - Image: stamp0323ad.jpg
+    - Image: stamp0642dd.jpg
   - Driver: Joakim Bonnier
     Count: 1
     Images:
@@ -75,17 +75,17 @@
   - Driver: Jochen Rindt
     Count: 10
     Images:
-    - Image: stamp0351.jpg
-    - Image: stamp0419.jpg
     - Image: stamp0456.jpg
-    - Image: stamp0455.jpg
+    - Image: stamp0089ed.jpg
+    - Image: stamp0419.jpg
+    - Image: stamp0351.jpg
   - Driver: John Surtees
     Count: 10
     Images:
-    - Image: stamp0045dd.jpg
+    - Image: stamp0423.jpg
+    - Image: stamp0070dd.jpg
     - Image: stamp0458.jpg
     - Image: stamp0221ad.jpg
-    - Image: stamp0010ed.jpg
   - Driver: Ludovico Scarfiotti
     Count: 1
     Images:

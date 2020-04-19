@@ -19,9 +19,9 @@
     Count: 13
     Images:
       - Image: stamp0341.jpg
-      - Image: stamp0156ac.jpg
-      - Image: stamp0315.jpg
-      - Image: stamp0053cc.jpg
+      - Image: stamp0045ac.jpg
+      - Image: stamp0476ac.jpg
+      - Image: stamp0291bc.jpg
   - Name: Ferrari 246 P F1
     Count: 2
     Images:
@@ -30,10 +30,10 @@
   - Name: Lotus 18
     Count: 4
     Images:
+      - Image: stamp0133.jpg
+      - Image: stamp0104ec.jpg
       - Image: stamp0613cc.jpg
       - Image: stamp0600ac.jpg
-      - Image: stamp0104ec.jpg
-      - Image: stamp0133.jpg
 - Year: 1961
   Cars:
   - Name: Ferguson P99
@@ -41,19 +41,19 @@
     Images:
       - Image: stamp0612.jpg
   - Name: Ferrari 156
-    Count: 7
+    Count: 8
     Images:
-      - Image: stamp0369bc.jpg
-      - Image: stamp0056dc.jpg
-      - Image: stamp0334.jpg
+      - Image: stamp0519.jpg
       - Image: stamp0314.jpg
+      - Image: stamp0699ac.jpg
+      - Image: stamp0056dc.jpg
   - Name: Lotus 18
     Count: 4
     Images:
+      - Image: stamp0613cc.jpg
+      - Image: stamp0104ec.jpg
       - Image: stamp0133.jpg
       - Image: stamp0600ac.jpg
-      - Image: stamp0104ec.jpg
-      - Image: stamp0613cc.jpg
   - Name: Porsche 718
     Count: 1
     Images:
@@ -61,33 +61,33 @@
 - Year: 1962
   Cars:
   - Name: BRM P57
-    Count: 7
+    Count: 8
     Images:
-      - Image: stamp0348.jpg
       - Image: stamp0045bc.jpg
-      - Image: stamp0515.jpg
       - Image: stamp0037bc.jpg
+      - Image: stamp0348.jpg
+      - Image: stamp0515.jpg
   - Name: Ferrari 156
-    Count: 7
+    Count: 8
     Images:
-      - Image: stamp0262.jpg
+      - Image: stamp0519.jpg
+      - Image: stamp0662.jpg
       - Image: stamp0369bc.jpg
-      - Image: stamp0056dc.jpg
       - Image: stamp0334.jpg
   - Name: Lotus 18
     Count: 4
     Images:
-      - Image: stamp0613cc.jpg
-      - Image: stamp0133.jpg
-      - Image: stamp0600ac.jpg
       - Image: stamp0104ec.jpg
+      - Image: stamp0600ac.jpg
+      - Image: stamp0133.jpg
+      - Image: stamp0613cc.jpg
   - Name: Lotus 25
     Count: 11
     Images:
+      - Image: stamp0346.jpg
+      - Image: stamp0037cc.jpg
       - Image: stamp0514.jpg
-      - Image: stamp0200bc.jpg
-      - Image: stamp0288dc.jpg
-      - Image: stamp0129.jpg
+      - Image: stamp0045cc.jpg
   - Name: Porsche 718
     Count: 1
     Images:
@@ -103,26 +103,26 @@
     Images:
       - Image: stamp0104fc.jpg
   - Name: Ferrari 156
-    Count: 7
+    Count: 8
     Images:
-      - Image: stamp0056dc.jpg
-      - Image: stamp0369bc.jpg
-      - Image: stamp0662.jpg
+      - Image: stamp0262.jpg
       - Image: stamp0334.jpg
+      - Image: stamp0699ac.jpg
+      - Image: stamp0662.jpg
   - Name: Lotus 18
     Count: 4
     Images:
-      - Image: stamp0613cc.jpg
       - Image: stamp0133.jpg
+      - Image: stamp0613cc.jpg
       - Image: stamp0600ac.jpg
       - Image: stamp0104ec.jpg
   - Name: Lotus 25
     Count: 11
     Images:
-      - Image: stamp0129.jpg
       - Image: stamp0514.jpg
+      - Image: stamp0200bc.jpg
+      - Image: stamp0129.jpg
       - Image: stamp0346.jpg
-      - Image: stamp0288dc.jpg
   - Name: Porsche 718
     Count: 1
     Images:
@@ -130,19 +130,19 @@
 - Year: 1964
   Cars:
   - Name: Ferrari 156
-    Count: 7
+    Count: 8
     Images:
+      - Image: stamp0519.jpg
       - Image: stamp0262.jpg
-      - Image: stamp0662.jpg
-      - Image: stamp0334.jpg
       - Image: stamp0314.jpg
+      - Image: stamp0699ac.jpg
   - Name: Ferrari 158
     Count: 5
     Images:
+      - Image: stamp0461ac.jpg
+      - Image: stamp0045dc.jpg
       - Image: stamp0303.jpg
       - Image: stamp0263.jpg
-      - Image: stamp0045dc.jpg
-      - Image: stamp0461ac.jpg
   - Name: Ferrari 512 F1
     Count: 1
     Images:
@@ -150,10 +150,10 @@
   - Name: Lotus 25
     Count: 11
     Images:
-      - Image: stamp0037cc.jpg
-      - Image: stamp0514.jpg
       - Image: stamp0045cc.jpg
-      - Image: stamp0346.jpg
+      - Image: stamp0175ac.jpg
+      - Image: stamp0288dc.jpg
+      - Image: stamp0037cc.jpg
   - Name: Porsche 718
     Count: 1
     Images:
@@ -163,10 +163,10 @@
   - Name: Ferrari 158
     Count: 5
     Images:
-      - Image: stamp0263.jpg
       - Image: stamp0303.jpg
-      - Image: stamp0056ec.jpg
       - Image: stamp0045dc.jpg
+      - Image: stamp0056ec.jpg
+      - Image: stamp0461ac.jpg
   - Name: Ferrari 512 F1
     Count: 1
     Images:
@@ -174,19 +174,19 @@
   - Name: Lotus 25
     Count: 11
     Images:
-      - Image: stamp0175ac.jpg
-      - Image: stamp0037cc.jpg
-      - Image: stamp0288dc.jpg
       - Image: stamp0200bc.jpg
+      - Image: stamp0346.jpg
+      - Image: stamp0045cc.jpg
+      - Image: stamp0175ac.jpg
 - Year: 1966
   Cars:
   - Name: Brabham BT19
     Count: 7
     Images:
+      - Image: stamp0600ec.jpg
       - Image: stamp0655dc.jpg
-      - Image: stamp0126.jpg
-      - Image: stamp0336.jpg
-      - Image: stamp0291cc.jpg
+      - Image: stamp0008ac.jpg
+      - Image: stamp0510.jpg
   - Name: Brabham BT20
     Count: 1
     Images:
@@ -196,18 +196,18 @@
     Images:
       - Image: stamp0518.jpg
   - Name: Ferrari 312
-    Count: 4
+    Count: 6
     Images:
-      - Image: stamp0200ec.jpg
-      - Image: stamp0308.jpg
-      - Image: stamp0165bc.jpg
+      - Image: stamp0695.jpg
       - Image: stamp0006dc.jpg
+      - Image: stamp0165bc.jpg
+      - Image: stamp0200ec.jpg
   - Name: Ferrari 312 F1
     Count: 3
     Images:
-      - Image: stamp0313.jpg
-      - Image: stamp0461bc.jpg
       - Image: stamp0006fc.jpg
+      - Image: stamp0461bc.jpg
+      - Image: stamp0313.jpg
   - Name: Honda RA273
     Count: 1
     Images:
@@ -215,19 +215,23 @@
   - Name: Lotus 25
     Count: 11
     Images:
-      - Image: stamp0129.jpg
-      - Image: stamp0288dc.jpg
-      - Image: stamp0045cc.jpg
-      - Image: stamp0200bc.jpg
+      - Image: stamp0175ac.jpg
+      - Image: stamp0600cc.jpg
+      - Image: stamp0514.jpg
+      - Image: stamp0346.jpg
+  - Name: Lotus 43
+    Count: 1
+    Images:
+      - Image: stamp0708dc.jpg
 - Year: 1967
   Cars:
   - Name: Brabham BT19
     Count: 7
     Images:
-      - Image: stamp0600ec.jpg
-      - Image: stamp0655dc.jpg
-      - Image: stamp0126.jpg
+      - Image: stamp0510.jpg
       - Image: stamp0291cc.jpg
+      - Image: stamp0008ac.jpg
+      - Image: stamp0600ec.jpg
   - Name: Brabham BT20
     Count: 1
     Images:
@@ -237,29 +241,33 @@
     Images:
       - Image: stamp0518.jpg
   - Name: Ferrari 312
-    Count: 4
+    Count: 6
     Images:
-      - Image: stamp0200ec.jpg
+      - Image: stamp0695.jpg
       - Image: stamp0308.jpg
+      - Image: stamp0696ac.jpg
       - Image: stamp0006dc.jpg
-      - Image: stamp0165bc.jpg
   - Name: Ferrari 312 F1
     Count: 3
     Images:
-      - Image: stamp0006fc.jpg
       - Image: stamp0313.jpg
       - Image: stamp0461bc.jpg
+      - Image: stamp0006fc.jpg
   - Name: Honda RA273
     Count: 1
     Images:
       - Image: stamp0200dc.jpg
+  - Name: Lotus 43
+    Count: 1
+    Images:
+      - Image: stamp0708dc.jpg
   - Name: Lotus 49
     Count: 6
     Images:
-      - Image: stamp0175dc.jpg
       - Image: stamp0368bc.jpg
-      - Image: stamp0339.jpg
       - Image: stamp0513.jpg
+      - Image: stamp0684.jpg
+      - Image: stamp0323bc.jpg
 - Year: 1968
   Cars:
   - Name: Brabham BT20
@@ -271,25 +279,25 @@
     Images:
       - Image: stamp0518.jpg
   - Name: Ferrari 312
-    Count: 4
+    Count: 6
     Images:
-      - Image: stamp0308.jpg
-      - Image: stamp0165bc.jpg
+      - Image: stamp0695.jpg
+      - Image: stamp0696ac.jpg
       - Image: stamp0200ec.jpg
-      - Image: stamp0006dc.jpg
+      - Image: stamp0165bc.jpg
   - Name: Ferrari 312 F1
     Count: 3
     Images:
-      - Image: stamp0313.jpg
       - Image: stamp0006fc.jpg
       - Image: stamp0461bc.jpg
+      - Image: stamp0313.jpg
   - Name: Lotus 49
     Count: 6
     Images:
       - Image: stamp0513.jpg
+      - Image: stamp0323bc.jpg
       - Image: stamp0368bc.jpg
-      - Image: stamp0339.jpg
-      - Image: stamp0175dc.jpg
+      - Image: stamp0684.jpg
   - Name: Matra MS10
     Count: 1
     Images:
@@ -309,12 +317,12 @@
     Images:
       - Image: stamp0518.jpg
   - Name: Ferrari 312
-    Count: 4
+    Count: 6
     Images:
-      - Image: stamp0308.jpg
-      - Image: stamp0200ec.jpg
-      - Image: stamp0165bc.jpg
+      - Image: stamp0696ac.jpg
       - Image: stamp0006dc.jpg
+      - Image: stamp0695.jpg
+      - Image: stamp0200ec.jpg
   - Name: Ferrari 312 F1
     Count: 3
     Images:
@@ -326,8 +334,8 @@
     Images:
       - Image: stamp0323bc.jpg
       - Image: stamp0368bc.jpg
+      - Image: stamp0684.jpg
       - Image: stamp0339.jpg
-      - Image: stamp0513.jpg
   - Name: Matra MS10
     Count: 1
     Images:
@@ -336,8 +344,8 @@
     Count: 5
     Images:
       - Image: stamp0511.jpg
+      - Image: stamp0663.jpg
       - Image: stamp0145ac.jpg
-      - Image: stamp0350.jpg
       - Image: stamp0127.jpg
   - Name: McLaren M7A
     Count: 1

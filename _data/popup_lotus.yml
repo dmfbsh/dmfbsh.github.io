@@ -4,6 +4,10 @@
     Width: 400
   - Image: stamp0009.jpg
     Width: 400
+  - Image: stamp0039.jpg
+    Width: 400
+  - Image: stamp0038.jpg
+    Width: 400
   - Image: stamp0203.jpg
     Width: 400
   - Image: stamp0200.jpg
@@ -11,10 +15,6 @@
   - Image: stamp0201.jpg
     Width: 400
   - Image: stamp0197.jpg
-    Width: 400
-  - Image: stamp0291.jpg
-    Width: 400
-  - Image: stamp0038.jpg
     Width: 400
   - Image: stamp0133.jpg
     Width: 400
@@ -24,11 +24,11 @@
     Width: 400
   - Image: stamp0124.jpg
     Width: 400
-  - Image: stamp0207.jpg
+  - Image: stamp0216.jpg
     Width: 400
   - Image: stamp0061.jpg
     Width: 400
-  - Image: stamp0216.jpg
+  - Image: stamp0288.jpg
     Width: 400
   - Image: stamp0104.jpg
     Width: 200
@@ -78,7 +78,7 @@
     Width: 400
   - Image: stamp0408.jpg
     Width: 400
-  - Image: stamp0039.jpg
+  - Image: stamp0207.jpg
     Width: 400
   - Image: stamp0360.jpg
     Width: 400
@@ -104,7 +104,7 @@
     Width: 400
   - Image: stamp0318.jpg
     Width: 400
-  - Image: stamp0288.jpg
+  - Image: stamp0291.jpg
     Width: 400
   - Image: stamp0368.jpg
     Width: 400

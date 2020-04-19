@@ -3,16 +3,16 @@
   - Name: Bruce McLaren
     Count: 3
     Images:
-      - Image: stamp0009bd.jpg
-      - Image: stamp0005bd.jpg
       - Image: stamp0112bd.jpg
+      - Image: stamp0005bd.jpg
+      - Image: stamp0009bd.jpg
   - Name: Clay Regazzoni
     Count: 4
     Images:
-      - Image: stamp0010bd.jpg
       - Image: stamp0088ed.jpg
-      - Image: stamp0004bd.jpg
       - Image: stamp0603cd.jpg
+      - Image: stamp0010bd.jpg
+      - Image: stamp0004bd.jpg
   - Name: Dan Gurney
     Count: 1
     Images:
@@ -20,24 +20,24 @@
   - Name: Denis Hulme
     Count: 4
     Images:
-      - Image: stamp0112ad.jpg
-      - Image: stamp0088ad.jpg
       - Image: stamp0349.jpg
+      - Image: stamp0088ad.jpg
       - Image: stamp0221bd.jpg
+      - Image: stamp0112ad.jpg
   - Name: Emerson Fittipaldi
     Count: 11
     Images:
-      - Image: stamp0201cd.jpg
-      - Image: stamp0018.jpg
+      - Image: stamp0353.jpg
+      - Image: stamp0074id.jpg
       - Image: stamp0010hd.jpg
-      - Image: stamp0352.jpg
+      - Image: stamp0114bd.jpg
   - Name: Graham Hill
     Count: 15
     Images:
+      - Image: stamp0037bd.jpg
+      - Image: stamp0045bd.jpg
+      - Image: stamp0420.jpg
       - Image: stamp0070bd.jpg
-      - Image: stamp0436.jpg
-      - Image: stamp0435.jpg
-      - Image: stamp0339.jpg
   - Name: Ignazio Giunti
     Count: 1
     Images:
@@ -45,23 +45,23 @@
   - Name: Jack Brabham
     Count: 11
     Images:
-      - Image: stamp0427.jpg
-      - Image: stamp0600ed.jpg
-      - Image: stamp0291cd.jpg
       - Image: stamp0009dd.jpg
+      - Image: stamp0602hd.jpg
+      - Image: stamp0291cd.jpg
+      - Image: stamp0427.jpg
   - Name: Jackie Stewart
     Count: 24
     Images:
-      - Image: stamp0568dd.jpg
-      - Image: stamp0089bd.jpg
-      - Image: stamp0304.jpg
-      - Image: stamp0350.jpg
+      - Image: stamp0088cd.jpg
+      - Image: stamp0176dd.jpg
+      - Image: stamp0667ad.jpg
+      - Image: stamp0221dd.jpg
   - Name: Jacky Ickx
     Count: 4
     Images:
+      - Image: stamp0009ed.jpg
       - Image: stamp0089cd.jpg
       - Image: stamp0088bd.jpg
-      - Image: stamp0009ed.jpg
       - Image: stamp0004ad.jpg
   - Name: Jean-Pierre Beltoise
     Count: 1
@@ -76,8 +76,8 @@
     Images:
       - Image: stamp0453.jpg
       - Image: stamp0454.jpg
-      - Image: stamp0323cd.jpg
-      - Image: stamp0419.jpg
+      - Image: stamp0351.jpg
+      - Image: stamp0089ed.jpg
   - Name: John Miles
     Count: 1
     Images:
@@ -85,17 +85,17 @@
   - Name: John Surtees
     Count: 10
     Images:
+      - Image: stamp0137.jpg
+      - Image: stamp0458.jpg
       - Image: stamp0045dd.jpg
-      - Image: stamp0121cd.jpg
-      - Image: stamp0303.jpg
-      - Image: stamp0070dd.jpg
+      - Image: stamp0423.jpg
   - Name: Mario Andretti
     Count: 7
     Images:
-      - Image: stamp0099cd.jpg
       - Image: stamp0477.jpg
-      - Image: stamp0478.jpg
       - Image: stamp0357.jpg
+      - Image: stamp0388dd.jpg
+      - Image: stamp0099cd.jpg
   - Name: Rolf Stommelen
     Count: 1
     Images:
@@ -103,53 +103,53 @@
   - Name: Ronnie Peterson
     Count: 3
     Images:
-      - Image: stamp0587.jpg
-      - Image: stamp0088dd.jpg
       - Image: stamp0600gd.jpg
+      - Image: stamp0088dd.jpg
+      - Image: stamp0587.jpg
 - Year: 1971
   Drivers:
   - Name: Clay Regazzoni
     Count: 4
     Images:
-      - Image: stamp0010bd.jpg
-      - Image: stamp0004bd.jpg
-      - Image: stamp0603cd.jpg
       - Image: stamp0088ed.jpg
+      - Image: stamp0004bd.jpg
+      - Image: stamp0010bd.jpg
+      - Image: stamp0603cd.jpg
   - Name: Denis Hulme
     Count: 4
     Images:
       - Image: stamp0349.jpg
-      - Image: stamp0088ad.jpg
       - Image: stamp0221bd.jpg
+      - Image: stamp0088ad.jpg
       - Image: stamp0112ad.jpg
   - Name: Emerson Fittipaldi
     Count: 11
     Images:
       - Image: stamp0088fd.jpg
-      - Image: stamp0362.jpg
-      - Image: stamp0114bd.jpg
-      - Image: stamp0018.jpg
+      - Image: stamp0010hd.jpg
+      - Image: stamp0338.jpg
+      - Image: stamp0074id.jpg
   - Name: Graham Hill
     Count: 15
     Images:
-      - Image: stamp0010gd.jpg
+      - Image: stamp0348.jpg
+      - Image: stamp0037bd.jpg
+      - Image: stamp0045bd.jpg
       - Image: stamp0434.jpg
-      - Image: stamp0011.jpg
-      - Image: stamp0070bd.jpg
   - Name: Jackie Stewart
     Count: 24
     Images:
-      - Image: stamp0089bd.jpg
-      - Image: stamp0145ad.jpg
+      - Image: stamp0037dd.jpg
+      - Image: stamp0221dd.jpg
+      - Image: stamp0074ed.jpg
       - Image: stamp0667ad.jpg
-      - Image: stamp0189dd.jpg
   - Name: Jacky Ickx
     Count: 4
     Images:
       - Image: stamp0088bd.jpg
+      - Image: stamp0089cd.jpg
       - Image: stamp0009ed.jpg
       - Image: stamp0004ad.jpg
-      - Image: stamp0089cd.jpg
   - Name: Jean-Pierre Beltoise
     Count: 1
     Images:
@@ -161,29 +161,29 @@
   - Name: John Surtees
     Count: 10
     Images:
-      - Image: stamp0137.jpg
-      - Image: stamp0010ed.jpg
+      - Image: stamp0303.jpg
       - Image: stamp0458.jpg
-      - Image: stamp0221ad.jpg
+      - Image: stamp0423.jpg
+      - Image: stamp0137.jpg
   - Name: Mario Andretti
     Count: 7
     Images:
-      - Image: stamp0074fd.jpg
-      - Image: stamp0477.jpg
       - Image: stamp0478.jpg
+      - Image: stamp0357.jpg
+      - Image: stamp0074fd.jpg
       - Image: stamp0388dd.jpg
   - Name: Mike Hailwood
     Count: 2
     Images:
-      - Image: stamp0493.jpg
       - Image: stamp0494.jpg
+      - Image: stamp0493.jpg
   - Name: Niki Lauda
-    Count: 20
+    Count: 24
     Images:
-      - Image: stamp0370hd.jpg
-      - Image: stamp0099dd.jpg
-      - Image: stamp0568bd.jpg
       - Image: stamp0624.jpg
+      - Image: stamp0658cd.jpg
+      - Image: stamp0614bd.jpg
+      - Image: stamp0355.jpg
   - Name: Peter Revson
     Count: 1
     Images:
@@ -201,53 +201,52 @@
 - Year: 1972
   Drivers:
   - Name: Carlos Reutemann
-    Count: 4
+    Count: 3
     Images:
       - Image: stamp0363ad.jpg
-      - Image: stamp0621.jpg
       - Image: stamp0323bd.jpg
-      - Image: stamp0364.jpg
+      - Image: stamp0621.jpg
   - Name: Clay Regazzoni
     Count: 4
     Images:
-      - Image: stamp0004bd.jpg
       - Image: stamp0010bd.jpg
-      - Image: stamp0088ed.jpg
       - Image: stamp0603cd.jpg
+      - Image: stamp0088ed.jpg
+      - Image: stamp0004bd.jpg
   - Name: Denis Hulme
     Count: 4
     Images:
-      - Image: stamp0112ad.jpg
-      - Image: stamp0088ad.jpg
       - Image: stamp0349.jpg
+      - Image: stamp0088ad.jpg
       - Image: stamp0221bd.jpg
+      - Image: stamp0112ad.jpg
   - Name: Emerson Fittipaldi
     Count: 11
     Images:
-      - Image: stamp0201cd.jpg
-      - Image: stamp0018.jpg
       - Image: stamp0352.jpg
-      - Image: stamp0010hd.jpg
+      - Image: stamp0114bd.jpg
+      - Image: stamp0338.jpg
+      - Image: stamp0018.jpg
   - Name: Graham Hill
     Count: 15
     Images:
-      - Image: stamp0435.jpg
+      - Image: stamp0339.jpg
+      - Image: stamp0348.jpg
       - Image: stamp0011.jpg
-      - Image: stamp0070bd.jpg
-      - Image: stamp0420.jpg
+      - Image: stamp0435.jpg
   - Name: Jackie Stewart
     Count: 24
     Images:
-      - Image: stamp0045ed.jpg
+      - Image: stamp0667ad.jpg
       - Image: stamp0338.jpg
       - Image: stamp0070ed.jpg
-      - Image: stamp0370fd.jpg
+      - Image: stamp0176dd.jpg
   - Name: Jacky Ickx
     Count: 4
     Images:
       - Image: stamp0088bd.jpg
-      - Image: stamp0009ed.jpg
       - Image: stamp0089cd.jpg
+      - Image: stamp0009ed.jpg
       - Image: stamp0004ad.jpg
   - Name: Jean-Pierre Beltoise
     Count: 1
@@ -256,21 +255,213 @@
   - Name: Jody Scheckter
     Count: 7
     Images:
-      - Image: stamp0170ad.jpg
-      - Image: stamp0302.jpg
       - Image: stamp0099ad.jpg
-      - Image: stamp0134.jpg
+      - Image: stamp0603dd.jpg
+      - Image: stamp0139gd.jpg
+      - Image: stamp0302.jpg
   - Name: John Surtees
     Count: 10
     Images:
-      - Image: stamp0458.jpg
+      - Image: stamp0221ad.jpg
+      - Image: stamp0010ed.jpg
       - Image: stamp0423.jpg
-      - Image: stamp0045dd.jpg
-      - Image: stamp0121cd.jpg
+      - Image: stamp0303.jpg
   - Name: Mario Andretti
     Count: 7
     Images:
+      - Image: stamp0478.jpg
+      - Image: stamp0357.jpg
       - Image: stamp0099cd.jpg
+      - Image: stamp0477.jpg
+  - Name: Mike Hailwood
+    Count: 2
+    Images:
+      - Image: stamp0493.jpg
+      - Image: stamp0494.jpg
+  - Name: Niki Lauda
+    Count: 24
+    Images:
+      - Image: stamp0177bd.jpg
+      - Image: stamp0121bd.jpg
+      - Image: stamp0716.jpg
+      - Image: stamp0171ad.jpg
+  - Name: Peter Revson
+    Count: 1
+    Images:
+      - Image: stamp0603ad.jpg
+  - Name: Rolf Stommelen
+    Count: 1
+    Images:
+      - Image: stamp0603ed.jpg
+  - Name: Ronnie Peterson
+    Count: 3
+    Images:
+      - Image: stamp0088dd.jpg
+      - Image: stamp0587.jpg
+      - Image: stamp0600gd.jpg
+- Year: 1973
+  Drivers:
+  - Name: Carlos Reutemann
+    Count: 3
+    Images:
+      - Image: stamp0363ad.jpg
+      - Image: stamp0621.jpg
+      - Image: stamp0323bd.jpg
+  - Name: Clay Regazzoni
+    Count: 4
+    Images:
+      - Image: stamp0088ed.jpg
+      - Image: stamp0004bd.jpg
+      - Image: stamp0010bd.jpg
+      - Image: stamp0603cd.jpg
+  - Name: Denis Hulme
+    Count: 4
+    Images:
+      - Image: stamp0221bd.jpg
+      - Image: stamp0088ad.jpg
+      - Image: stamp0112ad.jpg
+      - Image: stamp0349.jpg
+  - Name: Emerson Fittipaldi
+    Count: 11
+    Images:
+      - Image: stamp0416.jpg
+      - Image: stamp0352.jpg
+      - Image: stamp0088fd.jpg
+      - Image: stamp0201cd.jpg
+  - Name: Graham Hill
+    Count: 15
+    Images:
+      - Image: stamp0037bd.jpg
+      - Image: stamp0558.jpg
+      - Image: stamp0010gd.jpg
+      - Image: stamp0339.jpg
+  - Name: Jackie Stewart
+    Count: 24
+    Images:
+      - Image: stamp0370fd.jpg
+      - Image: stamp0070ed.jpg
+      - Image: stamp0415.jpg
+      - Image: stamp0089bd.jpg
+  - Name: Jacky Ickx
+    Count: 4
+    Images:
+      - Image: stamp0089cd.jpg
+      - Image: stamp0088bd.jpg
+      - Image: stamp0004ad.jpg
+      - Image: stamp0009ed.jpg
+  - Name: James Hunt
+    Count: 8
+    Images:
+      - Image: stamp0045fd.jpg
+      - Image: stamp0037ed.jpg
+      - Image: stamp0014cd.jpg
+      - Image: stamp0355.jpg
+  - Name: Jean-Pierre Beltoise
+    Count: 1
+    Images:
+      - Image: stamp0600hd.jpg
+  - Name: Jody Scheckter
+    Count: 7
+    Images:
+      - Image: stamp0134.jpg
+      - Image: stamp0302.jpg
+      - Image: stamp0216ad.jpg
+      - Image: stamp0099ad.jpg
+  - Name: Mike Hailwood
+    Count: 2
+    Images:
+      - Image: stamp0493.jpg
+      - Image: stamp0494.jpg
+  - Name: Niki Lauda
+    Count: 24
+    Images:
+      - Image: stamp0135.jpg
+      - Image: stamp0624.jpg
+      - Image: stamp0715.jpg
+      - Image: stamp0171ad.jpg
+  - Name: Peter Revson
+    Count: 1
+    Images:
+      - Image: stamp0603ad.jpg
+  - Name: Rolf Stommelen
+    Count: 1
+    Images:
+      - Image: stamp0603ed.jpg
+  - Name: Ronnie Peterson
+    Count: 3
+    Images:
+      - Image: stamp0587.jpg
+      - Image: stamp0088dd.jpg
+      - Image: stamp0600gd.jpg
+- Year: 1974
+  Drivers:
+  - Name: Carlos Reutemann
+    Count: 3
+    Images:
+      - Image: stamp0323bd.jpg
+      - Image: stamp0363ad.jpg
+      - Image: stamp0621.jpg
+  - Name: Clay Regazzoni
+    Count: 4
+    Images:
+      - Image: stamp0010bd.jpg
+      - Image: stamp0603cd.jpg
+      - Image: stamp0088ed.jpg
+      - Image: stamp0004bd.jpg
+  - Name: Denis Hulme
+    Count: 4
+    Images:
+      - Image: stamp0221bd.jpg
+      - Image: stamp0112ad.jpg
+      - Image: stamp0349.jpg
+      - Image: stamp0088ad.jpg
+  - Name: Emerson Fittipaldi
+    Count: 11
+    Images:
+      - Image: stamp0010hd.jpg
+      - Image: stamp0352.jpg
+      - Image: stamp0074id.jpg
+      - Image: stamp0353.jpg
+  - Name: Graham Hill
+    Count: 15
+    Images:
+      - Image: stamp0010gd.jpg
+      - Image: stamp0011.jpg
+      - Image: stamp0434.jpg
+      - Image: stamp0558.jpg
+  - Name: Jacky Ickx
+    Count: 4
+    Images:
+      - Image: stamp0004ad.jpg
+      - Image: stamp0089cd.jpg
+      - Image: stamp0009ed.jpg
+      - Image: stamp0088bd.jpg
+  - Name: James Hunt
+    Count: 8
+    Images:
+      - Image: stamp0664.jpg
+      - Image: stamp0045fd.jpg
+      - Image: stamp0037ed.jpg
+      - Image: stamp0070fd.jpg
+  - Name: Jean-Pierre Beltoise
+    Count: 1
+    Images:
+      - Image: stamp0600hd.jpg
+  - Name: Jody Scheckter
+    Count: 7
+    Images:
+      - Image: stamp0302.jpg
+      - Image: stamp0134.jpg
+      - Image: stamp0603dd.jpg
+      - Image: stamp0099ad.jpg
+  - Name: Lella Lombardi
+    Count: 1
+    Images:
+      - Image: stamp0597bd.jpg
+  - Name: Mario Andretti
+    Count: 7
+    Images:
+      - Image: stamp0478.jpg
       - Image: stamp0357.jpg
       - Image: stamp0009gd.jpg
       - Image: stamp0074fd.jpg
@@ -280,206 +471,12 @@
       - Image: stamp0494.jpg
       - Image: stamp0493.jpg
   - Name: Niki Lauda
-    Count: 20
-    Images:
-      - Image: stamp0658cd.jpg
-      - Image: stamp0624.jpg
-      - Image: stamp0355.jpg
-      - Image: stamp0603bd.jpg
-  - Name: Peter Revson
-    Count: 1
-    Images:
-      - Image: stamp0603ad.jpg
-  - Name: Rolf Stommelen
-    Count: 1
-    Images:
-      - Image: stamp0603ed.jpg
-  - Name: Ronnie Peterson
-    Count: 3
-    Images:
-      - Image: stamp0600gd.jpg
-      - Image: stamp0088dd.jpg
-      - Image: stamp0587.jpg
-- Year: 1973
-  Drivers:
-  - Name: Carlos Reutemann
-    Count: 4
-    Images:
-      - Image: stamp0363ad.jpg
-      - Image: stamp0621.jpg
-      - Image: stamp0323bd.jpg
-      - Image: stamp0364.jpg
-  - Name: Clay Regazzoni
-    Count: 4
-    Images:
-      - Image: stamp0088ed.jpg
-      - Image: stamp0603cd.jpg
-      - Image: stamp0004bd.jpg
-      - Image: stamp0010bd.jpg
-  - Name: Denis Hulme
-    Count: 4
-    Images:
-      - Image: stamp0112ad.jpg
-      - Image: stamp0349.jpg
-      - Image: stamp0088ad.jpg
-      - Image: stamp0221bd.jpg
-  - Name: Emerson Fittipaldi
-    Count: 11
-    Images:
-      - Image: stamp0362.jpg
-      - Image: stamp0201cd.jpg
-      - Image: stamp0353.jpg
-      - Image: stamp0074id.jpg
-  - Name: Graham Hill
-    Count: 15
-    Images:
-      - Image: stamp0070bd.jpg
-      - Image: stamp0010gd.jpg
-      - Image: stamp0339.jpg
-      - Image: stamp0045bd.jpg
-  - Name: Jackie Stewart
     Count: 24
     Images:
-      - Image: stamp0009fd.jpg
-      - Image: stamp0350.jpg
-      - Image: stamp0045ed.jpg
-      - Image: stamp0600fd.jpg
-  - Name: Jacky Ickx
-    Count: 4
-    Images:
-      - Image: stamp0004ad.jpg
-      - Image: stamp0088bd.jpg
-      - Image: stamp0089cd.jpg
-      - Image: stamp0009ed.jpg
-  - Name: James Hunt
-    Count: 8
-    Images:
-      - Image: stamp0014cd.jpg
-      - Image: stamp0037ed.jpg
-      - Image: stamp0664.jpg
-      - Image: stamp0355.jpg
-  - Name: Jean-Pierre Beltoise
-    Count: 1
-    Images:
-      - Image: stamp0600hd.jpg
-  - Name: Jody Scheckter
-    Count: 7
-    Images:
-      - Image: stamp0099ad.jpg
-      - Image: stamp0216ad.jpg
-      - Image: stamp0603dd.jpg
-      - Image: stamp0170ad.jpg
-  - Name: Mike Hailwood
-    Count: 2
-    Images:
-      - Image: stamp0493.jpg
-      - Image: stamp0494.jpg
-  - Name: Niki Lauda
-    Count: 20
-    Images:
       - Image: stamp0177bd.jpg
-      - Image: stamp0603bd.jpg
+      - Image: stamp0508.jpg
+      - Image: stamp0624.jpg
       - Image: stamp0136.jpg
-      - Image: stamp0614bd.jpg
-  - Name: Peter Revson
-    Count: 1
-    Images:
-      - Image: stamp0603ad.jpg
-  - Name: Rolf Stommelen
-    Count: 1
-    Images:
-      - Image: stamp0603ed.jpg
-  - Name: Ronnie Peterson
-    Count: 3
-    Images:
-      - Image: stamp0600gd.jpg
-      - Image: stamp0587.jpg
-      - Image: stamp0088dd.jpg
-- Year: 1974
-  Drivers:
-  - Name: Carlos Reutemann
-    Count: 4
-    Images:
-      - Image: stamp0364.jpg
-      - Image: stamp0621.jpg
-      - Image: stamp0363ad.jpg
-      - Image: stamp0323bd.jpg
-  - Name: Clay Regazzoni
-    Count: 4
-    Images:
-      - Image: stamp0010bd.jpg
-      - Image: stamp0088ed.jpg
-      - Image: stamp0603cd.jpg
-      - Image: stamp0004bd.jpg
-  - Name: Denis Hulme
-    Count: 4
-    Images:
-      - Image: stamp0112ad.jpg
-      - Image: stamp0349.jpg
-      - Image: stamp0221bd.jpg
-      - Image: stamp0088ad.jpg
-  - Name: Emerson Fittipaldi
-    Count: 11
-    Images:
-      - Image: stamp0416.jpg
-      - Image: stamp0362.jpg
-      - Image: stamp0010hd.jpg
-      - Image: stamp0088fd.jpg
-  - Name: Graham Hill
-    Count: 15
-    Images:
-      - Image: stamp0420.jpg
-      - Image: stamp0011.jpg
-      - Image: stamp0070bd.jpg
-      - Image: stamp0010gd.jpg
-  - Name: Jacky Ickx
-    Count: 4
-    Images:
-      - Image: stamp0004ad.jpg
-      - Image: stamp0089cd.jpg
-      - Image: stamp0009ed.jpg
-      - Image: stamp0088bd.jpg
-  - Name: James Hunt
-    Count: 8
-    Images:
-      - Image: stamp0070fd.jpg
-      - Image: stamp0355.jpg
-      - Image: stamp0045fd.jpg
-      - Image: stamp0014cd.jpg
-  - Name: Jean-Pierre Beltoise
-    Count: 1
-    Images:
-      - Image: stamp0600hd.jpg
-  - Name: Jody Scheckter
-    Count: 7
-    Images:
-      - Image: stamp0302.jpg
-      - Image: stamp0099ad.jpg
-      - Image: stamp0139gd.jpg
-      - Image: stamp0170ad.jpg
-  - Name: Lella Lombardi
-    Count: 1
-    Images:
-      - Image: stamp0597bd.jpg
-  - Name: Mario Andretti
-    Count: 7
-    Images:
-      - Image: stamp0478.jpg
-      - Image: stamp0388dd.jpg
-      - Image: stamp0074fd.jpg
-      - Image: stamp0009gd.jpg
-  - Name: Mike Hailwood
-    Count: 2
-    Images:
-      - Image: stamp0493.jpg
-      - Image: stamp0494.jpg
-  - Name: Niki Lauda
-    Count: 20
-    Images:
-      - Image: stamp0370hd.jpg
-      - Image: stamp0658cd.jpg
-      - Image: stamp0355.jpg
-      - Image: stamp0354.jpg
   - Name: Peter Revson
     Count: 1
     Images:
@@ -499,56 +496,55 @@
   - Name: Alan Jones
     Count: 2
     Images:
-      - Image: stamp0620.jpg
       - Image: stamp0216bd.jpg
+      - Image: stamp0620.jpg
   - Name: Carlos Reutemann
-    Count: 4
+    Count: 3
     Images:
-      - Image: stamp0363ad.jpg
-      - Image: stamp0621.jpg
       - Image: stamp0323bd.jpg
-      - Image: stamp0364.jpg
+      - Image: stamp0621.jpg
+      - Image: stamp0363ad.jpg
   - Name: Clay Regazzoni
     Count: 4
     Images:
-      - Image: stamp0004bd.jpg
       - Image: stamp0088ed.jpg
-      - Image: stamp0010bd.jpg
       - Image: stamp0603cd.jpg
+      - Image: stamp0010bd.jpg
+      - Image: stamp0004bd.jpg
   - Name: Emerson Fittipaldi
     Count: 11
     Images:
-      - Image: stamp0362.jpg
-      - Image: stamp0088fd.jpg
+      - Image: stamp0352.jpg
+      - Image: stamp0074id.jpg
+      - Image: stamp0010hd.jpg
       - Image: stamp0114bd.jpg
-      - Image: stamp0201cd.jpg
   - Name: Graham Hill
     Count: 15
     Images:
-      - Image: stamp0011.jpg
-      - Image: stamp0434.jpg
-      - Image: stamp0037bd.jpg
+      - Image: stamp0558.jpg
       - Image: stamp0339.jpg
+      - Image: stamp0435.jpg
+      - Image: stamp0420.jpg
   - Name: Jacky Ickx
     Count: 4
     Images:
       - Image: stamp0089cd.jpg
-      - Image: stamp0088bd.jpg
       - Image: stamp0004ad.jpg
       - Image: stamp0009ed.jpg
+      - Image: stamp0088bd.jpg
   - Name: James Hunt
     Count: 8
     Images:
+      - Image: stamp0664.jpg
       - Image: stamp0045fd.jpg
-      - Image: stamp0014cd.jpg
-      - Image: stamp0355.jpg
       - Image: stamp0070fd.jpg
+      - Image: stamp0014cd.jpg
   - Name: Jody Scheckter
     Count: 7
     Images:
       - Image: stamp0134.jpg
       - Image: stamp0302.jpg
-      - Image: stamp0216ad.jpg
+      - Image: stamp0170ad.jpg
       - Image: stamp0099ad.jpg
   - Name: Lella Lombardi
     Count: 1
@@ -557,17 +553,17 @@
   - Name: Mario Andretti
     Count: 7
     Images:
+      - Image: stamp0388dd.jpg
       - Image: stamp0009gd.jpg
-      - Image: stamp0478.jpg
-      - Image: stamp0099cd.jpg
+      - Image: stamp0477.jpg
       - Image: stamp0074fd.jpg
   - Name: Niki Lauda
-    Count: 20
+    Count: 24
     Images:
-      - Image: stamp0603bd.jpg
-      - Image: stamp0114dd.jpg
-      - Image: stamp0074ad.jpg
-      - Image: stamp0121bd.jpg
+      - Image: stamp0136.jpg
+      - Image: stamp0356.jpg
+      - Image: stamp0139fd.jpg
+      - Image: stamp0716.jpg
   - Name: Rolf Stommelen
     Count: 1
     Images:
@@ -575,9 +571,9 @@
   - Name: Ronnie Peterson
     Count: 3
     Images:
-      - Image: stamp0587.jpg
-      - Image: stamp0088dd.jpg
       - Image: stamp0600gd.jpg
+      - Image: stamp0088dd.jpg
+      - Image: stamp0587.jpg
 - Year: 1976
   Drivers:
   - Name: Alan Jones
@@ -586,47 +582,46 @@
       - Image: stamp0216bd.jpg
       - Image: stamp0620.jpg
   - Name: Carlos Reutemann
-    Count: 4
+    Count: 3
     Images:
-      - Image: stamp0364.jpg
+      - Image: stamp0363ad.jpg
       - Image: stamp0621.jpg
       - Image: stamp0323bd.jpg
-      - Image: stamp0363ad.jpg
   - Name: Clay Regazzoni
     Count: 4
     Images:
+      - Image: stamp0010bd.jpg
+      - Image: stamp0004bd.jpg
       - Image: stamp0603cd.jpg
       - Image: stamp0088ed.jpg
-      - Image: stamp0004bd.jpg
-      - Image: stamp0010bd.jpg
   - Name: Emerson Fittipaldi
     Count: 11
     Images:
-      - Image: stamp0114bd.jpg
-      - Image: stamp0088fd.jpg
-      - Image: stamp0416.jpg
       - Image: stamp0338.jpg
+      - Image: stamp0352.jpg
+      - Image: stamp0114bd.jpg
+      - Image: stamp0353.jpg
   - Name: Jacky Ickx
     Count: 4
     Images:
-      - Image: stamp0004ad.jpg
-      - Image: stamp0088bd.jpg
       - Image: stamp0009ed.jpg
       - Image: stamp0089cd.jpg
+      - Image: stamp0004ad.jpg
+      - Image: stamp0088bd.jpg
   - Name: James Hunt
     Count: 8
     Images:
-      - Image: stamp0664.jpg
-      - Image: stamp0045fd.jpg
-      - Image: stamp0014cd.jpg
       - Image: stamp0037ed.jpg
+      - Image: stamp0014cd.jpg
+      - Image: stamp0664.jpg
+      - Image: stamp0070fd.jpg
   - Name: Jody Scheckter
     Count: 7
     Images:
-      - Image: stamp0603dd.jpg
-      - Image: stamp0134.jpg
+      - Image: stamp0139gd.jpg
       - Image: stamp0170ad.jpg
-      - Image: stamp0302.jpg
+      - Image: stamp0099ad.jpg
+      - Image: stamp0134.jpg
   - Name: Lella Lombardi
     Count: 1
     Images:
@@ -634,17 +629,17 @@
   - Name: Mario Andretti
     Count: 7
     Images:
-      - Image: stamp0357.jpg
-      - Image: stamp0099cd.jpg
       - Image: stamp0074fd.jpg
-      - Image: stamp0009gd.jpg
+      - Image: stamp0099cd.jpg
+      - Image: stamp0477.jpg
+      - Image: stamp0357.jpg
   - Name: Niki Lauda
-    Count: 20
+    Count: 24
     Images:
-      - Image: stamp0121bd.jpg
-      - Image: stamp0658cd.jpg
-      - Image: stamp0099dd.jpg
-      - Image: stamp0370hd.jpg
+      - Image: stamp0568bd.jpg
+      - Image: stamp0624.jpg
+      - Image: stamp0508.jpg
+      - Image: stamp0354.jpg
   - Name: Rolf Stommelen
     Count: 1
     Images:
@@ -652,111 +647,109 @@
   - Name: Ronnie Peterson
     Count: 3
     Images:
-      - Image: stamp0088dd.jpg
-      - Image: stamp0587.jpg
       - Image: stamp0600gd.jpg
+      - Image: stamp0587.jpg
+      - Image: stamp0088dd.jpg
 - Year: 1977
   Drivers:
   - Name: Alan Jones
     Count: 2
     Images:
-      - Image: stamp0620.jpg
       - Image: stamp0216bd.jpg
+      - Image: stamp0620.jpg
   - Name: Carlos Reutemann
-    Count: 4
+    Count: 3
     Images:
       - Image: stamp0363ad.jpg
-      - Image: stamp0621.jpg
       - Image: stamp0323bd.jpg
-      - Image: stamp0364.jpg
+      - Image: stamp0621.jpg
   - Name: Clay Regazzoni
     Count: 4
     Images:
-      - Image: stamp0004bd.jpg
       - Image: stamp0088ed.jpg
       - Image: stamp0603cd.jpg
       - Image: stamp0010bd.jpg
+      - Image: stamp0004bd.jpg
   - Name: Emerson Fittipaldi
     Count: 11
     Images:
-      - Image: stamp0010hd.jpg
+      - Image: stamp0018.jpg
       - Image: stamp0353.jpg
+      - Image: stamp0010hd.jpg
       - Image: stamp0088fd.jpg
-      - Image: stamp0201cd.jpg
   - Name: Gilles Villeneuve
     Count: 8
     Images:
-      - Image: stamp0603fd.jpg
-      - Image: stamp0014bd.jpg
-      - Image: stamp0168ad.jpg
+      - Image: stamp0027.jpg
       - Image: stamp0364ad.jpg
+      - Image: stamp0491.jpg
+      - Image: stamp0653bd.jpg
   - Name: Jacky Ickx
     Count: 4
     Images:
-      - Image: stamp0089cd.jpg
-      - Image: stamp0088bd.jpg
       - Image: stamp0009ed.jpg
       - Image: stamp0004ad.jpg
+      - Image: stamp0088bd.jpg
+      - Image: stamp0089cd.jpg
   - Name: James Hunt
     Count: 8
     Images:
-      - Image: stamp0045fd.jpg
-      - Image: stamp0037ed.jpg
+      - Image: stamp0014cd.jpg
       - Image: stamp0355.jpg
+      - Image: stamp0664.jpg
       - Image: stamp0070fd.jpg
   - Name: Jody Scheckter
     Count: 7
     Images:
-      - Image: stamp0134.jpg
-      - Image: stamp0302.jpg
       - Image: stamp0603dd.jpg
-      - Image: stamp0099ad.jpg
+      - Image: stamp0139gd.jpg
+      - Image: stamp0170ad.jpg
+      - Image: stamp0302.jpg
   - Name: Mario Andretti
     Count: 7
     Images:
+      - Image: stamp0074fd.jpg
+      - Image: stamp0388dd.jpg
       - Image: stamp0478.jpg
-      - Image: stamp0099cd.jpg
-      - Image: stamp0009gd.jpg
       - Image: stamp0357.jpg
   - Name: Niki Lauda
-    Count: 20
+    Count: 24
     Images:
-      - Image: stamp0603bd.jpg
-      - Image: stamp0121bd.jpg
       - Image: stamp0354.jpg
       - Image: stamp0139fd.jpg
+      - Image: stamp0114dd.jpg
+      - Image: stamp0722ad.jpg
   - Name: Riccardo Patrese
     Count: 2
     Images:
-      - Image: stamp0561cd.jpg
       - Image: stamp0181.jpg
+      - Image: stamp0561cd.jpg
   - Name: Ronnie Peterson
     Count: 3
     Images:
+      - Image: stamp0587.jpg
       - Image: stamp0600gd.jpg
       - Image: stamp0088dd.jpg
-      - Image: stamp0587.jpg
 - Year: 1978
   Drivers:
   - Name: Alan Jones
     Count: 2
     Images:
-      - Image: stamp0620.jpg
       - Image: stamp0216bd.jpg
+      - Image: stamp0620.jpg
   - Name: Carlos Reutemann
-    Count: 4
+    Count: 3
     Images:
       - Image: stamp0323bd.jpg
-      - Image: stamp0364.jpg
-      - Image: stamp0621.jpg
       - Image: stamp0363ad.jpg
+      - Image: stamp0621.jpg
   - Name: Clay Regazzoni
     Count: 4
     Images:
-      - Image: stamp0010bd.jpg
       - Image: stamp0088ed.jpg
-      - Image: stamp0004bd.jpg
       - Image: stamp0603cd.jpg
+      - Image: stamp0010bd.jpg
+      - Image: stamp0004bd.jpg
   - Name: Didier Pironi
     Count: 1
     Images:
@@ -764,72 +757,72 @@
   - Name: Emerson Fittipaldi
     Count: 11
     Images:
+      - Image: stamp0338.jpg
       - Image: stamp0416.jpg
-      - Image: stamp0010hd.jpg
-      - Image: stamp0353.jpg
-      - Image: stamp0114bd.jpg
+      - Image: stamp0352.jpg
+      - Image: stamp0074id.jpg
   - Name: Gilles Villeneuve
     Count: 8
     Images:
-      - Image: stamp0027.jpg
       - Image: stamp0603fd.jpg
-      - Image: stamp0491.jpg
       - Image: stamp0667bd.jpg
+      - Image: stamp0364ad.jpg
+      - Image: stamp0027.jpg
   - Name: Jacky Ickx
     Count: 4
     Images:
-      - Image: stamp0009ed.jpg
       - Image: stamp0088bd.jpg
       - Image: stamp0004ad.jpg
       - Image: stamp0089cd.jpg
+      - Image: stamp0009ed.jpg
   - Name: James Hunt
     Count: 8
     Images:
-      - Image: stamp0045fd.jpg
+      - Image: stamp0014cd.jpg
+      - Image: stamp0070fd.jpg
       - Image: stamp0355.jpg
-      - Image: stamp0037ed.jpg
-      - Image: stamp0664.jpg
+      - Image: stamp0045fd.jpg
   - Name: Jody Scheckter
     Count: 7
     Images:
-      - Image: stamp0603dd.jpg
-      - Image: stamp0134.jpg
-      - Image: stamp0302.jpg
       - Image: stamp0216ad.jpg
+      - Image: stamp0139gd.jpg
+      - Image: stamp0170ad.jpg
+      - Image: stamp0603dd.jpg
   - Name: Keke Rosberg
     Count: 5
     Images:
-      - Image: stamp0074dd.jpg
       - Image: stamp0603gd.jpg
-      - Image: stamp0216dd.jpg
       - Image: stamp0622.jpg
+      - Image: stamp0216dd.jpg
+      - Image: stamp0505.jpg
   - Name: Mario Andretti
     Count: 7
     Images:
-      - Image: stamp0099cd.jpg
-      - Image: stamp0357.jpg
-      - Image: stamp0074fd.jpg
+      - Image: stamp0388dd.jpg
       - Image: stamp0009gd.jpg
+      - Image: stamp0477.jpg
+      - Image: stamp0099cd.jpg
   - Name: Nelson Piquet
     Count: 12
     Images:
+      - Image: stamp0623.jpg
       - Image: stamp0506.jpg
-      - Image: stamp0578.jpg
-      - Image: stamp0621.jpg
-      - Image: stamp0074gd.jpg
+      - Image: stamp0243.jpg
+      - Image: stamp0189ed.jpg
   - Name: Niki Lauda
-    Count: 20
+    Count: 24
     Images:
-      - Image: stamp0614bd.jpg
-      - Image: stamp0354.jpg
+      - Image: stamp0355.jpg
+      - Image: stamp0603bd.jpg
+      - Image: stamp0370hd.jpg
       - Image: stamp0099dd.jpg
-      - Image: stamp0139fd.jpg
   - Name: Rene Arnoux
     Count: 3
     Images:
-      - Image: stamp0623.jpg
-      - Image: stamp0507.jpg
       - Image: stamp0653cd.jpg
+      - Image: stamp0507.jpg
+      - Image: stamp0623.jpg
   - Name: Riccardo Patrese
     Count: 2
     Images:
@@ -842,30 +835,29 @@
   - Name: Ronnie Peterson
     Count: 3
     Images:
+      - Image: stamp0088dd.jpg
       - Image: stamp0587.jpg
       - Image: stamp0600gd.jpg
-      - Image: stamp0088dd.jpg
 - Year: 1979
   Drivers:
   - Name: Alan Jones
     Count: 2
     Images:
-      - Image: stamp0216bd.jpg
       - Image: stamp0620.jpg
+      - Image: stamp0216bd.jpg
   - Name: Carlos Reutemann
-    Count: 4
+    Count: 3
     Images:
       - Image: stamp0323bd.jpg
-      - Image: stamp0364.jpg
-      - Image: stamp0621.jpg
       - Image: stamp0363ad.jpg
+      - Image: stamp0621.jpg
   - Name: Clay Regazzoni
     Count: 4
     Images:
-      - Image: stamp0088ed.jpg
       - Image: stamp0004bd.jpg
       - Image: stamp0010bd.jpg
       - Image: stamp0603cd.jpg
+      - Image: stamp0088ed.jpg
   - Name: Didier Pironi
     Count: 1
     Images:
@@ -873,81 +865,81 @@
   - Name: Elio de Angelis
     Count: 4
     Images:
-      - Image: stamp0203.jpg
-      - Image: stamp0388fd.jpg
       - Image: stamp0561ed.jpg
+      - Image: stamp0203.jpg
       - Image: stamp0201ad.jpg
+      - Image: stamp0388fd.jpg
   - Name: Emerson Fittipaldi
     Count: 11
     Images:
-      - Image: stamp0362.jpg
-      - Image: stamp0201cd.jpg
-      - Image: stamp0353.jpg
-      - Image: stamp0416.jpg
+      - Image: stamp0338.jpg
+      - Image: stamp0074id.jpg
+      - Image: stamp0018.jpg
+      - Image: stamp0114bd.jpg
   - Name: Gilles Villeneuve
     Count: 8
     Images:
-      - Image: stamp0653bd.jpg
-      - Image: stamp0491.jpg
-      - Image: stamp0027.jpg
       - Image: stamp0667bd.jpg
+      - Image: stamp0603fd.jpg
+      - Image: stamp0653bd.jpg
+      - Image: stamp0027.jpg
   - Name: Jacky Ickx
     Count: 4
     Images:
-      - Image: stamp0004ad.jpg
       - Image: stamp0088bd.jpg
-      - Image: stamp0009ed.jpg
+      - Image: stamp0004ad.jpg
       - Image: stamp0089cd.jpg
+      - Image: stamp0009ed.jpg
   - Name: James Hunt
     Count: 8
     Images:
+      - Image: stamp0037ed.jpg
       - Image: stamp0045fd.jpg
-      - Image: stamp0664.jpg
-      - Image: stamp0014cd.jpg
       - Image: stamp0355.jpg
+      - Image: stamp0014cd.jpg
   - Name: Jody Scheckter
     Count: 7
     Images:
-      - Image: stamp0099ad.jpg
-      - Image: stamp0302.jpg
-      - Image: stamp0603dd.jpg
       - Image: stamp0139gd.jpg
+      - Image: stamp0170ad.jpg
+      - Image: stamp0099ad.jpg
+      - Image: stamp0603dd.jpg
   - Name: Keke Rosberg
     Count: 5
     Images:
       - Image: stamp0622.jpg
-      - Image: stamp0074dd.jpg
+      - Image: stamp0603gd.jpg
       - Image: stamp0216dd.jpg
       - Image: stamp0505.jpg
   - Name: Mario Andretti
     Count: 7
     Images:
-      - Image: stamp0388dd.jpg
+      - Image: stamp0009gd.jpg
+      - Image: stamp0477.jpg
       - Image: stamp0478.jpg
-      - Image: stamp0074fd.jpg
-      - Image: stamp0357.jpg
+      - Image: stamp0388dd.jpg
   - Name: Nelson Piquet
     Count: 12
     Images:
-      - Image: stamp0114cd.jpg
-      - Image: stamp0074gd.jpg
-      - Image: stamp0190dd.jpg
-      - Image: stamp0216cd.jpg
+      - Image: stamp0623.jpg
+      - Image: stamp0627.jpg
+      - Image: stamp0506.jpg
+      - Image: stamp0189ed.jpg
   - Name: Niki Lauda
-    Count: 20
+    Count: 24
     Images:
-      - Image: stamp0135.jpg
-      - Image: stamp0136.jpg
-      - Image: stamp0074ad.jpg
-      - Image: stamp0355.jpg
+      - Image: stamp0603bd.jpg
+      - Image: stamp0171ad.jpg
+      - Image: stamp0722ad.jpg
+      - Image: stamp0658cd.jpg
   - Name: Rene Arnoux
     Count: 3
     Images:
-      - Image: stamp0653cd.jpg
-      - Image: stamp0507.jpg
       - Image: stamp0623.jpg
+      - Image: stamp0507.jpg
+      - Image: stamp0653cd.jpg
   - Name: Riccardo Patrese
     Count: 2
     Images:
-      - Image: stamp0181.jpg
       - Image: stamp0561cd.jpg
+      - Image: stamp0181.jpg

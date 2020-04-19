@@ -1,6 +1,6 @@
 - Popup: McLaren
   Stamps:
-  - Image: stamp0093.jpg
+  - Image: stamp0083.jpg
     Width: 400
   - Image: stamp0010.jpg
     Width: 400
@@ -26,35 +26,35 @@
     Width: 400
   - Image: stamp0109.jpg
     Width: 400
-  - Image: stamp0503.jpg
-    Width: 400
-  - Image: stamp0176.jpg
-    Width: 400
-  - Image: stamp0038.jpg
-    Width: 400
-  - Image: stamp0286.jpg
-    Width: 200
-  - Image: stamp0282.jpg
-    Width: 200
-  - Image: stamp0283.jpg
-    Width: 200
-  - Image: stamp0285.jpg
-    Width: 200
-  - Image: stamp0287.jpg
-    Width: 200
-  - Image: stamp0291.jpg
-    Width: 400
-  - Image: stamp0072.jpg
-    Width: 400
   - Image: stamp0076.jpg
     Width: 400
-  - Image: stamp0083.jpg
+  - Image: stamp0176.jpg
     Width: 400
   - Image: stamp0080.jpg
     Width: 400
   - Image: stamp0087.jpg
     Width: 400
+  - Image: stamp0238.jpg
+    Width: 400
+  - Image: stamp0215.jpg
+    Width: 400
   - Image: stamp0199.jpg
+    Width: 400
+  - Image: stamp0503.jpg
+    Width: 400
+  - Image: stamp0093.jpg
+    Width: 400
+  - Image: stamp0038.jpg
+    Width: 400
+  - Image: stamp0039.jpg
+    Width: 400
+  - Image: stamp0207.jpg
+    Width: 400
+  - Image: stamp0529.jpg
+    Width: 200
+  - Image: stamp0530.jpg
+    Width: 200
+  - Image: stamp0072.jpg
     Width: 400
   - Image: stamp0157.jpg
     Width: 400
@@ -84,7 +84,7 @@
     Width: 400
   - Image: stamp0155.jpg
     Width: 400
-  - Image: stamp0039.jpg
+  - Image: stamp0250.jpg
     Width: 400
   - Image: stamp0159.jpg
     Width: 200
@@ -136,11 +136,13 @@
     Width: 400
   - Image: stamp0577.jpg
     Width: 200
-  - Image: stamp0238.jpg
+  - Image: stamp0224.jpg
     Width: 400
   - Image: stamp0582.jpg
     Width: 200
   - Image: stamp0409.jpg
+    Width: 400
+  - Image: stamp0691.jpg
     Width: 400
   - Image: stamp0617.jpg
     Width: 400
@@ -164,26 +166,12 @@
     Width: 200
   - Image: stamp0640.jpg
     Width: 400
-  - Image: stamp0643.jpg
-    Width: 200
   - Image: stamp0580.jpg
     Width: 200
   - Image: stamp0323.jpg
     Width: 400
-  - Image: stamp0691.jpg
-    Width: 400
-  - Image: stamp0207.jpg
-    Width: 400
-  - Image: stamp0529.jpg
+  - Image: stamp0643.jpg
     Width: 200
-  - Image: stamp0530.jpg
-    Width: 200
-  - Image: stamp0224.jpg
-    Width: 400
-  - Image: stamp0216.jpg
-    Width: 400
-  - Image: stamp0250.jpg
-    Width: 400
   - Image: stamp0251.jpg
     Width: 400
   - Image: stamp0253.jpg
@@ -194,6 +182,18 @@
     Width: 200
   - Image: stamp0271.jpg
     Width: 400
+  - Image: stamp0289.jpg
+    Width: 400
+  - Image: stamp0286.jpg
+    Width: 200
+  - Image: stamp0282.jpg
+    Width: 200
+  - Image: stamp0283.jpg
+    Width: 200
+  - Image: stamp0285.jpg
+    Width: 200
+  - Image: stamp0287.jpg
+    Width: 200
   - Image: stamp0471.jpg
     Width: 200
   - Image: stamp0295.jpg
@@ -222,7 +222,7 @@
     Width: 400
   - Image: stamp0408.jpg
     Width: 400
-  - Image: stamp0215.jpg
+  - Image: stamp0216.jpg
     Width: 400
-  - Image: stamp0289.jpg
+  - Image: stamp0291.jpg
     Width: 400

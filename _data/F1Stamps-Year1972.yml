@@ -8,19 +8,27 @@
     Count: 1
     Images:
     - Image: stamp0600hc.jpg
+  - Car: BRM P160
+    Count: 1
+    Images:
+    - Image: stamp0722bc.jpg
   - Car: Ferrari 312 B2
     Count: 3
     Images:
-    - Image: stamp0165cc.jpg
     - Image: stamp0006ec.jpg
     - Image: stamp0046fc.jpg
+    - Image: stamp0165cc.jpg
   - Car: Lotus 72
     Count: 5
     Images:
     - Image: stamp0338.jpg
-    - Image: stamp0291dc.jpg
-    - Image: stamp0351.jpg
     - Image: stamp0362.jpg
+    - Image: stamp0351.jpg
+    - Image: stamp0291dc.jpg
+  - Car: March 721G
+    Count: 1
+    Images:
+    - Image: stamp0716cc.jpg
   - Car: Surtees TS9B
     Count: 1
     Images:
@@ -33,58 +41,57 @@
   - Car: Tyrrell 006
     Count: 5
     Images:
-    - Image: stamp0037dc.jpg
     - Image: stamp0338.jpg
     - Image: stamp0641dc.jpg
+    - Image: stamp0037dc.jpg
   Drivers:
   - Driver: Carlos Reutemann
-    Count: 4
+    Count: 3
     Images:
-    - Image: stamp0364.jpg
+    - Image: stamp0621.jpg
     - Image: stamp0363ad.jpg
     - Image: stamp0323bd.jpg
-    - Image: stamp0621.jpg
   - Driver: Clay Regazzoni
     Count: 4
     Images:
     - Image: stamp0004bd.jpg
+    - Image: stamp0088ed.jpg
     - Image: stamp0010bd.jpg
     - Image: stamp0603cd.jpg
-    - Image: stamp0088ed.jpg
   - Driver: Denis Hulme
     Count: 4
     Images:
+    - Image: stamp0221bd.jpg
+    - Image: stamp0349.jpg
     - Image: stamp0112ad.jpg
     - Image: stamp0088ad.jpg
-    - Image: stamp0349.jpg
-    - Image: stamp0221bd.jpg
   - Driver: Emerson Fittipaldi
     Count: 11
     Images:
-    - Image: stamp0201cd.jpg
+    - Image: stamp0088fd.jpg
+    - Image: stamp0353.jpg
+    - Image: stamp0338.jpg
     - Image: stamp0018.jpg
-    - Image: stamp0010hd.jpg
-    - Image: stamp0352.jpg
   - Driver: Graham Hill
     Count: 15
     Images:
-    - Image: stamp0070bd.jpg
-    - Image: stamp0436.jpg
-    - Image: stamp0435.jpg
+    - Image: stamp0037bd.jpg
     - Image: stamp0339.jpg
+    - Image: stamp0010gd.jpg
+    - Image: stamp0436.jpg
   - Driver: Jackie Stewart
     Count: 24
     Images:
-    - Image: stamp0304.jpg
-    - Image: stamp0074ed.jpg
-    - Image: stamp0088cd.jpg
-    - Image: stamp0037dd.jpg
+    - Image: stamp0641dd.jpg
+    - Image: stamp0045ed.jpg
+    - Image: stamp0221dd.jpg
+    - Image: stamp0415.jpg
   - Driver: Jacky Ickx
     Count: 4
     Images:
-    - Image: stamp0004ad.jpg
-    - Image: stamp0088bd.jpg
     - Image: stamp0009ed.jpg
+    - Image: stamp0088bd.jpg
+    - Image: stamp0004ad.jpg
     - Image: stamp0089cd.jpg
   - Driver: Jean-Pierre Beltoise
     Count: 1
@@ -93,36 +100,36 @@
   - Driver: Jody Scheckter
     Count: 7
     Images:
-    - Image: stamp0139gd.jpg
+    - Image: stamp0170ad.jpg
+    - Image: stamp0216ad.jpg
     - Image: stamp0603dd.jpg
-    - Image: stamp0134.jpg
     - Image: stamp0302.jpg
   - Driver: John Surtees
     Count: 10
     Images:
+    - Image: stamp0137.jpg
+    - Image: stamp0221ad.jpg
     - Image: stamp0010ed.jpg
-    - Image: stamp0139ed.jpg
-    - Image: stamp0458.jpg
-    - Image: stamp0045dd.jpg
+    - Image: stamp0070dd.jpg
   - Driver: Mario Andretti
     Count: 7
     Images:
-    - Image: stamp0009gd.jpg
-    - Image: stamp0099cd.jpg
-    - Image: stamp0478.jpg
     - Image: stamp0477.jpg
+    - Image: stamp0357.jpg
+    - Image: stamp0099cd.jpg
+    - Image: stamp0009gd.jpg
   - Driver: Mike Hailwood
     Count: 2
     Images:
-    - Image: stamp0493.jpg
     - Image: stamp0494.jpg
+    - Image: stamp0493.jpg
   - Driver: Niki Lauda
-    Count: 20
+    Count: 24
     Images:
-    - Image: stamp0568bd.jpg
-    - Image: stamp0136.jpg
+    - Image: stamp0074ad.jpg
     - Image: stamp0135.jpg
-    - Image: stamp0121bd.jpg
+    - Image: stamp0354.jpg
+    - Image: stamp0568bd.jpg
   - Driver: Peter Revson
     Count: 1
     Images:
@@ -134,6 +141,6 @@
   - Driver: Ronnie Peterson
     Count: 3
     Images:
-    - Image: stamp0587.jpg
     - Image: stamp0088dd.jpg
+    - Image: stamp0587.jpg
     - Image: stamp0600gd.jpg

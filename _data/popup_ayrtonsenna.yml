@@ -1,10 +1,6 @@
 - Popup: Ayrton Senna
   Stamps:
-  - Image: stamp0531.jpg
-    Width: 200
-  - Image: stamp0015.jpg
-    Width: 200
-  - Image: stamp0521.jpg
+  - Image: stamp0250.jpg
     Width: 400
   - Image: stamp0072.jpg
     Width: 400
@@ -16,14 +12,16 @@
     Width: 200
   - Image: stamp0237.jpg
     Width: 400
-  - Image: stamp0057.jpg
+  - Image: stamp0203.jpg
     Width: 400
-  - Image: stamp0207ad.jpg
+  - Image: stamp0521.jpg
+    Width: 400
+  - Image: stamp0015.jpg
+    Width: 200
+  - Image: stamp0531.jpg
     Width: 200
   - Image: stamp0189ad.jpg
     Width: 200
-  - Image: stamp0250.jpg
-    Width: 400
   - Image: stamp0253.jpg
     Width: 400
   - Image: stamp0277.jpg
@@ -38,9 +36,11 @@
     Width: 200
   - Image: stamp0372.jpg
     Width: 400
-  - Image: stamp0203.jpg
+  - Image: stamp0373.jpg
     Width: 400
-  - Image: stamp0098bd.jpg
+  - Image: stamp0207ad.jpg
+    Width: 200
+  - Image: stamp0099fd.jpg
     Width: 200
   - Image: stamp0141ad.jpg
     Width: 200
@@ -56,20 +56,20 @@
     Width: 400
   - Image: stamp0157ad.jpg
     Width: 200
+  - Image: stamp0150.jpg
+    Width: 400
   - Image: stamp0058.jpg
     Width: 400
-  - Image: stamp0062.jpg
-    Width: 400
-  - Image: stamp0389.jpg
-    Width: 400
-  - Image: stamp0099fd.jpg
+  - Image: stamp0098bd.jpg
     Width: 200
+  - Image: stamp0057.jpg
+    Width: 400
   - Image: stamp0174.jpg
+    Width: 400
+  - Image: stamp0176fd.jpg
     Width: 400
   - Image: stamp0176bd.jpg
     Width: 200
-  - Image: stamp0176fd.jpg
-    Width: 400
   - Image: stamp0520.jpg
     Width: 200
   - Image: stamp0179ad.jpg
@@ -78,13 +78,13 @@
     Width: 400
   - Image: stamp0190ad.jpg
     Width: 200
-  - Image: stamp0150.jpg
+  - Image: stamp0391.jpg
     Width: 400
-  - Image: stamp0603id.jpg
+  - Image: stamp0062.jpg
+    Width: 400
+  - Image: stamp0614ad.jpg
     Width: 200
-  - Image: stamp0564.jpg
-    Width: 400
-  - Image: stamp0565.jpg
+  - Image: stamp0375.jpg
     Width: 400
   - Image: stamp0566.jpg
     Width: 400
@@ -96,15 +96,15 @@
     Width: 200
   - Image: stamp0579.jpg
     Width: 200
-  - Image: stamp0373.jpg
-    Width: 400
   - Image: stamp0601ed.jpg
     Width: 200
-  - Image: stamp0551.jpg
+  - Image: stamp0601dd.jpg
+    Width: 200
+  - Image: stamp0564.jpg
     Width: 400
   - Image: stamp0611cd.jpg
     Width: 200
-  - Image: stamp0614ad.jpg
+  - Image: stamp0556.jpg
     Width: 200
   - Image: stamp0628.jpg
     Width: 200
@@ -118,14 +118,16 @@
     Width: 200
   - Image: stamp0659.jpg
     Width: 400
-  - Image: stamp0601dd.jpg
-    Width: 200
-  - Image: stamp0492.jpg
-    Width: 400
   - Image: stamp0667cd.jpg
     Width: 200
-  - Image: stamp0391.jpg
+  - Image: stamp0707ad.jpg
+    Width: 200
+  - Image: stamp0603id.jpg
+    Width: 200
+  - Image: stamp0496.jpg
     Width: 400
+  - Image: stamp0717ad.jpg
+    Width: 200
   - Image: stamp0407.jpg
     Width: 400
   - Image: stamp0408.jpg
@@ -138,13 +140,13 @@
     Width: 400
   - Image: stamp0451.jpg
     Width: 400
-  - Image: stamp0556.jpg
+  - Image: stamp0479gd.jpg
     Width: 200
-  - Image: stamp0487.jpg
+  - Image: stamp0565.jpg
     Width: 400
-  - Image: stamp0552.jpg
+  - Image: stamp0492.jpg
     Width: 400
-  - Image: stamp0496.jpg
+  - Image: stamp0389.jpg
     Width: 400
   - Image: stamp0497.jpg
     Width: 400
@@ -158,7 +160,9 @@
     Width: 400
   - Image: stamp0554.jpg
     Width: 400
-  - Image: stamp0375.jpg
+  - Image: stamp0551.jpg
     Width: 400
-  - Image: stamp0479gd.jpg
-    Width: 200
+  - Image: stamp0552.jpg
+    Width: 400
+  - Image: stamp0487.jpg
+    Width: 400

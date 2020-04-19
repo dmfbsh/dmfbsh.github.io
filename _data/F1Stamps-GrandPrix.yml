@@ -1,8 +1,8 @@
 - Name: Abu Dhabi
   Count: 2
   Images:
-    - Image: stamp0297.jpg
     - Image: stamp0085.jpg
+    - Image: stamp0297.jpg
 - Name: Australia
   Count: 2
   Images:
@@ -12,6 +12,10 @@
   Count: 1
   Images:
     - Image: stamp0202.jpg
+- Name: Azerbaijan
+  Count: 1
+  Images:
+    - Image: stamp0709.jpg
 - Name: Bahrain
   Count: 3
   Images:
@@ -50,30 +54,30 @@
 - Name: European
   Count: 4
   Images:
-    - Image: stamp0608.jpg
-    - Image: stamp0609.jpg
     - Image: stamp0527.jpg
+    - Image: stamp0609.jpg
+    - Image: stamp0608.jpg
     - Image: stamp0321.jpg
 - Name: France
   Count: 6
   Images:
     - Image: stamp0186.jpg
     - Image: stamp0177.jpg
-    - Image: stamp0145.jpg
-    - Image: stamp0178.jpg
+    - Image: stamp0185.jpg
+    - Image: stamp0260.jpg
 - Name: Germany
   Count: 3
   Images:
     - Image: stamp0293.jpg
-    - Image: stamp0383.jpg
     - Image: stamp0530.jpg
+    - Image: stamp0383.jpg
 - Name: Hungary
   Count: 8
   Images:
+    - Image: stamp0382.jpg
     - Image: stamp0606.jpg
-    - Image: stamp0607.jpg
     - Image: stamp0287.jpg
-    - Image: stamp0529.jpg
+    - Image: stamp0050.jpg
 - Name: Italy
   Count: 1
   Images:
@@ -83,26 +87,26 @@
   Images:
     - Image: stamp0320.jpg
 - Name: Malaysia
-  Count: 5
+  Count: 6
   Images:
+    - Image: stamp0689.jpg
+    - Image: stamp0282.jpg
     - Image: stamp0101.jpg
     - Image: stamp0063.jpg
-    - Image: stamp0687.jpg
-    - Image: stamp0616.jpg
 - Name: Mexico
   Count: 6
   Images:
     - Image: stamp0292.jpg
-    - Image: stamp0054.jpg
-    - Image: stamp0103.jpg
+    - Image: stamp0220.jpg
     - Image: stamp0102.jpg
+    - Image: stamp0103.jpg
 - Name: Monaco
-  Count: 11
+  Count: 12
   Images:
     - Image: stamp0405.jpg
     - Image: stamp0330.jpg
-    - Image: stamp0215.jpg
     - Image: stamp0278.jpg
+    - Image: stamp0105.jpg
 - Name: Portugal
   Count: 2
   Images:
@@ -129,11 +133,11 @@
 - Name: Spain
   Count: 3
   Images:
-    - Image: stamp0392.jpg
     - Image: stamp0467.jpg
     - Image: stamp0286.jpg
+    - Image: stamp0392.jpg
 - Name: Turkey
   Count: 2
   Images:
-    - Image: stamp0077.jpg
     - Image: stamp0284.jpg
+    - Image: stamp0077.jpg

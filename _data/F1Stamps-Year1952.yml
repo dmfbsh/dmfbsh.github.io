@@ -12,23 +12,23 @@
   - Car: Ferrari Tipo 500 F2
     Count: 8
     Images:
+    - Image: stamp0025ac.jpg
+    - Image: stamp0053bc.jpg
     - Image: stamp0056ac.jpg
-    - Image: stamp0331.jpg
-    - Image: stamp0024ac.jpg
     - Image: stamp0344.jpg
   - Car: Maserati 4CLT
     Count: 2
     Images:
-    - Image: stamp0288ac.jpg
     - Image: stamp0532.jpg
+    - Image: stamp0288ac.jpg
   Drivers:
   - Driver: Alberto Ascari
-    Count: 9
+    Count: 10
     Images:
-    - Image: stamp0561ad.jpg
-    - Image: stamp0121ed.jpg
-    - Image: stamp0568ad.jpg
+    - Image: stamp0139ad.jpg
+    - Image: stamp0097.jpg
     - Image: stamp0344.jpg
+    - Image: stamp0701.jpg
   - Driver: Chico Landi
     Count: 1
     Images:
@@ -36,38 +36,37 @@
   - Driver: Giuseppe Farina
     Count: 8
     Images:
-    - Image: stamp0413.jpg
-    - Image: stamp0468.jpg
-    - Image: stamp0569.jpg
-    - Image: stamp0615.jpg
+    - Image: stamp0301ad.jpg
+    - Image: stamp0642ad.jpg
+    - Image: stamp0335.jpg
+    - Image: stamp0561bd.jpg
   - Driver: Jose Froilan Gonzalez
-    Count: 4
+    Count: 3
     Images:
-    - Image: stamp0602ad.jpg
     - Image: stamp0204.jpg
-    - Image: stamp0364.jpg
     - Image: stamp0068.jpg
+    - Image: stamp0602ad.jpg
   - Driver: Mike Hawthorn
     Count: 8
     Images:
-    - Image: stamp0045ad.jpg
-    - Image: stamp0070ad.jpg
-    - Image: stamp0417.jpg
     - Image: stamp0653ad.jpg
+    - Image: stamp0417.jpg
+    - Image: stamp0602ed.jpg
+    - Image: stamp0070ad.jpg
   - Driver: Peter Collins
     Count: 2
     Images:
-    - Image: stamp0444.jpg
     - Image: stamp0602fd.jpg
+    - Image: stamp0444.jpg
   - Driver: Reg Parnell
     Count: 2
     Images:
-    - Image: stamp0288ad.jpg
     - Image: stamp0532.jpg
+    - Image: stamp0288ad.jpg
   - Driver: Stirling Moss
     Count: 15
     Images:
     - Image: stamp0037ad.jpg
-    - Image: stamp0600ad.jpg
-    - Image: stamp0602dd.jpg
     - Image: stamp0009cd.jpg
+    - Image: stamp0213.jpg
+    - Image: stamp0602dd.jpg

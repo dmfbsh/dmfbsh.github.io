@@ -1,30 +1,49 @@
 - Year: 2020
   Cars:
   Drivers:
-  - Driver: Daniel Ricciardo
+  - Driver: Charles LeClerc
     Count: 2
     Images:
-    - Image: stamp0680cd.jpg
+    - Image: stamp0724bd.jpg
+    - Image: stamp0720ad.jpg
+  - Driver: Daniel Ricciardo
+    Count: 4
+    Images:
+    - Image: stamp0693.jpg
     - Image: stamp0617bd.jpg
+    - Image: stamp0680cd.jpg
+    - Image: stamp0694ad.jpg
+  - Driver: Kevin Magnussen
+    Count: 1
+    Images:
+    - Image: stamp0693ad.jpg
   - Driver: Kimi Raikkonen
-    Count: 16
+    Count: 17
     Images:
-    - Image: stamp0651cd.jpg
-    - Image: stamp0155cd.jpg
-    - Image: stamp0571dd.jpg
     - Image: stamp0399ad.jpg
+    - Image: stamp0155cd.jpg
+    - Image: stamp0184bd.jpg
+    - Image: stamp0031.jpg
   - Driver: Lewis Hamilton
-    Count: 33
+    Count: 42
     Images:
-    - Image: stamp0144ad.jpg
-    - Image: stamp0616bd.jpg
-    - Image: stamp0545.jpg
-    - Image: stamp0677.jpg
+    - Image: stamp0720cd.jpg
+    - Image: stamp0713ad.jpg
+    - Image: stamp0530.jpg
+    - Image: stamp0718ad.jpg
+  - Driver: Max Verstappen
+    Count: 3
+    Images:
+    - Image: stamp0714cd.jpg
+    - Image: stamp0723ad.jpg
+    - Image: stamp0719ad.jpg
   - Driver: Romain Grosjean
     Count: 1
     Images:
     - Image: stamp0382.jpg
   - Driver: Valtteri Bottas
-    Count: 1
+    Count: 3
     Images:
+    - Image: stamp0724ad.jpg
+    - Image: stamp0720dd.jpg
     - Image: stamp0680ad.jpg

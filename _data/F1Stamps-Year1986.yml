@@ -12,29 +12,29 @@
     Count: 4
     Images:
     - Image: stamp0624.jpg
-    - Image: stamp0508.jpg
     - Image: stamp0261.jpg
     - Image: stamp0125.jpg
+    - Image: stamp0508.jpg
   - Car: McLaren MP4/2C
     Count: 3
     Images:
-    - Image: stamp0024cc.jpg
     - Image: stamp0625.jpg
     - Image: stamp0626.jpg
+    - Image: stamp0024cc.jpg
   - Car: Williams FW11
     Count: 7
     Images:
+    - Image: stamp0626.jpg
     - Image: stamp0197cc.jpg
     - Image: stamp0037fc.jpg
-    - Image: stamp0626.jpg
     - Image: stamp0091.jpg
   Drivers:
   - Driver: Alain Prost
     Count: 27
     Images:
-    - Image: stamp0625.jpg
+    - Image: stamp0152.jpg
+    - Image: stamp0611dd.jpg
     - Image: stamp0388hd.jpg
-    - Image: stamp0323dd.jpg
     - Image: stamp0409ad.jpg
   - Driver: Alan Jones
     Count: 2
@@ -46,54 +46,54 @@
     Images:
     - Image: stamp0561fd.jpg
   - Driver: Ayrton Senna
-    Count: 81
+    Count: 83
     Images:
-    - Image: stamp0157ad.jpg
-    - Image: stamp0190ad.jpg
     - Image: stamp0203.jpg
-    - Image: stamp0098bd.jpg
+    - Image: stamp0179ad.jpg
+    - Image: stamp0643.jpg
+    - Image: stamp0150.jpg
   - Driver: Elio de Angelis
     Count: 4
     Images:
-    - Image: stamp0561ed.jpg
-    - Image: stamp0203.jpg
     - Image: stamp0201ad.jpg
+    - Image: stamp0203.jpg
     - Image: stamp0388fd.jpg
+    - Image: stamp0561ed.jpg
   - Driver: Gerhard Berger
     Count: 7
     Images:
+    - Image: stamp0169ad.jpg
     - Image: stamp0010cd.jpg
     - Image: stamp0579.jpg
     - Image: stamp0407.jpg
-    - Image: stamp0169ad.jpg
   - Driver: Keke Rosberg
     Count: 5
     Images:
-    - Image: stamp0603gd.jpg
-    - Image: stamp0622.jpg
+    - Image: stamp0216dd.jpg
     - Image: stamp0074dd.jpg
-    - Image: stamp0505.jpg
+    - Image: stamp0622.jpg
+    - Image: stamp0603gd.jpg
   - Driver: Michele Alboreto
     Count: 5
     Images:
-    - Image: stamp0205.jpg
-    - Image: stamp0561dd.jpg
-    - Image: stamp0557.jpg
     - Image: stamp0603hd.jpg
+    - Image: stamp0504.jpg
+    - Image: stamp0205.jpg
+    - Image: stamp0557.jpg
   - Driver: Nelson Piquet
     Count: 12
     Images:
-    - Image: stamp0190dd.jpg
-    - Image: stamp0074gd.jpg
-    - Image: stamp0578.jpg
-    - Image: stamp0506.jpg
+    - Image: stamp0189ed.jpg
+    - Image: stamp0216cd.jpg
+    - Image: stamp0114cd.jpg
+    - Image: stamp0621.jpg
   - Driver: Nigel Mansell
     Count: 26
     Images:
-    - Image: stamp0370gd.jpg
-    - Image: stamp0626.jpg
-    - Image: stamp0479ad.jpg
-    - Image: stamp0207cd.jpg
+    - Image: stamp0070gd.jpg
+    - Image: stamp0578.jpg
+    - Image: stamp0479cd.jpg
+    - Image: stamp0601bd.jpg
   - Driver: Rene Arnoux
     Count: 3
     Images:

@@ -17,8 +17,8 @@
     Count: 3
     Images:
       - Image: stamp0197ac.jpg
-      - Image: stamp0327.jpg
       - Image: stamp0008cc.jpg
+      - Image: stamp0327.jpg
   - Name: Williams FW07B
     Count: 1
     Images:
@@ -32,15 +32,21 @@
   - Name: Ferrari 126 CK
     Count: 3
     Images:
+      - Image: stamp0267.jpg
       - Image: stamp0168ac.jpg
       - Image: stamp0056hc.jpg
-      - Image: stamp0267.jpg
+  - Name: McLaren MP4/1
+    Count: 3
+    Images:
+      - Image: stamp0716ac.jpg
+      - Image: stamp0715ac.jpg
+      - Image: stamp0721ac.jpg
   - Name: Williams FW07
     Count: 3
     Images:
+      - Image: stamp0008cc.jpg
       - Image: stamp0197ac.jpg
       - Image: stamp0327.jpg
-      - Image: stamp0008cc.jpg
   - Name: Williams FW07C
     Count: 1
     Images:
@@ -54,30 +60,36 @@
   - Name: Brabham BT50
     Count: 3
     Images:
-      - Image: stamp0197bc.jpg
-      - Image: stamp0113ac.jpg
       - Image: stamp0209.jpg
+      - Image: stamp0113ac.jpg
+      - Image: stamp0197bc.jpg
   - Name: Ferrari 126 C2
     Count: 4
     Images:
-      - Image: stamp0622.jpg
+      - Image: stamp0113ec.jpg
       - Image: stamp0046ec.jpg
       - Image: stamp0191bc.jpg
-      - Image: stamp0113ec.jpg
+      - Image: stamp0622.jpg
   - Name: Ligier JS 19
     Count: 1
     Images:
       - Image: stamp0113cc.jpg
+  - Name: McLaren MP4/1
+    Count: 3
+    Images:
+      - Image: stamp0716ac.jpg
+      - Image: stamp0721ac.jpg
+      - Image: stamp0715ac.jpg
   - Name: Renault RE30 B
     Count: 2
     Images:
-      - Image: stamp0197hc.jpg
       - Image: stamp0113bc.jpg
+      - Image: stamp0197hc.jpg
   - Name: Williams FW07
     Count: 3
     Images:
-      - Image: stamp0008cc.jpg
       - Image: stamp0327.jpg
+      - Image: stamp0008cc.jpg
       - Image: stamp0197ac.jpg
   - Name: Williams FW08
     Count: 1
@@ -85,6 +97,10 @@
       - Image: stamp0622.jpg
 - Year: 1983
   Cars:
+  - Name: Brabham BT52
+    Count: 1
+    Images:
+      - Image: stamp0700bc.jpg
   - Name: Brabham BT52B
     Count: 1
     Images:
@@ -92,20 +108,27 @@
   - Name: Ferrari 126 C2
     Count: 4
     Images:
+      - Image: stamp0191bc.jpg
+      - Image: stamp0622.jpg
       - Image: stamp0113ec.jpg
       - Image: stamp0046ec.jpg
-      - Image: stamp0622.jpg
-      - Image: stamp0191bc.jpg
   - Name: Ferrari 126 C3
     Count: 4
     Images:
+      - Image: stamp0366.jpg
+      - Image: stamp0017dc.jpg
       - Image: stamp0623.jpg
       - Image: stamp0191cc.jpg
-      - Image: stamp0017dc.jpg
-      - Image: stamp0366.jpg
-  - Name: Renault RE40
-    Count: 1
+  - Name: McLaren MP4/1
+    Count: 3
     Images:
+      - Image: stamp0715ac.jpg
+      - Image: stamp0721ac.jpg
+      - Image: stamp0716ac.jpg
+  - Name: Renault RE40
+    Count: 2
+    Images:
+      - Image: stamp0708ac.jpg
       - Image: stamp0291ec.jpg
   - Name: Tyrrell 012
     Count: 1
@@ -128,10 +151,10 @@
   - Name: Ferrari 126 C4
     Count: 6
     Images:
-      - Image: stamp0279bc.jpg
-      - Image: stamp0048dc.jpg
       - Image: stamp0312.jpg
       - Image: stamp0193bc.jpg
+      - Image: stamp0507.jpg
+      - Image: stamp0048dc.jpg
   - Name: Lotus 95T
     Count: 3
     Images:
@@ -139,10 +162,10 @@
   - Name: McLaren MP4/2
     Count: 4
     Images:
-      - Image: stamp0624.jpg
-      - Image: stamp0261.jpg
-      - Image: stamp0508.jpg
       - Image: stamp0125.jpg
+      - Image: stamp0508.jpg
+      - Image: stamp0261.jpg
+      - Image: stamp0624.jpg
   - Name: Tyrrell 012
     Count: 1
     Images:
@@ -160,9 +183,9 @@
   - Name: Ferrari 156/85
     Count: 3
     Images:
-      - Image: stamp0165ec.jpg
-      - Image: stamp0056ic.jpg
       - Image: stamp0369bc.jpg
+      - Image: stamp0056ic.jpg
+      - Image: stamp0165ec.jpg
   - Name: Lotus 97T
     Count: 1
     Images:
@@ -170,10 +193,10 @@
   - Name: McLaren MP4/2
     Count: 4
     Images:
-      - Image: stamp0508.jpg
-      - Image: stamp0261.jpg
-      - Image: stamp0125.jpg
       - Image: stamp0624.jpg
+      - Image: stamp0261.jpg
+      - Image: stamp0508.jpg
+      - Image: stamp0125.jpg
   - Name: Tyrrell 012
     Count: 1
     Images:
@@ -196,20 +219,20 @@
     Count: 4
     Images:
       - Image: stamp0261.jpg
+      - Image: stamp0508.jpg
       - Image: stamp0125.jpg
       - Image: stamp0624.jpg
-      - Image: stamp0508.jpg
   - Name: McLaren MP4/2C
     Count: 3
     Images:
+      - Image: stamp0024cc.jpg
       - Image: stamp0626.jpg
       - Image: stamp0625.jpg
-      - Image: stamp0024cc.jpg
   - Name: Williams FW11
     Count: 7
     Images:
-      - Image: stamp0626.jpg
       - Image: stamp0091.jpg
+      - Image: stamp0626.jpg
       - Image: stamp0197cc.jpg
       - Image: stamp0037fc.jpg
 - Year: 1987
@@ -226,9 +249,9 @@
   - Name: Williams FW11B
     Count: 3
     Images:
+      - Image: stamp0627.jpg
       - Image: stamp0130.jpg
       - Image: stamp0019.jpg
-      - Image: stamp0627.jpg
 - Year: 1988
   Cars:
   - Name: Benetton B188
@@ -238,16 +261,16 @@
   - Name: Ferrari F1/87/88C
     Count: 4
     Images:
-      - Image: stamp0583ac.jpg
       - Image: stamp0048ac.jpg
       - Image: stamp0601ac.jpg
       - Image: stamp0169ac.jpg
+      - Image: stamp0583ac.jpg
   - Name: McLaren MP4/4
     Count: 3
     Images:
-      - Image: stamp0628.jpg
       - Image: stamp0020.jpg
       - Image: stamp0599.jpg
+      - Image: stamp0628.jpg
 - Year: 1989
   Cars:
   - Name: Benetton B188
@@ -261,11 +284,12 @@
   - Name: Ferrari F1/89 (640)
     Count: 9
     Images:
+      - Image: stamp0208.jpg
+      - Image: stamp0242bc.jpg
       - Image: stamp0476cc.jpg
-      - Image: stamp0056jc.jpg
-      - Image: stamp0311.jpg
       - Image: stamp0279ac.jpg
   - Name: McLaren MP4/5
-    Count: 1
+    Count: 2
     Images:
       - Image: stamp0629.jpg
+      - Image: stamp0717cc.jpg

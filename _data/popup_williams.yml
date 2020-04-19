@@ -1,6 +1,6 @@
 - Popup: Williams
   Stamps:
-  - Image: stamp0087.jpg
+  - Image: stamp0197.jpg
     Width: 400
   - Image: stamp0130.jpg
     Width: 400
@@ -12,15 +12,13 @@
     Width: 400
   - Image: stamp0073.jpg
     Width: 400
-  - Image: stamp0038.jpg
+  - Image: stamp0082.jpg
     Width: 400
   - Image: stamp0223.jpg
     Width: 400
-  - Image: stamp0084.jpg
+  - Image: stamp0087.jpg
     Width: 400
   - Image: stamp0181.jpg
-    Width: 400
-  - Image: stamp0197.jpg
     Width: 400
   - Image: stamp0194.jpg
     Width: 400
@@ -28,13 +26,15 @@
     Width: 400
   - Image: stamp0211.jpg
     Width: 200
+  - Image: stamp0038.jpg
+    Width: 400
   - Image: stamp0039.jpg
     Width: 400
   - Image: stamp0207.jpg
     Width: 400
   - Image: stamp0008.jpg
     Width: 200
-  - Image: stamp0082.jpg
+  - Image: stamp0084.jpg
     Width: 400
   - Image: stamp0043.jpg
     Width: 400
@@ -74,7 +74,7 @@
     Width: 400
   - Image: stamp0037.jpg
     Width: 400
-  - Image: stamp0622.jpg
+  - Image: stamp0621.jpg
     Width: 200
   - Image: stamp0559.jpg
     Width: 400
@@ -90,10 +90,12 @@
     Width: 400
   - Image: stamp0531.jpg
     Width: 200
-  - Image: stamp0621.jpg
+  - Image: stamp0620.jpg
     Width: 200
   - Image: stamp0479.jpg
     Width: 400
+  - Image: stamp0622.jpg
+    Width: 200
   - Image: stamp0626.jpg
     Width: 200
   - Image: stamp0627.jpg
@@ -106,10 +108,8 @@
     Width: 200
   - Image: stamp0636.jpg
     Width: 200
-  - Image: stamp0637.jpg
-    Width: 200
-  - Image: stamp0620.jpg
-    Width: 200
+  - Image: stamp0692.jpg
+    Width: 400
   - Image: stamp0398.jpg
     Width: 400
   - Image: stamp0216.jpg
@@ -144,7 +144,7 @@
     Width: 400
   - Image: stamp0450.jpg
     Width: 400
-  - Image: stamp0692.jpg
-    Width: 400
+  - Image: stamp0637.jpg
+    Width: 200
   - Image: stamp0327.jpg
     Width: 200

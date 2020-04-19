@@ -3,16 +3,16 @@
   - Car: Alfa Romeo 158
     Count: 5
     Images:
-    - Image: stamp0104ac.jpg
-    - Image: stamp0533.jpg
     - Image: stamp0317ac.jpg
     - Image: stamp0335.jpg
+    - Image: stamp0533.jpg
+    - Image: stamp0301ac.jpg
   - Car: Alfa Romeo 159
     Count: 3
     Images:
     - Image: stamp0347.jpg
-    - Image: stamp0231ac.jpg
     - Image: stamp0361.jpg
+    - Image: stamp0231ac.jpg
   - Car: BRM Type 15
     Count: 1
     Images:
@@ -24,21 +24,21 @@
   - Car: Ferrari 375 F1
     Count: 2
     Images:
-    - Image: stamp0068ac.jpg
     - Image: stamp0476bc.jpg
+    - Image: stamp0068ac.jpg
   - Car: Maserati 4CLT
     Count: 2
     Images:
-    - Image: stamp0288ac.jpg
     - Image: stamp0532.jpg
+    - Image: stamp0288ac.jpg
   Drivers:
   - Driver: Alberto Ascari
-    Count: 9
+    Count: 10
     Images:
-    - Image: stamp0659ad.jpg
-    - Image: stamp0331.jpg
-    - Image: stamp0139ad.jpg
-    - Image: stamp0097.jpg
+    - Image: stamp0701.jpg
+    - Image: stamp0561ad.jpg
+    - Image: stamp0121ed.jpg
+    - Image: stamp0568ad.jpg
   - Driver: Chico Landi
     Count: 1
     Images:
@@ -46,24 +46,23 @@
   - Driver: Giuseppe Farina
     Count: 8
     Images:
-    - Image: stamp0569.jpg
-    - Image: stamp0642ad.jpg
     - Image: stamp0413.jpg
-    - Image: stamp0335.jpg
+    - Image: stamp0468.jpg
+    - Image: stamp0569.jpg
+    - Image: stamp0301ad.jpg
   - Driver: Jose Froilan Gonzalez
-    Count: 4
+    Count: 3
     Images:
+    - Image: stamp0068.jpg
     - Image: stamp0602ad.jpg
     - Image: stamp0204.jpg
-    - Image: stamp0068.jpg
-    - Image: stamp0364.jpg
   - Driver: Juan Manuel Fangio
-    Count: 42
+    Count: 43
     Images:
-    - Image: stamp0611ad.jpg
-    - Image: stamp0358.jpg
+    - Image: stamp0099bd.jpg
+    - Image: stamp0642bd.jpg
+    - Image: stamp0179bd.jpg
     - Image: stamp0301dd.jpg
-    - Image: stamp0189gd.jpg
   - Driver: Louis Chiron
     Count: 1
     Images:
@@ -71,12 +70,12 @@
   - Driver: Reg Parnell
     Count: 2
     Images:
-    - Image: stamp0288ad.jpg
     - Image: stamp0532.jpg
+    - Image: stamp0288ad.jpg
   - Driver: Stirling Moss
     Count: 15
     Images:
-    - Image: stamp0253.jpg
     - Image: stamp0600ad.jpg
-    - Image: stamp0602dd.jpg
-    - Image: stamp0037ad.jpg
+    - Image: stamp0341.jpg
+    - Image: stamp0009cd.jpg
+    - Image: stamp0213.jpg

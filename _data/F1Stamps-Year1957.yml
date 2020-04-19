@@ -7,29 +7,29 @@
   - Car: Ferrari 801 F1
     Count: 2
     Images:
-    - Image: stamp0006ac.jpg
     - Image: stamp0056bc.jpg
+    - Image: stamp0006ac.jpg
   - Car: Ferrari D50
     Count: 5
     Images:
-    - Image: stamp0316.jpg
-    - Image: stamp0342.jpg
     - Image: stamp0046cc.jpg
-    - Image: stamp0361.jpg
+    - Image: stamp0231cc.jpg
+    - Image: stamp0342.jpg
+    - Image: stamp0316.jpg
   - Car: Maserati 250F
     Count: 14
     Images:
-    - Image: stamp0613ac.jpg
-    - Image: stamp0536.jpg
-    - Image: stamp0469.jpg
     - Image: stamp0323cc.jpg
+    - Image: stamp0536.jpg
+    - Image: stamp0361.jpg
+    - Image: stamp0425.jpg
   - Car: Vanwall VW5
     Count: 7
     Images:
     - Image: stamp0037ac.jpg
-    - Image: stamp0512.jpg
     - Image: stamp0341.jpg
     - Image: stamp0288cc.jpg
+    - Image: stamp0512.jpg
   Drivers:
   - Driver: Eugenio Castellotti
     Count: 1
@@ -38,28 +38,27 @@
   - Driver: Jack Brabham
     Count: 11
     Images:
-    - Image: stamp0009dd.jpg
-    - Image: stamp0291cd.jpg
-    - Image: stamp0336.jpg
-    - Image: stamp0602hd.jpg
+    - Image: stamp0642cd.jpg
+    - Image: stamp0089dd.jpg
+    - Image: stamp0337.jpg
+    - Image: stamp0004cd.jpg
   - Driver: Joakim Bonnier
     Count: 1
     Images:
     - Image: stamp0602id.jpg
   - Driver: Jose Froilan Gonzalez
-    Count: 4
+    Count: 3
     Images:
-    - Image: stamp0364.jpg
-    - Image: stamp0068.jpg
     - Image: stamp0602ad.jpg
     - Image: stamp0204.jpg
+    - Image: stamp0068.jpg
   - Driver: Juan Manuel Fangio
-    Count: 42
+    Count: 43
     Images:
-    - Image: stamp0597ad.jpg
-    - Image: stamp0218.jpg
-    - Image: stamp0144ed.jpg
-    - Image: stamp0010dd.jpg
+    - Image: stamp0139bd.jpg
+    - Image: stamp0099bd.jpg
+    - Image: stamp0007.jpg
+    - Image: stamp0611ad.jpg
   - Driver: Luigi Musso
     Count: 1
     Images:
@@ -67,10 +66,10 @@
   - Driver: Mike Hawthorn
     Count: 8
     Images:
-    - Image: stamp0139cd.jpg
-    - Image: stamp0341.jpg
     - Image: stamp0653ad.jpg
-    - Image: stamp0045ad.jpg
+    - Image: stamp0139cd.jpg
+    - Image: stamp0070ad.jpg
+    - Image: stamp0341.jpg
   - Driver: Peter Collins
     Count: 2
     Images:
@@ -79,18 +78,18 @@
   - Driver: Stirling Moss
     Count: 15
     Images:
-    - Image: stamp0602dd.jpg
-    - Image: stamp0114ad.jpg
-    - Image: stamp0600ad.jpg
-    - Image: stamp0009cd.jpg
+    - Image: stamp0276ad.jpg
+    - Image: stamp0037ad.jpg
+    - Image: stamp0210.jpg
+    - Image: stamp0213.jpg
   - Driver: Tony Brooks
     Count: 2
     Images:
-    - Image: stamp0602gd.jpg
     - Image: stamp0288cd.jpg
+    - Image: stamp0602gd.jpg
   - Driver: Wolfgang von Trips
     Count: 3
     Images:
     - Image: stamp0230.jpg
-    - Image: stamp0317ad.jpg
     - Image: stamp0014ad.jpg
+    - Image: stamp0317ad.jpg

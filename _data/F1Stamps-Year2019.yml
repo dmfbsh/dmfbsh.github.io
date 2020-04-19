@@ -1,25 +1,64 @@
 - Year: 2019
   Cars:
+  - Car: Ferrari SF90
+    Count: 3
+    Images:
+    - Image: stamp0724bc.jpg
+    - Image: stamp0720ac.jpg
+    - Image: stamp0724cc.jpg
+    - Image: stamp0719.jpg
+  - Car: Mercedes AMG F1 W10 EQ Powerplus
+    Count: 4
+    Images:
+    - Image: stamp0720dc.jpg
+    - Image: stamp0723.jpg
+    - Image: stamp0724ac.jpg
+    - Image: stamp0724dc.jpg
+  - Car: Red Bull RB15
+    Count: 1
+    Images:
+    - Image: stamp0719ac.jpg
   Drivers:
-  - Driver: Daniel Ricciardo
+  - Driver: Charles LeClerc
     Count: 2
     Images:
-    - Image: stamp0617bd.jpg
+    - Image: stamp0720ad.jpg
+    - Image: stamp0724bd.jpg
+  - Driver: Daniel Ricciardo
+    Count: 4
+    Images:
     - Image: stamp0680cd.jpg
+    - Image: stamp0617bd.jpg
+    - Image: stamp0694ad.jpg
+    - Image: stamp0693.jpg
+  - Driver: Kevin Magnussen
+    Count: 1
+    Images:
+    - Image: stamp0693ad.jpg
   - Driver: Kimi Raikkonen
-    Count: 16
+    Count: 17
     Images:
-    - Image: stamp0031.jpg
+    - Image: stamp0714dd.jpg
+    - Image: stamp0155cd.jpg
     - Image: stamp0680dd.jpg
-    - Image: stamp0560cd.jpg
-    - Image: stamp0399ad.jpg
+    - Image: stamp0541dd.jpg
   - Driver: Lewis Hamilton
-    Count: 33
+    Count: 42
     Images:
-    - Image: stamp0545.jpg
-    - Image: stamp0652.jpg
-    - Image: stamp0560ad.jpg
-    - Image: stamp0682bd.jpg
+    - Image: stamp0503.jpg
+    - Image: stamp0717bd.jpg
+    - Image: stamp0549dd.jpg
+    - Image: stamp0719.jpg
+  - Driver: Max Verstappen
+    Count: 3
+    Images:
+    - Image: stamp0719ad.jpg
+    - Image: stamp0723ad.jpg
+    - Image: stamp0714cd.jpg
+  - Driver: Nico Hulkenberg
+    Count: 1
+    Images:
+    - Image: stamp0714ad.jpg
   - Driver: Robert Kubica
     Count: 2
     Images:
@@ -30,13 +69,15 @@
     Images:
     - Image: stamp0382.jpg
   - Driver: Sebastian Vettel
-    Count: 30
+    Count: 37
     Images:
-    - Image: stamp0682ad.jpg
-    - Image: stamp0643.jpg
-    - Image: stamp0486.jpg
-    - Image: stamp0499.jpg
+    - Image: stamp0719.jpg
+    - Image: stamp0694cd.jpg
+    - Image: stamp0285.jpg
+    - Image: stamp0528.jpg
   - Driver: Valtteri Bottas
-    Count: 1
+    Count: 3
     Images:
+    - Image: stamp0724ad.jpg
+    - Image: stamp0720dd.jpg
     - Image: stamp0680ad.jpg

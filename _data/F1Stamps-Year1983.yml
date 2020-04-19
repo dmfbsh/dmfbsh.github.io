@@ -1,5 +1,9 @@
 - Year: 1983
   Cars:
+  - Car: Brabham BT52
+    Count: 1
+    Images:
+    - Image: stamp0700bc.jpg
   - Car: Brabham BT52B
     Count: 1
     Images:
@@ -18,10 +22,17 @@
     - Image: stamp0017dc.jpg
     - Image: stamp0623.jpg
     - Image: stamp0366.jpg
+  - Car: McLaren MP4/1
+    Count: 3
+    Images:
+    - Image: stamp0721ac.jpg
+    - Image: stamp0715ac.jpg
+    - Image: stamp0716ac.jpg
   - Car: Renault RE40
-    Count: 1
+    Count: 2
     Images:
     - Image: stamp0291ec.jpg
+    - Image: stamp0708ac.jpg
   - Car: Tyrrell 012
     Count: 1
     Images:
@@ -34,10 +45,10 @@
   - Driver: Alain Prost
     Count: 27
     Images:
-    - Image: stamp0633.jpg
+    - Image: stamp0323dd.jpg
+    - Image: stamp0578.jpg
     - Image: stamp0388hd.jpg
-    - Image: stamp0256.jpg
-    - Image: stamp0367.jpg
+    - Image: stamp0062.jpg
   - Driver: Alan Jones
     Count: 2
     Images:
@@ -50,44 +61,44 @@
   - Driver: Elio de Angelis
     Count: 4
     Images:
-    - Image: stamp0203.jpg
-    - Image: stamp0388fd.jpg
     - Image: stamp0561ed.jpg
     - Image: stamp0201ad.jpg
+    - Image: stamp0203.jpg
+    - Image: stamp0388fd.jpg
   - Driver: Keke Rosberg
     Count: 5
     Images:
-    - Image: stamp0603gd.jpg
     - Image: stamp0074dd.jpg
-    - Image: stamp0216dd.jpg
     - Image: stamp0622.jpg
+    - Image: stamp0505.jpg
+    - Image: stamp0603gd.jpg
   - Driver: Michele Alboreto
     Count: 5
     Images:
-    - Image: stamp0603hd.jpg
-    - Image: stamp0557.jpg
+    - Image: stamp0205.jpg
     - Image: stamp0504.jpg
     - Image: stamp0561dd.jpg
+    - Image: stamp0603hd.jpg
   - Driver: Nelson Piquet
     Count: 12
     Images:
-    - Image: stamp0216cd.jpg
-    - Image: stamp0627.jpg
-    - Image: stamp0114cd.jpg
-    - Image: stamp0074gd.jpg
+    - Image: stamp0623.jpg
+    - Image: stamp0621.jpg
+    - Image: stamp0189ed.jpg
+    - Image: stamp0506.jpg
   - Driver: Nigel Mansell
     Count: 26
     Images:
-    - Image: stamp0479fd.jpg
     - Image: stamp0479ed.jpg
-    - Image: stamp0045gd.jpg
-    - Image: stamp0370gd.jpg
+    - Image: stamp0070gd.jpg
+    - Image: stamp0189fd.jpg
+    - Image: stamp0084cd.jpg
   - Driver: Niki Lauda
-    Count: 20
+    Count: 24
     Images:
-    - Image: stamp0189hd.jpg
-    - Image: stamp0603bd.jpg
-    - Image: stamp0354.jpg
+    - Image: stamp0135.jpg
+    - Image: stamp0355.jpg
+    - Image: stamp0177bd.jpg
     - Image: stamp0624.jpg
   - Driver: Rene Arnoux
     Count: 3
