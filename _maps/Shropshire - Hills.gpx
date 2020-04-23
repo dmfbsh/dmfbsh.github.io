@@ -7,7 +7,6 @@
 <wpt gr:gr="SJ3244401226" lat="52.604614" lon="-2.998966">
 <ele>363.0</ele>
 <name>Bromlow Callow (384m)</name>
-<desc>Has a ring of trees on top of the hill, this is a well known landmark.</desc>
 <sym>yellow</sym>
 <extensions>
 <i:importance>0.746037</i:importance></extensions></wpt>
@@ -32,7 +31,6 @@
 <wpt gr:gr="SO4601385009" lat="52.460361" lon="-2.795970">
 <ele>328.0</ele>
 <name>Callow Hill (335m)</name>
-<desc>Has Flounder's Folly at the top of the hill.</desc>
 <sym>yellow</sym>
 <extensions>
 <i:importance>0.175069</i:importance></extensions></wpt>
@@ -51,7 +49,6 @@
 <wpt gr:gr="SO4789193943" lat="52.540859" lon="-2.769746">
 <ele>406.0</ele>
 <name>Hope Bowdler Hill (426m)</name>
-<desc>Includes the Gaer Stone on the way from Church Stretton.</desc>
 <sym>yellow</sym>
 <extensions>
 <i:importance>0.297710</i:importance></extensions></wpt>
@@ -64,15 +61,6 @@
 <wpt gr:gr="SO3584894888" lat="52.548065" lon="-2.947477">
 <ele>393.0</ele>
 <name>Linley Hill (397m)</name>
-<desc>Look out for the avenue of beech trees.
-
-			These majestic trees were planted around 1740 by local MP Robert More, who was a noted amateur botanist.
-
-			They stretch for about a mile along the ridge and some of them measure several feet across, although they are coming to the end of their lives now.
-
-			Happily, new saplings are being planted to ensure that this magnificent sight can be enjoyed by future generations.
-
-		If you want to visit this lovely spot, turn right to Linley off the A488 from Bishop's Castle. After half a mile take a left turn, signposted Linley, and then a mile later turn left to The Bog. After half a mile park in Arbour Lane and then follow the Shropshire Way footpath sign up the hill. There is no designated car park.</desc>
 <sym>yellow</sym>
 <extensions>
 <i:importance>0.556785</i:importance></extensions></wpt>
@@ -127,7 +115,6 @@
 <wpt gr:gr="SO4822194476" lat="52.545673" lon="-2.764952">
 <ele>320.0</ele>
 <name>Willstone Hill (403m)</name>
-<desc>Has the Battle Stones at the summit.</desc>
 <sym>yellow</sym>
 <extensions>
 <i:importance>0.855745</i:importance></extensions></wpt></gpx>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>GPS device</name>
+    <snippet>Created Tue Apr 21 14:27:57 2020</snippet>
+    <LookAt>
+      <longitude>-2.773318</longitude>
+      <latitude>52.515062</latitude>
+      <range>60189.664536</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>Bromlow Callow (384m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.998966,52.604614,363.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brown Clee (540m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.602559,52.479439,498.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burrow Hill (358m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.918847,52.440285,208.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caer Caradoc (459m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.773866,52.553596,415.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Callow Hill (335m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.795970,52.460361,328.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caynham Camp</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.673132,52.358887,152.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heath Mynd (452m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.951168,52.563938,420.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hope Bowdler Hill (426m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.769746,52.540859,406.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hopesay Hill (284m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.887468,52.446224,263.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linley Hill (397m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.947477,52.548065,393.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Caradoc (327m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.768214,52.559895,279.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ragleth Hill (398m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.793451,52.531586,277.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Lawley (377m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.748460,52.571404,366.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Long Mynd (Carding Mill Valley) – Pole Bank (516m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.829625,52.536507,409.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Stiperstones (536m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.893139,52.615891,219.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Wrekin (407m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.547670,52.671238,387.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Titterstone Clee (533m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.590931,52.392422,455.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wenlock Edge</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.732783,52.524235,170.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Willstone Hill (403m)</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.764952,52.545673,320.00</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
