@@ -170,6 +170,32 @@ SQLite DLL - 64 bit
 
 ## Maps
 
+The following maps are maintained in Google Maps ([My Maps](https://www.google.co.uk/maps/d/)) and are used by the Shropshire Web Site to show places of interest in the respective towns:
+
+- Bridgnorth
+- Ludlow
+- Oswestry
+- Shrewsbury
+- Telford
+- Whitchurch
+
+The following map is maintained in Google Maps ([My Maps](https://www.google.co.uk/maps/d/)) and is used by the Shropshire Web Site to show the locations of the Castles:
+
+- Shropshire - Castles
+
+The following maps are maintained in Google Maps ([My Maps](https://www.google.co.uk/maps/d/)) and are used by the Shropshire Web Site to show the locations of the Churches (and which have been visited):
+
+- Shropshire - Churchs - North
+- Shropshire - Churches - South
+
+The following maps are maintained in the iOS UK Map app:
+
+- Shropshire - Churches
+- Shropshire - Hills
+- Shropshire - Places
+
+![Diagram 3](diagram3.svg)
+
 Churches map
 
 
