@@ -196,8 +196,39 @@ The following maps are maintained in the iOS UK Map app:
 
 ![Diagram 3](diagram3.svg)
 
-Churches map
+### Shropshire - Churches
 
+Used to identify which churches have been visited (green) and which are planned to be visited (yellow).  Also includes notes of relevance such as opening times and things to look out for.
 
+Edits should be made in the UK Map app on the iOS devices.  Any changes must then be propagated as follows:
 
+- Share the updated GPX file to the OneDrive.
+- Download the GPX file from the OneDrive to the other iOS device and import into the UK Map app.
+- Download the GPX file to the GitHub repository on the laptop - this is done using GoodSync.
+- Convert the GPX file to an Excel spreadsheet - open the file using Excel and select the option "As a read-only workbook" to import the GPX data. This makes the notes more readable.
 
+### Shropshire - Hills
+
+Used to identify the locations of the various hills.
+
+Notes relating to the hills are held in the OneNote notebook.
+
+Edits should be made in the UK Map app on the iOS devices (although the GPX file is not expected to change).  Any changes must then be propagated as follows:
+
+- Share the updated GPX file to the OneDrive.
+- Download the GPX file from the OneDrive to the other iOS device and import into the UK Map app.
+- Download the GPX file to the GitHub repository on the laptop - this is done using GoodSync.
+
+### Shropshire - Places
+
+Used to identify the locations of places of interest (for visiting).
+
+Notes relating to the places are held in the OneNote notebook.
+
+Edits should be made in the UK Map app on the iOS devices.  Any changes must then be propagated as follows:
+
+- Share the updated GPX file to the OneDrive.
+- Download the GPX file from the OneDrive to the other iOS device and import into the UK Map app.
+- Download the GPX file to the GitHub repository on the laptop - this is done using GoodSync.
+
+Some places are also put in The Photographer's Emphemeris.

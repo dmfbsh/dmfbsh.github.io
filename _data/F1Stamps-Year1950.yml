@@ -3,10 +3,10 @@
   - Car: Alfa Romeo 158
     Count: 5
     Images:
+    - Image: stamp0317ac.jpg
     - Image: stamp0301ac.jpg
-    - Image: stamp0104ac.jpg
     - Image: stamp0533.jpg
-    - Image: stamp0335.jpg
+    - Image: stamp0104ac.jpg
   - Car: Ferrari 125 F1
     Count: 1
     Images:
@@ -25,30 +25,30 @@
   - Driver: Alberto Ascari
     Count: 10
     Images:
-    - Image: stamp0561ad.jpg
-    - Image: stamp0139ad.jpg
-    - Image: stamp0097.jpg
     - Image: stamp0568ad.jpg
+    - Image: stamp0659ad.jpg
+    - Image: stamp0331.jpg
+    - Image: stamp0139ad.jpg
   - Driver: Giuseppe Farina
     Count: 8
     Images:
-    - Image: stamp0642ad.jpg
-    - Image: stamp0335.jpg
-    - Image: stamp0561bd.jpg
+    - Image: stamp0413.jpg
     - Image: stamp0615.jpg
+    - Image: stamp0569.jpg
+    - Image: stamp0335.jpg
   - Driver: Jose Froilan Gonzalez
     Count: 3
     Images:
+    - Image: stamp0068.jpg
     - Image: stamp0602ad.jpg
     - Image: stamp0204.jpg
-    - Image: stamp0068.jpg
   - Driver: Juan Manuel Fangio
     Count: 43
     Images:
-    - Image: stamp0343.jpg
-    - Image: stamp0301dd.jpg
-    - Image: stamp0189gd.jpg
-    - Image: stamp0139bd.jpg
+    - Image: stamp0114ed.jpg
+    - Image: stamp0363bd.jpg
+    - Image: stamp0641cd.jpg
+    - Image: stamp0457.jpg
   - Driver: Louis Chiron
     Count: 1
     Images:

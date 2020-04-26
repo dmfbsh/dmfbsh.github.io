@@ -27,7 +27,7 @@
   - Name: Lotus 107C
   Drivers:
   - Name: Johnny Herbert
-    Image: stamp0110ad.jpg
+    Image: stamp0240dd.jpg
     Champion: No
   - Name: Pedro Lamy
   - Name: Alessandro Zanardi
@@ -43,7 +43,7 @@
   - Name: Lotus 107B
   Drivers:
   - Name: Johnny Herbert
-    Image: stamp0029ad.jpg
+    Image: stamp0239ed.jpg
     Champion: No
   - Name: Alessandro Zanardi
   - Name: Pedro Lamy
@@ -55,10 +55,10 @@
   - Name: Lotus 102D
   Drivers:
   - Name: Mika Hakkinen
-    Image: stamp0010fd.jpg
+    Image: stamp0157bd.jpg
     Champion: No
   - Name: Johnny Herbert
-    Image: stamp0240dd.jpg
+    Image: stamp0110ad.jpg
     Champion: No
 - Year: 1991
   Team: Lotus
@@ -67,7 +67,7 @@
   - Name: Lotus 102B
   Drivers:
   - Name: Mika Hakkinen
-    Image: stamp0029ad.jpg
+    Image: stamp0111bd.jpg
     Champion: No
   - Name: Julian Bailey
   - Name: Jihnny Herbert
@@ -81,7 +81,7 @@
   - Name: Martin Donnelly
   - Name: Derek Warwick
   - Name: Johnny Herbert
-    Image: stamp0110ad.jpg
+    Image: stamp0029ad.jpg
     Champion: No
 - Year: 1989
   Team: Lotus
@@ -90,7 +90,7 @@
   - Name: Lotus 101
   Drivers:
   - Name: Nelson Piquet
-    Image: stamp0019.jpg
+    Image: stamp0506.jpg
     Champion: No
   - Name: Saturo Nakajima
 - Year: 1988
@@ -100,7 +100,7 @@
   - Name: Lotus 100T
   Drivers:
   - Name: Nelson Piquet
-    Image: stamp0627.jpg
+    Image: stamp0216cd.jpg
     Champion: No
   - Name: Saturo Nakajima
 - Year: 1987
@@ -111,7 +111,7 @@
     Image: stamp0197ec.jpg
   Drivers:
   - Name: Ayrton Senna
-    Image: stamp0015.jpg
+    Image: stamp0253.jpg
     Champion: No
   - Name: Satoru Nakajima
 - Year: 1986
@@ -122,7 +122,7 @@
     Image: stamp0360.jpg
   Drivers:
   - Name: Ayrton Senna
-    Image: stamp0448.jpg
+    Image: stamp0176fd.jpg
     Champion: No
   - Name: Johnny Dumfries
 - Year: 1985
@@ -133,10 +133,10 @@
     Image: stamp0024bc.jpg
   Drivers:
   - Name: Ayrton Senna
-    Image: stamp0020.jpg
+    Image: stamp0176bd.jpg
     Champion: No
   - Name: Elio de Angelis
-    Image: stamp0388fd.jpg
+    Image: stamp0201ad.jpg
     Champion: No
 - Year: 1984
   Team: Lotus
@@ -146,10 +146,10 @@
     Image: stamp0479ac.jpg
   Drivers:
   - Name: Nigel Mansell
-    Image: stamp0479dd.jpg
+    Image: stamp0479bd.jpg
     Champion: No
   - Name: Elio de Angelis
-    Image: stamp0201ad.jpg
+    Image: stamp0388fd.jpg
     Champion: No
 - Year: 1983
   Team: Lotus
@@ -161,10 +161,10 @@
   - Name: Lotus 91
   Drivers:
   - Name: Nigel Mansell
-    Image: stamp0479ad.jpg
+    Image: stamp0070gd.jpg
     Champion: No
   - Name: Elio de Angelis
-    Image: stamp0388fd.jpg
+    Image: stamp0201ad.jpg
     Champion: No
 - Year: 1982
   Team: Lotus
@@ -174,10 +174,10 @@
   - Name: Lotus 87B
   Drivers:
   - Name: Nigel Mansell
-    Image: stamp0590.jpg
+    Image: stamp0441.jpg
     Champion: No
   - Name: Elio de Angelis
-    Image: stamp0201ad.jpg
+    Image: stamp0561ed.jpg
     Champion: No
   - Name: Roberto Moreno
   - Name: Geoff Lees
@@ -189,10 +189,10 @@
   - Name: Lotus 81B
   Drivers:
   - Name: Nigel Mansell
-    Image: stamp0171bd.jpg
+    Image: stamp0479ad.jpg
     Champion: No
   - Name: Elio de Angelis
-    Image: stamp0201ad.jpg
+    Image: stamp0203.jpg
     Champion: No
 - Year: 1980
   Team: Lotus
@@ -202,13 +202,13 @@
   - Name: Lotus 81
   Drivers:
   - Name: Mario Andretti
-    Image: stamp0477.jpg
+    Image: stamp0074fd.jpg
     Champion: No
   - Name: Elio de Angelis
-    Image: stamp0203.jpg
+    Image: stamp0561ed.jpg
     Champion: No
   - Name: Nigel Mansell
-    Image: stamp0441.jpg
+    Image: stamp0479ed.jpg
     Champion: No
 - Year: 1979
   Team: Lotus
@@ -221,7 +221,7 @@
     Image: stamp0478.jpg
     Champion: No
   - Name: Carlos Reutemann
-    Image: stamp0323bd.jpg
+    Image: stamp0363ad.jpg
     Champion: No
 - Year: 1978
   Team: Lotus
@@ -231,7 +231,7 @@
   - Name: Lotus 78
   Drivers:
   - Name: Mario Andretti
-    Image: stamp0477.jpg
+    Image: stamp0357.jpg
     Champion: Yes
   - Name: Ronnie Peterson
     Image: stamp0587.jpg
@@ -244,7 +244,7 @@
   - Name: Lotus 78
   Drivers:
   - Name: Mario Andretti
-    Image: stamp0099cd.jpg
+    Image: stamp0074fd.jpg
     Champion: No
   - Name: Gunnar Nilsson
 - Year: 1976
@@ -254,10 +254,10 @@
   - Name: Lotus 77
   Drivers:
   - Name: Mario Andretti
-    Image: stamp0074fd.jpg
+    Image: stamp0477.jpg
     Champion: No
   - Name: Ronnie Peterson
-    Image: stamp0587.jpg
+    Image: stamp0088dd.jpg
     Champion: No
   - Name: Gunnar Nilsson
   - Name: Bob Evans
@@ -269,10 +269,10 @@
   - Name: Lotus 72F
   Drivers:
   - Name: Ronnie Peterson
-    Image: stamp0600gd.jpg
+    Image: stamp0587.jpg
     Champion: No
   - Name: Jacky Ickx
-    Image: stamp0004ad.jpg
+    Image: stamp0009ed.jpg
     Champion: No
   - Name: Jim Crawford
   - Name: Brian Henton
@@ -285,10 +285,10 @@
   - Name: Lotus 76
   Drivers:
   - Name: Ronnie Peterson
-    Image: stamp0600gd.jpg
+    Image: stamp0587.jpg
     Champion: No
   - Name: Jacky Ickx
-    Image: stamp0089cd.jpg
+    Image: stamp0088bd.jpg
     Champion: No
   - Name: Tim Schenken
 - Year: 1973
@@ -299,10 +299,10 @@
   - Name: Lotus 72D
   Drivers:
   - Name: Emerson Fittipaldi
-    Image: stamp0352.jpg
+    Image: stamp0088fd.jpg
     Champion: No
   - Name: Ronnie Peterson
-    Image: stamp0088dd.jpg
+    Image: stamp0600gd.jpg
     Champion: No
 - Year: 1972
   Team: Lotus
@@ -311,7 +311,7 @@
   - Name: Lotus 72D
   Drivers:
   - Name: Emerson Fittipaldi
-    Image: stamp0010hd.jpg
+    Image: stamp0088fd.jpg
     Champion: Yes
   - Name: David Walker
   - Name: Reine Wisell
@@ -324,7 +324,7 @@
   - Name: Lotus 72C
   Drivers:
   - Name: Emerson Fittipaldi
-    Image: stamp0362.jpg
+    Image: stamp0074id.jpg
     Champion: No
   - Name: Reine Wisell
   - Name: Dave Charlton
@@ -334,20 +334,20 @@
   Title: Yes
   Cars:
   - Name: Lotus 49
-    Image: stamp0323bc.jpg
+    Image: stamp0175dc.jpg
   - Name: Lotus 72
-    Image: stamp0351.jpg
+    Image: stamp0338.jpg
   - Name: Lotus 72B
   - Name: Lotus 72C
   Drivers:
   - Name: Jochen Rindt
-    Image: stamp0456.jpg
+    Image: stamp0455.jpg
     Champion: Yes
   - Name: John Miles
     Image: stamp0291dd.jpg
     Champion: No
   - Name: Emerson Fittipaldi
-    Image: stamp0018.jpg
+    Image: stamp0362.jpg
     Champion: No
   - Name: Reine Wisell
 - Year: 1969
@@ -358,13 +358,13 @@
   - Name: Lotus 49B
   Drivers:
   - Name: Graham Hill
-    Image: stamp0435.jpg
+    Image: stamp0420.jpg
     Champion: No
   - Name: Jochen Rindt
-    Image: stamp0419.jpg
+    Image: stamp0456.jpg
     Champion: No
   - Name: Mario Andretti
-    Image: stamp0388dd.jpg
+    Image: stamp0099cd.jpg
     Champion: No
   - Name: Richard Attwood
   - Name: John Miles
@@ -376,18 +376,18 @@
   Cars:
   - Name: Lotus 49B
   - Name: Lotus 49
-    Image: stamp0339.jpg
+    Image: stamp0684.jpg
   Drivers:
   - Name: Graham Hill
-    Image: stamp0420.jpg
+    Image: stamp0434.jpg
     Champion: Yes
   - Name: Jim Clark
-    Image: stamp0009ad.jpg
+    Image: stamp0317bd.jpg
     Champion: No
   - Name: Jackie Oliver
   - Name: Bill Brack
   - Name: Mario Andretti
-    Image: stamp0009gd.jpg
+    Image: stamp0478.jpg
     Champion: No
   - Name: Moises Solana
 - Year: 1967
@@ -395,17 +395,17 @@
   Title: No
   Cars:
   - Name: Lotus 49
-    Image: stamp0368bc.jpg
+    Image: stamp0175dc.jpg
   - Name: Lotus 33
     Image: stamp0600dc.jpg
   - Name: Lotus 43
     Image: stamp0708dc.jpg
   Drivers:
   - Name: Jim Clark
-    Image: stamp0439.jpg
+    Image: stamp0686.jpg
     Champion: No
   - Name: Graham Hill
-    Image: stamp0039bd.jpg
+    Image: stamp0348.jpg
     Champion: No
   - Name: Giancarlo Baghetti
   - Name: Moises Solana
@@ -416,10 +416,10 @@
   - Name: Lotus 43
     Image: stamp0708dc.jpg
   - Name: Lotus 33
-    Image: stamp0345.jpg
+    Image: stamp0600dc.jpg
   Drivers:
   - Name: Jim Clark
-    Image: stamp0686.jpg
+    Image: stamp0317bd.jpg
     Champion: No
   - Name: Giacomo Russo
   - Name: Peter Arundell
@@ -428,12 +428,12 @@
   Title: Yes
   Cars:
   - Name: Lotus 25
-    Image: stamp0600cc.jpg
+    Image: stamp0045cc.jpg
   - Name: Lotus 33
-    Image: stamp0600dc.jpg
+    Image: stamp0345.jpg
   Drivers:
   - Name: Jim Clark
-    Image: stamp0370cd.jpg
+    Image: stamp0176ed.jpg
     Champion: Yes
   - Name: Mike Spence
   - Name: Gerhard Mitter
@@ -446,12 +446,12 @@
   Title: No
   Cars:
   - Name: Lotus 25
-    Image: stamp0129.jpg
+    Image: stamp0600cc.jpg
   - Name: Lotus 33
     Image: stamp0345.jpg
   Drivers:
   - Name: Jim Clark
-    Image: stamp0317bd.jpg
+    Image: stamp0005ad.jpg
     Champion: No
   - Name: Peter Arundell
   - Name: Mike Spence
@@ -465,10 +465,10 @@
   Title: Yes
   Cars:
   - Name: Lotus 25
-    Image: stamp0600cc.jpg
+    Image: stamp0045cc.jpg
   Drivers:
   - Name: Jim Clark
-    Image: stamp0708dd.jpg
+    Image: stamp0039cd.jpg
     Champion: Yes
   - Name: Trevor Taylor
   - Name: Mike Spence
@@ -479,10 +479,10 @@
   Cars:
   - Name: Lotus 24
   - Name: Lotus 25
-    Image: stamp0514.jpg
+    Image: stamp0288dc.jpg
   Drivers:
   - Name: Jim Clark
-    Image: stamp0038cd.jpg
+    Image: stamp0317bd.jpg
     Champion: No
   - Name: Trevor Taylor
 - Year: 1961
@@ -495,7 +495,7 @@
   Drivers:
   - Name: Innes Ireland
   - Name: Jim Clark
-    Image: stamp0005ad.jpg
+    Image: stamp0370cd.jpg
     Champion: No
   - Name: Trevor Taylor
   - Name: Willy Mairesse
@@ -505,17 +505,17 @@
   Cars:
   - Name: Lotus 16
   - Name: Lotus 18
-    Image: stamp0613cc.jpg
+    Image: stamp0104ec.jpg
   Drivers:
   - Name: Innes Ireland
   - Name: Alberto Larreta
   - Name: Alan Stacey
   - Name: Jim Clark
-    Image: stamp0037cd.jpg
+    Image: stamp0438.jpg
     Champion: No
   - Name: Ron Flockhart
   - Name: John Surtees
-    Image: stamp0137.jpg
+    Image: stamp0121cd.jpg
     Champion: No
 - Year: 1959
   Team: Lotus
@@ -525,7 +525,7 @@
   Drivers:
   - Name: Pete Lovely
   - Name: Graham Hill
-    Image: stamp0501bd.jpg
+    Image: stamp0339.jpg
     Champion: No
   - Name: Innes Ireland
   - Name: Alan Stacey
@@ -538,6 +538,6 @@
   Drivers:
   - Name: Cliff Allison
   - Name: Graham Hill
-    Image: stamp0435.jpg
+    Image: stamp0011.jpg
     Champion: No
   - Name: Alan Stacey

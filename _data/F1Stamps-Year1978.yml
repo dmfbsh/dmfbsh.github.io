@@ -3,23 +3,23 @@
   - Car: Ferrari 312 T2
     Count: 9
     Images:
-    - Image: stamp0191ac.jpg
-    - Image: stamp0356.jpg
+    - Image: stamp0715.jpg
+    - Image: stamp0046ac.jpg
     - Image: stamp0355.jpg
-    - Image: stamp0128.jpg
+    - Image: stamp0716bc.jpg
   - Car: Ferrari 312 T3
     Count: 5
     Images:
-    - Image: stamp0307.jpg
+    - Image: stamp0279cc.jpg
     - Image: stamp0017cc.jpg
     - Image: stamp0197dc.jpg
     - Image: stamp0047bc.jpg
   - Car: Lotus 79 MK4
     Count: 3
     Images:
+    - Image: stamp0124.jpg
     - Image: stamp0328.jpg
     - Image: stamp0357.jpg
-    - Image: stamp0124.jpg
   - Car: Renault RS01
     Count: 1
     Images:
@@ -33,16 +33,16 @@
   - Driver: Carlos Reutemann
     Count: 3
     Images:
-    - Image: stamp0363ad.jpg
-    - Image: stamp0621.jpg
     - Image: stamp0323bd.jpg
+    - Image: stamp0621.jpg
+    - Image: stamp0363ad.jpg
   - Driver: Clay Regazzoni
     Count: 4
     Images:
-    - Image: stamp0010bd.jpg
-    - Image: stamp0088ed.jpg
     - Image: stamp0004bd.jpg
+    - Image: stamp0088ed.jpg
     - Image: stamp0603cd.jpg
+    - Image: stamp0010bd.jpg
   - Driver: Didier Pironi
     Count: 1
     Images:
@@ -51,76 +51,76 @@
     Count: 11
     Images:
     - Image: stamp0201cd.jpg
-    - Image: stamp0114bd.jpg
-    - Image: stamp0088fd.jpg
+    - Image: stamp0010hd.jpg
+    - Image: stamp0352.jpg
     - Image: stamp0416.jpg
   - Driver: Gilles Villeneuve
     Count: 8
     Images:
-    - Image: stamp0653bd.jpg
+    - Image: stamp0168ad.jpg
     - Image: stamp0014bd.jpg
-    - Image: stamp0603fd.jpg
-    - Image: stamp0491.jpg
+    - Image: stamp0027.jpg
+    - Image: stamp0653bd.jpg
   - Driver: Jacky Ickx
     Count: 4
     Images:
-    - Image: stamp0004ad.jpg
-    - Image: stamp0009ed.jpg
-    - Image: stamp0088bd.jpg
     - Image: stamp0089cd.jpg
+    - Image: stamp0004ad.jpg
+    - Image: stamp0088bd.jpg
+    - Image: stamp0009ed.jpg
   - Driver: James Hunt
     Count: 8
     Images:
+    - Image: stamp0037ed.jpg
+    - Image: stamp0070fd.jpg
     - Image: stamp0014cd.jpg
     - Image: stamp0355.jpg
-    - Image: stamp0037ed.jpg
-    - Image: stamp0045fd.jpg
   - Driver: Jody Scheckter
     Count: 7
     Images:
-    - Image: stamp0139gd.jpg
     - Image: stamp0170ad.jpg
     - Image: stamp0134.jpg
-    - Image: stamp0099ad.jpg
+    - Image: stamp0139gd.jpg
+    - Image: stamp0302.jpg
   - Driver: Keke Rosberg
     Count: 5
     Images:
-    - Image: stamp0622.jpg
-    - Image: stamp0216dd.jpg
-    - Image: stamp0505.jpg
     - Image: stamp0603gd.jpg
+    - Image: stamp0216dd.jpg
+    - Image: stamp0622.jpg
+    - Image: stamp0074dd.jpg
   - Driver: Mario Andretti
     Count: 7
     Images:
-    - Image: stamp0074fd.jpg
-    - Image: stamp0009gd.jpg
+    - Image: stamp0478.jpg
+    - Image: stamp0477.jpg
+    - Image: stamp0099cd.jpg
     - Image: stamp0357.jpg
-    - Image: stamp0388dd.jpg
   - Driver: Nelson Piquet
     Count: 12
     Images:
+    - Image: stamp0216cd.jpg
+    - Image: stamp0623.jpg
+    - Image: stamp0578.jpg
     - Image: stamp0114cd.jpg
-    - Image: stamp0019.jpg
-    - Image: stamp0621.jpg
-    - Image: stamp0627.jpg
   - Driver: Niki Lauda
-    Count: 24
+    Count: 25
     Images:
-    - Image: stamp0135.jpg
-    - Image: stamp0624.jpg
-    - Image: stamp0658cd.jpg
-    - Image: stamp0715.jpg
+    - Image: stamp0716.jpg
+    - Image: stamp0568bd.jpg
+    - Image: stamp0189hd.jpg
+    - Image: stamp0177bd.jpg
   - Driver: Rene Arnoux
     Count: 3
     Images:
+    - Image: stamp0623.jpg
     - Image: stamp0507.jpg
     - Image: stamp0653cd.jpg
-    - Image: stamp0623.jpg
   - Driver: Riccardo Patrese
     Count: 2
     Images:
-    - Image: stamp0181.jpg
     - Image: stamp0561cd.jpg
+    - Image: stamp0181.jpg
   - Driver: Rolf Stommelen
     Count: 1
     Images:
@@ -128,6 +128,6 @@
   - Driver: Ronnie Peterson
     Count: 3
     Images:
-    - Image: stamp0088dd.jpg
-    - Image: stamp0600gd.jpg
     - Image: stamp0587.jpg
+    - Image: stamp0600gd.jpg
+    - Image: stamp0088dd.jpg

@@ -7,21 +7,22 @@
   - Car: Cooper T51
     Count: 2
     Images:
-    - Image: stamp0613bc.jpg
     - Image: stamp0337.jpg
+    - Image: stamp0613bc.jpg
   - Car: Cooper T53
-    Count: 3
+    Count: 4
     Images:
     - Image: stamp0123.jpg
     - Image: stamp0340.jpg
     - Image: stamp0537.jpg
+    - Image: stamp0725.jpg
   - Car: Ferrari 246 F1
     Count: 13
     Images:
-    - Image: stamp0368ac.jpg
-    - Image: stamp0045ac.jpg
-    - Image: stamp0341.jpg
+    - Image: stamp0006bc.jpg
+    - Image: stamp0476ac.jpg
     - Image: stamp0653ac.jpg
+    - Image: stamp0291bc.jpg
   - Car: Ferrari 246 P F1
     Count: 2
     Images:
@@ -31,15 +32,15 @@
     Count: 4
     Images:
     - Image: stamp0133.jpg
-    - Image: stamp0104ec.jpg
     - Image: stamp0613cc.jpg
     - Image: stamp0600ac.jpg
+    - Image: stamp0104ec.jpg
   Drivers:
   - Driver: Bruce McLaren
     Count: 3
     Images:
-    - Image: stamp0009bd.jpg
     - Image: stamp0112bd.jpg
+    - Image: stamp0009bd.jpg
     - Image: stamp0005bd.jpg
   - Driver: Dan Gurney
     Count: 1
@@ -48,24 +49,24 @@
   - Driver: Graham Hill
     Count: 15
     Images:
+    - Image: stamp0011.jpg
+    - Image: stamp0435.jpg
     - Image: stamp0339.jpg
-    - Image: stamp0436.jpg
-    - Image: stamp0010gd.jpg
-    - Image: stamp0348.jpg
+    - Image: stamp0037bd.jpg
   - Driver: Jack Brabham
     Count: 11
     Images:
+    - Image: stamp0340.jpg
     - Image: stamp0336.jpg
+    - Image: stamp0009dd.jpg
     - Image: stamp0089dd.jpg
-    - Image: stamp0642cd.jpg
-    - Image: stamp0600ed.jpg
   - Driver: Jim Clark
     Count: 22
     Images:
     - Image: stamp0323ad.jpg
-    - Image: stamp0037cd.jpg
+    - Image: stamp0005ad.jpg
+    - Image: stamp0346.jpg
     - Image: stamp0642dd.jpg
-    - Image: stamp0288dd.jpg
   - Driver: Joakim Bonnier
     Count: 1
     Images:
@@ -74,15 +75,15 @@
     Count: 10
     Images:
     - Image: stamp0423.jpg
-    - Image: stamp0303.jpg
+    - Image: stamp0139ed.jpg
+    - Image: stamp0121cd.jpg
     - Image: stamp0010ed.jpg
-    - Image: stamp0458.jpg
   - Driver: Jose Froilan Gonzalez
     Count: 3
     Images:
     - Image: stamp0204.jpg
-    - Image: stamp0602ad.jpg
     - Image: stamp0068.jpg
+    - Image: stamp0602ad.jpg
   - Driver: Olivier Gendebien
     Count: 1
     Images:
@@ -90,17 +91,17 @@
   - Driver: Phil Hill
     Count: 9
     Images:
-    - Image: stamp0291bd.jpg
-    - Image: stamp0449.jpg
-    - Image: stamp0186ad.jpg
-    - Image: stamp0334.jpg
+    - Image: stamp0138.jpg
+    - Image: stamp0421.jpg
+    - Image: stamp0010ad.jpg
+    - Image: stamp0139dd.jpg
   - Driver: Stirling Moss
     Count: 15
     Images:
-    - Image: stamp0114ad.jpg
-    - Image: stamp0600ad.jpg
-    - Image: stamp0037ad.jpg
     - Image: stamp0210.jpg
+    - Image: stamp0253.jpg
+    - Image: stamp0291ad.jpg
+    - Image: stamp0009cd.jpg
   - Driver: Tony Brooks
     Count: 2
     Images:
@@ -109,6 +110,6 @@
   - Driver: Wolfgang von Trips
     Count: 3
     Images:
-    - Image: stamp0230.jpg
     - Image: stamp0014ad.jpg
+    - Image: stamp0230.jpg
     - Image: stamp0317ad.jpg

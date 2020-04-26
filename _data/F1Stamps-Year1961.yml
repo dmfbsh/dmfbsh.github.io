@@ -7,17 +7,17 @@
   - Car: Ferrari 156
     Count: 8
     Images:
-    - Image: stamp0314.jpg
-    - Image: stamp0262.jpg
-    - Image: stamp0519.jpg
+    - Image: stamp0662.jpg
+    - Image: stamp0699ac.jpg
+    - Image: stamp0334.jpg
     - Image: stamp0056dc.jpg
   - Car: Lotus 18
     Count: 4
     Images:
     - Image: stamp0613cc.jpg
+    - Image: stamp0133.jpg
     - Image: stamp0104ec.jpg
     - Image: stamp0600ac.jpg
-    - Image: stamp0133.jpg
   - Car: Porsche 718
     Count: 1
     Images:
@@ -26,9 +26,9 @@
   - Driver: Bruce McLaren
     Count: 3
     Images:
+    - Image: stamp0005bd.jpg
     - Image: stamp0009bd.jpg
     - Image: stamp0112bd.jpg
-    - Image: stamp0005bd.jpg
   - Driver: Dan Gurney
     Count: 1
     Images:
@@ -36,24 +36,24 @@
   - Driver: Graham Hill
     Count: 15
     Images:
-    - Image: stamp0436.jpg
-    - Image: stamp0010gd.jpg
-    - Image: stamp0045bd.jpg
-    - Image: stamp0558.jpg
+    - Image: stamp0434.jpg
+    - Image: stamp0011.jpg
+    - Image: stamp0435.jpg
+    - Image: stamp0339.jpg
   - Driver: Jack Brabham
     Count: 11
     Images:
-    - Image: stamp0089dd.jpg
-    - Image: stamp0009dd.jpg
-    - Image: stamp0004cd.jpg
+    - Image: stamp0291cd.jpg
+    - Image: stamp0602hd.jpg
     - Image: stamp0340.jpg
+    - Image: stamp0427.jpg
   - Driver: Jim Clark
     Count: 22
     Images:
+    - Image: stamp0600cd.jpg
+    - Image: stamp0037cd.jpg
     - Image: stamp0323ad.jpg
-    - Image: stamp0009ad.jpg
-    - Image: stamp0437.jpg
-    - Image: stamp0708dd.jpg
+    - Image: stamp0070cd.jpg
   - Driver: Joakim Bonnier
     Count: 1
     Images:
@@ -61,9 +61,9 @@
   - Driver: John Surtees
     Count: 10
     Images:
-    - Image: stamp0139ed.jpg
-    - Image: stamp0121cd.jpg
-    - Image: stamp0137.jpg
+    - Image: stamp0221ad.jpg
+    - Image: stamp0070dd.jpg
+    - Image: stamp0303.jpg
     - Image: stamp0423.jpg
   - Driver: Olivier Gendebien
     Count: 1
@@ -72,25 +72,25 @@
   - Driver: Phil Hill
     Count: 9
     Images:
-    - Image: stamp0139dd.jpg
-    - Image: stamp0449.jpg
-    - Image: stamp0421.jpg
-    - Image: stamp0445.jpg
+    - Image: stamp0186ad.jpg
+    - Image: stamp0334.jpg
+    - Image: stamp0291bd.jpg
+    - Image: stamp0010ad.jpg
   - Driver: Stirling Moss
     Count: 15
     Images:
-    - Image: stamp0210.jpg
-    - Image: stamp0114ad.jpg
+    - Image: stamp0253.jpg
+    - Image: stamp0291ad.jpg
+    - Image: stamp0276ad.jpg
     - Image: stamp0379.jpg
-    - Image: stamp0600ad.jpg
   - Driver: Tony Brooks
     Count: 2
     Images:
-    - Image: stamp0602gd.jpg
     - Image: stamp0288cd.jpg
+    - Image: stamp0602gd.jpg
   - Driver: Wolfgang von Trips
     Count: 3
     Images:
-    - Image: stamp0230.jpg
-    - Image: stamp0014ad.jpg
     - Image: stamp0317ad.jpg
+    - Image: stamp0014ad.jpg
+    - Image: stamp0230.jpg

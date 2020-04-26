@@ -3,13 +3,6 @@
   - Country: Angola
     Flag: AGLA0001.jpg
     Stamps:
-    - Picture: stamp0136.jpg
-      Width: 400
-      IssueDate: 2000
-      Description: |
-        A mini sheet containing one value showing Niki Lauda.  Lauda drove in F1 from 1971 to 1985; in 1975 he won the drivers title with Ferrari driving the 312T.<br>
-        <br>
-        The 1975 F1 season started slowly for Lauda, but after nothing better than a fifth-place finish in the first four races he then won four out of the next five races in the new Ferrari 312T.  His first World Championship was confirmed with a fifth win at the last race of the year, the United States GP.  He also became the first and only driver to lap the Nurburgring Nordschleife in under 7 minutes, which was considered a huge feat.  And the Nordschleife section of the Nurburgring was 2 miles longer than it is today.
     - Picture: stamp0138.jpg
       Width: 200
       IssueDate: 2000
@@ -22,21 +15,28 @@
         A mini sheet containing one value showing Niki Lauda.  Lauda drove in F1 from 1971 to 1985; in 1977 he won the drivers title with Ferrari driving the 312T2.<br>
         <br>
         Lauda's previously good relationship with Ferrari was severely affected by his decision to withdraw from the previous season's Japanese Grand Prix (which effectively gave James Hunt the title), and he endured a difficult 1977 season, despite easily winning the championship through consistency rather than outright pace.  Having announced his decision to quit Ferrari at season's end, Lauda left early due to the team's decision to run the then unknown Gilles Villeneuve in a third car at the Canadian Grand Prix.
-    - Picture: stamp0134.jpg
-      Width: 200
-      IssueDate: 2000
-      Description: |
-        A mini sheet containing one value showing Jody Scheckter.  Scheckter drove in F1 from 1972 to 1980; in 1979 he won the drivers title with Ferrari driving the 312T4.
-    - Picture: stamp0258.jpg
-      Width: 200
-      IssueDate: 2000
-      Description: |
-        A mini sheet containing one value showing Michael Schumacher.  In 2000, Schumacher became Ferrari's first drivers' champion for 21 years.
     - Picture: stamp0137.jpg
       Width: 200
       IssueDate: 2000
       Description: |
         A mini sheet containing one value showing John Surtees.  Surtees drove in F1 from 1960 to 1972 and won the drivers title in 1964 with Ferrari.
+    - Picture: stamp0258.jpg
+      Width: 200
+      IssueDate: 2000
+      Description: |
+        A mini sheet containing one value showing Michael Schumacher.  In 2000, Schumacher became Ferrari's first drivers' champion for 21 years.
+    - Picture: stamp0136.jpg
+      Width: 400
+      IssueDate: 2000
+      Description: |
+        A mini sheet containing one value showing Niki Lauda.  Lauda drove in F1 from 1971 to 1985; in 1975 he won the drivers title with Ferrari driving the 312T.<br>
+        <br>
+        The 1975 F1 season started slowly for Lauda, but after nothing better than a fifth-place finish in the first four races he then won four out of the next five races in the new Ferrari 312T.  His first World Championship was confirmed with a fifth win at the last race of the year, the United States GP.  He also became the first and only driver to lap the Nurburgring Nordschleife in under 7 minutes, which was considered a huge feat.  And the Nordschleife section of the Nurburgring was 2 miles longer than it is today.
+    - Picture: stamp0134.jpg
+      Width: 200
+      IssueDate: 2000
+      Description: |
+        A mini sheet containing one value showing Jody Scheckter.  Scheckter drove in F1 from 1972 to 1980; in 1979 he won the drivers title with Ferrari driving the 312T4.
     - Picture: stamp0139.jpg
       Width: 400
       IssueDate: 2010
@@ -83,17 +83,6 @@
   - Country: Republic of Burundi
     Flag: BURU0001.jpg
     Stamps:
-    - Picture: stamp0588.jpg
-      Width: 400
-      IssueDate: 2012
-      Description: |
-        The Mercedes-Benz W196 was produced for the 1954 and 1955 seasons.  In the hands of Juan Manuel Fangio and Stirling Moss it won 9 of 12 races entered and captured the only two world (drivers) championships in which it competed.<br>
-        <br>
-        Firsts included the use of desmodromic valves and Daimler-Benz developed mechanical direct fuel injection adapted from the DB 601 high-performance V12 used on the Messerschmitt Bf 109E fighter during World War II.<br>
-        <br>
-        Two variants were produced, the aerodynamic closed-wheel aluminium "Type Monza" streamliner was used only at Monza (where it picked up its nickname) and Silverstone, but was found to be really only suited to high-speed tracks made up of straights and slow corners.  It was defeated at Silverstone (a high-speed corner dominated circuit), so the open wheel version was introduced for the German Grand Prix.<br>
-        <br>
-        At the end of the 1955 season Mercedes withdrew from motorsport.
     - Picture: stamp0301.jpg
       Width: 400
       IssueDate: 2012
@@ -113,6 +102,17 @@
         In his first year driving for Red Bull in 2009, Vettel finished the season as the youngest-ever World Drivers' championship runner-up. The following year he went on to become the youngest driver ever to win the World Drivers' Championship. In the same year he helped Red Bull win the team's first World Constructors' Championship. He followed up his first championship with a second in 2011, becoming the youngest double as well as youngest consecutive champion. Vettel won the 2012 F1 World Championship, becoming the youngest triple champion in the history of the sport.<br>
         <br>
         Vettel holds numerous other "youngest" Formula One records, among them: the youngest driver to have taken part in an official practice session of a Grand Prix, to score championship points, to lead a race, to secure pole position, and to win a race.
+    - Picture: stamp0588.jpg
+      Width: 400
+      IssueDate: 2012
+      Description: |
+        The Mercedes-Benz W196 was produced for the 1954 and 1955 seasons.  In the hands of Juan Manuel Fangio and Stirling Moss it won 9 of 12 races entered and captured the only two world (drivers) championships in which it competed.<br>
+        <br>
+        Firsts included the use of desmodromic valves and Daimler-Benz developed mechanical direct fuel injection adapted from the DB 601 high-performance V12 used on the Messerschmitt Bf 109E fighter during World War II.<br>
+        <br>
+        Two variants were produced, the aerodynamic closed-wheel aluminium "Type Monza" streamliner was used only at Monza (where it picked up its nickname) and Silverstone, but was found to be really only suited to high-speed tracks made up of straights and slow corners.  It was defeated at Silverstone (a high-speed corner dominated circuit), so the open wheel version was introduced for the German Grand Prix.<br>
+        <br>
+        At the end of the 1955 season Mercedes withdrew from motorsport.
     - Picture: stamp0644.jpg
       Width: 400
       IssueDate: 20th May 2016
@@ -161,6 +161,15 @@
         Following further race wins at the Hungarian and Japanese Grand Prix, Hamilton came second to the drivers championship to Kimi Raikkonen (Ferrari) by 1 point.  Hamilton had the same number of points as Alsono (109), but was classified ahead of Alonso.  McLaren would have won the constructors title, but were stripped of all of their points due to the espionage scandal between them and Ferrari.<br>
         <br>
         Ahead of the world championship finale in Brazil, Hamilton answered a question about what it would mean to him to become the first black champion, saying: "It will show that not only white people can do it, but also black people, Indians, Japanese and Chinese. It will be good to mean something."  Having made few public remarks about his ethnicity since becoming an F1 driver, Hamilton added: "Outside of Formula One my heroes are foremost my father, then Nelson Mandela and Martin Luther King.  Being black is not a negative.  It's a positive, if anything, because I'm different.  In the future it can open doors to different cultures and that is what motor sport is trying to do anyway".
+    - Picture: stamp0141.jpg
+      Width: 400
+      IssueDate: 2008
+      Description: |
+        A mini sheet of two values featuring Ayrton Senna and Alain Prost.<br>
+        <br>
+        Ayrton Senna raced in F1 from 1984 to 1994, driving for Toleman, Lotus, McLaren and Williams - Senna won the driver's championship three times with McLaren in 1988, 1990 and 1991.<br>
+        <br>
+        Alain Prost raced in F1 from 1980 to 1993, driving for McLaren, Renault, Ferrari and Williams - Prost won the driver's championship four times 1985, 1986, 1989 (McLaren) and 1993 (Williams).
     - Picture: stamp0142.jpg
       Width: 400
       IssueDate: 2008
@@ -179,15 +188,6 @@
         Michael Schumacher raced in F1 from 1991 to 2006 and then returned in 2010, driving for Jordan, Benetton, Ferrari and Mercedes - Schumacher won the driver's title twice with Benetton and five times with Ferrari.<br>
         <br>
         Mika Hakkinen raced in F1 from 1991 to 2001, driving for Lotus and McLaren - Hakkinen won the driver's championship twice with McLaren in 1998 and 1999.
-    - Picture: stamp0141.jpg
-      Width: 400
-      IssueDate: 2008
-      Description: |
-        A mini sheet of two values featuring Ayrton Senna and Alain Prost.<br>
-        <br>
-        Ayrton Senna raced in F1 from 1984 to 1994, driving for Toleman, Lotus, McLaren and Williams - Senna won the driver's championship three times with McLaren in 1988, 1990 and 1991.<br>
-        <br>
-        Alain Prost raced in F1 from 1980 to 1993, driving for McLaren, Renault, Ferrari and Williams - Prost won the driver's championship four times 1985, 1986, 1989 (McLaren) and 1993 (Williams).
     - Picture: stamp0597.jpg
       Width: 400
       IssueDate: 2014
@@ -197,23 +197,16 @@
         Lombardi competed in F1 from 1974 to 1976 driving for various teams - in her career she drove the Brabham BT42, BT44B, March 741, 751 and 761 and the Williams FW04.<br>
         <br>
         Only two female drivers have qualified for a F1 race.
-    - Picture: stamp0592.jpg
+    - Picture: stamp0595.jpg
       Width: 200
       IssueDate: 2015
       Description: |
-        The FW37 was Williams' car for the 2015 season.  This was the first car to be presented for the 2015 season as Williams released a computer rendering on 21st January.  The car proved to be reasonably competitive, scoring points in most races - driven by Felipe Massa and Valtteri Bottas the team secured third place in the constructors' championship.<br>
-        <br>
-        The team retained the Martini alcohol brand as their main sponsor, thereby keeping the car in the traditional Martini Racing colours.
+        The Mercedes F1 W06 Hybrid totally dominated the 2015 season in the hands of Lewis Hamilton and Nico Rosberg.  In fact this car is statistically the most dominant car in the history of F1.  There were minimal design changes from the previous season's car, Lewis Hamilton declared that "it is difficult to pick up any differences".  It was an evolutionary design, the main changes being to comply with the changes in the regulations.
     - Picture: stamp0593.jpg
       Width: 200
       IssueDate: 2015
       Description: |
         The RB11 was Red Bull's car for the 2015 season.  It was designed by Adrian Newey and was the last car with engines badged as "Renault".
-    - Picture: stamp0594.jpg
-      Width: 200
-      IssueDate: 2015
-      Description: |
-        The Ferrari SF15-T was Ferrari's car for the 2015 season.  Carrying on his tradition of naming his cars, Sebastian Vettel named his SF15-T "Eva".  This car proved to be the only serious challenger to the dominant Mercedes team in 2015, and Ferrari finished second in the constructors' championship, a marked improvement on the previous years performance.
     - Picture: stamp0596.jpg
       Width: 400
       IssueDate: 2015
@@ -223,11 +216,18 @@
         - Red Bull RB11<br>
         - Williams Martini FW37<br>
         - Ferrari SF15-T
-    - Picture: stamp0595.jpg
+    - Picture: stamp0592.jpg
       Width: 200
       IssueDate: 2015
       Description: |
-        The Mercedes F1 W06 Hybrid totally dominated the 2015 season in the hands of Lewis Hamilton and Nico Rosberg.  In fact this car is statistically the most dominant car in the history of F1.  There were minimal design changes from the previous season's car, Lewis Hamilton declared that "it is difficult to pick up any differences".  It was an evolutionary design, the main changes being to comply with the changes in the regulations.
+        The FW37 was Williams' car for the 2015 season.  This was the first car to be presented for the 2015 season as Williams released a computer rendering on 21st January.  The car proved to be reasonably competitive, scoring points in most races - driven by Felipe Massa and Valtteri Bottas the team secured third place in the constructors' championship.<br>
+        <br>
+        The team retained the Martini alcohol brand as their main sponsor, thereby keeping the car in the traditional Martini Racing colours.
+    - Picture: stamp0594.jpg
+      Width: 200
+      IssueDate: 2015
+      Description: |
+        The Ferrari SF15-T was Ferrari's car for the 2015 season.  Carrying on his tradition of naming his cars, Sebastian Vettel named his SF15-T "Eva".  This car proved to be the only serious challenger to the dominant Mercedes team in 2015, and Ferrari finished second in the constructors' championship, a marked improvement on the previous years performance.
   - Country: Democratic Republic of the Congo
     Flag: congo-republic-of-the-large-flag-cf.jpg
     Stamps:
@@ -245,6 +245,11 @@
         A mini sheet of 9 values featuring the 2002 Austrian Grand Prix.  The race was held at the A1-Ring circuit; it was infamous for the "staged finish", where race leader Rubens Barrichello, was ordered to allow Ferrari teammate Michael Schumacher to overtake him under "team orders" and win the Grand Prix.  Ferrari wanted their number one driver Schumacher to win the race and collect the maximum points for the Drivers' Championship.  Barrichello let him pass on the last lap at the finish line which greatly upset the spectators.  Barrichello had also yielded second place to Schumacher at the line in the previous year's event.<br>
          <br>
         On the podium, in response to the jeers of the crowd, Schumacher insisted that Barrichello take the top spot on the podium.  Schumacher took the trophy for first place from the Austrian chancellor and gave it to Barrichello, who then took the second place trophy.  Barrichello, Schumacher and Ferrari were fined one million U.S. dollars for the failure to observe Article 170 of the Formula One Sporting Regulations concerning the podium ceremony.  As a result of this, and another incident at the United States Grand Prix, the FIA declared new rules against "team orders" artificially affecting race results.
+    - Picture: stamp0147.jpg
+      Width: 400
+      IssueDate: 2003
+      Description: |
+        A sheet of two values showing various Ferrari F1 cars.
     - Picture: stamp0146.jpg
       Width: 400
       IssueDate: 2003
@@ -256,11 +261,6 @@
         In 1947 Ferrari constructed the 12-cylinder, 1.5 L Tipo 125, the first racing car to bear the Ferrari name.  A Formula One version of the Tipo 125, the Ferrari 125 F1 was developed in 1948 and entered in several Grand Prix, at the time a World Championship had not yet been established.<br>
         <br>
         In 1950, the Formula One World Championship was established, and Scuderia Ferrari entered in this first season.  It is the only team to have competed in every season of the World Championship, from its inception to the current day.
-    - Picture: stamp0147.jpg
-      Width: 400
-      IssueDate: 2003
-      Description: |
-        A sheet of two values showing various Ferrari F1 cars.
     - Picture: stamp0148.jpg
       Width: 400
       IssueDate: 2003
@@ -289,21 +289,16 @@
       IssueDate: 2005
       Description: |
         A mini sheet of six values showing various F1 cars.
-    - Picture: stamp0062.jpg
-      Width: 400
-      IssueDate: 2005
-      Description: |
-        A sheet of five values featuring Concorde and Ayrton Senna and Alain Prost.
-    - Picture: stamp0153.jpg
-      Width: 400
-      IssueDate: 2005
-      Description: |
-        Senna is regarded as one of the greatest drivers in the history of Formula One.  In 2009, a poll of 217 current and former Formula One drivers chose Senna as their greatest Formula One driver, in a survey conducted by British magazine Autosport.  He was recognised for his qualifying speed over one lap and from 1989 until 2006 held the record for most pole positions.  He was among the most talented drivers in extremely rain-affected conditions, as shown by his performances in the 1984 Monaco Grand Prix, the 1985 Portuguese Grand Prix, and the 1993 European Grand Prix.  He also holds the record for most victories at the prestigious Monaco Grand Prix (6) and is the third most successful driver of all time in terms of race wins.  However, Senna courted controversy throughout his career, particularly during his turbulent rivalry with Alain Prost, which was marked by two championship-deciding collisions at the 1989 and 1990 Japanese Grands Prix.
     - Picture: stamp0151.jpg
       Width: 400
       IssueDate: 2005
       Description: |
         A mini sheet with one value featuring Ferrari F1 cars.
+    - Picture: stamp0062.jpg
+      Width: 400
+      IssueDate: 2005
+      Description: |
+        A sheet of five values featuring Concorde and Ayrton Senna and Alain Prost.
     - Picture: stamp0152.jpg
       Width: 400
       IssueDate: 2005
@@ -311,6 +306,11 @@
         During the late 1980s and early 1990s, Prost formed a fierce rivalry with Ayrton Senna, Nelson Piquet and Nigel Mansell.  In 1986, at the last race of the season, he managed to pip Mansell and Piquet of Williams to the title.  Senna joined Prost at McLaren in 1988 and the two had a series of controversial clashes, including a collision at the 1989 Japanese Grand Prix that gave Prost his third Drivers' Championship.  A year later at the same venue they collided again, but this time Prost, driving for Ferrari, lost out.  Before the end of a winless 1991 season Prost was fired by Ferrari for his public criticism of the team.  After a sabbatical in 1992, Prost joined the Williams team, prompting reigning drivers' champion Mansell to leave for CART.  With a competitive car, Prost won the 1993 championship but he retired at the end of the year rather than be teammates with Senna who signed for 1994.<br>
         <br>
         Prost employed a smooth, relaxed style behind the wheel, deliberately modeling himself on personal heroes like Jackie Stewart and Jim Clark.  He was nicknamed 'The Professor' for his intellectual approach to competition.  Skilled at setting up his car for race conditions, Prost would often conserve his brakes and tyres early on in a race, leaving them fresher for a challenge at the end of the race.
+    - Picture: stamp0153.jpg
+      Width: 400
+      IssueDate: 2005
+      Description: |
+        Senna is regarded as one of the greatest drivers in the history of Formula One.  In 2009, a poll of 217 current and former Formula One drivers chose Senna as their greatest Formula One driver, in a survey conducted by British magazine Autosport.  He was recognised for his qualifying speed over one lap and from 1989 until 2006 held the record for most pole positions.  He was among the most talented drivers in extremely rain-affected conditions, as shown by his performances in the 1984 Monaco Grand Prix, the 1985 Portuguese Grand Prix, and the 1993 European Grand Prix.  He also holds the record for most victories at the prestigious Monaco Grand Prix (6) and is the third most successful driver of all time in terms of race wins.  However, Senna courted controversy throughout his career, particularly during his turbulent rivalry with Alain Prost, which was marked by two championship-deciding collisions at the 1989 and 1990 Japanese Grands Prix.
     - Picture: stamp0155.jpg
       Width: 400
       IssueDate: 2006
@@ -324,19 +324,6 @@
         Kimi Raikkonen / McLaren: Raikkonen drove for McLaren from 2002 to 2006, his best result for McLaren was runner up in the drivers championship in 2003 and 2005.<br>
         <br>
         Fernando Alonso / Renault: Alonso drove for Renault from 2003 to 2009 (except for 2007 when he partnered Lewis Hamilton at McLaren), winning the drivers title in 2005 and 2006.
-    - Picture: stamp0156.jpg
-      Width: 400
-      IssueDate: 2007
-      Description: |
-        A miniature sheet showing various Ferrari cars, which includes the Ferrari 246 F1.<br>
-        <br>
-        The Ferrari 246 F1 was a Ferrari racing car built for the Formula One World Championship of 1958.<br>
-        <br>
-        The 246 used a 2417 cc Dino V6 engine with a 65degree angle between the cylinder banks.  This was the first use of a V6 engine in a Formula One car, but otherwise the 246 was a conventional front engine design.  The Ferrari 246 was good enough to win a World Championship for Mike Hawthorn and a second place in the Constructors Championship for Ferrari.<br>
-        <br>
-        The Ferrari 246 was not only the first V6 engined car to win a Formula One Grand Prix, the French Grand Prix at Reims in 1958, it was also the last front engined car to win a Formula One Grand Prix.  This occurred at the 1960 Italian Grand Prix at Monza, where the major British teams boycotted the race.<br>
-        <br>
-        In 1960, the Ferrari 246 designation was also used for the first mid-engined Ferrari, the 246P Formula One car, again using a Dino V6 engine of 2417 cc.
     - Picture: stamp0157.jpg
       Width: 400
       IssueDate: 2007
@@ -351,6 +338,24 @@
         Eddie Irvine and the Ferrari F399 at the 1999 Monaco Grand Prix: Irvine came second to Schumacher.<br>
         <br>
         Michael Schumacher and the Ferrari F2003-GA at the 2003 Monaco Grand Prix: Schumacher came third.
+    - Picture: stamp0156.jpg
+      Width: 400
+      IssueDate: 2007
+      Description: |
+        A miniature sheet showing various Ferrari cars, which includes the Ferrari 246 F1.<br>
+        <br>
+        The Ferrari 246 F1 was a Ferrari racing car built for the Formula One World Championship of 1958.<br>
+        <br>
+        The 246 used a 2417 cc Dino V6 engine with a 65degree angle between the cylinder banks.  This was the first use of a V6 engine in a Formula One car, but otherwise the 246 was a conventional front engine design.  The Ferrari 246 was good enough to win a World Championship for Mike Hawthorn and a second place in the Constructors Championship for Ferrari.<br>
+        <br>
+        The Ferrari 246 was not only the first V6 engined car to win a Formula One Grand Prix, the French Grand Prix at Reims in 1958, it was also the last front engined car to win a Formula One Grand Prix.  This occurred at the 1960 Italian Grand Prix at Monza, where the major British teams boycotted the race.<br>
+        <br>
+        In 1960, the Ferrari 246 designation was also used for the first mid-engined Ferrari, the 246P Formula One car, again using a Dino V6 engine of 2417 cc.
+    - Picture: stamp0159.jpg
+      Width: 200
+      IssueDate: 2008
+      Description: |
+        A two stamp sheet showing Lewis Hamilton.  In his first season in Formula One, Hamilton set numerous records (most poles in a debut season - 6, most wins in a debut season - 4, and most points in a debut season - 109) and finished second in the 2007 Formula One Championship, just one point behind Kimi Raikkonen.  He won his first World Championship the following season, ahead of Felipe Massa by the same margin of a single point, becoming the youngest even F1 world champion (at 23 years and 300 days).  Hamilton has a long standing association the McLaren team, for which he drives.
     - Picture: stamp0160.jpg
       Width: 200
       IssueDate: 2008
@@ -360,11 +365,6 @@
         Felipe Massa started driving for Ferrari in 2006 (having previously spent three years with Sauber).<br>
         <br>
         His best result to date came in 2008 when he was runner up in the drivers' championship - just losing out to Lewis Hamilton in a dramatic end to the season at the Brazilian Grand Prix.  Going into the last lap, if the order stayed as it was, then Massa would have been champion.  Massa crossed the chequered flag first and thought that he had won the championship.  Hamilton was sixth as he came up to the second-to-last corner, but then passed Glock who had just been overtaken by Vettel and who was struggling for grip on his dry tyres (in the wet), and so this moved him into 5th place.  Crossing the line Hamilton won the Drivers title by a just a single point.  If he had tied points with Massa, by virtue of 6 victories to 5 in the season, Massa would have won the title.
-    - Picture: stamp0159.jpg
-      Width: 200
-      IssueDate: 2008
-      Description: |
-        A two stamp sheet showing Lewis Hamilton.  In his first season in Formula One, Hamilton set numerous records (most poles in a debut season - 6, most wins in a debut season - 4, and most points in a debut season - 109) and finished second in the 2007 Formula One Championship, just one point behind Kimi Raikkonen.  He won his first World Championship the following season, ahead of Felipe Massa by the same margin of a single point, becoming the youngest even F1 world champion (at 23 years and 300 days).  Hamilton has a long standing association the McLaren team, for which he drives.
     - Picture: stamp0161.jpg
       Width: 400
       IssueDate: 2009
@@ -379,13 +379,6 @@
         In its design philosophy behind the new car, the team says the MP4/22 features "some advanced engineering concepts" and "novel aerodynamic solutions".  On 17 January 2007, Fernando Alonso completed a shakedown test in the Ricardo Tormo circuit in Valencia, setting the fastest lap time of 1:12.050.<br>
         <br>
         The MP4/22 has proved to be far more competitive than its similar looking predecessor and McLaren scored 8 victories, unlike in 2006.  The car proved to be the most reliable car of the season, with no mechanical retirements in the first 15 races, and one of the two fastest cars on the field (along with the Ferraris). The low downforce package of the MP4/22 was extremely competitive.  McLaren, with the aid of their improved car, scored as many team points in the first half of 2007 as they had done during the entire year in 2006.
-    - Picture: stamp0360.jpg
-      Width: 400
-      IssueDate: 23rd March 2012
-      Description: |
-        A commemorative sheet featuring Ayrton Senna.<br>
-        <br>
-        The sheet also shows the Lotus 98T, driven by Senna in 1986 - Senna won two races that year and came fourth in drivers' championship.  The McLaren MP4/6 was driven by Senna in 1991, the year in which he won his third and final world championship title.  The Williams FW16 is the car that Senna drove in his first season for Williams and the car in which he lost his life.
     - Picture: stamp0361.jpg
       Width: 400
       IssueDate: 23rd March 2012
@@ -393,6 +386,20 @@
         A commemorative sheet featuring Juan Manuel Fangio.<br>
         <br>
         Fangio competed in F1 from 1950 to 1958 - he won the drivers' championship five times, with four different teams (Alfa Romeo, Mercedes-Benz, Ferrari and Maserati) - a feat that has never been repeated.  Regarded by many as the greatest driver of all time, Fangio was held in high regard by the drivers.  In his final race, Mike Hawthorn had lapped Fangio, but just before Hawthorn crossed the line, he braked to allow Fangio through so that he could complete the full race distance.
+    - Picture: stamp0362.jpg
+      Width: 400
+      IssueDate: 23rd March 2012
+      Description: |
+        A commemorative sheet featuring Emerson Fittipaldi.<br>
+        <br>
+        Fittipaldi competed in F1 from 1970 to 1980, driving for Lotus, McLaren and later his brother's team.  He won the drivers' championship in 1972 with Lotus and then again in 1974 with McLaren.  The years from 1976 to 1980, with the Fittipaldi Automotive team, were largely unsuccessful, the car even failed to qualify on a number of occasions.
+    - Picture: stamp0360.jpg
+      Width: 400
+      IssueDate: 23rd March 2012
+      Description: |
+        A commemorative sheet featuring Ayrton Senna.<br>
+        <br>
+        The sheet also shows the Lotus 98T, driven by Senna in 1986 - Senna won two races that year and came fourth in drivers' championship.  The McLaren MP4/6 was driven by Senna in 1991, the year in which he won his third and final world championship title.  The Williams FW16 is the car that Senna drove in his first season for Williams and the car in which he lost his life.
     - Picture: stamp0289.jpg
       Width: 400
       IssueDate: 2012
@@ -407,20 +414,6 @@
         Toyota TF108 - 2008, drivers: Jarno Trulli, Timo Glock, constructors' championship: 5th<br>
         McLaren MP4/25 - 2010, drivers: Lewis Hamilton, Jenson Button, constructors' championship: 2nd<br>
         McLaren MP4/24 - 2009, drivers: Lewis Hamilton, Heikki Kovalainen, constructors' championship: 3rd
-    - Picture: stamp0362.jpg
-      Width: 400
-      IssueDate: 23rd March 2012
-      Description: |
-        A commemorative sheet featuring Emerson Fittipaldi.<br>
-        <br>
-        Fittipaldi competed in F1 from 1970 to 1980, driving for Lotus, McLaren and later his brother's team.  He won the drivers' championship in 1972 with Lotus and then again in 1974 with McLaren.  The years from 1976 to 1980, with the Fittipaldi Automotive team, were largely unsuccessful, the car even failed to qualify on a number of occasions.
-    - Picture: stamp0599.jpg
-      Width: 400
-      IssueDate: 2015
-      Description: |
-        The McLaren MP4/4 was one of most dominant F1 cars ever built.  It was designed by Steve Nichols and Gordon Murray and was based on the previous year's lowline Brabham BT55.  In the hands of Ayrton Senna and Alain Prost (in 1988) the car secured 15 poles and 15 wins out of the 16 races.<br>
-        <br>
-        The lowline concept was that a low car with a reduced front area of about 30% would be more aerodynamically efficient and allow more to pass over the rear wing causing more downforce to be produced, but without excessive drag.  The recently acquired Honda engine was ideally suited to this concept with its low centre of gravity as it did not exhibit the problems of the previous year's Brabham (fuel and oil starvation).  The combination of the lowline concept and the Honda engine are what made this car so dominant.
     - Picture: stamp0598.jpg
       Width: 400
       IssueDate: 2015
@@ -431,6 +424,13 @@
         - Mercedes W05 - 2014 driven by Lewis Hamilton and Nico Rosberg<br>
         - Ferrari F2004 - 2004 driven by Michael Schumacher and Rubens Barrichello<br>
         - Williams FW17 - 1995 driven by Damon Hill and David Coulthard
+    - Picture: stamp0599.jpg
+      Width: 400
+      IssueDate: 2015
+      Description: |
+        The McLaren MP4/4 was one of most dominant F1 cars ever built.  It was designed by Steve Nichols and Gordon Murray and was based on the previous year's lowline Brabham BT55.  In the hands of Ayrton Senna and Alain Prost (in 1988) the car secured 15 poles and 15 wins out of the 16 races.<br>
+        <br>
+        The lowline concept was that a low car with a reduced front area of about 30% would be more aerodynamically efficient and allow more to pass over the rear wing causing more downforce to be produced, but without excessive drag.  The recently acquired Honda engine was ideally suited to this concept with its low centre of gravity as it did not exhibit the problems of the previous year's Brabham (fuel and oil starvation).  The combination of the lowline concept and the Honda engine are what made this car so dominant.
   - Country: Central African Republic
     Flag: CAFR0001.jpg
     Stamps:
@@ -451,12 +451,12 @@
         <br>
         - Ayrton Senna<br>
         - Michael Schumacher
-    - Picture: stamp0572.jpg
+    - Picture: stamp0573.jpg
       Width: 400
       IssueDate: 2014
       Description: |
         A mini sheet featuring Michael Schumacher.  On 29th December 2013 Schumacher suffered a severe head injury in a skiing accident.  His precise condition is being kept private by the family, but it is extremely serious suggesting that he is paralysed, cannot speak and has memory problems.
-    - Picture: stamp0573.jpg
+    - Picture: stamp0572.jpg
       Width: 400
       IssueDate: 2014
       Description: |
@@ -466,11 +466,6 @@
       IssueDate: 2015
       Description: |
         A commemorative sheet featuring Lewis Hamilton.  In 2015, Hamilton became a triple world champion as the Mercedes team continued to dominate F1.  Hamilton secured the title at the United States Grand Prix with three races left to run.  Hamilton joins the likes of Juan Manuel Fangio, Jack Brabham, Jackie Stewart, Niki Lauda, Nelson Piquet, Alain Prost, Ayrton Senna, Sebastian Vettel and Michael Schumacher who have all won the world championship three or more times.
-    - Picture: stamp0640.jpg
-      Width: 400
-      IssueDate: 2016
-      Description: |
-        A mini sheet featuring Ayrton Senna and the McLaren MP4/5B - in 1990 Senna drove this car to his second World Championship.  At the penultimate round of the championship in Japan, where Senna and Prost collided the previous year, Senna took pole ahead of Prost - with nine points separating the two drivers.  Before qualifying, Senna had sought assurances from the organisers to move pole position left onto the clean side of the racetrack.  After qualifying, FIA president Balestre denied Senna's request, leaving Senna to start on the dirty right side, thus favouring Prost on the left.  In addition, as revealed by F1 journalist Maurice Hamilton, the FIA had warned that crossing the yellow line of the pit exit on the right to better position oneself at the first corner would have not been appropriate, further infuriating Senna.  At the beginning of the race, Prost pulled ahead of Senna, who immediately tried to repass Prost at the first corner.  While Prost turned in, Senna kept his foot on the accelerator and the cars collided at 170 mph and spun out of the race, making Senna world champion.
     - Picture: stamp0641.jpg
       Width: 400
       IssueDate: 2016
@@ -481,6 +476,11 @@
         - Alain Prost and the Williams FW15C, the car in which he achieved his fourth World Championship<br>
         - Juan Manuel Fangio and the Maserati 250F, the car in which he achieved his fifth World Championship<br>
         - Jackie Stewart and the Tyrrell 006, the car in which he achieved his third World Championship
+    - Picture: stamp0640.jpg
+      Width: 400
+      IssueDate: 2016
+      Description: |
+        A mini sheet featuring Ayrton Senna and the McLaren MP4/5B - in 1990 Senna drove this car to his second World Championship.  At the penultimate round of the championship in Japan, where Senna and Prost collided the previous year, Senna took pole ahead of Prost - with nine points separating the two drivers.  Before qualifying, Senna had sought assurances from the organisers to move pole position left onto the clean side of the racetrack.  After qualifying, FIA president Balestre denied Senna's request, leaving Senna to start on the dirty right side, thus favouring Prost on the left.  In addition, as revealed by F1 journalist Maurice Hamilton, the FIA had warned that crossing the yellow line of the pit exit on the right to better position oneself at the first corner would have not been appropriate, further infuriating Senna.  At the beginning of the race, Prost pulled ahead of Senna, who immediately tried to repass Prost at the first corner.  While Prost turned in, Senna kept his foot on the accelerator and the cars collided at 170 mph and spun out of the race, making Senna world champion.
     - Picture: stamp0673.jpg
       Width: 400
       IssueDate: 21st August 2017
@@ -505,16 +505,6 @@
         - McLaren MCL32 - driven in 2017 by by two-time World Drivers' Champion Fernando Alonso, who stayed with the team for a third season; and Stoffel Vandoorne, who joined the team after Jenson Button retired from full-time competition at the end of the 2016 season.  Originally known as the MP4-32, MCL32 was introduced following CEO Ron Dennis's departure from the team's parent company, the McLaren Technology Group, in November 2016.<br>
         <br>
         - Ferrari SF70H - driven in 2017 by Sebastian Vettel and Kimi Raikkonen, named the SF70H because of the Scuderia Ferrari's 70th anniversary.
-    - Picture: stamp0694.jpg
-      Width: 400
-      IssueDate: 20th September 2018
-      Description: |
-        A mini sheet of four values featuring the following cars and drivers from the 2018 season:<br>
-        <br>
-        - McLaren MCL33 and Fernando Alonso<br>
-        - Red Bull RB14 and Daniel Ricciardo<br>
-        - Mercedes AMG F1 W09 EQ Powerplus and Lewis Hamilton<br>
-        - Ferrari SF71H and Sebastian Vettel
     - Picture: stamp0693.jpg
       Width: 400
       IssueDate: 20th September 2018
@@ -525,6 +515,16 @@
         - Ferrari SF71H and Sebastian Vettel<br>
         - Haas VF-16 and Kevin Magnussen<br>
         - McLaren MCL33 and Fernando Alonso
+    - Picture: stamp0694.jpg
+      Width: 400
+      IssueDate: 20th September 2018
+      Description: |
+        A mini sheet of four values featuring the following cars and drivers from the 2018 season:<br>
+        <br>
+        - McLaren MCL33 and Fernando Alonso<br>
+        - Red Bull RB14 and Daniel Ricciardo<br>
+        - Mercedes AMG F1 W09 EQ Powerplus and Lewis Hamilton<br>
+        - Ferrari SF71H and Sebastian Vettel
   - Country: Republic of Djibouti
     Flag: DJIB0001.jpg
     Stamps:
@@ -558,11 +558,6 @@
       IssueDate: 28th July 2017
       Description: |
         A mini sheet of four values featuring various F1 cars.
-    - Picture: stamp0688.jpg
-      Width: 400
-      IssueDate: 19th February 2018
-      Description: |
-        A mini sheet of four values featuring various F1 cars.
     - Picture: stamp0687.jpg
       Width: 400
       IssueDate: 19th February 2018
@@ -570,6 +565,41 @@
         A mini sheet of one value featuring various F1 cars and the Malaysian Grand Prix.<br>
         <br>
         The Malaysian Grand Prix was part of the F1 World Championship from 1999 to 2017 and it was held during these years at the Sepang International Circuit.  In 2017 it was announced that no further races would be held due to rising hosting fees and declining ticket sales (probably due to the races's appeal being damaged by the more glamorous night-time event on a street track in Singapore).
+    - Picture: stamp0688.jpg
+      Width: 400
+      IssueDate: 19th February 2018
+      Description: |
+        A mini sheet of four values featuring various F1 cars.
+    - Picture: stamp0720.jpg
+      Width: 400
+      IssueDate: 12th December 2019
+      Description: |
+        A mini sheet of four values featuring the following cars and drivers:<br>
+        <br>
+        - Charles LeClerc, Ferrari SF90 (2019)<br>
+        - Sebastian Vettel, Ferrari SF90 (2019)<br>
+        - Lewis Hamilton, Mercedes AMG F1 W10 EQ Power+ (2019)<br>
+        - Valtteri Bottas, Mercedes AMG F1 W10 EQ Power+ (2019)
+    - Picture: stamp0719.jpg
+      Width: 400
+      IssueDate: 12th December 2019
+      Description: |
+        A mini sheet of one value featuring the following cars and drivers:<br>
+        <br>
+        - Max Verstappen, Red Bull RB15 (2019)<br>
+        - Sebastian Vettel, Ferrari SF90 (2019)<br>
+        - Lewis Hamilton, Mercedes AMG F1 W10 EQ Power+ (2019)
+    - Picture: stamp0715.jpg
+      Width: 400
+      IssueDate: 27th Februaruy 2019
+      Description: |
+        A mini sheet of one value issued to commemorate Niki Lauda's 70th birthday (22nd February 2019).<br>
+        <br>
+        The following cars are depicted:<br>
+        <br>
+        - McLaren MP4/1 (1983)<br>
+        - Ferrari 312 T2 (1976 and 1977 - 1977 drivers' title)<br>
+        - Ferrari 312 B3 (1975 and 1975 - 1975 drivers' title)
     - Picture: stamp0716.jpg
       Width: 400
       IssueDate: 27th Februaruy 2019
@@ -583,46 +613,9 @@
         - March 721G (1972)<br>
         - Brabham BT46 (1978)<br>
         - Brabham BT48 (1979)
-    - Picture: stamp0719.jpg
-      Width: 400
-      IssueDate: 12th December 2019
-      Description: |
-        A mini sheet of one value featuring the following cars and drivers:<br>
-        <br>
-        - Max Verstappen, Red Bull RB15 (2019)<br>
-        - Sebastian Vettel, Ferrari SF90 (2019)<br>
-        - Lewis Hamilton, Mercedes AMG F1 W10 EQ Power+ (2019)
-    - Picture: stamp0720.jpg
-      Width: 400
-      IssueDate: 12th December 2019
-      Description: |
-        A mini sheet of four values featuring the following cars and drivers:<br>
-        <br>
-        - Charles LeClerc, Ferrari SF90 (2019)<br>
-        - Sebastian Vettel, Ferrari SF90 (2019)<br>
-        - Lewis Hamilton, Mercedes AMG F1 W10 EQ Power+ (2019)<br>
-        - Valtteri Bottas, Mercedes AMG F1 W10 EQ Power+ (2019)
-    - Picture: stamp0715.jpg
-      Width: 400
-      IssueDate: 27th Februaruy 2019
-      Description: |
-        A mini sheet of one value issued to commemorate Niki Lauda's 70th birthday (22nd February 2019).<br>
-        <br>
-        The following cars are depicted:<br>
-        <br>
-        - McLaren MP4/1 (1983)<br>
-        - Ferrari 312 T2 (1976 and 1977 - 1977 drivers' title)<br>
-        - Ferrari 312 B3 (1975 and 1975 - 1975 drivers' title)
   - Country: Sahrawi Arab Democratic Republic
     Flag: 600px-Flag_of_the_Sahrawi_Arab_Democratic_Republic_svg.jpg
     Stamps:
-    - Picture: stamp0395.jpg
-      Width: 400
-      IssueDate: 2006
-      Description: |
-        A souvenir sheet featuring the Red Bull Racing team.<br>
-        <br>
-        In 2006, the Red Bull RB2 used the Ferrari V8 engine (following the move from the V10s).  This was Red Bull Racing's second season in F1 - David Coulthard delivered the team's first podium at the Monaco Grand Prix.  The team finished 7th in the constructors' championship.
     - Picture: stamp0397.jpg
       Width: 400
       IssueDate: 2006
@@ -630,13 +623,13 @@
         A souvenir sheet featuring the Renault F1 team.<br>
         <br>
         Renault has competed in F1 since 1977, in 2006 the team's contender was the R26 which featured a seven speed gearbox made of titanium.  The team celebrated its 200th Grand Prix at the 2006 Silverstone Grand Prix, with a win by Fernando Alonso.  With the R26, Fernando Alonso and Giancarlo Fisichella secured the constructors' championship for Renault.
-    - Picture: stamp0400.jpg
+    - Picture: stamp0395.jpg
       Width: 400
       IssueDate: 2006
       Description: |
-        A souvenir sheet featuring the Honda F1 team.<br>
+        A souvenir sheet featuring the Red Bull Racing team.<br>
         <br>
-        Honda has competed in F1 on and off since 1964, both as a constructor and an engine supplier.  In 2006, Honda re-entered F1 as a constructor having bought the majority stake in BAR at the end of 2005.  The highlight of 2006 for Honda was at the Hungarian Grand Prix - Jenson Button started 14th on the grid, but went on to win his first Grand Prix.  Honda came fourth in the constructors' championship in 2006.
+        In 2006, the Red Bull RB2 used the Ferrari V8 engine (following the move from the V10s).  This was Red Bull Racing's second season in F1 - David Coulthard delivered the team's first podium at the Monaco Grand Prix.  The team finished 7th in the constructors' championship.
     - Picture: stamp0399.jpg
       Width: 400
       IssueDate: 2006
@@ -665,6 +658,13 @@
         A souvenir sheet featuring the Super Aguri team.<br>
         <br>
         In 2006 the Super Aguri team first appeared on the grid; although based in Tokyo, the team operated from the former Arrows factory in Oxfordshire.  The first chassis entered by Super Aguri was based on the 2002 Arrows A23 and was powered by the Honda V8 engine.  The team never achieved any success in F1 and withdrew from the sport after the fourth race in 2008 due to a lack if funding.
+    - Picture: stamp0400.jpg
+      Width: 400
+      IssueDate: 2006
+      Description: |
+        A souvenir sheet featuring the Honda F1 team.<br>
+        <br>
+        Honda has competed in F1 on and off since 1964, both as a constructor and an engine supplier.  In 2006, Honda re-entered F1 as a constructor having bought the majority stake in BAR at the end of 2005.  The highlight of 2006 for Honda was at the Hungarian Grand Prix - Jenson Button started 14th on the grid, but went on to win his first Grand Prix.  Honda came fourth in the constructors' championship in 2006.
   - Country: Republic of Ghana
     Flag: GHAN0001.jpg
     Stamps:
@@ -691,6 +691,11 @@
   - Country: Republic of Guinea
     Flag: GUIN0001.jpg
     Stamps:
+    - Picture: stamp0259.jpg
+      Width: 200
+      IssueDate: 1998
+      Description: |
+        A single sheet of one value featuring Ayrton Senna - from the Events of the 20th century series.
     - Picture: stamp0364.jpg
       Width: 400
       IssueDate: 1998
@@ -703,11 +708,6 @@
         - Alain Prost<br>
         - Carlos Reutemann<br>
         - Jose Froilan Gonzalez
-    - Picture: stamp0259.jpg
-      Width: 200
-      IssueDate: 1998
-      Description: |
-        A single sheet of one value featuring Ayrton Senna - from the Events of the 20th century series.
     - Picture: stamp0218.jpg
       Width: 200
       IssueDate: 1998
@@ -793,13 +793,6 @@
         - Michael Schumacher<br>
         - Ayrton Senna<br>
         - Alain Prost
-    - Picture: stamp0578.jpg
-      Width: 200
-      IssueDate: 2015
-      Description: |
-        A mini sheet featuring Ayrton Senna.<br>
-        <br>
-        The sheet shows one of the iconic pictures of F1 - four world champions Ayrton Senna, Alain Prost, Nigel Mansell and Nelson Piquet posing before a race, the Portugese Grand Prix at Estoril (21st September 1986).
     - Picture: stamp0579.jpg
       Width: 200
       IssueDate: 2015
@@ -807,16 +800,13 @@
         A commemorative sheet featuring Ayrton Senna.  The sheet also depicts two of Senna's closest rivals Alain Prost and Gehard Berger.  One of the greatest rivalries in F1 was that of Senna and Prost, which started in 1988 when Senna joined Prost at McLaren and continued until 1993 when Prost signed a contract with Williams that had a clause forbidding Senna from becoming his teammate.<br>
         <br>
         Despite the bitter rivalry between Senna and Prost, the two had the utmost respect for one another.  This was evidenced by the fact that Prost was a pallbearer at Senna's funeral.  Years later Prost would say a part of him died when Senna perished because their rivalry had been so great.
-    - Picture: stamp0615.jpg
-      Width: 400
-      IssueDate: 2016
+    - Picture: stamp0578.jpg
+      Width: 200
+      IssueDate: 2015
       Description: |
-        A mini sheet of one value featuring the following F1 drivers:<br>
+        A mini sheet featuring Ayrton Senna.<br>
         <br>
-        - Lewis Hamilton<br>
-        - Nico Rosberg<br>
-        - Michael Schumacher<br>
-        - Giuseppe Farina
+        The sheet shows one of the iconic pictures of F1 - four world champions Ayrton Senna, Alain Prost, Nigel Mansell and Nelson Piquet posing before a race, the Portugese Grand Prix at Estoril (21st September 1986).
     - Picture: stamp0614.jpg
       Width: 400
       IssueDate: 2016
@@ -827,17 +817,16 @@
         - Niki Lauda<br>
         - Sebastian Vettl<br>
         - Lewis Hamilton
-    - Picture: stamp0668.jpg
+    - Picture: stamp0615.jpg
       Width: 400
-      IssueDate: 20th June 2017
+      IssueDate: 2016
       Description: |
-        A mini sheet of one value featuring the following F1 cars:<br>
+        A mini sheet of one value featuring the following F1 drivers:<br>
         <br>
-        - Red Bul RB12 - driven in 2016 by Daniel Ricciardo, Daniil Kvyat and Max Verstappen (after his promotion from the Toro Rosso team) - the car used a Renault engine re-badged as a TAG Heuer following the breakdown in the relationship between Red Bull and Renault in 2015, this was the last Red Bull car with fuel and lubricants from Total - ending their eight-year partnership.<br>
-        <br>
-        - Williams FW38 - driven in 2016 by Felipe Massa and Valtteri Bottas - during qualifying for the 2016 European Grand Prix, the FW38 set the highest ever recorded speed of a Formula One car during an official session, at 378 km/h (235 mph).<br>
-        <br>
-        - Manor MRT05 - driven in 2016 by three rookies, reigning Deutsche Tourenwagen Masters champion Pascal Wehrlein, GP2 Series regular Rio Haryanto and reigning GP3 Series champion Esteban Ocon - this was the only car produced by Manor as the team entered administration at the beginning of 2017 and folded in January of that year.
+        - Lewis Hamilton<br>
+        - Nico Rosberg<br>
+        - Michael Schumacher<br>
+        - Giuseppe Farina
     - Picture: stamp0669.jpg
       Width: 400
       IssueDate: 20th June 2017
@@ -851,35 +840,54 @@
         - Ferrari SF16-H - driven in 2016 by Sebastian Vettel and Kimi Raikkonen, a disappointing season for Ferrari as they did not win a race all season, for the second time in three seasons.<br>
         <br>
         - Sauber C35 - driven in 2016 by Marcus Ericsson and Felipe Nasr - the car proved to be less competitive compared to its predecessor due to less development over winter, caused by financial problems of the team.
+    - Picture: stamp0668.jpg
+      Width: 400
+      IssueDate: 20th June 2017
+      Description: |
+        A mini sheet of one value featuring the following F1 cars:<br>
+        <br>
+        - Red Bul RB12 - driven in 2016 by Daniel Ricciardo, Daniil Kvyat and Max Verstappen (after his promotion from the Toro Rosso team) - the car used a Renault engine re-badged as a TAG Heuer following the breakdown in the relationship between Red Bull and Renault in 2015, this was the last Red Bull car with fuel and lubricants from Total - ending their eight-year partnership.<br>
+        <br>
+        - Williams FW38 - driven in 2016 by Felipe Massa and Valtteri Bottas - during qualifying for the 2016 European Grand Prix, the FW38 set the highest ever recorded speed of a Formula One car during an official session, at 378 km/h (235 mph).<br>
+        <br>
+        - Manor MRT05 - driven in 2016 by three rookies, reigning Deutsche Tourenwagen Masters champion Pascal Wehrlein, GP2 Series regular Rio Haryanto and reigning GP3 Series champion Esteban Ocon - this was the only car produced by Manor as the team entered administration at the beginning of 2017 and folded in January of that year.
   - Country: Republic of Equatorial Guinea
     Flag: 750px-Flag_of_Equatorial_Guinea_svg.jpg
     Stamps:
-    - Picture: stamp0271.jpg
-      Width: 400
-      IssueDate: Unknown
-      Description: |
-        A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
-    - Picture: stamp0182.jpg
-      Width: 400
-      IssueDate: Unknown
-      Description: |
-        Johnny Herbert drove in F1 off and on from 1989 to 2000, starting out with Benetton and Tyrrell.  He then did a 4 year stint with Lotus, before moving back to Benetton via Ligier (for one race), after that Herbert moved to Sauber for 3 years, Stewart for 1 year and finally Jaguar for 1 year.  Herbert achieved only 3 race victories: 1995 British and Italian Grand Prix (Benetton) and 1999 European Grand Prix which was held at Nurburgring (Stewart).  During the mid-1980s, Johnny Herbert was widely regarded as a coming man of motor racing, comparable to the Scot Jim Clark.  Disaster struck in 1988, though, as Herbert, then a championship hopeful in International Formula 3000 was caught up in a major accident at Brands Hatch, badly breaking his legs in a fearsome impact with the barriers.  It was an act of huge bravery that saw him back in a racing car at the beginning of 1989, despite the fact he could barely walk.
     - Picture: stamp0181.jpg
       Width: 400
       IssueDate: Unknown
       Description: |
         Ricardo Patrese drove for Williams from 1987 (just the final race, replacing the injured Mansell) to 1992; in that time he was runner up in 1992 and third place in 1989 and 1991 in the drivers championship.  Williams dominated F1 in 1992 and Patrese continued to deliver in his role of second driver to Nigel Mansell, moving out of the way for Mansell while leading comfortably at that year's French Grand Prix.  Patrese took a single win at the Japanese Grand Prix and had eight other podium finishes, including six second-place results.  With Alain Prost, Ayrton Senna and Nigel Mansell all desperately trying to sign for Williams, Patrese's position looked to be under threat and he signed for Benetton before the end of the year.  Ironically, only Prost was able to agree terms with Williams for 1993, leaving a seat free for Patrese had he remained with the team.
-    - Picture: stamp0183.jpg
+    - Picture: stamp0275.jpg
       Width: 400
       IssueDate: Unknown
       Description: |
-        Jenson Button 'won' his race seat with Williams at the end of 1999; he drove for Williams in 2000, before moving to Benetton for 2001 and 2002 and then BAR Honda in 2003 (in 2007 this became the Honda team).  The elusive first win came at the Hungarian grand prix in 2006 in the wet.  At the end of 2008 Honda pulled out of F1 and the team became Brawn GP in 2009 following a management buyout - after years of having uncompetitive cars the Brawn BGP001 won 6 of the first 7 races and took Button to a well deserved drivers title and handed Brawn GP the constructors title.<br>
+        A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
+    - Picture: stamp0268.jpg
+      Width: 400
+      IssueDate: Unknown
+      Description: |
+        A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
+    - Picture: stamp0243.jpg
+      Width: 400
+      IssueDate: Unknown
+      Description: |
+        A single value sheetlet featuring Nelson Piquet.<br>
         <br>
-        Enrique Bernoldi is a Brazilian racing driver who drove for Arrows in 2001 and 2002 without much success.<br>
+        Piquet drove in F1 from 1978 to 1991, winning the drivers' championship on 1981 (Parmalat Racing Team, Brabham BT49C), 1983 (Fila Sport, Brabham BT52) and 1987 (Williams FW11B).  In 1983, he became the only driver to win the F1 championship in a BMW engined car.
+    - Picture: stamp0246.jpg
+      Width: 400
+      IssueDate: Unknown
+      Description: |
+        Single value sheetlet featuring Olivier Panis.<br>
         <br>
-        Alex Yoong drove for Minardi in 2001 and 2002; he was the first Malaysian F1 driver but never achieved much success.<br>
-        <br>
-        Christian Klien drove for Jaguar in 2004 and then Red Bull (which took over Jaguar) in 2005 and 2006; in 2007 he was test/reserve driver for Honda and in 2008 and 2009 he was test/reserve driver for BMW.  He never achieved much success in F1.
+        Panis drove in F1 from 1994 to 2004 (but not in 2000) for Ligier, Prost, BAR Honda and Toyota - he scored one win at the eventful Monaco Grand Prix in 1996 for the Ligier team after starting 14th.  To date, he is the last French driver to win a F1 Grand Prix.
+    - Picture: stamp0182.jpg
+      Width: 400
+      IssueDate: Unknown
+      Description: |
+        Johnny Herbert drove in F1 off and on from 1989 to 2000, starting out with Benetton and Tyrrell.  He then did a 4 year stint with Lotus, before moving back to Benetton via Ligier (for one race), after that Herbert moved to Sauber for 3 years, Stewart for 1 year and finally Jaguar for 1 year.  Herbert achieved only 3 race victories: 1995 British and Italian Grand Prix (Benetton) and 1999 European Grand Prix which was held at Nurburgring (Stewart).  During the mid-1980s, Johnny Herbert was widely regarded as a coming man of motor racing, comparable to the Scot Jim Clark.  Disaster struck in 1988, though, as Herbert, then a championship hopeful in International Formula 3000 was caught up in a major accident at Brands Hatch, badly breaking his legs in a fearsome impact with the barriers.  It was an act of huge bravery that saw him back in a racing car at the beginning of 1989, despite the fact he could barely walk.
     - Picture: stamp0184.jpg
       Width: 400
       IssueDate: Unknown
@@ -891,13 +899,43 @@
         David Coulthard drove for McLaren from 1996 to 2004; in that time he was runner up once and third place three times in the drivers championship.  Coulthard amassed a notable points haul placing him seventh on the all-time scorers list, being the top British scorer, in an F1 career spanning 15 seasons with Williams, McLaren and Red Bull Racing.<br>
         <br>
         Michael Schumacher and Ferrari - enough said.
-    - Picture: stamp0274.jpg
+    - Picture: stamp0244.jpg
+      Width: 400
+      IssueDate: Unknown
+      Description: |
+        Single value sheetlet featuring Giorgio Pantano.<br>
+        <br>
+        Pantano drove in F1 for the Jordan team in 2004 (driving the EJ14), he never achieved any success in F1 and so was replaced after just one season in F1.
+    - Picture: stamp0245.jpg
+      Width: 400
+      IssueDate: Unknown
+      Description: |
+        Single value sheetlet featuring Nick Heidfeld.<br>
+        <br>
+        Heidfeld drove in F1 from 2000 to 2011 - despite scoring regular podium finishes in 2007 and 2008, Heidfeld has yet to win a race since entering F1 in 2000, this means that  he has had the most GP starts without standing at the top spot on the podium - Heidfeld has started over 170 races - Heidfeld also currently holds three other records; he is the driver who has scored the highest number of world championship points without a Grand Prix win, holds the record for the most podium finishes without a Grand Prix win and has the most second place finishes without a win, with 8 - he also holds the record for the most consecutive race classifications with a tally of 41, and shares the record for most finishes in a season with Tiago Monteiro and Felipe Massa after finishing all 18 races in the 2008 season.
+    - Picture: stamp0183.jpg
+      Width: 400
+      IssueDate: Unknown
+      Description: |
+        Jenson Button 'won' his race seat with Williams at the end of 1999; he drove for Williams in 2000, before moving to Benetton for 2001 and 2002 and then BAR Honda in 2003 (in 2007 this became the Honda team).  The elusive first win came at the Hungarian grand prix in 2006 in the wet.  At the end of 2008 Honda pulled out of F1 and the team became Brawn GP in 2009 following a management buyout - after years of having uncompetitive cars the Brawn BGP001 won 6 of the first 7 races and took Button to a well deserved drivers title and handed Brawn GP the constructors title.<br>
+        <br>
+        Enrique Bernoldi is a Brazilian racing driver who drove for Arrows in 2001 and 2002 without much success.<br>
+        <br>
+        Alex Yoong drove for Minardi in 2001 and 2002; he was the first Malaysian F1 driver but never achieved much success.<br>
+        <br>
+        Christian Klien drove for Jaguar in 2004 and then Red Bull (which took over Jaguar) in 2005 and 2006; in 2007 he was test/reserve driver for Honda and in 2008 and 2009 he was test/reserve driver for BMW.  He never achieved much success in F1.
+    - Picture: stamp0269.jpg
       Width: 400
       IssueDate: Unknown
       Description: |
         A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
-    - Picture: stamp0273.jpg
-      Width: 200
+    - Picture: stamp0270.jpg
+      Width: 400
+      IssueDate: Unknown
+      Description: |
+        A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
+    - Picture: stamp0271.jpg
+      Width: 400
       IssueDate: Unknown
       Description: |
         A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
@@ -906,54 +944,16 @@
       IssueDate: Unknown
       Description: |
         A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
-    - Picture: stamp0244.jpg
-      Width: 400
+    - Picture: stamp0273.jpg
+      Width: 200
       IssueDate: Unknown
       Description: |
-        Single value sheetlet featuring Giorgio Pantano.<br>
-        <br>
-        Pantano drove in F1 for the Jordan team in 2004 (driving the EJ14), he never achieved any success in F1 and so was replaced after just one season in F1.
-    - Picture: stamp0270.jpg
+        A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
+    - Picture: stamp0274.jpg
       Width: 400
       IssueDate: Unknown
       Description: |
         A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
-    - Picture: stamp0269.jpg
-      Width: 400
-      IssueDate: Unknown
-      Description: |
-        A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
-    - Picture: stamp0268.jpg
-      Width: 400
-      IssueDate: Unknown
-      Description: |
-        A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
-    - Picture: stamp0245.jpg
-      Width: 400
-      IssueDate: Unknown
-      Description: |
-        Single value sheetlet featuring Nick Heidfeld.<br>
-        <br>
-        Heidfeld drove in F1 from 2000 to 2011 - despite scoring regular podium finishes in 2007 and 2008, Heidfeld has yet to win a race since entering F1 in 2000, this means that  he has had the most GP starts without standing at the top spot on the podium - Heidfeld has started over 170 races - Heidfeld also currently holds three other records; he is the driver who has scored the highest number of world championship points without a Grand Prix win, holds the record for the most podium finishes without a Grand Prix win and has the most second place finishes without a win, with 8 - he also holds the record for the most consecutive race classifications with a tally of 41, and shares the record for most finishes in a season with Tiago Monteiro and Felipe Massa after finishing all 18 races in the 2008 season.
-    - Picture: stamp0243.jpg
-      Width: 400
-      IssueDate: Unknown
-      Description: |
-        A single value sheetlet featuring Nelson Piquet.<br>
-        <br>
-        Piquet drove in F1 from 1978 to 1991, winning the drivers' championship on 1981 (Parmalat Racing Team, Brabham BT49C), 1983 (Fila Sport, Brabham BT52) and 1987 (Williams FW11B).  In 1983, he became the only driver to win the F1 championship in a BMW engined car.
-    - Picture: stamp0275.jpg
-      Width: 400
-      IssueDate: Unknown
-      Description: |
-        A series of single value mini sheets showing F1 cars, including Ferrari, Williams, McLaren and Honda.
-    - Picture: stamp0246.jpg
-      Width: 400
-      IssueDate: Unknown
-      Description: |
-        Single value sheetlet featuring Olivier Panis.<br>
-        <br>
-        Panis drove in F1 from 1994 to 2004 (but not in 2000) for Ligier, Prost, BAR Honda and Toyota - he scored one win at the eventful Monaco Grand Prix in 1996 for the Ligier team after starting 14th.  To date, he is the last French driver to win a F1 Grand Prix.
   - Country: Republic of Guinea-Bissau
     Flag: 500px-Flag_of_Guinea-Bissau_svg.jpg
     Stamps:
@@ -972,16 +972,16 @@
       IssueDate: 2005
       Description: |
         A single stamp featuring Ferrari F1 cars.
-    - Picture: stamp0542.jpg
-      Width: 400
-      IssueDate: 2007
-      Description: |
-        A commemorative sheet featuring Michael Schumacher.
     - Picture: stamp0543.jpg
       Width: 400
       IssueDate: 2007
       Description: |
         A commemorative sheet featuring Ayrton Senna.
+    - Picture: stamp0542.jpg
+      Width: 400
+      IssueDate: 2007
+      Description: |
+        A commemorative sheet featuring Michael Schumacher.
     - Picture: stamp0540.jpg
       Width: 400
       IssueDate: 2011
@@ -1002,12 +1002,12 @@
         - Sebastian Vettel and the Red Bull RB8<br>
         - Lewis Hamilton and the McLaren MP4/27<br>
         - Kimi Raikkonen and the Lotus E20
-    - Picture: stamp0539.jpg
+    - Picture: stamp0538.jpg
       Width: 400
       IssueDate: 2014
       Description: |
         A mini sheet issued to commemorate the 20th anniversary of the death of Ayrton Senna.
-    - Picture: stamp0538.jpg
+    - Picture: stamp0539.jpg
       Width: 400
       IssueDate: 2014
       Description: |
@@ -1022,11 +1022,6 @@
         - Daniel Ricciardo and an unknown Red Bull (possibly RB7 or RB6)<br>
         - Lewis Hamilton and the Mercedes F1 W07 Hybrid<br>
         - Sebastian Vettel and the Ferrari SF16-H
-    - Picture: stamp0690.jpg
-      Width: 400
-      IssueDate: 15th March 2018
-      Description: |
-        A mini sheet of five values featuring various F1 cars and the Malaysian Grand Prix.
     - Picture: stamp0689.jpg
       Width: 400
       IssueDate: 15th March 2018
@@ -1034,6 +1029,11 @@
         A mini sheet featuring the 2010 Malaysion Grand Prix.<br>
         <br>
         The race was won by Sebastian Vettel (Red Bull) followed by Mark Weber in the other Red Bull, Nico Rosberg (Mercedes) was third.  The race will be remembered for the storms during Qualifying which mixed up the grid, the result was some great charges from drivers who would normally be at the front on race day.  Ross Brawn believed the mix up to be too much reliance on weather radars and not enough common sense being applied to the conditions - the main casualties of this were the Ferraris and the McLarens.
+    - Picture: stamp0690.jpg
+      Width: 400
+      IssueDate: 15th March 2018
+      Description: |
+        A mini sheet of five values featuring various F1 cars and the Malaysian Grand Prix.
     - Picture: stamp0704.jpg
       Width: 400
       IssueDate: 22nd January 2019
@@ -1051,11 +1051,6 @@
         - Benetton B194 (1994 - Schumacher's first Drivers' Championship win)<br>
         - Ferrari F 310 B (1997 - Schumacher was disqualified from the Drivers' Championship for unsportsmanlike conduct for a collision with Villeneuve)<br>
         - Mercedes MGP W01 (2010 - Schumacher returned from retirement to join Mercedes from 2010 to 2012)
-    - Picture: stamp0718.jpg
-      Width: 400
-      IssueDate: 18th June 2019
-      Description: |
-        A mini sheet of one value featuring Lewis Hamilton.
     - Picture: stamp0717.jpg
       Width: 400
       IssueDate: 18th June 2019
@@ -1067,9 +1062,19 @@
         - Michael Schumacher<br>
         - Ferrari 150 Italia<br>
         - McLaren MP4/5
+    - Picture: stamp0718.jpg
+      Width: 400
+      IssueDate: 18th June 2019
+      Description: |
+        A mini sheet of one value featuring Lewis Hamilton.
   - Country: Union of the Comoros
     Flag: 500px-Flag_of_the_Comoros_svg.jpg
     Stamps:
+    - Picture: stamp0260.jpg
+      Width: 400
+      IssueDate: 1981
+      Description: |
+        A mini sheet commemorating the 75th anniversary of the French Grand Prix.  The 1906 French Grand Prix was the first Grand Prix motor race and took place at Le Mans on June 26 and June 27 1906.  The race was won by Ferenc Szisz driving a Renault.
     - Picture: stamp0276.jpg
       Width: 400
       IssueDate: 1981
@@ -1079,11 +1084,6 @@
         Stirling Moss - in 1955 drove for Mercedes and was runner up to his team mate (Fangio) - Moss won the British Grand Prix.<br>
         <br>
         Maserati 250F - in 1957 the championship was won by Fangio in the Maserati 250F, at the end of the season Maserati also pulled out, citing financial reasons.
-    - Picture: stamp0260.jpg
-      Width: 400
-      IssueDate: 1981
-      Description: |
-        A mini sheet commemorating the 75th anniversary of the French Grand Prix.  The 1906 French Grand Prix was the first Grand Prix motor race and took place at Le Mans on June 26 and June 27 1906.  The race was won by Ferenc Szisz driving a Renault.
     - Picture: stamp0642.jpg
       Width: 400
       IssueDate: 1999
@@ -1144,6 +1144,13 @@
         A single value featuring Ayrton Senna and the Williams FW16.<br>
         <br>
         For 1994, Senna finally signed with the Williams-Renault team after Prost had reluctantly decided to end his career.  Prost's contract clause forbidding Senna from joining Williams did not extend to 1994 and Prost retired with one year left on his contract, rather than face the prospect of a repeat of the animosities of 1989 and 1990.  Pre-season testing showed that the new Williams FW16 car had speed, but it was extremely difficult to control.  Senna himself had made numerous diplomatic comments that the FW16 had some quirks which needed to be ironed out due to the fact that, contractually, he was forbidden from outright criticising the car.  It was obvious that the FW16, after the regulation changes banning active suspension, traction control, power brakes, and ABS, exhibited none of the superiority of the FW15C and FW14B cars that had preceded it.  It was also the first season that Williams used power steering, a system which had been problematic.  Furthermore, the cockpit was too tight for Senna's frame, and several adjustments were subsequently made, including the lengthening of the steering column by 12 millimetres.  The surprise of testing was the Benetton team, whose car was more nimble than the Williams although less powerful. Senna prophetically commented, "It's going to be a season with lots of accidents, and I'll risk saying that we'll be lucky if something really serious doesn't happen."
+    - Picture: stamp0280.jpg
+      Width: 400
+      IssueDate: 1999
+      Description: |
+        A mini sheet of one value featuring a Jaguar F1 car.<br>
+        <br>
+        Jaguar Racing competed in the F1 World Championship from 2000 to 2004. It was formed from the purchase by Ford of Jackie Stewart's Stewart Grand Prix Formula One team in June 1999. Ford renamed the team Jaguar Racing as part of its global marketing operations to promote their Jaguar premium car company. Despite this branding, they continued to use Ford-Cosworth engines in the cars, no Jaguar engineering was involved. During the years of Ford's ownership, the team was unable to revive its performances of 1999 (4th in the Constructor's Championship).
     - Picture: stamp0201.jpg
       Width: 400
       IssueDate: 1999
@@ -1163,13 +1170,6 @@
         Elio de Angelis drove for Lotus from 1980 to 1985, in that time he achieved 2 victories and a third place in the drivers' championship.<br>
         <br>
         Ayrton Senna drove for Lotus from 1985 to 1987, in that time he achieved 6 victories and a third place in the drivers' championship.
-    - Picture: stamp0280.jpg
-      Width: 400
-      IssueDate: 1999
-      Description: |
-        A mini sheet of one value featuring a Jaguar F1 car.<br>
-        <br>
-        Jaguar Racing competed in the F1 World Championship from 2000 to 2004. It was formed from the purchase by Ford of Jackie Stewart's Stewart Grand Prix Formula One team in June 1999. Ford renamed the team Jaguar Racing as part of its global marketing operations to promote their Jaguar premium car company. Despite this branding, they continued to use Ford-Cosworth engines in the cars, no Jaguar engineering was involved. During the years of Ford's ownership, the team was unable to revive its performances of 1999 (4th in the Constructor's Championship).
   - Country: Republic of Mali
     Flag: MALI0001.jpg
     Stamps:
@@ -1217,28 +1217,6 @@
   - Country: Republic of Malawi
     Flag: MALW0001.jpg
     Stamps:
-    - Picture: stamp0169.jpg
-      Width: 400
-      IssueDate: 2005
-      Description: |
-        A sheet of 3 stamps showing various Ferrari F1 cars and their drivers; the stamps show the cars being driven at the Monaco Grand Prix.<br>
-        <br>
-        1988, 187/88C, Gerhard Berger - Berger came 2nd from 3rd on the grid, just behind Alain Prost in the McLaren (after Ayrton Senna - McLaren - had spun off on lap 66).<br>
-        <br>
-        1997, F310B, Eddie Irvine - Irvine came 3rd from 15th on the grid, the race was stopped at the 2 hour point on lap 62, wet weather provided a chaotic race.<br>
-        <br>
-        2003, F2003-GA, Michael Schumacher - Schumacher came 3rd, less than two seconds behind race winner, Juan Pablo Montoya in the Williams-BMW.
-    - Picture: stamp0170.jpg
-      Width: 400
-      IssueDate: 2005
-      Description: |
-        A sheet of 3 stamps showing various Ferrari F1 cars and their drivers; the stamps show the cars being driven at the Monaco Grand Prix.<br>
-        <br>
-        1980, 312T5, Jody Scheckter - Scheckter (the 1979 drivers champion) actually retired from the GP due to mechanical failure, despite this he went on to come 2nd in the drivers championship in this year (his last in F1).<br>
-        <br>
-        1992, F92A, Jean Alesi - Alesi retired on lap 28 with gearbox failure, after being 4th on the grid.<br>
-        <br>
-        2000, F1-2000, Michael Schumacher - Schumacher retired (from the lead) on lap 55 with suspension failure, having been on pole position.
     - Picture: stamp0168.jpg
       Width: 400
       IssueDate: 2005
@@ -1250,6 +1228,35 @@
         1995, 412T2, Gerhard Berger - Berger came 3rd in the race, despite the race being stopped and restarted after a first lap collision between Jean Alesi (Ferrari), David Coulthard (Williams) and Gerhard Berger (Ferrari), in which one of the Ferraris was briefly airborne.<br>
         <br>
         2002, F2002, Michael Schumacher - Schumacher came 2nd, this being one of the few races he did not win this year.
+    - Picture: stamp0170.jpg
+      Width: 400
+      IssueDate: 2005
+      Description: |
+        A sheet of 3 stamps showing various Ferrari F1 cars and their drivers; the stamps show the cars being driven at the Monaco Grand Prix.<br>
+        <br>
+        1980, 312T5, Jody Scheckter - Scheckter (the 1979 drivers champion) actually retired from the GP due to mechanical failure, despite this he went on to come 2nd in the drivers championship in this year (his last in F1).<br>
+        <br>
+        1992, F92A, Jean Alesi - Alesi retired on lap 28 with gearbox failure, after being 4th on the grid.<br>
+        <br>
+        2000, F1-2000, Michael Schumacher - Schumacher retired (from the lead) on lap 55 with suspension failure, having been on pole position.
+    - Picture: stamp0169.jpg
+      Width: 400
+      IssueDate: 2005
+      Description: |
+        A sheet of 3 stamps showing various Ferrari F1 cars and their drivers; the stamps show the cars being driven at the Monaco Grand Prix.<br>
+        <br>
+        1988, 187/88C, Gerhard Berger - Berger came 2nd from 3rd on the grid, just behind Alain Prost in the McLaren (after Ayrton Senna - McLaren - had spun off on lap 66).<br>
+        <br>
+        1997, F310B, Eddie Irvine - Irvine came 3rd from 15th on the grid, the race was stopped at the 2 hour point on lap 62, wet weather provided a chaotic race.<br>
+        <br>
+        2003, F2003-GA, Michael Schumacher - Schumacher came 3rd, less than two seconds behind race winner, Juan Pablo Montoya in the Williams-BMW.
+    - Picture: stamp0171.jpg
+      Width: 400
+      IssueDate: 2008
+      Description: |
+        Niki Lauda competed in F1 from 1971 to 1985; during his F1 career he drove for March, BRM, Ferrari, Brabham and McLaren.  Lauda won the drivers title three times - 1975 and 1977 with Ferrari and 1984 with McLaren.<br>
+        <br>
+        Nigel Mansell competed in F1 from 1980 to 1995; during his F1 career he drove for Lotus, Williams, Ferrari and McLaren.  Mansell finally won the drivers championship in 1992 with Williams (having been runner up in 1986, 1987 and 1991, each time with Williams).
     - Picture: stamp0172.jpg
       Width: 400
       IssueDate: 2008
@@ -1268,13 +1275,6 @@
         Gerhard Berger competed in F1 from 1984 to 1997; during his F1 career he drove for ATS, Arrows, Benetton, Ferrari and McLaren.  Berger's best results were in 1988 and 1994, when was came 3rd in the drivers championship (both times with Ferrari).<br>
         <br>
         Jean Alesi competed in F1 from 1989 to 2001; during his F1 career he drove for Tyrrell, Ferrari, Benetton, Sauber, Prost and Jordan. Alesi's best results were in 1996 and 1997, when he came 4th in the drivers championship (both times with Benetton).
-    - Picture: stamp0171.jpg
-      Width: 400
-      IssueDate: 2008
-      Description: |
-        Niki Lauda competed in F1 from 1971 to 1985; during his F1 career he drove for March, BRM, Ferrari, Brabham and McLaren.  Lauda won the drivers title three times - 1975 and 1977 with Ferrari and 1984 with McLaren.<br>
-        <br>
-        Nigel Mansell competed in F1 from 1980 to 1995; during his F1 career he drove for Lotus, Williams, Ferrari and McLaren.  Mansell finally won the drivers championship in 1992 with Williams (having been runner up in 1986, 1987 and 1991, each time with Williams).
     - Picture: stamp0174.jpg
       Width: 400
       IssueDate: 2009
@@ -1349,6 +1349,25 @@
         A mini sheet of stamps featuring Juan Manuel Fangio; Fangio dominated he first decade of F1 winning the World Drivers' Championship five times.  Fangio drove for a variety of teams which meant he drove a number of different cars including those from Alfa Romeo, Ferrari, Mercedes-Benz and Maserati.<br>
         <br>
         Fangio, unlike later F1 drivers, started his racing career at a mature age and was the oldest driver in many of his races.  During his career, drivers raced with almost no protective equipment on circuits with no safety features, although F1 cars back in the 1950s were a lot slower, less physically demanding to drive and less advanced than F1 cars four and more decades later.  Fangio had no compunction about leaving a team, even after a successful year or even during a season, if he thought he would have a better chance with a better car.  As was then common, several of his race results were shared with team mates after he took over their car during races when his own had technical problems.  His rivals included Alberto Ascari, Giuseppe Farina and Stirling Moss.  Throughout his career, Fangio was backed by funding from the Argentine government of Juan Peron.
+    - Picture: stamp0613.jpg
+      Width: 400
+      IssueDate: 2013
+      Description: |
+        A mini sheet of values featuring the following F1 cars:<br>
+        <br>
+        - Maserati 250F<br>
+        - Cooper T51<br>
+        - Lotus 18<br>
+        - Cooper T20
+    - Picture: stamp0612.jpg
+      Width: 400
+      IssueDate: 2013
+      Description: |
+        A mini sheet of one stamp featuring the Ferguson P99.<br>
+        <br>
+        The Ferguson P99 was a four-wheel drive F1 car built by Ferguson Research Ltd for the Rob Walker Racing Team.  It was the first 4WD F1 car and used a Climax 1.5 litre engine.  It is also the last front-engined car ever to win an F1 event - Stirling Moss drove it to victory at the International Gold Cup at Oulton Park in 1961.<br>
+        <br>
+        In a 1997 interview for Motor Sport magazine, Sir Stirling Moss nominated the P99 as his favourite of all the F1 cars he drove.  This was considered high praise from a man who drove the Mercedes W196, Maserati 250F, Vanwall and Cooper T51.
     - Picture: stamp0484.jpg
       Width: 400
       IssueDate: 2013
@@ -1365,25 +1384,6 @@
         - Sebastian Vettel<br>
         - Michael Schumacher<br>
         - Fernando Alonso
-    - Picture: stamp0612.jpg
-      Width: 400
-      IssueDate: 2013
-      Description: |
-        A mini sheet of one stamp featuring the Ferguson P99.<br>
-        <br>
-        The Ferguson P99 was a four-wheel drive F1 car built by Ferguson Research Ltd for the Rob Walker Racing Team.  It was the first 4WD F1 car and used a Climax 1.5 litre engine.  It is also the last front-engined car ever to win an F1 event - Stirling Moss drove it to victory at the International Gold Cup at Oulton Park in 1961.<br>
-        <br>
-        In a 1997 interview for Motor Sport magazine, Sir Stirling Moss nominated the P99 as his favourite of all the F1 cars he drove.  This was considered high praise from a man who drove the Mercedes W196, Maserati 250F, Vanwall and Cooper T51.
-    - Picture: stamp0613.jpg
-      Width: 400
-      IssueDate: 2013
-      Description: |
-        A mini sheet of values featuring the following F1 cars:<br>
-        <br>
-        - Maserati 250F<br>
-        - Cooper T51<br>
-        - Lotus 18<br>
-        - Cooper T20
     - Picture: stamp0566.jpg
       Width: 400
       IssueDate: 2014
@@ -1427,6 +1427,17 @@
         - Gilles Villeneuve in the Ferrari 312 T4 (1979)<br>
         - Rene Arnoux in the Renault RS10 (1979(<br>
         - Red Bull RB12 (2016)
+    - Picture: stamp0711.jpg
+      Width: 400
+      IssueDate: 10th June 2019
+      Description: |
+        A mini sheet of one value featuring Michael Schumacher, in particular his 50th birthday (3rd January 2019).<br>
+        <br>
+        Schumacher won 7 Drivers' Championships in his F1 career (which ran from 1991 to 2012).<br>
+        <br>
+        Schumacher is an ambassador for UNESCO and has been involved in numerous humanitarian efforts throughout his life, donating tens of millions of dollars to charity.<br>
+        <br>
+        On 29th December 2013 Schumacher suffered severe brain injury in a skiing accident, he has since been in rehabilitation away from the public eye.
     - Picture: stamp0712.jpg
       Width: 400
       IssueDate: 10th June 2019
@@ -1439,17 +1450,6 @@
         <br>
         - Ferrari F310 (1996) - this was the first Ferrari F1 car to run on Shell fuel since the 1970s.<br>
         - Ferrari F1-2000 (2000) - Schumacher drove the F1-2000 to his third World Drivers' title and Ferrari's first for 21 years, marking the start of his dominance in that decade.
-    - Picture: stamp0711.jpg
-      Width: 400
-      IssueDate: 10th June 2019
-      Description: |
-        A mini sheet of one value featuring Michael Schumacher, in particular his 50th birthday (3rd January 2019).<br>
-        <br>
-        Schumacher won 7 Drivers' Championships in his F1 career (which ran from 1991 to 2012).<br>
-        <br>
-        Schumacher is an ambassador for UNESCO and has been involved in numerous humanitarian efforts throughout his life, donating tens of millions of dollars to charity.<br>
-        <br>
-        On 29th December 2013 Schumacher suffered severe brain injury in a skiing accident, he has since been in rehabilitation away from the public eye.
   - Country: Republic of Niger
     Flag: NIGR0001.jpg
     Stamps:
@@ -1492,11 +1492,6 @@
         Jose Froilan Gonzalez - drove for Ferrari in 1951, 1954, 1955, 1957 and 1960 and is noted for providing Ferrari with their first ever F1 race win in 1951 at the British Grand Prix<br>
         <br>
         Michael Schumacher - drove for Ferrari from 1996 to 2006
-    - Picture: stamp0550.jpg
-      Width: 400
-      IssueDate: 2014
-      Description: |
-        A commemorative stamp featuring Michael Schumacher.
     - Picture: stamp0549.jpg
       Width: 400
       IssueDate: 2014
@@ -1507,16 +1502,21 @@
         - Fernando Alonso<br>
         - Jenson Button<br>
         - Lewis Hamilton
-    - Picture: stamp0554.jpg
+    - Picture: stamp0550.jpg
       Width: 400
       IssueDate: 2014
       Description: |
-        A commemorative sheet for the 20th anniversary of the death of Ayrton Senna.
+        A commemorative stamp featuring Michael Schumacher.
     - Picture: stamp0553.jpg
       Width: 400
       IssueDate: 2014
       Description: |
         A commemorative stamp for the 20th anniversary of the death of Ayrton Senna.
+    - Picture: stamp0554.jpg
+      Width: 400
+      IssueDate: 2014
+      Description: |
+        A commemorative sheet for the 20th anniversary of the death of Ayrton Senna.
     - Picture: stamp0616.jpg
       Width: 400
       IssueDate: 2014
@@ -1524,16 +1524,6 @@
         A mini sheet of values featuring the 2014 Malaysian Grand Prix, the race was held on the 30th March 2014 and was the second race of the season.<br>
         <br>
         The race was dominated by Lewis Hamilton - he took pole, the fastest lap and the race win ahead of team mate Nico Rosberg and Sebastian Vettel in the Red Bull.
-    - Picture: stamp0660.jpg
-      Width: 400
-      IssueDate: 21st December 2016
-      Description: |
-        A mini sheet of values featuring various F1 cars from the 2016 season:<br>
-        <br>
-        - Ferrari SF16-H<br>
-        - McLaren MP4/31<br>
-        - Mercedes F1 W07 Hybrid<br>
-        - Red Bull RB12
     - Picture: stamp0661.jpg
       Width: 400
       IssueDate: 21st December 2016
@@ -1546,11 +1536,16 @@
         - Most wins in a season: 19 wins<br>
         - Most pole positions in a season with highest percentage: 20 Pole Positions (95.2%)<br>
         - Most podiums in a season: 33 podiums
-    - Picture: stamp0707.jpg
+    - Picture: stamp0660.jpg
       Width: 400
-      IssueDate: 27th February 2019
+      IssueDate: 21st December 2016
       Description: |
-        A mini sheet of one value featuring Michael Schumacher, Ayrton Senna and the McLaren MP4/8.
+        A mini sheet of values featuring various F1 cars from the 2016 season:<br>
+        <br>
+        - Ferrari SF16-H<br>
+        - McLaren MP4/31<br>
+        - Mercedes F1 W07 Hybrid<br>
+        - Red Bull RB12
     - Picture: stamp0708.jpg
       Width: 400
       IssueDate: 27th February 2019
@@ -1561,6 +1556,11 @@
         - Michael Schumacher, Ferrari F2001 - 2001<br>
         - Juan Manuel Fangio, Mercedes-Benz W196 - 1954, 1955<br>
         - Jim Clark, Lotus 43 - 1966, 1967
+    - Picture: stamp0707.jpg
+      Width: 400
+      IssueDate: 27th February 2019
+      Description: |
+        A mini sheet of one value featuring Michael Schumacher, Ayrton Senna and the McLaren MP4/8.
   - Country: Republic of Rwanda
     Flag: RWAN0001.jpg
     Stamps:
@@ -1595,6 +1595,15 @@
         1982 126 C2 - driven by Gilles Villeneuve, Patrick Tambay, Didier Pironi and Mario Andretti, Ferrari took the constructors title with the 126 C2<br>
         1983 126 C3 - Ferrari again took the constructors championship with the 126 C3, driven by Patrick Tambay and Rene Arnoux<br>
         2007 F2007 - driven by Felipe Massa and Kimi Raikkonen, Ferrari won the constructors championship with the F2007
+    - Picture: stamp0569.jpg
+      Width: 400
+      IssueDate: 2015
+      Description: |
+        A mini sheet commemorating the 65th anniversary of F1.<br>
+        <br>
+        In 1950, the championship was won by Giuseppe "Nino" Farina driving for the Alfa Romeo team.<br>
+        <br>
+        In 2014, the championship was won by Lewis Hamilton driving for the Mercedes team.
     - Picture: stamp0568.jpg
       Width: 400
       IssueDate: 2015
@@ -1609,20 +1618,6 @@
         In 1950, the championship was won by Giuseppe "Nino" Farina driving for the Alfa Romeo team.<br>
         <br>
         In 2014, the championship was won by Lewis Hamilton driving for the Mercedes team.
-    - Picture: stamp0569.jpg
-      Width: 400
-      IssueDate: 2015
-      Description: |
-        A mini sheet commemorating the 65th anniversary of F1.<br>
-        <br>
-        In 1950, the championship was won by Giuseppe "Nino" Farina driving for the Alfa Romeo team.<br>
-        <br>
-        In 2014, the championship was won by Lewis Hamilton driving for the Mercedes team.
-    - Picture: stamp0652.jpg
-      Width: 400
-      IssueDate: 29th September 2016
-      Description: |
-        A mini sheet of one value featuring Lewis Hamilton - World Champion 2008 (McLaren), 2014 (Mercedes), 2015 (Mercedes).
     - Picture: stamp0651.jpg
       Width: 400
       IssueDate: 29th September 2016
@@ -1633,6 +1628,11 @@
         - Michael Schumacher (1994, 1995, 2000, 2001, 2002, 2003, 2004)<br>
         - Kimi Raikkonen (2007)<br>
         - Jenson Button (2009)
+    - Picture: stamp0652.jpg
+      Width: 400
+      IssueDate: 29th September 2016
+      Description: |
+        A mini sheet of one value featuring Lewis Hamilton - World Champion 2008 (McLaren), 2014 (Mercedes), 2015 (Mercedes).
     - Picture: stamp0681.jpg
       Width: 400
       IssueDate: 30th October 2017
@@ -1753,6 +1753,19 @@
         A mini sheet of one value featuring Michael Schumacher.<br>
         <br>
         1997 was Schumacher's second year with Ferrari.  Going in to the final race of the 1997 season Schumacher had a 1 point advantage over Jacques Villeneuve (Williams); during the race Schumacher was ahead of Villeneuve, but developed a coolant leak, when Villeneuve attempted to pass the ailing Ferrari, Schumacher tried to provoke an accident taking himself out of the race and handing Villeneuve the drivers' championship.  Schumacher was disqualified from the 1997 championship.
+    - Picture: stamp0523.jpg
+      Width: 400
+      IssueDate: 2003
+      Description: |
+        The 2003 F1 season commenced on March 9, 2003 and ended on October 12 after sixteen races.  Michael Schumacher (Ferrari) beat Kimi Raikkonen (McLaren) by two points to the title and Ferrari won the constructors championship.<br>
+        <br>
+        The 2003 season saw the introduction of new regulations intended to increase F1's excitement and to help alleviate the financial difficulties of the smaller teams.  One-lap qualifying was introduced as a way for smaller teams to get more television exposure.  Optional Friday testing at Grand Prix events was introduced in exchange for less miles on stand alone test days.  This was intended to give smaller teams a cheaper alternative to these test days, which were to be banned in 2004.  Only one type of wet weather tyre was allowed to be used in wet weather races.  The point scoring systems for both the Constructors and Drivers titles were changed from 10, 6, 4, 3, 2, 1 for the first six finishers at each round to 10, 8, 6, 5, 4, 3, 2, 1 for the first eight finishers in an attempt to make the title contests closer.<br>
+        <br>
+        While Ferrari's Michael Schumacher had won the 2002 championship by 67 points from his team-mate Rubens Barrichello, the 2003 season was much closer.  For a great part of the 2003 season, several drivers from several teams had mathematical chances of winning the world championship.  Eight different drivers won a Grand Prix, amongst them three first time winners.  Kimi Raikkonen, driving for McLaren-Mercedes, and Juan Pablo Montoya, driving for BMW Williams.  Both had a chance of claiming the 2003 championship until late in the season, with Raikkonen still mathematically in contention at the final race, the Japanese Grand Prix.  Raikkonen lost the championship to Schumacher by two points, although he won only one race to Schumacher's six.  Ferrari's defence of the constructor's title was challenged throughout the year by Williams and McLaren, one of the few seasons where there were three front running teams.<br>
+        <br>
+        Notable races include the chaotic Brazilian Grand Prix which was hampered by monsoon conditions, and the British Grand Prix where the track was invaded by the now-defrocked priest Neil Horan, who ran onto the Hangar straight, running towards the 250 km/h train of cars, wearing a green kilt and waving religious banners.<br>
+        <br>
+        After failing to complete the 2002 season due to financial difficulties, the Arrows team had their application for admission to the 2003 championship rejected by the FIA prior to the season start date. No reason was publicly given by the FIA and Arrows subsequently folded after 25 years in Formula One.
     - Picture: stamp0522.jpg
       Width: 400
       IssueDate: 2003
@@ -1792,28 +1805,6 @@
         Notable races include the chaotic Brazilian Grand Prix which was hampered by monsoon conditions, and the British Grand Prix where the track was invaded by the now-defrocked priest Neil Horan, who ran onto the Hangar straight, running towards the 250 km/h train of cars, wearing a green kilt and waving religious banners.<br>
         <br>
         After failing to complete the 2002 season due to financial difficulties, the Arrows team had their application for admission to the 2003 championship rejected by the FIA prior to the season start date. No reason was publicly given by the FIA and Arrows subsequently folded after 25 years in Formula One.
-    - Picture: stamp0523.jpg
-      Width: 400
-      IssueDate: 2003
-      Description: |
-        The 2003 F1 season commenced on March 9, 2003 and ended on October 12 after sixteen races.  Michael Schumacher (Ferrari) beat Kimi Raikkonen (McLaren) by two points to the title and Ferrari won the constructors championship.<br>
-        <br>
-        The 2003 season saw the introduction of new regulations intended to increase F1's excitement and to help alleviate the financial difficulties of the smaller teams.  One-lap qualifying was introduced as a way for smaller teams to get more television exposure.  Optional Friday testing at Grand Prix events was introduced in exchange for less miles on stand alone test days.  This was intended to give smaller teams a cheaper alternative to these test days, which were to be banned in 2004.  Only one type of wet weather tyre was allowed to be used in wet weather races.  The point scoring systems for both the Constructors and Drivers titles were changed from 10, 6, 4, 3, 2, 1 for the first six finishers at each round to 10, 8, 6, 5, 4, 3, 2, 1 for the first eight finishers in an attempt to make the title contests closer.<br>
-        <br>
-        While Ferrari's Michael Schumacher had won the 2002 championship by 67 points from his team-mate Rubens Barrichello, the 2003 season was much closer.  For a great part of the 2003 season, several drivers from several teams had mathematical chances of winning the world championship.  Eight different drivers won a Grand Prix, amongst them three first time winners.  Kimi Raikkonen, driving for McLaren-Mercedes, and Juan Pablo Montoya, driving for BMW Williams.  Both had a chance of claiming the 2003 championship until late in the season, with Raikkonen still mathematically in contention at the final race, the Japanese Grand Prix.  Raikkonen lost the championship to Schumacher by two points, although he won only one race to Schumacher's six.  Ferrari's defence of the constructor's title was challenged throughout the year by Williams and McLaren, one of the few seasons where there were three front running teams.<br>
-        <br>
-        Notable races include the chaotic Brazilian Grand Prix which was hampered by monsoon conditions, and the British Grand Prix where the track was invaded by the now-defrocked priest Neil Horan, who ran onto the Hangar straight, running towards the 250 km/h train of cars, wearing a green kilt and waving religious banners.<br>
-        <br>
-        After failing to complete the 2002 season due to financial difficulties, the Arrows team had their application for admission to the 2003 championship rejected by the FIA prior to the season start date. No reason was publicly given by the FIA and Arrows subsequently folded after 25 years in Formula One.
-    - Picture: stamp0058.jpg
-      Width: 400
-      IssueDate: 2010
-      Description: |
-        A mini sheet of six values commemorating the 50th anniversary of the birth of Ayrton Senna.<br>
-        <br>
-        Senna is regarded as one of the greatest drivers in the history of F1.  In 2009, a poll of 217 current and former F1 drivers conducted by the British magazine Autosport named Senna as the greatest F1 driver.  He was recognised for his qualifying speed over one lap and from 1989 until 2006 held the record for most pole positions.  He was especially quick in wet conditions, as shown by his performances in the 1984 Monaco Grand Prix, the 1985 Portuguese Grand Prix, and the 1993 European Grand Prix.  He also holds the record for most victories at the prestigious Monaco Grand Prix (six) and is the third most successful driver of all time in terms of race wins.<br>
-         <br>
-        Senna courted controversy throughout his career, particularly during his turbulent rivalry with Alain Prost.  Both the 1989 Championship won by Prost and the 1990 Championship won by Senna were decided by collisions between them at those years' Japanese Grands Prix.
     - Picture: stamp0057.jpg
       Width: 400
       IssueDate: 2010
@@ -1823,14 +1814,23 @@
         Senna was born on 21st March 1960, the three-time F1 world champion was fatally injured in a crash while leading the 1994 San Marino Grand Prix, he was pronounced dead at a hospital in Bologna, Italy, and remains the last Grand Prix driver to die at the wheel of an F1 car.<br>
         <br>
         After Senna's death, three days of national mourning were declared in Brazil, and he was accorded a state funeral in his hometown of Sao Paulo.  The largest funeral in Brazilian history, it was attended by an estimated one million people lining the route of the funeral cortege.
-    - Picture: stamp0474.jpg
+    - Picture: stamp0058.jpg
+      Width: 400
+      IssueDate: 2010
+      Description: |
+        A mini sheet of six values commemorating the 50th anniversary of the birth of Ayrton Senna.<br>
+        <br>
+        Senna is regarded as one of the greatest drivers in the history of F1.  In 2009, a poll of 217 current and former F1 drivers conducted by the British magazine Autosport named Senna as the greatest F1 driver.  He was recognised for his qualifying speed over one lap and from 1989 until 2006 held the record for most pole positions.  He was especially quick in wet conditions, as shown by his performances in the 1984 Monaco Grand Prix, the 1985 Portuguese Grand Prix, and the 1993 European Grand Prix.  He also holds the record for most victories at the prestigious Monaco Grand Prix (six) and is the third most successful driver of all time in terms of race wins.<br>
+         <br>
+        Senna courted controversy throughout his career, particularly during his turbulent rivalry with Alain Prost.  Both the 1989 Championship won by Prost and the 1990 Championship won by Senna were decided by collisions between them at those years' Japanese Grands Prix.
+    - Picture: stamp0475.jpg
       Width: 400
       IssueDate: 29th March 2013
       Description: |
         A miniature sheet commemorating Sebastian Vettel's third consecutive drivers' title (and Red Bull's third consecutive constructors' title).<br>
         <br>
         At the final race of the 2012 season Sebastian Vettel finished 6th while Alonso (his closest rival) finished 2nd, resulting in Vettel winning the championship by three points.  This was Vettel's third consecutive championship, and at age 25 he became the youngest ever triple world champion, beating Ayrton Senna's previous record.  Senna won his third F1 world championship title in 1991 at age 31.  Vettel also became the third driver to acquire three-consecutive championships, after Juan Manuel Fangio and Michael Schumacher.
-    - Picture: stamp0475.jpg
+    - Picture: stamp0474.jpg
       Width: 400
       IssueDate: 29th March 2013
       Description: |
@@ -1847,6 +1847,11 @@
       IssueDate: 2014
       Description: |
         A mini sheet issued to commemorate the 20th anniversary of the death of Ayrton Senna.
+    - Picture: stamp0656.jpg
+      Width: 400
+      IssueDate: 10th November 2016
+      Description: |
+        A mini sheet of one value featuring the Ferrari SF16-H.  The Ferrari SF16-H was Ferrari's entry for the 2016 season and was driven by Sebastien Vettel and Kimi Raikkonen.  Ferrari eventually finished in third place in the Constructor's Championship.  They also did not win a race all season, for the second time in three seasons.
     - Picture: stamp0655.jpg
       Width: 400
       IssueDate: 10th November 2016
@@ -1857,11 +1862,6 @@
         - Haas VF-16 (2016)<br>
         - Benetton B193 (1993)<br>
         - Brabham BT19 (1966 and 1967)
-    - Picture: stamp0656.jpg
-      Width: 400
-      IssueDate: 10th November 2016
-      Description: |
-        A mini sheet of one value featuring the Ferrari SF16-H.  The Ferrari SF16-H was Ferrari's entry for the 2016 season and was driven by Sebastien Vettel and Kimi Raikkonen.  Ferrari eventually finished in third place in the Constructor's Championship.  They also did not win a race all season, for the second time in three seasons.
     - Picture: stamp0697.jpg
       Width: 400
       IssueDate: 7th November 2018
@@ -1921,6 +1921,16 @@
         A 4 stamp sheet celebrating Lewis Hamilton's victory at the British Grand Prix in 2008, driving the McLaren MP4-23.<br>
         <br>
         Despite an error in qualifying that saw him start fourth on the grid, Hamilton went on to win the British Grand Prix in difficult, wet conditions. His performance was stated as being one of his best drives to date.  Hamilton himself said in the post race press conference that it was his most difficult and most meaningful win.  Hamilton then went on to win his first driver's title in this year.
+    - Picture: stamp0682.jpg
+      Width: 400
+      IssueDate: 10th July 2017
+      Description: |
+        A mini sheet of four values featuring:<br>
+        <br>
+        - Sebastian Vettel<br>
+        - Lewis Hamilton<br>
+        - Jenson Button<br>
+        - Fernando Alonso
     - Picture: stamp0683.jpg
       Width: 400
       IssueDate: 10th July 2017
@@ -1932,16 +1942,6 @@
         In 2013 Lewis Hamilton joined Mercedes and an intense and volatile rivalry followed for the next four seasons.<br>
         <br>
         Rosberg eventually became World Champion in 2016; he then announced his retirement at the prize giving ceremony in Vienna.  He was the first reigning champion to do so since Alain Prost in 1993; he is also one of two sons of former champions to win the title (Damon Hill being the other).
-    - Picture: stamp0682.jpg
-      Width: 400
-      IssueDate: 10th July 2017
-      Description: |
-        A mini sheet of four values featuring:<br>
-        <br>
-        - Sebastian Vettel<br>
-        - Lewis Hamilton<br>
-        - Jenson Button<br>
-        - Fernando Alonso
   - Country: Togo (Togolese Republic)
     Flag: TOGO0001.jpg
     Stamps:
@@ -2021,14 +2021,6 @@
         - Ferrari SF15-T<br>
         - Red Bull RB11<br>
         - Sauber C34
-    - Picture: stamp0659.jpg
-      Width: 400
-      IssueDate: 29th December 2016
-      Description: |
-        A mini sheet of one value featuring Alberto Ascari and Ayrton Senna.<br>
-        <br>
-        - Alberto Ascari, two-time world drivers champion for Ferrari<br>
-        - Ayrton Senna, three-time world drivers champion for McLaren
     - Picture: stamp0658.jpg
       Width: 400
       IssueDate: 29th December 2016
@@ -2039,6 +2031,19 @@
         - Michael Schumacher<br>
         - Niki Lauda<br>
         - Juan Manuel Fangio
+    - Picture: stamp0659.jpg
+      Width: 400
+      IssueDate: 29th December 2016
+      Description: |
+        A mini sheet of one value featuring Alberto Ascari and Ayrton Senna.<br>
+        <br>
+        - Alberto Ascari, two-time world drivers champion for Ferrari<br>
+        - Ayrton Senna, three-time world drivers champion for McLaren
+    - Picture: stamp0670.jpg
+      Width: 400
+      IssueDate: 31st July 2017
+      Description: |
+        A mini sheet with one stamp featuring the Ferrari SF70H.  The model was named Ferrari SF70H because of Scuderia Ferrari 70th anniversary.  Driven by by Sebastian Vettel and Kimi Raikkonen it was Ferrari's 2017 challenger.
     - Picture: stamp0671.jpg
       Width: 400
       IssueDate: 31st July 2017
@@ -2049,11 +2054,6 @@
         - Mercedes AMG F1 W08 EQ Power+ - 2017 - originally named without the EQ Power+ suffix, this was added to increase exposure to Mercedes electric road cars<br>
         - Red Bull RB5 - 2009 - this car gave the team its first pole position, first win and first ever 1-2 finish, Red Bull finished second behind Brawn in the championship<br>
         - Brawn BGP 001 - 2009 - the car with the disputed double diffuser which took Brawn and Jenson Button to the titles
-    - Picture: stamp0670.jpg
-      Width: 400
-      IssueDate: 31st July 2017
-      Description: |
-        A mini sheet with one stamp featuring the Ferrari SF70H.  The model was named Ferrari SF70H because of Scuderia Ferrari 70th anniversary.  Driven by by Sebastian Vettel and Kimi Raikkonen it was Ferrari's 2017 challenger.
     - Picture: stamp0692.jpg
       Width: 400
       IssueDate: 28th June 2018
@@ -2073,6 +2073,14 @@
         - Force India VJM10 (2017)<br>
         - Sauber C36 (2017)<br>
         - Force India VJM09 (2016)
+    - Picture: stamp0723.jpg
+      Width: 400
+      IssueDate: 5th November 2019
+      Description: |
+        A mini sheet of one value featuring the following cars and drivers:<br>
+        <br>
+        - Max Verstappen, Red Bull RB14 (2018)<br>
+        - Lewis Hamilton, Mercedes AMG F1 W10 EQ Power+ (2019)
     - Picture: stamp0724.jpg
       Width: 400
       IssueDate: 5th November 2019
@@ -2082,14 +2090,6 @@
         - Valtteri Bottas, Mercedes AMG F1 W10 EQ Power+ (2019)<br>
         - Charles LeClerc, Ferrari SF90 (2019)<br>
         - Sebastian Vettel, Ferrari SF90 (2019)<br>
-        - Lewis Hamilton, Mercedes AMG F1 W10 EQ Power+ (2019)
-    - Picture: stamp0723.jpg
-      Width: 400
-      IssueDate: 5th November 2019
-      Description: |
-        A mini sheet of one value featuring the following cars and drivers:<br>
-        <br>
-        - Max Verstappen, Red Bull RB14 (2018)<br>
         - Lewis Hamilton, Mercedes AMG F1 W10 EQ Power+ (2019)
   - Country: Republic of South Africa
     Flag: SOAF0001.jpg

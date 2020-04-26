@@ -4,8 +4,8 @@
     Count: 3
     Images:
     - Image: stamp0672.jpg
-    - Image: stamp0670ac.jpg
     - Image: stamp0673bc.jpg
+    - Image: stamp0670ac.jpg
   - Car: Force India VJM10
     Count: 2
     Images:
@@ -14,16 +14,16 @@
   - Car: McLaren MCL32
     Count: 5
     Images:
+    - Image: stamp0674.jpg
     - Image: stamp0691ac.jpg
     - Image: stamp0698ac.jpg
     - Image: stamp0675ec.jpg
-    - Image: stamp0674.jpg
   - Car: Mercedes AMG F1 W08 EQ Powerplus
     Count: 4
     Images:
-    - Image: stamp0671bc.jpg
     - Image: stamp0673ac.jpg
     - Image: stamp0674.jpg
+    - Image: stamp0671bc.jpg
     - Image: stamp0692.jpg
   - Car: Red Bull RB13
     Count: 1
@@ -33,8 +33,8 @@
     Count: 4
     Images:
     - Image: stamp0697ac.jpg
-    - Image: stamp0673cc.jpg
     - Image: stamp0675hc.jpg
+    - Image: stamp0673cc.jpg
     - Image: stamp0692ac.jpg
   - Car: Sauber C36
     Count: 3
@@ -51,23 +51,23 @@
   - Driver: Daniel Ricciardo
     Count: 4
     Images:
-    - Image: stamp0617bd.jpg
-    - Image: stamp0693.jpg
-    - Image: stamp0694ad.jpg
     - Image: stamp0680cd.jpg
+    - Image: stamp0694ad.jpg
+    - Image: stamp0693.jpg
+    - Image: stamp0617bd.jpg
   - Driver: Felipe Massa
     Count: 3
     Images:
-    - Image: stamp0164ad.jpg
-    - Image: stamp0160.jpg
     - Image: stamp0495.jpg
+    - Image: stamp0160.jpg
+    - Image: stamp0164ad.jpg
   - Driver: Fernando Alonso
     Count: 25
     Images:
-    - Image: stamp0528.jpg
-    - Image: stamp0560bd.jpg
-    - Image: stamp0530.jpg
-    - Image: stamp0284.jpg
+    - Image: stamp0617ad.jpg
+    - Image: stamp0484.jpg
+    - Image: stamp0693.jpg
+    - Image: stamp0682dd.jpg
   - Driver: Kevin Magnussen
     Count: 1
     Images:
@@ -75,22 +75,22 @@
   - Driver: Kimi Raikkonen
     Count: 17
     Images:
-    - Image: stamp0031.jpg
+    - Image: stamp0571dd.jpg
+    - Image: stamp0651cd.jpg
     - Image: stamp0452.jpg
     - Image: stamp0399ad.jpg
-    - Image: stamp0714dd.jpg
   - Driver: Lewis Hamilton
     Count: 42
     Images:
     - Image: stamp0144bd.jpg
-    - Image: stamp0614dd.jpg
     - Image: stamp0720cd.jpg
-    - Image: stamp0713ad.jpg
+    - Image: stamp0718ad.jpg
+    - Image: stamp0530.jpg
   - Driver: Max Verstappen
     Count: 3
     Images:
-    - Image: stamp0723ad.jpg
     - Image: stamp0719ad.jpg
+    - Image: stamp0723ad.jpg
     - Image: stamp0714cd.jpg
   - Driver: Nico Hulkenberg
     Count: 1
@@ -103,13 +103,13 @@
   - Driver: Sebastian Vettel
     Count: 37
     Images:
-    - Image: stamp0681.jpg
-    - Image: stamp0487.jpg
+    - Image: stamp0300.jpg
     - Image: stamp0282.jpg
-    - Image: stamp0285.jpg
+    - Image: stamp0614cd.jpg
+    - Image: stamp0541bd.jpg
   - Driver: Valtteri Bottas
     Count: 3
     Images:
     - Image: stamp0680ad.jpg
-    - Image: stamp0724ad.jpg
     - Image: stamp0720dd.jpg
+    - Image: stamp0724ad.jpg

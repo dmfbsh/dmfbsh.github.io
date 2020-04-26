@@ -14,7 +14,7 @@
   Drivers:
   - Name: George Russell
   - Name: Robert Kubica
-    Image: stamp0401bd.jpg
+    Image: stamp0199dd.jpg
     Champion: No
 - Year: 2018
   Team: Williams
@@ -30,10 +30,10 @@
   Title: No
   Cars:
   - Name: Williams FW40
-    Image: stamp0692.jpg
+    Image: stamp0674.jpg
   Drivers:
   - Name: Felipe Massa
-    Image: stamp0495.jpg
+    Image: stamp0164ad.jpg
     Champion: No
   - Name: Lance Stroll
 - Year: 2016
@@ -41,10 +41,10 @@
   Title: No
   Cars:
   - Name: Williams FW38
-    Image: stamp0668.jpg
+    Image: stamp0644dc.jpg
   Drivers:
   - Name: Felipe Massa
-    Image: stamp0160.jpg
+    Image: stamp0495.jpg
     Champion: No
   - Name: Valtteri Bottas
     Image: stamp0724ad.jpg
@@ -54,10 +54,10 @@
   Title: No
   Cars:
   - Name: Williams FW37
-    Image: stamp0582ac.jpg
+    Image: stamp0592.jpg
   Drivers:
   - Name: Felipe Massa
-    Image: stamp0164ad.jpg
+    Image: stamp0160.jpg
     Champion: No
   - Name: Valtteri Bottas
     Image: stamp0720dd.jpg
@@ -70,10 +70,10 @@
     Image: stamp0559.jpg
   Drivers:
   - Name: Felipe Massa
-    Image: stamp0164ad.jpg
+    Image: stamp0160.jpg
     Champion: No
   - Name: Valtteri Bottas
-    Image: stamp0724ad.jpg
+    Image: stamp0720dd.jpg
     Champion: No
 - Year: 2013
   Team: Williams
@@ -102,7 +102,7 @@
   - Name: Williams FW33
   Drivers:
   - Name: Rubens Barrichello
-    Image: stamp0001bd.jpg
+    Image: stamp0118.jpg
     Champion: No
   - Name: Pastor Maldonado
 - Year: 2010
@@ -112,7 +112,7 @@
   - Name: Williams FW32
   Drivers:
   - Name: Rubens Barrichello
-    Image: stamp0400bd.jpg
+    Image: stamp0118.jpg
     Champion: No
   - Name: Nico Hulkenberg
     Image: stamp0714ad.jpg
@@ -124,7 +124,7 @@
   - Name: Williams FW31
   Drivers:
   - Name: Nico Rosberg
-    Image: stamp0398bd.jpg
+    Image: stamp0677.jpg
     Champion: No
   - Name: Kazuki Nakajima
 - Year: 2008
@@ -134,7 +134,7 @@
   - Name: Williams FW30
   Drivers:
   - Name: Nico Rosberg
-    Image: stamp0615.jpg
+    Image: stamp0398bd.jpg
     Champion: No
   - Name: Kazuki Nakajima
 - Year: 2007
@@ -144,10 +144,10 @@
   - Name: Williams FW29
   Drivers:
   - Name: Nico Rosberg
-    Image: stamp0398bd.jpg
+    Image: stamp0677.jpg
     Champion: No
   - Name: Alexander Wurz
-    Image: stamp0029ad.jpg
+    Image: stamp0239ed.jpg
     Champion: No
   - Name: Kazuki Nakajima
 - Year: 2006
@@ -157,10 +157,10 @@
   - Name: Williams FW28
   Drivers:
   - Name: Mark Webber
-    Image: stamp0488.jpg
+    Image: stamp0398ad.jpg
     Champion: No
   - Name: Nico Rosberg
-    Image: stamp0615.jpg
+    Image: stamp0616ad.jpg
     Champion: No
 - Year: 2005
   Team: Williams
@@ -169,10 +169,10 @@
   - Name: Williams FW27
   Drivers:
   - Name: Mark Webber
-    Image: stamp0489.jpg
+    Image: stamp0488.jpg
     Champion: No
   - Name: Nick Heidfeld
-    Image: stamp0245.jpg
+    Image: stamp0282.jpg
     Champion: No
   - Name: Antonio Pizzonia
 - Year: 2004
@@ -185,7 +185,7 @@
     Image: stamp0155bd.jpg
     Champion: No
   - Name: Ralf Schumacher
-    Image: stamp0326id.jpg
+    Image: stamp0029ad.jpg
     Champion: No
   - Name: Marc Gene
     Image: stamp0239cd.jpg
@@ -198,13 +198,13 @@
   - Name: Williams FW25
   Drivers:
   - Name: Juan Pablo Montoya
-    Image: stamp0075id.jpg
+    Image: stamp0326cd.jpg
     Champion: No
   - Name: Ralf Schumacher
-    Image: stamp0249cd.jpg
+    Image: stamp0238cd.jpg
     Champion: No
   - Name: Marc Gene
-    Image: stamp0239cd.jpg
+    Image: stamp0029ad.jpg
     Champion: No
 - Year: 2002
   Team: Williams
@@ -213,10 +213,10 @@
   - Name: Williams FW24
   Drivers:
   - Name: Ralf Schumacher
-    Image: stamp0249cd.jpg
+    Image: stamp0082.jpg
     Champion: No
   - Name: Juan Pablo Montoya
-    Image: stamp0326cd.jpg
+    Image: stamp0155bd.jpg
     Champion: No
 - Year: 2001
   Team: Williams
@@ -225,7 +225,7 @@
   - Name: Williams FW23
   Drivers:
   - Name: Ralf Schumacher
-    Image: stamp0239ed.jpg
+    Image: stamp0082.jpg
     Champion: No
   - Name: Juan Pablo Montoya
     Image: stamp0326cd.jpg
@@ -235,13 +235,13 @@
   Title: No
   Cars:
   - Name: Williams FW22
-    Image: stamp0087cc.jpg
+    Image: stamp0238bc.jpg
   Drivers:
   - Name: Ralf Schumacher
-    Image: stamp0239ed.jpg
+    Image: stamp0075gd.jpg
     Champion: No
   - Name: Jenson Button
-    Image: stamp0029ad.jpg
+    Image: stamp0238dd.jpg
     Champion: No
 - Year: 1999
   Team: Williams
@@ -250,7 +250,7 @@
   - Name: Williams FW21
   Drivers:
   - Name: Ralf Schumacher
-    Image: stamp0029ad.jpg
+    Image: stamp0239ed.jpg
     Champion: No
   - Name: Alessandro Zanardi
 - Year: 1998
@@ -264,7 +264,7 @@
     Image: stamp0388ed.jpg
     Champion: No
   - Name: Heinz-Harald Frentzen
-    Image: stamp0075bd.jpg
+    Image: stamp0240ed.jpg
     Champion: No
 - Year: 1997
   Team: Williams
@@ -274,10 +274,10 @@
     Image: stamp0032fc.jpg
   Drivers:
   - Name: Jacques Villeneuve
-    Image: stamp0029ad.jpg
+    Image: stamp0388ed.jpg
     Champion: Yes
   - Name: Heinz-Harald Frentzen
-    Image: stamp0239ed.jpg
+    Image: stamp0240ed.jpg
     Champion: No
 - Year: 1996
   Team: Williams
@@ -287,7 +287,7 @@
     Image: stamp0187.jpg
   Drivers:
   - Name: Damon Hill
-    Image: stamp0440.jpg
+    Image: stamp0070hd.jpg
     Champion: Yes
   - Name: Jacques Villeneuve
     Image: stamp0217.jpg
@@ -301,10 +301,10 @@
     Image: stamp0598dc.jpg
   Drivers:
   - Name: Damon Hill
-    Image: stamp0079ad.jpg
+    Image: stamp0084ad.jpg
     Champion: No
   - Name: David Coulthard
-    Image: stamp0326ed.jpg
+    Image: stamp0249dd.jpg
     Champion: No
 - Year: 1994
   Team: Williams
@@ -313,19 +313,19 @@
   - Name: Williams FW16B
     Image: stamp0634.jpg
   - Name: Williams FW16
-    Image: stamp0032cc.jpg
+    Image: stamp0301bc.jpg
   Drivers:
   - Name: Damon Hill
-    Image: stamp0634.jpg
+    Image: stamp0084ad.jpg
     Champion: No
   - Name: Ayrton Senna
-    Image: stamp0659.jpg
+    Image: stamp0611cd.jpg
     Champion: No
   - Name: David Coulthard
-    Image: stamp0215.jpg
+    Image: stamp0184cd.jpg
     Champion: No
   - Name: Nigel Mansell
-    Image: stamp0074hd.jpg
+    Image: stamp0479bd.jpg
     Champion: No
 - Year: 1993
   Team: Williams
@@ -335,23 +335,23 @@
     Image: stamp0641bc.jpg
   Drivers:
   - Name: Damon Hill
-    Image: stamp0079ad.jpg
+    Image: stamp0142ad.jpg
     Champion: No
   - Name: Alain Prost
-    Image: stamp0291ed.jpg
+    Image: stamp0388hd.jpg
     Champion: Yes
 - Year: 1992
   Team: Williams
   Title: Yes
   Cars:
   - Name: Williams FW14B
-    Image: stamp0479dc.jpg
+    Image: stamp0632.jpg
   Drivers:
   - Name: Nigel Mansell
-    Image: stamp0479bd.jpg
+    Image: stamp0441.jpg
     Champion: Yes
   - Name: Riccardo Patrese
-    Image: stamp0181.jpg
+    Image: stamp0561cd.jpg
     Champion: No
 - Year: 1991
   Team: Williams
@@ -374,7 +374,7 @@
   Drivers:
   - Name: Thierry Boutsen
   - Name: Riccardo Patrese
-    Image: stamp0561cd.jpg
+    Image: stamp0181.jpg
     Champion: No
 - Year: 1989
   Team: Williams
@@ -385,7 +385,7 @@
   Drivers:
   - Name: Thierry Boutsen
   - Name: Riccardo Patrese
-    Image: stamp0181.jpg
+    Image: stamp0561cd.jpg
     Champion: No
 - Year: 1988
   Team: Williams
@@ -394,10 +394,10 @@
   - Name: Williams FW12
   Drivers:
   - Name: Nigel Mansell
-    Image: stamp0479dd.jpg
+    Image: stamp0479ed.jpg
     Champion: No
   - Name: Riccardo Patrese
-    Image: stamp0561cd.jpg
+    Image: stamp0181.jpg
     Champion: No
   - Name: Martin Brundle
   - Name: Jean-Louis Schlesser
@@ -409,10 +409,10 @@
     Image: stamp0627.jpg
   Drivers:
   - Name: Nigel Mansell
-    Image: stamp0092.jpg
+    Image: stamp0370gd.jpg
     Champion: No
   - Name: Nelson Piquet
-    Image: stamp0506.jpg
+    Image: stamp0243.jpg
     Champion: Yes
   - Name: Riccardo Patrese
     Image: stamp0181.jpg
@@ -422,13 +422,13 @@
   Title: Yes
   Cars:
   - Name: Williams FW11
-    Image: stamp0197cc.jpg
+    Image: stamp0037fc.jpg
   Drivers:
   - Name: Nigel Mansell
-    Image: stamp0590.jpg
+    Image: stamp0479dd.jpg
     Champion: No
   - Name: Nelson Piquet
-    Image: stamp0019.jpg
+    Image: stamp0189ed.jpg
     Champion: No
 - Year: 1985
   Team: Williams
@@ -439,7 +439,7 @@
     Image: stamp0479bc.jpg
   Drivers:
   - Name: Nigel Mansell
-    Image: stamp0479cd.jpg
+    Image: stamp0479bd.jpg
     Champion: No
   - Name: Keke Rosberg
     Image: stamp0216dd.jpg
@@ -453,7 +453,7 @@
     Image: stamp0505.jpg
   Drivers:
   - Name: Keke Rosberg
-    Image: stamp0216dd.jpg
+    Image: stamp0074dd.jpg
     Champion: No
   - Name: Jacques Laffite
 - Year: 1983
@@ -479,13 +479,13 @@
   - Name: Williams FW07D
   Drivers:
   - Name: Carlos Reutemann
-    Image: stamp0323bd.jpg
+    Image: stamp0621.jpg
     Champion: No
   - Name: Keke Rosberg
-    Image: stamp0622.jpg
+    Image: stamp0505.jpg
     Champion: Yes
   - Name: Mario Andretti
-    Image: stamp0478.jpg
+    Image: stamp0074fd.jpg
     Champion: No
   - Name: Derek Daly
 - Year: 1981
@@ -497,10 +497,10 @@
     Image: stamp0621.jpg
   Drivers:
   - Name: Alan Jones
-    Image: stamp0216bd.jpg
+    Image: stamp0620.jpg
     Champion: No
   - Name: Carlos Reutemann
-    Image: stamp0363ad.jpg
+    Image: stamp0323bd.jpg
     Champion: No
 - Year: 1980
   Team: Williams
@@ -509,27 +509,27 @@
   - Name: Williams FW07B
     Image: stamp0620.jpg
   - Name: Williams FW07
-    Image: stamp0327.jpg
+    Image: stamp0197ac.jpg
   Drivers:
   - Name: Alan Jones
     Image: stamp0620.jpg
     Champion: Yes
   - Name: Carlos Reutemann
-    Image: stamp0621.jpg
+    Image: stamp0323bd.jpg
     Champion: No
 - Year: 1979
   Team: Williams
   Title: No
   Cars:
   - Name: Williams FW07
-    Image: stamp0197ac.jpg
+    Image: stamp0008cc.jpg
   - Name: Williams FW06
   Drivers:
   - Name: Alan Jones
-    Image: stamp0216bd.jpg
+    Image: stamp0620.jpg
     Champion: No
   - Name: Clay Regazzoni
-    Image: stamp0010bd.jpg
+    Image: stamp0004bd.jpg
     Champion: No
 - Year: 1978
   Team: Williams
@@ -538,5 +538,5 @@
   - Name: Williams FW06
   Drivers:
   - Name: Alan Jones
-    Image: stamp0620.jpg
+    Image: stamp0216bd.jpg
     Champion: No

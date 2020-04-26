@@ -11,8 +11,8 @@
     Images:
     - Image: stamp0693.jpg
     - Image: stamp0617bd.jpg
-    - Image: stamp0680cd.jpg
     - Image: stamp0694ad.jpg
+    - Image: stamp0680cd.jpg
   - Driver: Kevin Magnussen
     Count: 1
     Images:
@@ -20,23 +20,23 @@
   - Driver: Kimi Raikkonen
     Count: 17
     Images:
-    - Image: stamp0399ad.jpg
-    - Image: stamp0155cd.jpg
-    - Image: stamp0184bd.jpg
-    - Image: stamp0031.jpg
+    - Image: stamp0142bd.jpg
+    - Image: stamp0164bd.jpg
+    - Image: stamp0524cd.jpg
+    - Image: stamp0524gd.jpg
   - Driver: Lewis Hamilton
     Count: 42
     Images:
-    - Image: stamp0720cd.jpg
-    - Image: stamp0713ad.jpg
-    - Image: stamp0530.jpg
-    - Image: stamp0718ad.jpg
+    - Image: stamp0694bd.jpg
+    - Image: stamp0199ad.jpg
+    - Image: stamp0614dd.jpg
+    - Image: stamp0549dd.jpg
   - Driver: Max Verstappen
     Count: 3
     Images:
+    - Image: stamp0719ad.jpg
     - Image: stamp0714cd.jpg
     - Image: stamp0723ad.jpg
-    - Image: stamp0719ad.jpg
   - Driver: Romain Grosjean
     Count: 1
     Images:
@@ -44,6 +44,6 @@
   - Driver: Valtteri Bottas
     Count: 3
     Images:
-    - Image: stamp0724ad.jpg
     - Image: stamp0720dd.jpg
     - Image: stamp0680ad.jpg
+    - Image: stamp0724ad.jpg

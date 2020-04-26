@@ -14,16 +14,16 @@
     Images:
     - Image: stamp0053bc.jpg
     - Image: stamp0344.jpg
-    - Image: stamp0056ac.jpg
-    - Image: stamp0053ac.jpg
+    - Image: stamp0025ac.jpg
+    - Image: stamp0095ac.jpg
   Drivers:
   - Driver: Alberto Ascari
     Count: 10
     Images:
-    - Image: stamp0097.jpg
-    - Image: stamp0568ad.jpg
+    - Image: stamp0331.jpg
     - Image: stamp0121ed.jpg
-    - Image: stamp0659ad.jpg
+    - Image: stamp0414.jpg
+    - Image: stamp0561ad.jpg
   - Driver: Chico Landi
     Count: 1
     Images:
@@ -31,23 +31,23 @@
   - Driver: Giuseppe Farina
     Count: 8
     Images:
-    - Image: stamp0642ad.jpg
-    - Image: stamp0413.jpg
     - Image: stamp0468.jpg
+    - Image: stamp0335.jpg
     - Image: stamp0569.jpg
+    - Image: stamp0615.jpg
   - Driver: Jose Froilan Gonzalez
     Count: 3
     Images:
+    - Image: stamp0204.jpg
     - Image: stamp0602ad.jpg
     - Image: stamp0068.jpg
-    - Image: stamp0204.jpg
   - Driver: Juan Manuel Fangio
     Count: 43
     Images:
-    - Image: stamp0446.jpg
-    - Image: stamp0323ed.jpg
-    - Image: stamp0359.jpg
-    - Image: stamp0597ad.jpg
+    - Image: stamp0121ad.jpg
+    - Image: stamp0364bd.jpg
+    - Image: stamp0190cd.jpg
+    - Image: stamp0099bd.jpg
   - Driver: Louis Chiron
     Count: 1
     Images:
@@ -60,9 +60,9 @@
     Count: 8
     Images:
     - Image: stamp0602ed.jpg
-    - Image: stamp0139cd.jpg
+    - Image: stamp0045ad.jpg
+    - Image: stamp0653ad.jpg
     - Image: stamp0070ad.jpg
-    - Image: stamp0417.jpg
   - Driver: Peter Collins
     Count: 2
     Images:
@@ -71,7 +71,7 @@
   - Driver: Stirling Moss
     Count: 15
     Images:
-    - Image: stamp0379.jpg
+    - Image: stamp0276ad.jpg
+    - Image: stamp0210.jpg
+    - Image: stamp0009cd.jpg
     - Image: stamp0114ad.jpg
-    - Image: stamp0037ad.jpg
-    - Image: stamp0341.jpg

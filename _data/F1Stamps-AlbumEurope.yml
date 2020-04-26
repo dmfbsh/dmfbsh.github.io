@@ -13,11 +13,6 @@
   - Country: Austria
     Flag: AUST0001.jpg
     Stamps:
-    - Picture: stamp0013.jpg
-      Width: 200
-      IssueDate: 4th December 2006
-      Description: |
-        While Schumacher was on the podium after winning the 2006 Italian Grand Prix, Ferrari issued a press release stating that he would retire from racing at the end of the 2006 season.
     - Picture: stamp0009.jpg
       Width: 400
       IssueDate: 7th June 2006
@@ -37,6 +32,16 @@
         Mario Andretti: Andretti drove in F1 from 1968 to 1982 for a variety of teams, he finally won the drivers championship in 1978 with Lotus.<br>
         <br>
         Alain Prost: Prost drove in F1 from 1980 to 1993, for McLaren, Renault, Williams and Ferrari.  He won the drivers championship 4 times: 1985 (McLaren MP4/2B), 1986 (McLaren MP4/2C), 1989 (McLaren MP4/5) and 1993 (Williams FW15C).
+    - Picture: stamp0013.jpg
+      Width: 200
+      IssueDate: 4th December 2006
+      Description: |
+        While Schumacher was on the podium after winning the 2006 Italian Grand Prix, Ferrari issued a press release stating that he would retire from racing at the end of the 2006 season.
+    - Picture: stamp0011.jpg
+      Width: 400
+      IssueDate: 29th May 2007
+      Description: |
+        Graham Hill: Hill drove in F1 from 1958 to 1975 for a variety of teams and with various chassis.  He won the drivers title twice, first in 1962 with the Owen Racing Organisation driving a BRM P57 and then with Lotus in the Lotus 49.
     - Picture: stamp0010.jpg
       Width: 400
       IssueDate: 29th May 2007
@@ -58,11 +63,16 @@
         Graham Hill: Hill drove in F1 from 1958 to 1975 for a variety of teams and with various chassis.  He won the drivers title twice, first in 1962 with the Owen Racing Organisation driving a BRM P57 and then with Lotus in the Lotus 49.<br>
         <br>
         Emerson Fittipaldi: Fittipaldi drove in F1 from 1970 to 1980, first with Lotus, then McLaren and finally his own team.  He won the drivers title twice, first in 1972 with Lotus in the 72D and then in 1974 with McLaren in the M23.
-    - Picture: stamp0011.jpg
+    - Picture: stamp0503.jpg
       Width: 400
-      IssueDate: 29th May 2007
+      IssueDate: 17th March 2009
       Description: |
-        Graham Hill: Hill drove in F1 from 1958 to 1975 for a variety of teams and with various chassis.  He won the drivers title twice, first in 1962 with the Owen Racing Organisation driving a BRM P57 and then with Lotus in the Lotus 49.
+        In the 2008 season, Hamilton beat Massa by 1 point to the drivers championship, in a breathtaking finish to the Brazilian Grand Prix.  Massa had won the race, at which point Hamilton was in 6th place giving Massa the title, but an overtake in the final corners gave Hamilton 5th place the and title.  This meant that Hamilton had clinched the 2008 Formula One World Championship, becoming the youngest driver to win the title, as well as the first black driver.  He is also the first British driver to win the World Championship since Damon Hill triumphed in 1996.
+    - Picture: stamp0502.jpg
+      Width: 200
+      IssueDate: 17th March 2009
+      Description: |
+        In the 2008 season, Hamilton beat Massa by 1 point to the drivers championship, in a breathtaking finish to the Brazilian Grand Prix.  Massa had won the race, at which point Hamilton was in 6th place giving Massa the title, but an overtake in the final corners gave Hamilton 5th place the and title.  This meant that Hamilton had clinched the 2008 Formula One World Championship, becoming the youngest driver to win the title, as well as the first black driver.  He is also the first British driver to win the World Championship since Damon Hill triumphed in 1996.
     - Picture: stamp0014.jpg
       Width: 400
       IssueDate: 27th May 2009
@@ -74,16 +84,6 @@
         James Hunt drove in F1 from 1973 to 1979, first with Hesketh Racing (3 seasons), then with McLaren (3 seasons) and finally for Wolf Racing.  Hunt won the drivers championship in 1976 driving the McLaren M23 by 1 point from Niki Lauda (the season that Lauda had his near fatal accident in Germany).<br>
         <br>
         Bernie Ecclestone started out as a competitor in the 500cc Formula 3 series in 1949, following an accident he left racing, but soon returned as a manager of drivers (which included Rindt).  In 1972 he bought the Brabham team; he then went on to form the Formula One Constructors Associations with Williams, Champman, Mayer, Tyrrell and Mosley.  He became chief executive of FOCA in 1978.
-    - Picture: stamp0502.jpg
-      Width: 200
-      IssueDate: 17th March 2009
-      Description: |
-        In the 2008 season, Hamilton beat Massa by 1 point to the drivers championship, in a breathtaking finish to the Brazilian Grand Prix.  Massa had won the race, at which point Hamilton was in 6th place giving Massa the title, but an overtake in the final corners gave Hamilton 5th place the and title.  This meant that Hamilton had clinched the 2008 Formula One World Championship, becoming the youngest driver to win the title, as well as the first black driver.  He is also the first British driver to win the World Championship since Damon Hill triumphed in 1996.
-    - Picture: stamp0503.jpg
-      Width: 400
-      IssueDate: 17th March 2009
-      Description: |
-        In the 2008 season, Hamilton beat Massa by 1 point to the drivers championship, in a breathtaking finish to the Brazilian Grand Prix.  Massa had won the race, at which point Hamilton was in 6th place giving Massa the title, but an overtake in the final corners gave Hamilton 5th place the and title.  This meant that Hamilton had clinched the 2008 Formula One World Championship, becoming the youngest driver to win the title, as well as the first black driver.  He is also the first British driver to win the World Championship since Damon Hill triumphed in 1996.
   - Country: Azerbaijan
     Flag: AZER0001.jpg
     Stamps:
@@ -182,11 +182,6 @@
         Nino Farina initially took the lead, but, by the end of the first lap, had been passed by Fangio, Ascari and Gonzalez. Paul Pietsch was running in fifth, but ended up at the back of the field after going off on the second lap. When Farina was forced to retire due to overheating problems, Fangio was left as the sole Alfa Romeo able to take the fight to the Ferrari drivers. Alberto Ascari took the lead on the fifth lap as a result of Fangio's first pitstop, but Fangio returned to the lead when Ascari took to the pits. As the Alfas required two pitstops, as opposed to just one for the Ferraris, Fangio needed to build a large lead in his second stint if he wanted to retain the lead after his second stop. He was unable to do so, therefore Ascari reclaimed the lead on the fifteenth lap of the race. Due to a misbehaving engine, Fangio was unable to take advantage of an unexpected tyre change for Ascari, meaning that the Italian took his maiden World Championship race victory by over half a minute from Fangio. Gonzalez completed the podium, with the remaining points positions going to the other works Ferraris of Villoresi and Taruffi.<br>
         <br>
         Ascari's victory took him to second in the Championship standings, ten points adrift of Fangio, who extended his lead from the previous race. After his second consecutive podium, Jose Froilan Gonzalez moved up to third in the standings, level on points with Farina and Villoresi.
-    - Picture: stamp0214.jpg
-      Width: 400
-      IssueDate: 1999
-      Description: |
-        A mini sheet of eight values featuring F1, in particular Mika Hakkinen's 1998 drivers' title.  Hakkinen won eight races in the McLaren MP4/13 giving him the title; with team mate David Coulthard contributing another win, McLaren also took the constructors' championship that year.
     - Picture: stamp0069.jpg
       Width: 400
       IssueDate: 18th February 1999
@@ -206,6 +201,11 @@
       IssueDate: 1999
       Description: |
         A mini sheet of two stamps featuring Formula 1.
+    - Picture: stamp0214.jpg
+      Width: 400
+      IssueDate: 1999
+      Description: |
+        A mini sheet of eight values featuring F1, in particular Mika Hakkinen's 1998 drivers' title.  Hakkinen won eight races in the McLaren MP4/13 giving him the title; with team mate David Coulthard contributing another win, McLaren also took the constructors' championship that year.
   - Country: Spain
     Flag: SPAN0001.jpg
     Stamps:
@@ -246,22 +246,6 @@
         A single stamp issued to commemorate the 1-2 victory for Red Bull Racing at the Brazilian Grand Prix in 2010.<br>
         <br>
         Sebastian Vettel won the race and this was enough to give Red Bull Racing the constructors' championship for the first time.  Mark Weber was second in the sister Red Bull.
-    - Picture: stamp0296.jpg
-      Width: 200
-      IssueDate: 2010
-      Description: |
-        A single stamp featuring the 2010 Ferrari F10.<br>
-        <br>
-        The car was unveiled in Maranello, Italy on 28 January 2010. On 20 February, Fernando Alonso declared that the F10 was the best car he had ever driven, and that its true pace was being hidden from its rivals.  Fernando Alonso and Felipe Massa drove the car to 3rd place in the constructors' championship.
-    - Picture: stamp0295.jpg
-      Width: 200
-      IssueDate: 2010
-      Description: |
-        A single stamp featuring the 2010 McLaren Mercedes MP4/25.<br>
-        <br>
-        The McLaren MP4-25, driven by 2009 World Champion Jenson Button and 2008 World Champion Lewis Hamilton, was officially unveiled at title sponsor Vodafone's headquarters in Newbury, Berkshire, United Kingdom on January 29, 2010.  McLaren were runner up in the constructors' championship in 2010.<br>
-        <br>
-        The Red Bull Racing team complained to the FIA about the legality of the MP4-25's rear wing. The design uses a small "snorkel" air scoop mounted in front of the driver that channels air through a duct in the cockpit and towards the rear of the car. Changes in the pressure in the duct, in combination with small slots on the rear wing, causes the wing to enter a stalled state at high speed, reducing aerodynamic drag and allowing the car as much as an extra 6 mph (9.7 km/h) on straights. The effect is controlled by the driver covering up a small hole in the cockpit with his left leg - this is not considered by the FIA to be a moveable aerodynamic device, which would be banned under the technical regulations. Known internally as the RW80 it is widely called the "F-Duct" system either due to the shape of the air intake or the fact that it is beside the F of the Vodafone logo. Another term for the system is switchable rear wing (SRW). The car was inspected on the Thursday prior to the Bahrain Grand Prix (the season opener) and cleared to take part in the race.
     - Picture: stamp0320.jpg
       Width: 200
       IssueDate: 2010
@@ -280,6 +264,22 @@
         The team's achievements in their first season did not come close to those of Brawn the previous year, with the Mercedes battling Renault for the title of 'best of the rest' behind the leading three teams of Ferrari, McLaren and Red Bull. Rosberg finished on the podium three times, at Sepang, Shanghai and Silverstone. Schumacher's best finishes were three fourth places. He did not score a race win, podium, pole position or fastest lap for the first time since his debut season in 1991, and also scored the worst finish of his F1 career at Valencia, where he finished fifteenth. Schumacher was penalised for dangerous driving after forcing his former Ferrari team-mate Rubens Barrichello towards the pit wall at 180 mph (290 km/h). At the last race in Abu Dhabi Schumacher spun while trying to overtake Rosberg and was hit by Vitantonio Liuzzi's Force India.<br>
         <br>
         The team finished fourth in the Constructors' Championship, with 214 points.
+    - Picture: stamp0295.jpg
+      Width: 200
+      IssueDate: 2010
+      Description: |
+        A single stamp featuring the 2010 McLaren Mercedes MP4/25.<br>
+        <br>
+        The McLaren MP4-25, driven by 2009 World Champion Jenson Button and 2008 World Champion Lewis Hamilton, was officially unveiled at title sponsor Vodafone's headquarters in Newbury, Berkshire, United Kingdom on January 29, 2010.  McLaren were runner up in the constructors' championship in 2010.<br>
+        <br>
+        The Red Bull Racing team complained to the FIA about the legality of the MP4-25's rear wing. The design uses a small "snorkel" air scoop mounted in front of the driver that channels air through a duct in the cockpit and towards the rear of the car. Changes in the pressure in the duct, in combination with small slots on the rear wing, causes the wing to enter a stalled state at high speed, reducing aerodynamic drag and allowing the car as much as an extra 6 mph (9.7 km/h) on straights. The effect is controlled by the driver covering up a small hole in the cockpit with his left leg - this is not considered by the FIA to be a moveable aerodynamic device, which would be banned under the technical regulations. Known internally as the RW80 it is widely called the "F-Duct" system either due to the shape of the air intake or the fact that it is beside the F of the Vodafone logo. Another term for the system is switchable rear wing (SRW). The car was inspected on the Thursday prior to the Bahrain Grand Prix (the season opener) and cleared to take part in the race.
+    - Picture: stamp0296.jpg
+      Width: 200
+      IssueDate: 2010
+      Description: |
+        A single stamp featuring the 2010 Ferrari F10.<br>
+        <br>
+        The car was unveiled in Maranello, Italy on 28 January 2010. On 20 February, Fernando Alonso declared that the F10 was the best car he had ever driven, and that its true pace was being hidden from its rivals.  Fernando Alonso and Felipe Massa drove the car to 3rd place in the constructors' championship.
     - Picture: stamp0297.jpg
       Width: 200
       IssueDate: 2010
@@ -296,13 +296,13 @@
         A single stamp showing Jenson Button in the McLaren MP4/26 at the Hungarian Grand Prix in 2011.<br>
         <br>
         Jenson Button won the race, which was his 200th Grand Prix start - the Hungaroring is also where Button scored his maiden win in 2006.
-    - Picture: stamp0382.jpg
+    - Picture: stamp0321.jpg
       Width: 200
       IssueDate: 2012
       Description: |
-        A single stamp commemorating  the 2012 Hungarian Grand Prix.<br>
+        A single stamp issued to commemorate Fernando Alonso's (Ferrari) win at the 2012 European Grand Prix.<br>
         <br>
-        The race was won by Lewis Hamilton (McLaren), with Kimi Raikkonnen (Lotus) second and Romain Grosjean (Lotus) third.
+        The race was held at the Valencia street circuit and was the last time that the circuit will hold the European Grand Prix, as from 2013 the Spanish Grand Prix will alternate between Barcelona and Valencia.
     - Picture: stamp0386.jpg
       Width: 200
       IssueDate: 2012
@@ -317,20 +317,6 @@
         A single stamp featuring the Renault R25.<br>
         <br>
         The 2005 Renault R25 won both  the Drivers' (Fernando Alonso) and the Constructors' Championships - the first titles for any car racing with a French licence since the Matra MS80 1969.  This car was also one of only two championship winners since 1991 not to have been designed by either Adrian Newey or Rory Byrne.
-    - Picture: stamp0383.jpg
-      Width: 200
-      IssueDate: 2012
-      Description: |
-        A single stamp commemorating Fernando Alonso's victory at the German Grand Prix in 2012.<br>
-        <br>
-        The race was held at the Hockenheimring.
-    - Picture: stamp0321.jpg
-      Width: 200
-      IssueDate: 2012
-      Description: |
-        A single stamp issued to commemorate Fernando Alonso's (Ferrari) win at the 2012 European Grand Prix.<br>
-        <br>
-        The race was held at the Valencia street circuit and was the last time that the circuit will hold the European Grand Prix, as from 2013 the Spanish Grand Prix will alternate between Barcelona and Valencia.
     - Picture: stamp0384.jpg
       Width: 200
       IssueDate: 2012
@@ -338,6 +324,20 @@
         A single stamp featuring the Ferrari F150, Ferrari's 2011 challenger.<br>
         <br>
         The '150' in the name was chosen to celebrate the 150th anniversary of Italy's unification.  In early 2011, Ford gave its intentions to sue Ferrari over the F150 name (Ford owns the F150 trademark) - so Ferrari tweaked the name to "Ferrari 150 Italia".  The car itself lacked pace and was not able to mount a challenge to Red Bull Racing.
+    - Picture: stamp0383.jpg
+      Width: 200
+      IssueDate: 2012
+      Description: |
+        A single stamp commemorating Fernando Alonso's victory at the German Grand Prix in 2012.<br>
+        <br>
+        The race was held at the Hockenheimring.
+    - Picture: stamp0382.jpg
+      Width: 200
+      IssueDate: 2012
+      Description: |
+        A single stamp commemorating  the 2012 Hungarian Grand Prix.<br>
+        <br>
+        The race was won by Lewis Hamilton (McLaren), with Kimi Raikkonnen (Lotus) second and Romain Grosjean (Lotus) third.
   - Country: Finland
     Flag: FINL0001.jpg
     Stamps:
@@ -388,67 +388,7 @@
   - Country: Great Britain
     Flag: UNKG0001.jpg
     Stamps:
-    - Picture: stamp0356.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
     - Picture: stamp0339.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0338.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0337.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0335.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0345.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0333.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0344.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0304.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0302.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0332.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0340.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0351.jpg
       Width: 400
       IssueDate: 13th May 2000
       Description: |
@@ -458,7 +398,47 @@
       IssueDate: 13th May 2000
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0355.jpg
+    - Picture: stamp0335.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0334.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0345.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0337.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0344.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0303.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0338.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0342.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0341.jpg
       Width: 400
       IssueDate: 13th May 2000
       Description: |
@@ -468,12 +448,7 @@
       IssueDate: 13th May 2000
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0353.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0352.jpg
+    - Picture: stamp0332.jpg
       Width: 400
       IssueDate: 13th May 2000
       Description: |
@@ -483,12 +458,22 @@
       IssueDate: 13th May 2000
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0350.jpg
+    - Picture: stamp0331.jpg
       Width: 400
       IssueDate: 13th May 2000
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0349.jpg
+    - Picture: stamp0340.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0302.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0343.jpg
       Width: 400
       IssueDate: 13th May 2000
       Description: |
@@ -503,37 +488,52 @@
       IssueDate: 13th May 2000
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0349.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0350.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0351.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0353.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0355.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0356.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0333.jpg
+      Width: 400
+      IssueDate: 13th May 2000
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
     - Picture: stamp0346.jpg
       Width: 400
       IssueDate: 13th May 2000
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0331.jpg
+    - Picture: stamp0352.jpg
       Width: 400
       IssueDate: 13th May 2000
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0342.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0343.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0303.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0334.jpg
-      Width: 400
-      IssueDate: 13th May 2000
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0341.jpg
+    - Picture: stamp0304.jpg
       Width: 400
       IssueDate: 13th May 2000
       Description: |
@@ -552,19 +552,6 @@
         <br>
         "Smilers" are sheets of 10 to 20 stamps, each accompanied by a perforated tab, which is designed for a personalized photo image.  The British Post Office entered the personalized stamp market in 2000, at the Stamp Show 2000, held in Earl's Court, London. They prepared five sheets of 10 stamps for personalized photographs. These comprised the "Clown", the "Mona Lisa", "Dennis the Menace", the "Policeman", and the "Teddy Bear" from the 1991 "Famous Smiles" greetings booklet issue. They also prepared a special commemorative sheet of 10 with generic tabs to promote the show. This sheet was based upon the complete 10-stamp issue of this "Famous Smiles" booklet, and thus the name "Smilers" was adopted by the British Post Office.
     - Picture: stamp0509.jpg
-      Width: 400
-      IssueDate: 21st July 2007
-      Description: |
-        A set of 6 stamps commemorating some of Britain's most notable F1 drivers, ranging from Stirling Moss in the 1950s to Nigel Mansell in the 1980s.<br>
-        <br>
-        The six stamps, in varying denominations, depict Moss in his 1957 Vanwall, Graham Hill in his 1962 BRM, Jim Clark in his 1963 Lotus, Jackie Stewart in his 1973 Tyrell, James Hunt in his 1976 McLaren and Nigel Mansell in his 1986 Williams. The stamps were timed to capitalize on Lewis Hamilton's home grand prix at Silverstone.<br>
-        <br>
-        As a matter of protocol no British stamp can depict the face a living person other than the monarch, Her Majesty Queen Elizabeth II, which explains why the cars are pictured from above, revealing only the tops of the drivers' helmets.<br>
-        <br>
-        The stamps have caused some controversy as they celebrate one driver -- Stirling Moss -- who never won a world championship, while omitting Mike Hawthorn, the first British driver to win the title, and Damon Hill, the last British driver to win the title.<br>
-        <br>
-        The set consists of the presentation pack and various first day covers (signed by Nico Rosberg, Alex Wurz - the Williams drivers for 2007, and Ross Brawn, Adrian Newey and Patrick Head).
-    - Picture: stamp0038.jpg
       Width: 400
       IssueDate: 21st July 2007
       Description: |
@@ -616,21 +603,20 @@
         The stamps have caused some controversy as they celebrate one driver -- Stirling Moss -- who never won a world championship, while omitting Mike Hawthorn, the first British driver to win the title, and Damon Hill, the last British driver to win the title.<br>
         <br>
         The set consists of the presentation pack and various first day covers (signed by Nico Rosberg, Alex Wurz - the Williams drivers for 2007, and Ross Brawn, Adrian Newey and Patrick Head).
-    - Picture: stamp0070.jpg
+    - Picture: stamp0038.jpg
       Width: 400
-      IssueDate: 8th July 2010
+      IssueDate: 21st July 2007
       Description: |
-        Issued on 8th July 2010, ahead of the 60th British Grand Prix, the British World Champion Grand Prix Drivers sheet features ten 1st Class Union Flag stamps with labels featuring the ten British drivers champions of F1.
+        A set of 6 stamps commemorating some of Britain's most notable F1 drivers, ranging from Stirling Moss in the 1950s to Nigel Mansell in the 1980s.<br>
+        <br>
+        The six stamps, in varying denominations, depict Moss in his 1957 Vanwall, Graham Hill in his 1962 BRM, Jim Clark in his 1963 Lotus, Jackie Stewart in his 1973 Tyrell, James Hunt in his 1976 McLaren and Nigel Mansell in his 1986 Williams. The stamps were timed to capitalize on Lewis Hamilton's home grand prix at Silverstone.<br>
+        <br>
+        As a matter of protocol no British stamp can depict the face a living person other than the monarch, Her Majesty Queen Elizabeth II, which explains why the cars are pictured from above, revealing only the tops of the drivers' helmets.<br>
+        <br>
+        The stamps have caused some controversy as they celebrate one driver -- Stirling Moss -- who never won a world championship, while omitting Mike Hawthorn, the first British driver to win the title, and Damon Hill, the last British driver to win the title.<br>
+        <br>
+        The set consists of the presentation pack and various first day covers (signed by Nico Rosberg, Alex Wurz - the Williams drivers for 2007, and Ross Brawn, Adrian Newey and Patrick Head).
     - Picture: stamp0041.jpg
-      Width: 400
-      IssueDate: 2010
-      Description: |
-        A special mark commemorating 60 years for F1 racing at Silverstone - one cover is signed by Murray Walker and Martin Brundle.<br>
-        <br>
-        The 1950 British Grand Prix was held on 13th May 1950 at Silverstone.  It was the first round of the 1950 World Drivers Championship and the fifth race of the season.  The race, contested over 58 laps, was won by Giuseppe Farina for the Alfa Romeo team after starting from pole position.  Luigi Fagioli finished second in another Alfa Romeo, and Reg Parnell third in a third Alfa Romeo.  The race followed the Pau Grand Prix, San Remo Grand Prix, the Richmond Trophy and the Paris Grand Prix.  It was the first World Championship Formula One race in the modern era.<br>
-        <br>
-        The 2010 British Grand Prix was held on 11th July 2010 at Silverstone.  The race was won by Mark Weber (Red Bull-Renault), with Lewis Hamilton (McLaren-Mercedes) second and Nico Rosberg (Mercedes) third.
-    - Picture: stamp0042.jpg
       Width: 400
       IssueDate: 2010
       Description: |
@@ -644,12 +630,21 @@
       IssueDate: 2010
       Description: |
         TBD
-    - Picture: stamp0627.jpg
-      Width: 200
-      IssueDate: Unknown
+    - Picture: stamp0070.jpg
+      Width: 400
+      IssueDate: 8th July 2010
       Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0632.jpg
+        Issued on 8th July 2010, ahead of the 60th British Grand Prix, the British World Champion Grand Prix Drivers sheet features ten 1st Class Union Flag stamps with labels featuring the ten British drivers champions of F1.
+    - Picture: stamp0042.jpg
+      Width: 400
+      IssueDate: 2010
+      Description: |
+        A special mark commemorating 60 years for F1 racing at Silverstone - one cover is signed by Murray Walker and Martin Brundle.<br>
+        <br>
+        The 1950 British Grand Prix was held on 13th May 1950 at Silverstone.  It was the first round of the 1950 World Drivers Championship and the fifth race of the season.  The race, contested over 58 laps, was won by Giuseppe Farina for the Alfa Romeo team after starting from pole position.  Luigi Fagioli finished second in another Alfa Romeo, and Reg Parnell third in a third Alfa Romeo.  The race followed the Pau Grand Prix, San Remo Grand Prix, the Richmond Trophy and the Paris Grand Prix.  It was the first World Championship Formula One race in the modern era.<br>
+        <br>
+        The 2010 British Grand Prix was held on 11th July 2010 at Silverstone.  The race was won by Mark Weber (Red Bull-Renault), with Lewis Hamilton (McLaren-Mercedes) second and Nico Rosberg (Mercedes) third.
+    - Picture: stamp0631.jpg
       Width: 200
       IssueDate: Unknown
       Description: |
@@ -669,12 +664,12 @@
       IssueDate: Unknown
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0636.jpg
+    - Picture: stamp0637.jpg
       Width: 200
       IssueDate: Unknown
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0637.jpg
+    - Picture: stamp0623.jpg
       Width: 200
       IssueDate: Unknown
       Description: |
@@ -689,27 +684,17 @@
       IssueDate: Unknown
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0630.jpg
-      Width: 200
-      IssueDate: Unknown
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
     - Picture: stamp0618.jpg
       Width: 400
       IssueDate: Unknown
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0623.jpg
-      Width: 200
-      IssueDate: Unknown
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0625.jpg
-      Width: 200
-      IssueDate: Unknown
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
     - Picture: stamp0624.jpg
+      Width: 200
+      IssueDate: Unknown
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0632.jpg
       Width: 200
       IssueDate: Unknown
       Description: |
@@ -719,12 +704,32 @@
       IssueDate: Unknown
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0627.jpg
+      Width: 200
+      IssueDate: Unknown
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
     - Picture: stamp0626.jpg
       Width: 200
       IssueDate: Unknown
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0631.jpg
+    - Picture: stamp0629.jpg
+      Width: 200
+      IssueDate: Unknown
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0630.jpg
+      Width: 200
+      IssueDate: Unknown
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0621.jpg
+      Width: 200
+      IssueDate: Unknown
+      Description: |
+        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
+    - Picture: stamp0625.jpg
       Width: 200
       IssueDate: Unknown
       Description: |
@@ -739,17 +744,12 @@
       IssueDate: Unknown
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0621.jpg
-      Width: 200
-      IssueDate: Unknown
-      Description: |
-        One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
     - Picture: stamp0622.jpg
       Width: 200
       IssueDate: Unknown
       Description: |
         One of a series of Formula 1 commemorative envelopes produced by Motorsport Charity Memorabilia to raise funds for Papworth Hospital CardioThoracic Research Unit.
-    - Picture: stamp0629.jpg
+    - Picture: stamp0636.jpg
       Width: 200
       IssueDate: Unknown
       Description: |
@@ -799,15 +799,15 @@
   - Country: Republic of South Ossetia (Georgia)
     Flag: 600px-Flag_of_South_Ossetia_svg.jpg
     Stamps:
-    - Picture: stamp0125.jpg
+    - Picture: stamp0128.jpg
       Width: 400
       IssueDate: 1999
       Description: |
-        1984 McLarem MP4/2.  The McLaren MP4/2 was designed by John Barnard of McLaren for the 1984 season.<br>
+        1976 Ferrari 312T2.  The Ferrari 312T was based on the 312B3 from 1974.  In various versions, it was used from 1975 until 1980.  It was designed by Mauro Forghieri for the 1975 season and was an uncomplicated and clean design, that responded to mechanical upgrades.  The 312T series won 27 races, four constructors' and three drivers' championships, and was replaced for the 1981 season by the 126 C, Ferrari's first turbocharged F1 car.  The car was powered by the powerful and ultra reliable flat-12 engine which gave around 510bhp, the T in the name stood for 'transverse', as the gearbox was mounted in this way, improving the car's handling characteristics, which had been the downfall of its predecessor.<br>
         <br>
-        The car was one of the first to use an all carbon fibre chassis, following on from Lotus.  The car was powered by a TAG Porsche V6 Turbo engine, which was first used in the final few races of 1983, at the insistence of Niki Lauda, who felt that the new engine required race testing before a championship challenge could be mounted.  His instincts were right on.<br>
+        The 312T2 was launched at Fiorano and featured a number of modifications over the 312T.  In order to comply with the revised aerodynamic rules, the car no longer featured an airbox behind the cockpit.  Instead "NACA shaped" air intakes were incorporated into the cockpit sides, feeding air into each cylinder bank of the flat 12 engine.  At 2650mm, the wheelbase was 42mm longer than that of the 312T.<br>
         <br>
-        The MP4/2 was one of the first F1 cars to use carbon brakes, giving it another major advantage over most of its rivals.  That, combined to superior fuel consumption and the driving skill of Lauda and Prost saw the MP4/2 score 12 wins in 1984, at the time the highest number of wins in a season by a single team.  Lauda beat Prost to the championship by a measly half point in the final race, even though Prost had 7 wins to Lauda's 5.
+        The 312T2 was if anything, more successful than the 312T.  Lauda was comfortably leading the world championship, when at the 1976 German Grand Prix at Nurburgring he had a massive accident caused by a suspected rear suspension failure.  In the aftermath he nearly burned to death, but was miraculously back racing just 6 weeks later.  Lauda conceded the title by just a single point to James Hunt (McLaren), but the 312T2's superiority helped Ferrari win its second consecutive constructor's title
     - Picture: stamp0130.jpg
       Width: 400
       IssueDate: 1999
@@ -819,20 +819,6 @@
         The FW11 was updated slightly for 1987 to become the FW11B, and the team made no mistakes in wrapping up both championships.  Honda were now supplying Lotus with the same engine supplied to Williams, which helped Ayrton Senna challenge consistently, but the FW11's superiority told, and Piquet was champion.  As for Mansell, he scored six victories including a memorable win at the British Grand Prix.  He scored twice as many wins as Piquet, but also had the lion's share of bad luck and unreliability.  Piquet's third championship was assured after Mansell had a major crash during practice for the Japanese Grand Prix.  The team tried active suspension for the first time with the FW11, and there were plans to introduce semi automatic transmission, but this never came to pass.<br>
         <br>
         The FW11 was not a technical showcase by any means, but solid engineering, the engine's outright power and Piquet and Mansell helped the car take 18 wins, 16 pole positions and 278 points.
-    - Picture: stamp0124.jpg
-      Width: 400
-      IssueDate: 1999
-      Description: |
-        1978 Lotus 79 MK4.  The Lotus 79 was the first F1 car to take full advantage of ground effects aerodynamics, pioneered in its immediate predecessor, the Lotus 78.  The undercar pressure problems in the 78 were resolved with the 79, with further design work on the venturi tunnels under the car, which allowed the low pressure area to be evenly spaced along the whole of the underside.  This was achieved by extending the rear bodywork to a point inside the rear wheels, allowing the underside to extend further back, instead of ending abruptly in front of the rear wheels on the 78.  As a result, the rear suspension was also redesigned to allow the air to exit the rear more cleanly than on its predecessor.  This allowed a smaller rear wing to be designed, causing less drag. When the car first appeared, the upper bodywork was steeply raked and featured Coke bottle sidepods.  After work in the wind tunnel, these features were found to be unnecessary, as the car generated so much downforce anyway.<br>
-        <br>
-        The 79 proved to be almost unbeatable during the 1978 Formula One season and provided an unprecedented level of domination.  The car took seven victories during the season giving the drivers' championship to Andretti, and the constructors' championship to Lotus.
-    - Picture: stamp0129.jpg
-      Width: 400
-      IssueDate: 1999
-      Description: |
-        1962 Lotus 25.  The Lotus 25 was designed by Colin Chapman.  It was a revolutionary design, the first fully stressed monocoque chassis to appear in F1.  An early brainchild of Chapman's fertile mind, the original sketches for the car were made on napkins while Chapman discussed his idea while dining out with Lotus chassis designer Mike Costin.<br>
-        <br>
-        The monocoque made the car more rigid and structurally stronger than typical F1 cars of the period.  The 25 was three times stiffer than the interim 21, while the chassis weighed only half as much.  As a result, the car was extremely low and narrow (frontal area only 8.0 ft squared, 0.74m squared compared to the normal 9.5 ft squared, 0.88 m squared).  To assist this, the driver reclined sharply behind the wheel (an idea seen in the 18, and pioneered over a decade previously by Gustav Baumm at NSU), leading to the nickname 'The Bathtub', while front suspension pieces were moved inboard.  The 25 was powered by a 1498cc Coventry Climax FWMV V8, although Reg Parnell Racing in 1964 fitted BRM P56s of similar specification to their second-hand 25s.  Such was 25's effect on motor racing, even today's modern F1 cars follow its basic principles.
     - Picture: stamp0127.jpg
       Width: 400
       IssueDate: 1999
@@ -851,27 +837,39 @@
         The car was initially conceived in 1965 for a 1.5-litre Coventry Climax engine, but never raced in this form.  For the 1966 Formula One season the FIA doubled the limit on engine capacity to 3 litres.  Australian company Repco developed a new V8 engine for Brabham's use in 1966, but a disagreement between Brabham and Tauranac over the latter's role in the racing team left no time to develop a new car to handle it.  Instead, the existing BT19 chassis was modified for the job.<br>
         <br>
         Only one BT19 was built.
-    - Picture: stamp0128.jpg
+    - Picture: stamp0129.jpg
       Width: 400
       IssueDate: 1999
       Description: |
-        1976 Ferrari 312T2.  The Ferrari 312T was based on the 312B3 from 1974.  In various versions, it was used from 1975 until 1980.  It was designed by Mauro Forghieri for the 1975 season and was an uncomplicated and clean design, that responded to mechanical upgrades.  The 312T series won 27 races, four constructors' and three drivers' championships, and was replaced for the 1981 season by the 126 C, Ferrari's first turbocharged F1 car.  The car was powered by the powerful and ultra reliable flat-12 engine which gave around 510bhp, the T in the name stood for 'transverse', as the gearbox was mounted in this way, improving the car's handling characteristics, which had been the downfall of its predecessor.<br>
+        1962 Lotus 25.  The Lotus 25 was designed by Colin Chapman.  It was a revolutionary design, the first fully stressed monocoque chassis to appear in F1.  An early brainchild of Chapman's fertile mind, the original sketches for the car were made on napkins while Chapman discussed his idea while dining out with Lotus chassis designer Mike Costin.<br>
         <br>
-        The 312T2 was launched at Fiorano and featured a number of modifications over the 312T.  In order to comply with the revised aerodynamic rules, the car no longer featured an airbox behind the cockpit.  Instead "NACA shaped" air intakes were incorporated into the cockpit sides, feeding air into each cylinder bank of the flat 12 engine.  At 2650mm, the wheelbase was 42mm longer than that of the 312T.<br>
+        The monocoque made the car more rigid and structurally stronger than typical F1 cars of the period.  The 25 was three times stiffer than the interim 21, while the chassis weighed only half as much.  As a result, the car was extremely low and narrow (frontal area only 8.0 ft squared, 0.74m squared compared to the normal 9.5 ft squared, 0.88 m squared).  To assist this, the driver reclined sharply behind the wheel (an idea seen in the 18, and pioneered over a decade previously by Gustav Baumm at NSU), leading to the nickname 'The Bathtub', while front suspension pieces were moved inboard.  The 25 was powered by a 1498cc Coventry Climax FWMV V8, although Reg Parnell Racing in 1964 fitted BRM P56s of similar specification to their second-hand 25s.  Such was 25's effect on motor racing, even today's modern F1 cars follow its basic principles.
+    - Picture: stamp0125.jpg
+      Width: 400
+      IssueDate: 1999
+      Description: |
+        1984 McLarem MP4/2.  The McLaren MP4/2 was designed by John Barnard of McLaren for the 1984 season.<br>
         <br>
-        The 312T2 was if anything, more successful than the 312T.  Lauda was comfortably leading the world championship, when at the 1976 German Grand Prix at Nurburgring he had a massive accident caused by a suspected rear suspension failure.  In the aftermath he nearly burned to death, but was miraculously back racing just 6 weeks later.  Lauda conceded the title by just a single point to James Hunt (McLaren), but the 312T2's superiority helped Ferrari win its second consecutive constructor's title
+        The car was one of the first to use an all carbon fibre chassis, following on from Lotus.  The car was powered by a TAG Porsche V6 Turbo engine, which was first used in the final few races of 1983, at the insistence of Niki Lauda, who felt that the new engine required race testing before a championship challenge could be mounted.  His instincts were right on.<br>
+        <br>
+        The MP4/2 was one of the first F1 cars to use carbon brakes, giving it another major advantage over most of its rivals.  That, combined to superior fuel consumption and the driving skill of Lauda and Prost saw the MP4/2 score 12 wins in 1984, at the time the highest number of wins in a season by a single team.  Lauda beat Prost to the championship by a measly half point in the final race, even though Prost had 7 wins to Lauda's 5.
+    - Picture: stamp0124.jpg
+      Width: 400
+      IssueDate: 1999
+      Description: |
+        1978 Lotus 79 MK4.  The Lotus 79 was the first F1 car to take full advantage of ground effects aerodynamics, pioneered in its immediate predecessor, the Lotus 78.  The undercar pressure problems in the 78 were resolved with the 79, with further design work on the venturi tunnels under the car, which allowed the low pressure area to be evenly spaced along the whole of the underside.  This was achieved by extending the rear bodywork to a point inside the rear wheels, allowing the underside to extend further back, instead of ending abruptly in front of the rear wheels on the 78.  As a result, the rear suspension was also redesigned to allow the air to exit the rear more cleanly than on its predecessor.  This allowed a smaller rear wing to be designed, causing less drag. When the car first appeared, the upper bodywork was steeply raked and featured Coke bottle sidepods.  After work in the wind tunnel, these features were found to be unnecessary, as the car generated so much downforce anyway.<br>
+        <br>
+        The 79 proved to be almost unbeatable during the 1978 Formula One season and provided an unprecedented level of domination.  The car took seven victories during the season giving the drivers' championship to Andretti, and the constructors' championship to Lotus.
     - Picture: stamp0123.jpg
       Width: 400
       IssueDate: 1999
       Description: |
         1960 Cooper T-53.  For the 1960 Formula One season, Cooper produced the first of the 'Lowline' series. The T53 was narrower and lower than the previous types.  This approach gave them a second World Championship with Bruce McLaren and Jack Brabham at the wheel.
-    - Picture: stamp0404.jpg
+    - Picture: stamp0406.jpg
       Width: 400
       IssueDate: 2006
       Description: |
-        A mini souvenir sheet featuring the Brazilian Grand Prix.<br>
-        <br>
-        In 2006, Felipe Massa became the first Brazilian to win his home Grand Prix since Ayrton Senna in 1993.  Fernando Alonso finished second and secured his second successive world championship, becoming, at the time, the youngest double world champion - after a season long battle with Michael Schumacher.
+        A mini souvenir sheet featuring various F1 cars.
     - Picture: stamp0403.jpg
       Width: 400
       IssueDate: 2006
@@ -879,16 +877,18 @@
         A mini souvenir sheet featuring the Italian Grand Prix.<br>
         <br>
         In 2006, Robert Kubica scored his first podium finish in only his third race (for BMW Sauber) - Michael Schumacher won the race for Ferrari.  At the post-race press conference Michael Schumacher announced his retirement from motor sport.
+    - Picture: stamp0404.jpg
+      Width: 400
+      IssueDate: 2006
+      Description: |
+        A mini souvenir sheet featuring the Brazilian Grand Prix.<br>
+        <br>
+        In 2006, Felipe Massa became the first Brazilian to win his home Grand Prix since Ayrton Senna in 1993.  Fernando Alonso finished second and secured his second successive world championship, becoming, at the time, the youngest double world champion - after a season long battle with Michael Schumacher.
     - Picture: stamp0387.jpg
       Width: 400
       IssueDate: 2006
       Description: |
         A mini souvenir sheet featuring various Formula 1 cars.
-    - Picture: stamp0406.jpg
-      Width: 400
-      IssueDate: 2006
-      Description: |
-        A mini souvenir sheet featuring various F1 cars.
   - Country: Guernsey
     Flag: GUER0001.jpg
     Stamps:
@@ -906,17 +906,17 @@
         - James Hunt won the F1 World Championship in Japan in 1976, driving a McLaren M23.<br>
         - Nigel Mansell won the F1 World Championship in 1992, driving a Williams.<br>
         - Damon Hill took the F1 World Championship in 1996, driving a Williams.
+    - Picture: stamp0545.jpg
+      Width: 400
+      IssueDate: 27th October 2011
+      Description: |
+        A set of four stamps featuring the two most recent British F1 World Champions, Lewis Hamilton and Jenson Button.  This set of stamps was issued to compliment a previous stamp issue in 2007 which featured the eight British F1 World Champions that existed up to that point.
     - Picture: stamp0544.jpg
       Width: 400
       IssueDate: 27th October 2011
       Description: |
         A set of four stamps featuring the two most recent British F1 World Champions, Lewis Hamilton and Jenson Button.  This set of stamps was issued to compliment a previous stamp issue in 2007 which featured the eight British F1 World Champions that existed up to that point.
     - Picture: stamp0546.jpg
-      Width: 400
-      IssueDate: 27th October 2011
-      Description: |
-        A set of four stamps featuring the two most recent British F1 World Champions, Lewis Hamilton and Jenson Button.  This set of stamps was issued to compliment a previous stamp issue in 2007 which featured the eight British F1 World Champions that existed up to that point.
-    - Picture: stamp0545.jpg
       Width: 400
       IssueDate: 27th October 2011
       Description: |
@@ -979,13 +979,6 @@
         Stamps issued to recognise the Hungarian Grand Prix; the 2005 race was held on 31/07/05 and saw the beginning of the end of tobacco advertising due to the Europe-wide ban. McLaren (West) and BAR (Lucky Strike) ran with tobacco livery on Friday and Saturday before withdrawing it for the race, while Ferrari (Marlboro) and Renault (Mild Seven) ran full tobacco livery for the entire weekend. McLaren announced that Scotch whisky producer Johnnie Walker would take over the team's title sponsorship for the remainder of the year.<br>
         <br>
         Kimi Raikkonen (Mclaren) won the race, ahead of Michael Schumacher (Ferrari) who was able to withstand the late charge from Ralf Schumacher (Toyota), who scored his first podium finish of the year, and his first for Toyota.
-    - Picture: stamp0411.jpg
-      Width: 400
-      IssueDate: 2005
-      Description: |
-        A souvenir sheet featuring the Hungaroring.<br>
-        <br>
-        The Hungaroring is where is the Hungarian Grand prix is held.  In 1986, it became the location of the first F1 Grand prix to be held behind the Iron Curtain.  A Grand Prix has been held there ever since.
     - Picture: stamp0607.jpg
       Width: 200
       IssueDate: 17th June 2005
@@ -993,6 +986,13 @@
         Stamps issued to recognise the Hungarian Grand Prix; the 2005 race was held on 31/07/05 and saw the beginning of the end of tobacco advertising due to the Europe-wide ban. McLaren (West) and BAR (Lucky Strike) ran with tobacco livery on Friday and Saturday before withdrawing it for the race, while Ferrari (Marlboro) and Renault (Mild Seven) ran full tobacco livery for the entire weekend. McLaren announced that Scotch whisky producer Johnnie Walker would take over the team's title sponsorship for the remainder of the year.<br>
         <br>
         Kimi Raikkonen (Mclaren) won the race, ahead of Michael Schumacher (Ferrari) who was able to withstand the late charge from Ralf Schumacher (Toyota), who scored his first podium finish of the year, and his first for Toyota.
+    - Picture: stamp0411.jpg
+      Width: 400
+      IssueDate: 2005
+      Description: |
+        A souvenir sheet featuring the Hungaroring.<br>
+        <br>
+        The Hungaroring is where is the Hungarian Grand prix is held.  In 1986, it became the location of the first F1 Grand prix to be held behind the Iron Curtain.  A Grand Prix has been held there ever since.
     - Picture: stamp0606.jpg
       Width: 200
       IssueDate: 17th June 2005
@@ -1032,6 +1032,11 @@
   - Country: Republic of Ireland
     Flag: IREL0001.jpg
     Stamps:
+    - Picture: stamp0090.jpg
+      Width: 400
+      IssueDate: 26th April 2001
+      Description: |
+        Jordan Grand Prix was a Formula One constructor that competed from 1991 to 2005.  The team is named after Irish businessman and founder Eddie Jordan.  Jordan and his team were well known for a "rock and roll" attitude which added colour and character to Formula One in the 1990s.  In 1998, the team made its biggest signing, former World Champion Damon Hill, a graduate of Jordan's F3000 programme.  This stamp celebrates Jordan's finest race result; at the 1998 rain-soaked Belgian Grand Prix in which only six cars finished, Damon Hill earned Jordan their first ever Formula One win, which was also Hill's 22nd career Grand Prix victory. Ralf Schumacher sweetened the victory by finishing second. In 1998, Hill finished 6th in the driver's standings with Ralf 10th.
     - Picture: stamp0526.jpg
       Width: 200
       IssueDate: 2001
@@ -1039,11 +1044,6 @@
         A set of 4 stamps, one of which features a Jordan F1 car.<br>
         <br>
         Jordan Grand Prix was a F1 constructor that competed from 1991 to 2005.  The team is named after Irish businessman and founder Eddie Jordan.  Jordan and his team were well known for a "rock and roll" attitude which added colour and character to Formula One in the 1990s.
-    - Picture: stamp0090.jpg
-      Width: 400
-      IssueDate: 26th April 2001
-      Description: |
-        Jordan Grand Prix was a Formula One constructor that competed from 1991 to 2005.  The team is named after Irish businessman and founder Eddie Jordan.  Jordan and his team were well known for a "rock and roll" attitude which added colour and character to Formula One in the 1990s.  In 1998, the team made its biggest signing, former World Champion Damon Hill, a graduate of Jordan's F3000 programme.  This stamp celebrates Jordan's finest race result; at the 1998 rain-soaked Belgian Grand Prix in which only six cars finished, Damon Hill earned Jordan their first ever Formula One win, which was also Hill's 22nd career Grand Prix victory. Ralf Schumacher sweetened the victory by finishing second. In 1998, Hill finished 6th in the driver's standings with Ralf 10th.
   - Country: Isle Of Man
     Flag: ISMA0001.jpg
     Stamps:
@@ -1087,12 +1087,12 @@
         Mike Hawthorn in the Cooper T20 (1952, drivers' championship: 5th)<br>
         Tony Brooks in the Vanwall VW5 (1957, 1958, in 1958 the first manufacturers trophy was awarded - Vanwall won it as they won 6 of the 9 races)<br>
         Jim Clark in the Lotus 25 (1962, 1963)
-    - Picture: stamp0093.jpg
+    - Picture: stamp0094.jpg
       Width: 400
       IssueDate: 15th January 2009
       Description: |
         The Isle of Man Post Office issued stamps to mark Lewis Hamilton's F1 world championship win. Given the Island's motorsport connections, it was decided the star was an appropriate subject for the set of six commemorative stamps. The stamp collection is entitled Lewis Hamilton - Formula One World Champion and includes a first day cover, presentation pack and special sheet folder. The packs will be issued on January 15 and also have a review of Hamilton's outstanding achievement by legendary TV commentator Murray Walker OBE.
-    - Picture: stamp0094.jpg
+    - Picture: stamp0093.jpg
       Width: 400
       IssueDate: 15th January 2009
       Description: |
@@ -1100,18 +1100,6 @@
   - Country: Iceland
     Flag: ICEL0001.jpg
     Stamps:
-    - Picture: stamp0529.jpg
-      Width: 200
-      IssueDate: 2011
-      Description: |
-        One of a series of stamps issued to commemorate the 2011 F1 season.<br>
-        <br>
-        The 2011 Hungarian Grand Prix was held at the Hungaroring circuit; the result was: 1st - Sebastian Vettel (Red Bull Renault), 2nd - Lewis Hamilton (McLaren) and 3rd - Jenson Button (McLaren).
-    - Picture: stamp0531.jpg
-      Width: 200
-      IssueDate: 2011
-      Description: |
-        One of a series of stamps, featuring the legends of F1 - Ayrton Senna.
     - Picture: stamp0285.jpg
       Width: 200
       IssueDate: 2011
@@ -1119,27 +1107,6 @@
         One of a series of stamps issued to commemorate the 2011 F1 season.<br>
         <br>
         The 2011 Chinese Grand Prix was held at the Shanghai International Circuit; the result was: 1st - Lewis Hamilton (McLaren), 2nd - Sebastian Vettel (Red Bull Renault) and 3rd - Mark Weber (Red Bull Renault).
-    - Picture: stamp0528.jpg
-      Width: 200
-      IssueDate: 2011
-      Description: |
-        One of a series of stamps issued to commemorate the 2011 F1 season.<br>
-        <br>
-        The 2011 British Grand Prix was held at the Silverstone circuit; the result was: 1st - Fernando Alonso (Ferrari), 2nd - Sebastian Vettel (Red Bull Renault) and 3rd - Mark Webber (Red Bull Renault).
-    - Picture: stamp0527.jpg
-      Width: 200
-      IssueDate: 2011
-      Description: |
-        One of a series of stamps issued to commemorate the 2011 F1 season.<br>
-        <br>
-        The 2011 European Grand Prix was held at the Valencia street circuit; the result was: 1st - Sebastian Vettel (Red Bull Renault), 2nd - Fernando Alonso (Ferrari) and 3rd - Mark Weber (Red Bull Renault).
-    - Picture: stamp0530.jpg
-      Width: 200
-      IssueDate: 2011
-      Description: |
-        One of a series of stamps issued to commemorate the 2011 F1 season.<br>
-        <br>
-        The 2011 German Grand Prix was held at the Nurburgring circuit; the result was: 1st - Mark Weber (Red Bull Renault), 2nd - Lewis Hamilton (McLaren) and 3rd - Sebastian Vettel (Red Bull Renault).
     - Picture: stamp0282.jpg
       Width: 200
       IssueDate: 2011
@@ -1154,13 +1121,6 @@
         One of a series of stamps issued to commemorate the 2011 F1 season.<br>
         <br>
         The 2011 Spanish Grand Prix was held at the Circuit de Catalunyat; the result was: 1st - Sebastian Vettel (Red Bull Renault), 2nd - Lewis Hamilton (McLaren) and 3rd - Jenson Button (McLaren).
-    - Picture: stamp0284.jpg
-      Width: 200
-      IssueDate: 2011
-      Description: |
-        One of a series of stamps issued to commemorate the 2011 F1 season.<br>
-        <br>
-        The 2011 Turkish Grand Prix was held at the Istanbul Park circuit; the result was: 1st - Sebastian Vettel (Red Bull Renault), 2nd - Mark Weber (Red Bull Renault) and 3rd - Fernando Alonso (Ferrari).
     - Picture: stamp0283.jpg
       Width: 200
       IssueDate: 2011
@@ -1168,6 +1128,46 @@
         One of a series of stamps issued to commemorate the 2011 F1 season.<br>
         <br>
         The 2011 Canadian Grand Prix was held at the Circuit Gilles Villeneuve; the result was: 1st - Jenson Button (McLaren), 2nd - Sebastian Vettel (Red Bull Renault) and 3rd - Mark Weber (Red Bull Renault).
+    - Picture: stamp0531.jpg
+      Width: 200
+      IssueDate: 2011
+      Description: |
+        One of a series of stamps, featuring the legends of F1 - Ayrton Senna.
+    - Picture: stamp0530.jpg
+      Width: 200
+      IssueDate: 2011
+      Description: |
+        One of a series of stamps issued to commemorate the 2011 F1 season.<br>
+        <br>
+        The 2011 German Grand Prix was held at the Nurburgring circuit; the result was: 1st - Mark Weber (Red Bull Renault), 2nd - Lewis Hamilton (McLaren) and 3rd - Sebastian Vettel (Red Bull Renault).
+    - Picture: stamp0529.jpg
+      Width: 200
+      IssueDate: 2011
+      Description: |
+        One of a series of stamps issued to commemorate the 2011 F1 season.<br>
+        <br>
+        The 2011 Hungarian Grand Prix was held at the Hungaroring circuit; the result was: 1st - Sebastian Vettel (Red Bull Renault), 2nd - Lewis Hamilton (McLaren) and 3rd - Jenson Button (McLaren).
+    - Picture: stamp0284.jpg
+      Width: 200
+      IssueDate: 2011
+      Description: |
+        One of a series of stamps issued to commemorate the 2011 F1 season.<br>
+        <br>
+        The 2011 Turkish Grand Prix was held at the Istanbul Park circuit; the result was: 1st - Sebastian Vettel (Red Bull Renault), 2nd - Mark Weber (Red Bull Renault) and 3rd - Fernando Alonso (Ferrari).
+    - Picture: stamp0528.jpg
+      Width: 200
+      IssueDate: 2011
+      Description: |
+        One of a series of stamps issued to commemorate the 2011 F1 season.<br>
+        <br>
+        The 2011 British Grand Prix was held at the Silverstone circuit; the result was: 1st - Fernando Alonso (Ferrari), 2nd - Sebastian Vettel (Red Bull Renault) and 3rd - Mark Webber (Red Bull Renault).
+    - Picture: stamp0527.jpg
+      Width: 200
+      IssueDate: 2011
+      Description: |
+        One of a series of stamps issued to commemorate the 2011 F1 season.<br>
+        <br>
+        The 2011 European Grand Prix was held at the Valencia street circuit; the result was: 1st - Sebastian Vettel (Red Bull Renault), 2nd - Fernando Alonso (Ferrari) and 3rd - Mark Weber (Red Bull Renault).
   - Country: Italy
     Flag: ITAL0001.jpg
     Stamps:
@@ -1191,11 +1191,6 @@
         In 1923, racing in Ravenna for Alfa Romeo, he acquired the Prancing Horse badge which decorated the fuselage of Francesco Baracca's (Italy's leading ace of WWI) SPAD S.XIII fighter, given from his mother, taken from the wreckage of the plane after his mysterious death.  This icon would have to wait until 1932 to be displayed on a racing car.<br>
         <br>
         As Ferry Porsche stated in his autobiography "Mein Leben", the Prancing Horse is, in fact, the coat of arms of the city of Stuttgart.  It is not from a German plane Baracca shot down - it was emblazoned on his aircraft in tribute to his past cavalry unit, and later presented to Ferrari by Baracca's family.
-    - Picture: stamp0412.jpg
-      Width: 200
-      IssueDate: 1998
-      Description: |
-        A single stamp commemorating the 10th anniversary of Enzo Ferrari's death.
     - Picture: stamp0371.jpg
       Width: 200
       IssueDate: 1998
@@ -1203,6 +1198,11 @@
         A single stamp featuring the Ferrari 500 F2.<br>
         <br>
         In 1952 the World Championship of Drivers was run under Formula 2 regulations, this was as a result of Alfa Romeo withdrawing from the sport.  Ferrari was the only team to have a car designed for these regulations, the 500 F2.  As a result Alberto Ascari dominated the championship in this car.
+    - Picture: stamp0412.jpg
+      Width: 200
+      IssueDate: 1998
+      Description: |
+        A single stamp commemorating the 10th anniversary of Enzo Ferrari's death.
     - Picture: stamp0096.jpg
       Width: 400
       IssueDate: 2001
@@ -1362,11 +1362,6 @@
         A single stamp commemorating the 65th Monaco Grand Prix.<br>
         <br>
         The 65th Monaco Grand Prix was held on 24th - 27th May 2007, it was quite an uneventful race.  Fernando Alonso (McLaren) won, Lewis Hamilton (McLaren) was second and Filipe Massa (Ferrari) was third.
-    - Picture: stamp0521.jpg
-      Width: 400
-      IssueDate: 4th December 2009
-      Description: |
-        50th Anniversary of Ayrton Senna's birth - Ayrton Senna was born in Sao Paulo in 1960. He is considered one of the greatest Formula 1 drivers of all time: three times world champion, he won 41 F1 Grand Prix races and was in pole position 65 times. A genuine idol in Brazil, Senna gave generously to his country's charity organizations. After his death on May 1, 1994 at Imola, his sister, Viviane Senna, completed his project to aid the most underprivileged children by creating the Ayrton Senna Foundation.
     - Picture: stamp0520.jpg
       Width: 200
       IssueDate: 4th December 2009
@@ -1384,6 +1379,11 @@
         Issued to commemorate the 80th anniversary of the first Monaco Grand Prix; on April 14, 1929, Prince Pierre opened the circuit for the 1st Formula 1 Monaco Grand Prix. The Englishman Williams won the race in a Bugatti 35B. The Monaco Grand Prix is an unusual stage in the world of the Formula 1 as it takes place downtown on a winding road.<br>
         <br>
         The 2009 Monaco Grand Prix was the sixth round of the 2009 Formula One season. It was won by Brawn GP driver Jenson Button, with his team-mate Rubens Barrichello second, and Ferrari's Kimi Raikkonen third.
+    - Picture: stamp0521.jpg
+      Width: 400
+      IssueDate: 4th December 2009
+      Description: |
+        50th Anniversary of Ayrton Senna's birth - Ayrton Senna was born in Sao Paulo in 1960. He is considered one of the greatest Formula 1 drivers of all time: three times world champion, he won 41 F1 Grand Prix races and was in pole position 65 times. A genuine idol in Brazil, Senna gave generously to his country's charity organizations. After his death on May 1, 1994 at Imola, his sister, Viviane Senna, completed his project to aid the most underprivileged children by creating the Ayrton Senna Foundation.
     - Picture: stamp0055.jpg
       Width: 200
       IssueDate: 2011
@@ -1398,25 +1398,16 @@
       IssueDate: 20th March 2012
       Description: |
         A single stamp issue commemorating the 70th Grand Prix race to be held in Monaco.  The first Monaco Grand prix was held in 1929; the first F1 race at Monaco was in 1950 (and was won by Juan Manuel Fangio in an Alfa Romeo).  Monaco has been on the F1 calendar ever since, although, there was no race in 1951, 1953 and 1954; in 1952, a year in which the world drivers' championship was run for less powerful Formula Two cars, the race was run to sports car rules instead and did not form part of the World Championship.
-    - Picture: stamp0426.jpg
-      Width: 400
-      IssueDate: 14th March 2013
-      Description: |
-        A single stamp featuring the Tyrrell P34.
     - Picture: stamp0425.jpg
       Width: 400
       IssueDate: 14th March 2013
       Description: |
         A single stamp featuring the Maserati 250F.
-    - Picture: stamp0492.jpg
+    - Picture: stamp0426.jpg
       Width: 400
-      IssueDate: 5th March 2014
+      IssueDate: 14th March 2013
       Description: |
-        A single stamp issued to commemorate Ayrton Senna.<br>
-        <br>
-        Senna was a specialist at the Monaco Grand Prix, he won the race a six times; a record which still stands.<br>
-        <br>
-        In 2007, Prince Albert of Monaco unveiled a plaque in honour of Senna in a ceremony that was attended by Vivane Senna.  An exhibition also took place that showcased Senna's victories around Monaco along with his Helmets that were borrowed from Senna's family and a selection of McLaren cars raced by Senna that were brought over from Motegi.
+        A single stamp featuring the Tyrrell P34.
     - Picture: stamp0491.jpg
       Width: 400
       IssueDate: 5th March 2014
@@ -1426,6 +1417,15 @@
         Villeneuve competed in F1 from 1977 to 1982; he drove for McLaren for most of his first season in F1, but switched to Ferrari for the last two races in 1977.  He continued to drive for Ferrari until his death during the final qualifying session at the Belgian Grand Prix in 1982.  At the time of his death, Villeneuve was extremely popular with fans and has since become an iconic figure in the history of the sport.<br>
         <br>
         He won six Grand Prix races in his F1 career.  In 1979, he finished second by four points in the championship to teammate Jody Scheckter.
+    - Picture: stamp0492.jpg
+      Width: 400
+      IssueDate: 5th March 2014
+      Description: |
+        A single stamp issued to commemorate Ayrton Senna.<br>
+        <br>
+        Senna was a specialist at the Monaco Grand Prix, he won the race a six times; a record which still stands.<br>
+        <br>
+        In 2007, Prince Albert of Monaco unveiled a plaque in honour of Senna in a ceremony that was attended by Vivane Senna.  An exhibition also took place that showcased Senna's victories around Monaco along with his Helmets that were borrowed from Senna's family and a selection of McLaren cars raced by Senna that were brought over from Motegi.
     - Picture: stamp0557.jpg
       Width: 400
       IssueDate: 5th March 2015
@@ -1447,13 +1447,6 @@
         The Club was founded in 1890 as an association of cyclists, and began to incorporate motorists in 1907.  Antony Noghes, the son of the Club's president, organised the inaugural Monaco Grand Prix in 1929 on a circuit around the streets of Monaco, which caused the ACM to be admitted to the AIACR (the forerunner of the FIA) after it had previously been refused entry.<br>
         <br>
         In 2015, World Champion Lewis Hamilton secured his first ever Monaco pole position during Saturday's qualifying.  In the race, Nico Rosberg took his third consecutive win at Monaco, second win of the season, and the tenth of his career, while Sebastian Vettel finished second.  Championship leader Hamilton, who had led for most of the race, moved from first into third place following a "pit stop misjudgement" during a late safety car period, for which his team, Mercedes, later apologised.  The renewed McLaren-Honda partnership scored its first points since Honda's return to the sport.
-    - Picture: stamp0586.jpg
-      Width: 400
-      IssueDate: 1st March 2016
-      Description: |
-        The 711 was the car entered by March Engineering for the 1971 season.  The aerodynamics were designed by Frank Costin and featured an ovoid front wing described either as the Spitfire (for its shape) or the Tea Tray (for its elevation from the car).  The car took no wins, but Ronnie Peterson finished second on four occasions, ending as runner-up in the World Championship.<br>
-        <br>
-        In 1972 Frank Williams ran a 711 chassis fitted with the Ford Cosworth DFV 3.0 in the Belgian Grand Prix, it was driven to fifth place by Carlos Pace.
     - Picture: stamp0587.jpg
       Width: 400
       IssueDate: 1st March 2016
@@ -1467,20 +1460,13 @@
         At his funeral, the pallbearers included Ken Tyrrell, Colin Chapman, James Hunt, Jody Scheckter, John Watson, Emerson Fittipaldi, Gunnar Nilsson and Niki Lauda<br>
         <br>
         In 1979, George Harrison paid tribute to him with a song and music video called "Faster".
-    - Picture: stamp0666.jpg
+    - Picture: stamp0586.jpg
       Width: 400
-      IssueDate: 10th April 2017
+      IssueDate: 1st March 2016
       Description: |
-        A mini sheet coomemorating the 75th anniversary of the Monaco Grand Prix in the 2017 F1 season.<br>
+        The 711 was the car entered by March Engineering for the 1971 season.  The aerodynamics were designed by Frank Costin and featured an ovoid front wing described either as the Spitfire (for its shape) or the Tea Tray (for its elevation from the car).  The car took no wins, but Ronnie Peterson finished second on four occasions, ending as runner-up in the World Championship.<br>
         <br>
-        Although the 75th time that the Monaco Grand Prix had been held, this was actually the 64th time it has been a round of the F1 World Championship.<br>
-        <br>
-        Sebastian Vettel won the race, the first Ferrari win in Monaco since 2001.  Kimi Raikkonen finished second as this was the first Ferrari 1-2 finish since the 2010 German Grand Prix.
-    - Picture: stamp0664.jpg
-      Width: 400
-      IssueDate: 8th March 2017
-      Description: |
-        A single stamp featuring James Hunt and McLaren.  Hunt drove for McLaren in the 1976, 1977 and 1978 seasons, driving the McLaren M23 and M26.  The 1976 season proved to be one of the most dramatic and controversial on record.  While Hunt's performances in the preceding three seasons at Hesketh had drawn considerable praise, there was some conjecture as to whether he could really sustain a championship challenge.  In 1976 he became a works McLaren driver, and quickly dispelled many doubters at the first race in Brazil, where, in a hastily rebuilt McLaren M23, he landed pole position in the last minutes of qualifying.  Following a dramatic season, Hunt took the drivers' title in 1976.
+        In 1972 Frank Williams ran a 711 chassis fitted with the Ford Cosworth DFV 3.0 in the Belgian Grand Prix, it was driven to fifth place by Carlos Pace.
     - Picture: stamp0662.jpg
       Width: 400
       IssueDate: 8th March 2017
@@ -1490,6 +1476,20 @@
         Phil Hill won the 1961 drivers' championship and Ferrari secured the 1961 International Cup for F1 Manufacturers, both victories achieved with the 156.<br>
         <br>
         The 1961 version of the 156 was affectionately dubbed "sharknose" due to its characteristic air intake "nostrils".
+    - Picture: stamp0664.jpg
+      Width: 400
+      IssueDate: 8th March 2017
+      Description: |
+        A single stamp featuring James Hunt and McLaren.  Hunt drove for McLaren in the 1976, 1977 and 1978 seasons, driving the McLaren M23 and M26.  The 1976 season proved to be one of the most dramatic and controversial on record.  While Hunt's performances in the preceding three seasons at Hesketh had drawn considerable praise, there was some conjecture as to whether he could really sustain a championship challenge.  In 1976 he became a works McLaren driver, and quickly dispelled many doubters at the first race in Brazil, where, in a hastily rebuilt McLaren M23, he landed pole position in the last minutes of qualifying.  Following a dramatic season, Hunt took the drivers' title in 1976.
+    - Picture: stamp0666.jpg
+      Width: 400
+      IssueDate: 10th April 2017
+      Description: |
+        A mini sheet coomemorating the 75th anniversary of the Monaco Grand Prix in the 2017 F1 season.<br>
+        <br>
+        Although the 75th time that the Monaco Grand Prix had been held, this was actually the 64th time it has been a round of the F1 World Championship.<br>
+        <br>
+        Sebastian Vettel won the race, the first Ferrari win in Monaco since 2001.  Kimi Raikkonen finished second as this was the first Ferrari 1-2 finish since the 2010 German Grand Prix.
     - Picture: stamp0663.jpg
       Width: 400
       IssueDate: 8th March 2017
@@ -1497,22 +1497,6 @@
         A single stamp featuring the Matra MS80.  The Matra MS80 was the fourth F1 car produced by Matra (following the MS9, MS10 and MS11).  The Ford Cosworth DFV-powered car (engine 3000 cc, estimated at around 420 bhp) took Jackie Stewart to the drivers' title in 1969.<br>
         <br>
         The MS80 was one of the first F1 racing cars to be designed with "wings" for downforce to increase high-speed tyre grip.
-    - Picture: stamp0686.jpg
-      Width: 400
-      IssueDate: 19th February 2018
-      Description: |
-        A single stamp featuring Jim Clark.<br>
-        <br>
-        Jim Clark achieved 33 pole positions and won 25 races from his 72 Grands Prix starts in championship races.  He is remembered for his ability to drive and win in all types of cars and series.
-    - Picture: stamp0685.jpg
-      Width: 400
-      IssueDate: 19th February 2018
-      Description: |
-        A single stamp featuring the Mercedes W196.<br>
-        <br>
-        The Mercedes-Benz W196 was a F1 racing car produced by Mercedes-Benz for the 1954 and 1955 F1 seasons.  Successor to the W194, in the hands of Juan Manuel Fangio and Stirling Moss it won 9 of 12 races entered and captured the only two world championships in which it competed.<br>
-        <br>
-        Firsts included the use of desmodromic valves and Daimler-Benz developed mechanical direct fuel injection adapted from the DB 601 high-performance V12 used on the Messerschmitt Bf 109E fighter during World War II.
     - Picture: stamp0684.jpg
       Width: 400
       IssueDate: 19th February 2018
@@ -1522,24 +1506,22 @@
         The Lotus 49 was a F1 racing car designed by Colin Chapman and Maurice Philippe for the 1967 F1 season.  It was designed around the Cosworth DFV engine that would power most of the grid through the 1970s.  It was one of the first F1 cars to use a stressed-member drivetrain to reduce weight, and the first to be widely copied by other teams.<br>
         <br>
         Jim Clark won on the car's debut, in 1967, and it would also provide him with the last win of his career, in 1968.  Graham Hill went on to win that year's title and the car continued winning races until 1970.
-    - Picture: stamp0710.jpg
+    - Picture: stamp0685.jpg
       Width: 400
-      IssueDate: 22nd March 2019
+      IssueDate: 19th February 2018
       Description: |
-        A mini sheet commemorating the 90th Anniversary of the Monaco Grand Prix.<br>
+        A single stamp featuring the Mercedes W196.<br>
         <br>
-        The first race, held on the 14th April 1929, was organised by Antony Noghes and was won by William Grover-Williams driving a works Bugatti Type 35B.<br>
+        The Mercedes-Benz W196 was a F1 racing car produced by Mercedes-Benz for the 1954 and 1955 F1 seasons.  Successor to the W194, in the hands of Juan Manuel Fangio and Stirling Moss it won 9 of 12 races entered and captured the only two world championships in which it competed.<br>
         <br>
-        The 2019 race, held on the 26th May 2019, was won by Lewis Hamilton driving a works Mercedes AMG F1 W10 EQ Power+.
-    - Picture: stamp0703.jpg
+        Firsts included the use of desmodromic valves and Daimler-Benz developed mechanical direct fuel injection adapted from the DB 601 high-performance V12 used on the Messerschmitt Bf 109E fighter during World War II.
+    - Picture: stamp0686.jpg
       Width: 400
-      IssueDate: 5th February 2019
+      IssueDate: 19th February 2018
       Description: |
-        A single stamp featuring the BRM P57.<br>
+        A single stamp featuring Jim Clark.<br>
         <br>
-        The BRM P57 was used by various teams from 1961 to 1965.  It was used by the works team (Owen Racing Organisation, which had taken over BRM) from 1961 to 1963 - its greatest success coming in 1962, when in the hands of Graham Hill the team won the Constructors' Championship and Hill won the Drivers' Championship.<br>
-        <br>
-        The chassis continued to be used by privateer teams in 1964 and 1965.
+        Jim Clark achieved 33 pole positions and won 25 races from his 72 Grands Prix starts in championship races.  He is remembered for his ability to drive and win in all types of cars and series.
     - Picture: stamp0701.jpg
       Width: 400
       IssueDate: 5th February 2019
@@ -1549,6 +1531,15 @@
         Ascari drove for Ferrari from 1950 to 1953, in 1954 he drove for Maserati, Ferrari and Lancia and in 1955 he drove for Lancia.  Ascari was killed at Monza whilst testing a Ferrari sports car in 1955.<br>
         <br>
         Ascari won the world championship in 1952 and 1953, driving the Ferrari 375 and 500.
+    - Picture: stamp0710.jpg
+      Width: 400
+      IssueDate: 22nd March 2019
+      Description: |
+        A mini sheet commemorating the 90th Anniversary of the Monaco Grand Prix.<br>
+        <br>
+        The first race, held on the 14th April 1929, was organised by Antony Noghes and was won by William Grover-Williams driving a works Bugatti Type 35B.<br>
+        <br>
+        The 2019 race, held on the 26th May 2019, was won by Lewis Hamilton driving a works Mercedes AMG F1 W10 EQ Power+.
     - Picture: stamp0702.jpg
       Width: 400
       IssueDate: 5th February 2019
@@ -1558,6 +1549,44 @@
         The Renault RS01 was the first F1 car to be powered by a turbocharged engine, it was also the first to use radial tyres, which were provided by Michelin.  The rules of F1 at the time permitted 3.0 litre engines of natural aspiration, with a clause for a 1.5 litre supercharged or turbocharged engine.  All of the teams kept initially to the 3.0 litre specification (retaining the Ford Coswrth DFV engines, or continuing to develop in-house flat 12 engines).<br>
         <br>
         The car was used from 1977 to 1979, first appearing at the 10th round of the 1977 season at Silverstone.  The car proved to be very unreliable, it was cumbersome and overweight - in reality it was little more than an experimental test car.  The car was nicknamed ' the yellow teapot' by rival teams.  Out of 26 starts, it retired 19 times, and only once scored points.
+    - Picture: stamp0703.jpg
+      Width: 400
+      IssueDate: 5th February 2019
+      Description: |
+        A single stamp featuring the BRM P57.<br>
+        <br>
+        The BRM P57 was used by various teams from 1961 to 1965.  It was used by the works team (Owen Racing Organisation, which had taken over BRM) from 1961 to 1963 - its greatest success coming in 1962, when in the hands of Graham Hill the team won the Constructors' Championship and Hill won the Drivers' Championship.<br>
+        <br>
+        The chassis continued to be used by privateer teams in 1964 and 1965.
+    - Picture: stamp0725.jpg
+      Width: 400
+      IssueDate: 4th March 2020
+      Description: |
+        A single stamp featuring the Cooper T53.<br>
+        <br>
+        The "lowline" Cooper T53 dominated the 1960 season with works drivers Jack Brabham and Bruce McLaren finishing first and second in the championship.
+    - Picture: stamp0727.jpg
+      Width: 400
+      IssueDate: 27th March 2020
+      Description: |
+        A single stamp featuring Niki Lauda, 22nd February 1949 to 20th May 2019.<br>
+        <br>
+        Lauda is a three-time Drivers' Champion, winning in 1975, 1977 and 1984.  He is the only driver in F1 history to have been champion for both Ferrari and McLaren, the sport's two most successful constructors.  He is widely considered one of the greatest F1 drivers of all time.<br>
+        <br>
+        Lauda was seriously injured in a crash at the 1976 German Grand Prix at the Nurburgring during which his Ferrari 312T2 burst into flames, and he came close to death after inhaling hot toxic fumes and suffering severe burns.  He raced again just six weeks later at the Italian Grand Prix.<br>
+        <br>
+        In September 2012 he was appointed non-executive chairman of the Mercedes F1 Team.  He took part in negotiations to sign Lewis Hamilton to a three-year deal with Mercedes.
+    - Picture: stamp0726.jpg
+      Width: 400
+      IssueDate: 4th March 2020
+      Description: |
+        A single stamp featuring the McLaren M23.<br>
+        <br>
+        The M23 was introduced for the 1973 season and was used by McLaren up to and including the 1977 season.  With this car, McLaren achieved three third places, one second place and one first place in the Constructors' Championship.<br>
+        <br>
+        A total of 13 chassis were built, with serial numbers 1 to 12 and 14.  No number 13 chassis was built, as it was deemed to be unlucky.<br>
+        <br>
+        The M23 was never the most technically advanced F1 car, but sound preparation and continual development helped it win 16 Grands Prix, two Drivers' and one Constructors' Championships in its lifetime.
   - Country: Republic of Macedonia
     Flag: MACE0001.jpg
     Stamps:
@@ -1591,8 +1620,8 @@
   - Country: Portugal
     Flag: PORT0001.jpg
     Stamps:
-    - Picture: stamp0116.jpg
-      Width: 200
+    - Picture: stamp0115.jpg
+      Width: 400
       IssueDate: 2008
       Description: |
         A stamp issue commemorating the 50th anniversary of the Boavista circuit.<br>
@@ -1602,8 +1631,8 @@
         The 1958 event is remembered for an act of good sportsmanship by Stirling Moss.  Moss came to the defense of fellow countryman (and title rival) Mike Hawthorn, who had run afoul of the stewards (and oncoming traffic) during an off-track excursion during the race.  Moss (who won the race) persuaded the stewards not to disqualify Hawthorn, preserving second place, and 6 points, for Hawthorn, who would eventually win the drivers championship by 1 point over Moss.<br>
         <br>
         The 1960 running was a race of attrition, with only four cars finishing within 5 laps of winner Jack Brabham.  Accidents and mechanical problems ended the day early for future champions John Surtees, Phil Hill, Graham Hill and others.
-    - Picture: stamp0115.jpg
-      Width: 400
+    - Picture: stamp0116.jpg
+      Width: 200
       IssueDate: 2008
       Description: |
         A stamp issue commemorating the 50th anniversary of the Boavista circuit.<br>
@@ -1639,11 +1668,6 @@
       IssueDate: 2000
       Description: |
         A mini sheet commemorating Ferrari's victory in the 2000 F1 World Championship, showing Michael Schumacher and Rubens Barrichello.  Michael Schumacher became Ferrari's first F1 World Drivers Champion for 21 years. Schumacher clinched the drivers' title at the penultimate race of the season, the Japanese Grand Prix. Ferrari also successfully defended their constructors' title.
-    - Picture: stamp0237.jpg
-      Width: 400
-      IssueDate: Unknown
-      Description: |
-        A mini sheet of one value commemorating the 3rd anniversary of Ayrton Senna's death.
     - Picture: stamp0236.jpg
       Width: 400
       IssueDate: Unknown
@@ -1651,24 +1675,42 @@
         A mini sheet of one value featuring Ukyo Katayama.<br>
         <br>
         Katayama raced in F1 from 1992 to 1997, driving for Larrousse, Tyrrell and Minardi; he never achieved much success in F1, his best result coming in 1994 in the Tyrrell Yamaha 022 when he was placed 17th in the drivers' championship.
+    - Picture: stamp0237.jpg
+      Width: 400
+      IssueDate: Unknown
+      Description: |
+        A mini sheet of one value commemorating the 3rd anniversary of Ayrton Senna's death.
   - Country: Republic of Bashkortostan (federal subject of Russia)
     Flag: Flag_of_ Bashkortostan.jpg
     Stamps:
-    - Picture: stamp0603.jpg
+    - Picture: stamp0600.jpg
+      Width: 400
+      IssueDate: 2008
+      Description: |
+        A mini sheet featuring:<br>
+        <br>
+        - Stirling Moss in 1961 driving a Lotus 18<br>
+        - Dan Gurney in 1962 driving a Porsche 804<br>
+        - Jim Clark in 1963 driving a Lotus 25<br>
+        - Jim Clark in 1965 driving a Lotus 33<br>
+        - Jack Brabham in 1966 drivng a Brabham BT19<br>
+        - Jackie Stewart in 1968 driving a Matra MS10<br>
+        - Ronnie Peterson in 1971 driving a March 711<br>
+        - Jean-Pierre Beltoise in 1972 driving a BRM P153
+    - Picture: stamp0601.jpg
       Width: 400
       IssueDate: 2008
       Description: |
         A mini sheet featuring various F1 cars and drivers:<br>
         <br>
-        - 1973 - Peter Revson<br>
-        - 1974 - Niki Lauda<br>
-        - 1974 - Clay Regazzoni<br>
-        - 1977 - Jody Scheckter<br>
-        - 1978 - Rolf Stommelen<br>
-        - 1981 - Gilles Villeneuve<br>
-        - 1983 - Keke Rosberg<br>
-        - 1984 - Michele Alboreto<br>
-        - 1987 - Ayrton Senna
+        - 1988 - Gerhard Berger and the Ferrari F1/87/88C<br>
+        - 1989 - Nigel Mansell and the Ferrari 640<br>
+        - 1990 - Jean Alesi and the Tyrrell 019<br>
+        - 1991 - Ayrton Senna and the McLaren MP4/6<br>
+        - 1992 - Ayrton Senna and the McLaren MP4/7A<br>
+        - 1993 - Michael Schumacher and the Benetton B193<br>
+        - 1997 - Michael Schumacher and the Ferrari F310 B<br>
+        - 1998 - Mika Hakkinen and the McLaren MP4/13
     - Picture: stamp0602.jpg
       Width: 400
       IssueDate: 2008
@@ -1684,34 +1726,21 @@
         - 1958 - Tony Brooks<br>
         - 1959 - Jack Brabham<br>
         - 1960 - Joakim Bonnier
-    - Picture: stamp0601.jpg
+    - Picture: stamp0603.jpg
       Width: 400
       IssueDate: 2008
       Description: |
         A mini sheet featuring various F1 cars and drivers:<br>
         <br>
-        - 1988 - Gerhard Berger and the Ferrari F1/87/88C<br>
-        - 1989 - Nigel Mansell and the Ferrari 640<br>
-        - 1990 - Jean Alesi and the Tyrrell 019<br>
-        - 1991 - Ayrton Senna and the McLaren MP4/6<br>
-        - 1992 - Ayrton Senna and the McLaren MP4/7A<br>
-        - 1993 - Michael Schumacher and the Benetton B193<br>
-        - 1997 - Michael Schumacher and the Ferrari F310 B<br>
-        - 1998 - Mika Hakkinen and the McLaren MP4/13
-    - Picture: stamp0600.jpg
-      Width: 400
-      IssueDate: 2008
-      Description: |
-        A mini sheet featuring:<br>
-        <br>
-        - Stirling Moss in 1961 driving a Lotus 18<br>
-        - Dan Gurney in 1962 driving a Porsche 804<br>
-        - Jim Clark in 1963 driving a Lotus 25<br>
-        - Jim Clark in 1965 driving a Lotus 33<br>
-        - Jack Brabham in 1966 drivng a Brabham BT19<br>
-        - Jackie Stewart in 1968 driving a Matra MS10<br>
-        - Ronnie Peterson in 1971 driving a March 711<br>
-        - Jean-Pierre Beltoise in 1972 driving a BRM P153
+        - 1973 - Peter Revson<br>
+        - 1974 - Niki Lauda<br>
+        - 1974 - Clay Regazzoni<br>
+        - 1977 - Jody Scheckter<br>
+        - 1978 - Rolf Stommelen<br>
+        - 1981 - Gilles Villeneuve<br>
+        - 1983 - Keke Rosberg<br>
+        - 1984 - Michele Alboreto<br>
+        - 1987 - Ayrton Senna
   - Country: Republic of Karelia (federal subject of Russia)
     Flag: 500px-Flag_of_Karelia_svg.jpg
     Stamps:
@@ -1741,13 +1770,6 @@
   - Country: Repuplic of Dagestan (federal subject of Russia)
     Flag: 800px-Flag_of_Dagestan_svg.jpg
     Stamps:
-    - Picture: stamp0227.jpg
-      Width: 400
-      IssueDate: 2006
-      Description: |
-        A mini sheet of one value featuring the Ferrari 312 B3.<br>
-        <br>
-        The Ferrari 312 B3 was the last of the 312 B series of Ferrari F1 cars; it was used from 1973 to 1975 (it was the main car for the 1974 season).  In 1974, the Ferrari 312 B3 was driven to second place in the constructors' championship by Clay Regazzoni and Niki Lauda.
     - Picture: stamp0228.jpg
       Width: 400
       IssueDate: 2006
@@ -1755,6 +1777,13 @@
         A mini sheet of one value featuring the Ferrari F1/87.<br>
         <br>
         In the 1987 season, the car was driven by Michele Alboreto (number 27) and Gerhard Berger (number 28) and replaced the Ferrari F1/86 used in 1986.  Gustav Brunner designed the car with assistance from John Barnard.  The F1/87 featured a six speed gearbox and a turbo charged 1.5 litre V6 engine.  Gerhard Berger scored two victories in the F1/87 at the 1987 Japanese Grand Prix and 1987 Australian Grand Prix and three pole positions.  The car demonstrated flashes of its potential early in the season with Alboreto for a short time leading the San Marino Grand Prix.  However, reliability issues were a major concern.  From the Hungarian Grand Prix onwards, Ferrari looked to have a car as quick as any of their rivals.  Berger challenged Mansell for the lead at the Hungarian Grand Prix before being forced to retire.  The Austrian also came within a whisker of winning the Portuguese Grand Prix before spinning and the Mexican Grand Prix which he was leading before reliability issues forced him out once again.  The season finished on a high with dominating victories for Berger in the final two rounds and Alboreto made it a Ferrari 1-2 in Adelaide after Senna's disqualification.  Ferrari went into 1988 as one of the favourites for the championship.
+    - Picture: stamp0227.jpg
+      Width: 400
+      IssueDate: 2006
+      Description: |
+        A mini sheet of one value featuring the Ferrari 312 B3.<br>
+        <br>
+        The Ferrari 312 B3 was the last of the 312 B series of Ferrari F1 cars; it was used from 1973 to 1975 (it was the main car for the 1974 season).  In 1974, the Ferrari 312 B3 was driven to second place in the constructors' championship by Clay Regazzoni and Niki Lauda.
   - Country: Russian Federation
     Flag: RUSS0001.jpg
     Stamps:

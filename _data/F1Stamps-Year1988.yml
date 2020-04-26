@@ -7,24 +7,24 @@
   - Car: Ferrari F1/87/88C
     Count: 4
     Images:
-    - Image: stamp0169ac.jpg
-    - Image: stamp0583ac.jpg
     - Image: stamp0601ac.jpg
+    - Image: stamp0583ac.jpg
+    - Image: stamp0169ac.jpg
     - Image: stamp0048ac.jpg
   - Car: McLaren MP4/4
     Count: 3
     Images:
+    - Image: stamp0020.jpg
     - Image: stamp0599.jpg
     - Image: stamp0628.jpg
-    - Image: stamp0020.jpg
   Drivers:
   - Driver: Alain Prost
     Count: 27
     Images:
-    - Image: stamp0579.jpg
-    - Image: stamp0098ad.jpg
-    - Image: stamp0176ad.jpg
-    - Image: stamp0247.jpg
+    - Image: stamp0141bd.jpg
+    - Image: stamp0626.jpg
+    - Image: stamp0409cd.jpg
+    - Image: stamp0625.jpg
   - Driver: Andrea de Cesaris
     Count: 1
     Images:
@@ -32,44 +32,44 @@
   - Driver: Ayrton Senna
     Count: 83
     Images:
-    - Image: stamp0144dd.jpg
-    - Image: stamp0360.jpg
     - Image: stamp0189ad.jpg
-    - Image: stamp0539.jpg
+    - Image: stamp0640.jpg
+    - Image: stamp0496.jpg
+    - Image: stamp0176fd.jpg
   - Driver: Gerhard Berger
     Count: 7
     Images:
-    - Image: stamp0601ad.jpg
-    - Image: stamp0010cd.jpg
+    - Image: stamp0579.jpg
     - Image: stamp0407.jpg
+    - Image: stamp0168bd.jpg
     - Image: stamp0173ad.jpg
   - Driver: Michele Alboreto
     Count: 5
     Images:
-    - Image: stamp0603hd.jpg
-    - Image: stamp0504.jpg
     - Image: stamp0205.jpg
+    - Image: stamp0504.jpg
+    - Image: stamp0603hd.jpg
     - Image: stamp0557.jpg
   - Driver: Nelson Piquet
     Count: 12
     Images:
-    - Image: stamp0627.jpg
-    - Image: stamp0189ed.jpg
+    - Image: stamp0019.jpg
+    - Image: stamp0578.jpg
     - Image: stamp0074gd.jpg
-    - Image: stamp0623.jpg
+    - Image: stamp0621.jpg
   - Driver: Nigel Mansell
     Count: 26
     Images:
-    - Image: stamp0370gd.jpg
-    - Image: stamp0479ed.jpg
+    - Image: stamp0176cd.jpg
+    - Image: stamp0171bd.jpg
+    - Image: stamp0091.jpg
     - Image: stamp0045gd.jpg
-    - Image: stamp0070gd.jpg
   - Driver: Rene Arnoux
     Count: 3
     Images:
-    - Image: stamp0623.jpg
-    - Image: stamp0507.jpg
     - Image: stamp0653cd.jpg
+    - Image: stamp0507.jpg
+    - Image: stamp0623.jpg
   - Driver: Riccardo Patrese
     Count: 2
     Images:
