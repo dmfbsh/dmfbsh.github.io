@@ -2,58 +2,58 @@
 # Name: Abbey Foregate, Shrewsbury
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2018-07-14_10_16_06_DSC_2737_DxO.jpg)
+![](../1shropshire/assets/images/places/2018-07-14_10_16_06_DSC_2737_DxO.jpg)
 
 <!--Type: Item-->
 # Name: The Dingle, Shrewsbury
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-03-31_12_16_11_DSC_3818_DxO.jpg)
+![](../1shropshire/assets/images/places/2019-03-31_12_16_11_DSC_3818_DxO.jpg)
 
 <!--Type: Item-->
 # Name: The Dingle, Shrewsbury
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-03-31_12_18_17_DSC_3820_DxO.jpg)
+![](../1shropshire/assets/images/places/2019-03-31_12_18_17_DSC_3820_DxO.jpg)
 
 <!--Type: Item-->
 # Name: The Mardol Dragon, Shrewsbury
 
 Not actually part of the original building, but added in the 20th Century!
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-06-15_16_00_48_DSC02196_DxO.jpg)
+![](../1shropshire/assets/images/places/2019-06-15_16_00_48_DSC02196_DxO.jpg)
 
 <!--Type: Item-->
 # Name: Shrewsbury
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0052_DxO.jpg)
+![](../1shropshire/assets/images/places/2019-10-04_13_26_29_DSC_0052_DxO.jpg)
 
 <!--Type: Item-->
 # Name: Shrewsbury
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0064_DxO.jpg)
+![](../1shropshire/assets/images/places/2019-10-04_13_26_29_DSC_0064_DxO.jpg)
 
 <!--Type: Item-->
 # Name: Shrewsbury
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0079_DxO.jpg)
+![](../1shropshire/assets/images/places/2019-10-04_13_26_29_DSC_0079_DxO.jpg)
 
 <!--Type: Item-->
 # Name: Shrewsbury
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0091_DxO_bw.jpg)
+![](../1shropshire/assets/images/places/2019-10-04_13_26_29_DSC_0091_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Name: Statue of Hercules, Shrewsbury
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0100_DxO_bw.jpg)
+![](../1shropshire/assets/images/places/2019-10-04_13_26_29_DSC_0100_DxO_bw.jpg)
 
 <!--Type: Item-->
 # Name: St John's Hill, Shrewsbury
 
 TBD
-![](https://raw.githubusercontent.com/dmfbsh/dmfbsh.github.io/master/assets/images/places/2019-10-04_13_26_29_DSC_0113_DxO.jpg)
+![](../1shropshire/assets/images/places/2019-10-04_13_26_29_DSC_0113_DxO.jpg)
