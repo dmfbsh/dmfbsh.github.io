@@ -1,7 +1,7 @@
 <!--Type: Item-->
 # Name: Abbey Foregate, Shrewsbury
 
-TBD
+View of Abbey Foregate and the Abbey from the top of the Lord Hill column - the column is 133ft tall and there are 172 steps.
 ![](../1shropshire/assets/images/places/2018-07-14_10_16_06_DSC_2737_DxO.jpg)
 
 <!--Type: Item-->

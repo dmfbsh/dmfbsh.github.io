@@ -1,7 +1,0 @@
-2020-04-23 16:03:39: == Sync Started by User Command
-2020-04-23 16:04:12: Waiting for 8(120) sec on verb GET: Server says: Gateway Timeout (status code 504)
-2020-04-23 16:04:21: Recovered the connection, continuing operations
-2020-04-23 16:04:24: Delete File 'msgraph://graph.microsoft.com/:drive:961084dbff6528f0/Documents/_maps/Shropshire - Churches.gpx'
-2020-04-23 16:04:25: Move File msgraph://graph.microsoft.com/:drive:961084dbff6528f0/Documents/_maps/Shropshire - Churches-3.gpx -> msgraph://graph.microsoft.com/:drive:961084dbff6528f0/Documents/_maps/Shropshire - Churches v02.gpx
-2020-04-23 16:04:27: == Sync Complete. Time: 00:00:50, Speed: 2.67 KB/s, OK: 3, Errors: 0
-2020-04-23 16:04:29: 

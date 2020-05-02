@@ -265,6 +265,15 @@ Originally a medieval church of the which the tower and chancel chapels, but lit
 ![](../1shropshire/assets/images/churches/2019-09-18_12_13_46_DSC_5044_DxO.jpg)
 
 <!--Type: Item-->
+## Date: 1743 AD
+# Name: St Catherine, Eyton upon the Weald Moors
+
+The name Eyton upon the Weald Moors is derived from the Old English Eg-tun meaning settlement on an island or in land by a river, and Weald which means wild or waste moor.
+
+The church is built of red brick.  The apse was added in 1850 in the same style.
+![](../1shropshire/assets/images/churches/2020-05-01_17_12_12_DSC_6980_DxO.jpg)
+
+<!--Type: Item-->
 ## Date: 12th Century AD
 # Name: St Luke, Hodnet
 

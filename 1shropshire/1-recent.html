@@ -5,8 +5,6 @@ title: Latest Images
 
 {% include 1-header.html %}
 
-<div class="rowh">
-
 {% assign nextdate = "0000-00" %}
 
 {% for item in site.data.Shropshire_Notebook-Recent %}
@@ -14,8 +12,14 @@ title: Latest Images
 {% assign filedatea = item.Thumbnail | split: '/' %}
 {% assign filedate = filedatea[1] | truncate: 7, "" %}
 {% if filedate != nextdate %}
+{% if orientation == "left" %}
+</div>
+{% endif %}
+<hr>
 <h1>{{ filedate }}</h1>
+<div class="rowh">
 {% assign nextdate = filedate %}
+{% assign orientation = "right" %}
 {% endif %}
 
 {% if item.Type == "Item" %}
