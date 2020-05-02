@@ -174,7 +174,7 @@ The castle was captured by Oliver Cromwell's troops in 1644, and by 1650 it had 
 <!--Type: Header-->
 # Date: 1086 AD
 
-The Domesday book is completed.
+The Domesday book is completed.  The Domesday book is a manuscript record of the "Great Survey" of much of England and parts of Wales, which was undertaken by order of King William the Conqueror.
 
 <!--Type: Item-->
 # Date: Late 11th Century AD
@@ -186,7 +186,7 @@ Wenlock was re-founded by the Normans as a priory of Cluniac monks in the late 1
 <!--Type: Header-->
 # Date: 11th & 12th Century AD
 
-Many churches are built in the 11th and 12th Centuries - the church was massively endowed and its role all pervasive in medieval society.
+Many churches are built in the 11th and 12th Centuries - the church was massively endowed and its role all pervasive in medieval society.  Churches are listed on a separate page.
 
 <!--Type: Item-->
 # Date: 1101 AD
