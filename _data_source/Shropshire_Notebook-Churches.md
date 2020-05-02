@@ -667,7 +667,7 @@ A somewhat austere chapel.
 ## Date: 1874-1875 AD
 # Name: St Peter, Stoke on Tern
 
-The manor at Stoke on Tern was once very prosperous (being valued at £7 at the time of the Domesday book, more than most Shropshire manors).
+The manor at Stoke on Tern was once very prosperous (being valued at 7 pounds at the time of the Domesday book, more than most Shropshire manors).
 
 The medieval church was rebuilt in the 1870s as it was in much need of restoration and repair.
 
