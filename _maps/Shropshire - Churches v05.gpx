@@ -1,0 +1,2541 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:gs="http://ukmapapp.com/GPX_STYLESHEET/v1" xmlns:i="http://ukmapapp.com/GPX_IMPORTANCE/v1" xmlns:gr="http://ukmapapp.com/GPX_GRIDREF/v1" version="1.1" creator="UK Map 4.2">
+<metadata>
+<name>Shropshire - Churches</name>
+<bounds minlat="52.307598" minlon="-3.183949" maxlat="52.978367" maxlon="-2.277569"/></metadata>
+<wpt gr:gr="SO5755686597" lat="52.475662" lon="-2.626308">
+<ele>269.0</ele>
+<name>Abdon - St Margaret</name>
+<sym>blue plus</sym>
+<extensions>
+<number>1</number>
+<i:importance>0.134743</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5333701931" lat="52.613159" lon="-2.690590">
+<ele>122.0</ele>
+<name>Acton Burnell - St Mary</name>
+<sym>green plus</sym>
+<extensions>
+<number>2</number>
+<i:importance>0.203201</i:importance></extensions></wpt>
+<wpt gr:gr="SO6345595633" lat="52.557320" lon="-2.540460">
+<ele>159.0</ele>
+<name>Acton Round - no known dedication</name>
+<sym>blue plus</sym>
+<extensions>
+<number>3</number>
+<i:importance>0.716313</i:importance></extensions></wpt>
+<wpt gr:gr="SO4531989419" lat="52.499931" lon="-2.806910">
+<ele>212.0</ele>
+<name>Acton Scott - St Margaret</name>
+<sym>green plus</sym>
+<extensions>
+<number>4</number>
+<i:importance>0.130715</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6609939529" lat="52.952076" lon="-2.506024">
+<ele>82.9</ele>
+<name>Adderley - St Peter</name>
+<desc>Details of keyholder on church noticeboard
+
+Norman origin, extensively rebuilt 1801
+
+Font has a Roman origin, possibly a column upside down</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>5</number>
+<i:importance>0.748307</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3585114422" lat="52.723644" lon="-2.951236">
+<ele>86.0</ele>
+<name>Alberbury - St Michael</name>
+<desc>Open daily 10 to 4 Easter to end Oct - details of key holders available
+
+Saxon Collegiate church founded between 7th and 10th C
+
+Reconsecrated 1290
+
+Nave thought to have finest example of a late medieval roof in Shropshire
+
+Impressive Saddleback tower c1200
+
+Loton Chapel added 1320 contains Burne-Jones window</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>6</number>
+<i:importance>0.546271</i:importance></extensions></wpt>
+<wpt gr:gr="SJ8089804387" lat="52.636909" lon="-2.283680">
+<ele>95.0</ele>
+<name>Albrighton (nr Shifnal) - St Mary Magdalene</name>
+<sym>blue plus</sym>
+<extensions>
+<number>7</number>
+<i:importance>0.046265</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4975417976" lat="52.757069" lon="-2.745940">
+<ele>92.0</ele>
+<name>Albrighton (nr Shrewsbury) - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>8</number>
+<i:importance>0.244397</i:importance></extensions></wpt>
+<wpt gr:gr="SO4618195823" lat="52.557590" lon="-2.795260">
+<ele>187.0</ele>
+<name>All Stretton - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>9</number>
+<i:importance>0.301122</i:importance></extensions></wpt>
+<wpt gr:gr="SO7596984540" lat="52.458302" lon="-2.355070">
+<ele>112.0</ele>
+<name>Alveley - St Mary the Virgin</name>
+<sym>blue plus</sym>
+<extensions>
+<number>10</number>
+<i:importance>0.436308</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4547707888" lat="52.665970" lon="-2.807640">
+<ele>100.0</ele>
+<name>Annscroft - Christ Church</name>
+<sym>blue plus</sym>
+<extensions>
+<number>11</number>
+<i:importance>0.042663</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5787140183" lat="52.957371" lon="-2.628570">
+<ele>128.0</ele>
+<name>Ash - Christ Church</name>
+<sym>blue plus</sym>
+<extensions>
+<number>12</number>
+<i:importance>0.381563</i:importance></extensions></wpt>
+<wpt gr:gr="SO5191370524" lat="52.330704" lon="-2.707070">
+<ele>70.1</ele>
+<name>Ashford Bowdler - St Andrew</name>
+<desc>Open 10 to 4
+
+Dates from 12th to 15th C with later restorations
+
+Chancel rebuilt after collapsing into the river in 1907</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>13</number>
+<i:importance>0.442773</i:importance></extensions></wpt>
+<wpt gr:gr="SO5252870967" lat="52.334740" lon="-2.698123">
+<ele>81.1</ele>
+<name>Ashford Carbonell - St Mary</name>
+<desc>Open 10 to 4:30
+
+A church has stood on the elevated site for over 900 years since Norman times
+
+The ancient churchyard yews are even older, indicating that the site may have been used for worship in Saxon times.
+
+Chancel has an arrangement of splayed windows which include a rare 'Vesica' window</desc>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>14</number>
+<i:importance>0.074942</i:importance></extensions></wpt>
+<wpt gr:gr="SO7085396219" lat="52.563030" lon="-2.431400">
+<ele>99.0</ele>
+<name>Astley Abbots - St Calixtus</name>
+<sym>blue plus</sym>
+<extensions>
+<number>15</number>
+<i:importance>0.322944</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5299518803" lat="52.764797" lon="-2.698060">
+<ele>70.1</ele>
+<name>Astley - St Mary</name>
+<desc>Open daylight hours
+	
+Norman origin, tower added 1837</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>16</number>
+<i:importance>0.521293</i:importance></extensions></wpt>
+<wpt gr:gr="SO6324584101" lat="52.453629" lon="-2.542290">
+<ele>176.0</ele>
+<name>Aston Botterell - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>17</number>
+<i:importance>0.822476</i:importance></extensions></wpt>
+<wpt gr:gr="SO6533094086" lat="52.543530" lon="-2.512653">
+<ele>111.9</ele>
+<name>Aston Eyre - no known dedication</name>
+<desc>Open daylight hours
+
+Worth a visit to see the tympanum, a stone carving over the South door is regarded as the best example of Norman carving in Shropshire</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>18</number>
+<i:importance>0.740703</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5406709167" lat="52.678268" lon="-2.680820">
+<ele>45.0</ele>
+<name>Atcham - St Eata</name>
+<sym>green plus</sym>
+<extensions>
+<number>19</number>
+<i:importance>0.484161</i:importance></extensions></wpt>
+<wpt gr:gr="SO7680799603" lat="52.593739" lon="-2.343807">
+<ele>73.2</ele>
+<name>Badger - St Giles</name>
+<desc>Open daily 10 to 4
+
+19th C sandstone building, some remnants of medieval church 
+
+Picturesque village</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>20</number>
+<i:importance>0.930483</i:importance></extensions></wpt>
+<wpt gr:gr="SO6577399991" lat="52.596642" lon="-2.506732">
+<ele>207.0</ele>
+<name>Barrow - St Giles</name>
+<desc>Open during daylight hours
+
+One of Shropshire’s oldest churches, over 1200 years old
+
+Chancel and chancel arch are the oldest parts</desc>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>21</number>
+<i:importance>0.355113</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4224921873" lat="52.791340" lon="-2.857820">
+<ele>85.0</ele>
+<name>Baschurch - All Saints</name>
+<sym>blue plus</sym>
+<extensions>
+<number>22</number>
+<i:importance>0.681779</i:importance></extensions></wpt>
+<wpt gr:gr="SO4943670639" lat="52.331520" lon="-2.743430">
+<ele>141.0</ele>
+<name>Batchcott Richard's Castle - All Saints</name>
+<sym>blue plus</sym>
+<extensions>
+<number>23</number>
+<i:importance>0.138051</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5127717235" lat="52.750549" lon="-2.723260">
+<ele>76.0</ele>
+<name>Battlefield - St Mary Magdalene</name>
+<sym>blue plus</sym>
+<extensions>
+<number>24</number>
+<i:importance>0.883064</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7653001545" lat="52.611191" lon="-2.348030">
+<ele>83.0</ele>
+<name>Beckbury - St Milburga</name>
+<sym>green plus</sym>
+<extensions>
+<number>25</number>
+<i:importance>0.395128</i:importance></extensions></wpt>
+<wpt gr:gr="SO3687775715" lat="52.375832" lon="-2.928670">
+<ele>161.0</ele>
+<name>Bedstone - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>26</number>
+<i:importance>0.234647</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6579802564" lat="52.619781" lon="-2.506630">
+<ele>189.0</ele>
+<name>Benthall - St Bartholomew</name>
+<sym>blue plus</sym>
+<extensions>
+<number>27</number>
+<i:importance>0.627348</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5300706864" lat="52.657471" lon="-2.696160">
+<ele>80.0</ele>
+<name>Berrington - All Saints</name>
+<sym>blue plus</sym>
+<extensions>
+<number>28</number>
+<i:importance>0.691752</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5095709473" lat="52.680740" lon="-2.726850">
+<ele>79.0</ele>
+<name>Betton Strange - St Margaret</name>
+<sym>green plus</sym>
+<extensions>
+<number>29</number>
+<i:importance>0.542163</i:importance></extensions></wpt>
+<wpt gr:gr="SO2059181351" lat="52.424370" lon="-3.169200">
+<ele>383.0</ele>
+<name>Bettws-y-Crwyn - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>30</number>
+<i:importance>0.737934</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4480514861" lat="52.728580" lon="-2.818740">
+<ele>74.0</ele>
+<name>Bicton - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>31</number>
+<i:importance>0.791534</i:importance></extensions></wpt>
+<wpt gr:gr="SO7042485368" lat="52.465466" lon="-2.436763">
+<ele>111.9</ele>
+<name>Billingsley - St Mary</name>
+<desc>Open during daylight hours
+	
+Restored in 1875, many original features retained including an ‘Easter Sepulchre’
+
+Medieval wooden porch and glazed floor tiles c1500</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>32</number>
+<i:importance>0.136836</i:importance></extensions></wpt>
+<wpt gr:gr="SO3231388421" lat="52.489498" lon="-2.998285">
+<ele>181.1</ele>
+<name>Bishops Castle - St John the Baptist</name>
+<desc>Open during daylight hours
+
+Rebuilt in the 1860s, tower is 13th C
+
+Stained glass includes 2 Pre-Raphaelite windows
+
+Font is 12th C
+
+Churchyard contains 1801grave of 'a native of Africa', and graves connected with Napoleonic prisoners of war</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>33</number>
+<i:importance>0.227947</i:importance></extensions></wpt>
+<wpt gr:gr="SO5706877289" lat="52.391941" lon="-2.632300">
+<ele>182.0</ele>
+<name>Bitterley - St Mary</name>
+<sym>green plus</sym>
+<extensions>
+<number>34</number>
+<i:importance>0.215613</i:importance></extensions></wpt>
+<wpt gr:gr="SJ8117302562" lat="52.620510" lon="-2.279510">
+<ele>83.0</ele>
+<name>Boningale - St Chad</name>
+<sym>blue plus</sym>
+<extensions>
+<number>35</number>
+<i:importance>0.874643</i:importance></extensions></wpt>
+<wpt gr:gr="SO6135270044" lat="52.327141" lon="-2.568520">
+<ele>105.0</ele>
+<name>Boraston - no known dedication</name>
+<sym>blue plus</sym>
+<extensions>
+<number>36</number>
+<i:importance>0.905550</i:importance></extensions></wpt>
+<wpt gr:gr="SO5973696329" lat="52.563309" lon="-2.595400">
+<ele>193.0</ele>
+<name>Bourton - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>37</number>
+<i:importance>0.781380</i:importance></extensions></wpt>
+<wpt gr:gr="SO7171293326" lat="52.537071" lon="-2.418470">
+<ele>65.0</ele>
+<name>Bridgnorth - St Leonard</name>
+<sym>green plus</sym>
+<extensions>
+<number>38</number>
+<i:importance>0.998001</i:importance></extensions></wpt>
+<wpt gr:gr="SO7169792811" lat="52.532440" lon="-2.418650">
+<ele>52.0</ele>
+<name>Bridgnorth - St Mary Magdalene</name>
+<sym>green plus</sym>
+<extensions>
+<number>39</number>
+<i:importance>0.528632</i:importance></extensions></wpt>
+<wpt gr:gr="SO5444989787" lat="52.504082" lon="-2.672490">
+<ele>135.0</ele>
+<name>Broadstone Chapel</name>
+<sym>blue plus</sym>
+<extensions>
+<number>40</number>
+<i:importance>0.608955</i:importance></extensions></wpt>
+<wpt gr:gr="SO4815676807" lat="52.386833" lon="-2.763157">
+<ele>89.0</ele>
+<name>Bromfield - St Mary the Virgin</name>
+<desc>Open during daylight hours
+
+A former priory church which dates back to pre-Norman times
+
+The church has a striking painted ceiling and exotic reredos triptich</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>41</number>
+<i:importance>0.854684</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6788201492" lat="52.610271" lon="-2.475743">
+<ele>139.0</ele>
+<name>Broseley - All Saints</name>
+<desc>Open during daylight hours
+
+Built in 1845
+
+The largest church in the area</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>42</number>
+<i:importance>0.430766</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5044123442" lat="52.806259" lon="-2.736590">
+<ele>95.0</ele>
+<name>Broughton - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>43</number>
+<i:importance>0.519395</i:importance></extensions></wpt>
+<wpt gr:gr="SO3546973883" lat="52.359200" lon="-2.949000">
+<ele>143.9</ele>
+<name>Bucknell - St Mary</name>
+<desc>Open during daylight hours
+
+Stone built and picturesquely situated in the centre of the village, dates from around 1140 and has an unusual Anglo-Saxon tub font as well as a mediaeval Easter sepulchre</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>44</number>
+<i:importance>0.695032</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6433704355" lat="52.635780" lon="-2.528390">
+<ele>43.0</ele>
+<name>Buildwas Abbey</name>
+<sym>blue plus</sym>
+<extensions>
+<number>45</number>
+<i:importance>0.649370</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6369404729" lat="52.639099" lon="-2.537940">
+<ele>49.0</ele>
+<name>Buildwas - Holy Trinity</name>
+<sym>green plus</sym>
+<extensions>
+<number>46</number>
+<i:importance>0.883442</i:importance></extensions></wpt>
+<wpt gr:gr="SO5943168360" lat="52.311859" lon="-2.596500">
+<ele>52.0</ele>
+<name>Burford - St Mary</name>
+<sym>green plus</sym>
+<extensions>
+<number>47</number>
+<i:importance>0.746466</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6033137245" lat="52.931149" lon="-2.591580">
+<ele>105.0</ele>
+<name>Calverhall - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>48</number>
+<i:importance>0.672715</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3958012287" lat="52.704891" lon="-2.895637">
+<ele>93.9</ele>
+<name>Cardeston - St Michael</name>
+<desc>Details of keyholders available
+
+Attractive hamlet location
+
+Distinctive octagonal tower
+
+Has a notable early 20th century fresco depicting Jesus and John the Baptist
+
+Norman windows and wooden upper gallery</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>49</number>
+<i:importance>0.643419</i:importance></extensions></wpt>
+<wpt gr:gr="SO5064495135" lat="52.551830" lon="-2.729330">
+<ele>207.0</ele>
+<name>Cardington - St James</name>
+<sym>green plus</sym>
+<extensions>
+<number>50</number>
+<i:importance>0.495909</i:importance></extensions></wpt>
+<wpt gr:gr="SO5536473257" lat="52.355564" lon="-2.656809">
+<ele>107.0</ele>
+<name>Caynham - St Mary</name>
+<desc>Open 10 to 4 Easter Sun to 31 Oct
+Fri to Sun only 1 Nov to Good Fri
+
+12th century church, with Victorian restoration work incorporating Norman remains
+
+Preaching cross and war memorial lychgate
+
+Footpath from parking to Caynham Camp (listed iron age fort), short drive from Ludlow</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>51</number>
+<i:importance>0.042875</i:importance></extensions></wpt>
+<wpt gr:gr="SO3159976337" lat="52.380791" lon="-3.006310">
+<ele>196.0</ele>
+<name>Chapel Lawn - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>52</number>
+<i:importance>0.598437</i:importance></extensions></wpt>
+<wpt gr:gr="SO7206287805" lat="52.487461" lon="-2.412858">
+<ele>120.1</ele>
+<name>Chelmarsh - St Peter</name>
+<desc>Details of keyholders available
+
+Has Norman origins with interesting carvings on the oak structures in the chancel and sanctuary</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>53</number>
+<i:importance>0.156849</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7190529920" lat="52.866035" lon="-2.418760">
+<ele>148.1</ele>
+<name>Cheswardine - St Swithin</name>
+<desc>Open during daylight hours
+
+Re-consecrated in 1889 (replacing 2 former structures)
+
+St Katherine's chapel has a 15th century roof from the former Cheswardine castle</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>54</number>
+<i:importance>0.273284</i:importance></extensions></wpt>
+<wpt gr:gr="SO6641290365" lat="52.510147" lon="-2.496321">
+<ele>198.1</ele>
+<name>Chetton - St Giles</name>
+<desc>Open during daylight hours
+
+Chancel 13th C
+
+A Medieval Cross within the churchyard is associated with Lady Godiva who is believed to have had a Saxon manor at Chetton</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>55</number>
+<i:importance>0.703451</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7347221281" lat="52.788460" lon="-2.394780">
+<ele>80.0</ele>
+<name>Chetwynd - St Michael and All Angels</name>
+<sym>blue plus</sym>
+<extensions>
+<number>56</number>
+<i:importance>0.260204</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6656725071" lat="52.822140" lon="-2.497560">
+<ele>82.0</ele>
+<name>Child's Ercall - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>57</number>
+<i:importance>0.324774</i:importance></extensions></wpt>
+<wpt gr:gr="SO2612098503" lat="52.579319" lon="-3.091720">
+<ele>108.0</ele>
+<name>Chirbury - St Michael the Archangel</name>
+<sym>green plus</sym>
+<extensions>
+<number>58</number>
+<i:importance>0.187086</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7435717825" lat="52.757439" lon="-2.381390">
+<ele>81.0</ele>
+<name>Church Aston - St Andrew</name>
+<sym>blue plus</sym>
+<extensions>
+<number>59</number>
+<i:importance>0.838835</i:importance></extensions></wpt>
+<wpt gr:gr="SO5432398140" lat="52.579166" lon="-2.675509">
+<ele>206.0</ele>
+<name>Church Preen - St John the Baptist</name>
+<desc>Has an ancient yew tree
+
+Ancient yew trees are those that are at least 500 years old</desc>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>60</number>
+<i:importance>0.406959</i:importance></extensions></wpt>
+<wpt gr:gr="SO4523793670" lat="52.538139" lon="-2.808820">
+<ele>197.0</ele>
+<name>Church Stretton - St Laurence</name>
+<sym>green plus</sym>
+<extensions>
+<number>62</number>
+<i:importance>0.739981</i:importance></extensions></wpt>
+<wpt gr:gr="SO7926393423" lat="52.538280" lon="-2.307162">
+<ele>64.9</ele>
+<name>Claverley - All Saints</name>
+<desc>Has an ancient yew tree thought to be around 2,500 years old  - one of the oldest and largest yew trees in Shropshire
+
+The hollow trunk has a circumference of more than 29ft
+
+Also visit villiage to see cross
+
+Open during daylight hours
+
+Features in Jenkins' 1000 Best Churches, late 11th and early 12th century with Saxon remains
+
+Stunning early 13th century wall paintings, Jacobean pulpit and hammer-beam roof in Chancel
+
+Arts and Crafts choir stalls, lectern and communion rail, extensive stained glass, Saxon and Norman fonts</desc>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>63</number>
+<i:importance>0.611779</i:importance></extensions></wpt>
+<wpt gr:gr="SO5644884371" lat="52.455555" lon="-2.642343">
+<ele>206.0</ele>
+<name>Clee St Margaret - St Margaret</name>
+<desc>From here you can walk to Heath Chapel</desc>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>64</number>
+<i:importance>0.163720</i:importance></extensions></wpt>
+<wpt gr:gr="SO5929375314" lat="52.374359" lon="-2.599360">
+<ele>365.0</ele>
+<name>Cleehill - St Peter</name>
+<sym>blue plus</sym>
+<extensions>
+<number>65</number>
+<i:importance>0.916461</i:importance></extensions></wpt>
+<wpt gr:gr="SO6105778659" lat="52.404560" lon="-2.573850">
+<ele>310.0</ele>
+<name>Cleeton St Mary - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>66</number>
+<i:importance>0.488468</i:importance></extensions></wpt>
+<wpt gr:gr="SO6741675811" lat="52.379372" lon="-2.480100">
+<ele>126.0</ele>
+<name>Cleobury Mortimer - St Mary</name>
+<sym>green plus</sym>
+<extensions>
+<number>67</number>
+<i:importance>0.822237</i:importance></extensions></wpt>
+<wpt gr:gr="SO6233686996" lat="52.479599" lon="-2.555990">
+<ele>198.0</ele>
+<name>Cleobury North - St Peter and St Paul</name>
+<sym>blue plus</sym>
+<extensions>
+<number>68</number>
+<i:importance>0.222604</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5149423989" lat="52.811272" lon="-2.721059">
+<ele>131.1</ele>
+<name>Clive - All Saints</name>
+<desc>Church dates back to 12th C, fully restored in 1887, spire added 1894
+
+The peel of 6 bells is the heaviest in the county</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>69</number>
+<i:importance>0.326636</i:importance></extensions></wpt>
+<wpt gr:gr="SO3004980552" lat="52.418480" lon="-3.029970">
+<ele>196.0</ele>
+<name>Clun - St George</name>
+<sym>blue plus</sym>
+<extensions>
+<number>70</number>
+<i:importance>0.031172</i:importance></extensions></wpt>
+<wpt gr:gr="SO3709480650" lat="52.420219" lon="-2.926400">
+<ele>148.0</ele>
+<name>Clunbury - St Swithin</name>
+<sym>blue plus</sym>
+<extensions>
+<number>71</number>
+<i:importance>0.687737</i:importance></extensions></wpt>
+<wpt gr:gr="SO3947978714" lat="52.403091" lon="-2.890983">
+<ele>128.9</ele>
+<name>Clungunford - St Cuthbert</name>
+<desc>Open during daylight hours
+
+Early 14th C with Victorian additions
+
+Has an early preaching cross</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>72</number>
+<i:importance>0.756887</i:importance></extensions></wpt>
+<wpt gr:gr="SO3350681337" lat="52.425968" lon="-2.979290">
+<ele>162.0</ele>
+<name>Clunton - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>73</number>
+<i:importance>0.684552</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6703404460" lat="52.636902" lon="-2.488563">
+<ele>84.1</ele>
+<name>Coalbrookdale - Holy Trinity</name>
+<desc>Details of keyholders available</desc>
+<sym>green plus</sym>
+<extensions>
+<number>74</number>
+<i:importance>0.001196</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4348829226" lat="52.857559" lon="-2.840730">
+<ele>96.0</ele>
+<name>Cockshutt - St Simon and St Jude</name>
+<sym>green plus</sym>
+<extensions>
+<number>75</number>
+<i:importance>0.732870</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4945805775" lat="52.647362" lon="-2.748450">
+<ele>85.0</ele>
+<name>Condover - St Andrew and St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>76</number>
+<i:importance>0.383159</i:importance></extensions></wpt>
+<wpt gr:gr="SO6132074006" lat="52.362751" lon="-2.569440">
+<ele>164.0</ele>
+<name>Coreley - St Peter</name>
+<sym>blue plus</sym>
+<extensions>
+<number>77</number>
+<i:importance>0.463960</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5584104975" lat="52.640728" lon="-2.654023">
+<ele>57.9</ele>
+<name>Cound - St Peter</name>
+<desc>Open during daylight hours
+
+Dates from 13th C, 13th C oak door, 6 bell tower built 1500
+
+Remains of a doom painting
+
+Stained glass is medieval to modern</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>78</number>
+<i:importance>0.802711</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5922403985" lat="52.632099" lon="-2.603900">
+<ele>56.0</ele>
+<name>Cressage - Christ Church</name>
+<sym>green plus</sym>
+<extensions>
+<number>79</number>
+<i:importance>0.655875</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3647336701" lat="52.923969" lon="-2.946370">
+<ele>98.0</ele>
+<name>Criftins (Dudleston Heath) - St Matthew</name>
+<sym>blue plus</sym>
+<extensions>
+<number>80</number>
+<i:importance>0.762513</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6326718120" lat="52.759449" lon="-2.545750">
+<ele>57.0</ele>
+<name>Crudgington - St Mary</name>
+<sym>green plus</sym>
+<extensions>
+<number>81</number>
+<i:importance>0.266212</i:importance></extensions></wpt>
+<wpt gr:gr="SO4936881929" lat="52.432991" lon="-2.746141">
+<ele>99.1</ele>
+<name>Culmington - All Saints</name>
+<desc>Open during daylight hours
+
+Early 14th C tower with unfinished spire
+
+Herringbone masonry in nave walls indicates late Saxon/ early Norman date
+
+Medieval rood screen and stairs</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>82</number>
+<i:importance>0.296420</i:importance></extensions></wpt>
+<wpt gr:gr="SO4232388679" lat="52.492970" lon="-2.850910">
+<ele>228.0</ele>
+<name>Cwm Head - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>83</number>
+<i:importance>0.505091</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6868406478" lat="52.655140" lon="-2.464360">
+<ele>153.0</ele>
+<name>Dawley - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>84</number>
+<i:importance>0.224807</i:importance></extensions></wpt>
+<wpt gr:gr="SO5084985340" lat="52.463799" lon="-2.724850">
+<ele>115.0</ele>
+<name>Diddlebury - St Peter</name>
+<sym>green plus</sym>
+<extensions>
+<number>85</number>
+<i:importance>0.640777</i:importance></extensions></wpt>
+<wpt gr:gr="SO6084789163" lat="52.498970" lon="-2.578170">
+<ele>228.0</ele>
+<name>Ditton Priors - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>86</number>
+<i:importance>0.941243</i:importance></extensions></wpt>
+<wpt gr:gr="SO6159676199" lat="52.382484" lon="-2.565632">
+<ele>321.9</ele>
+<name>Doddington - St John the Baptist</name>
+<desc>Open 10 to 5 or dusk if earlier
+
+Situated 1,000ft above sea level, on the side of Titterstone Clee Hill, with stunning views towards Worcestershire and Wales
+
+Built in the 1840s to serve as a poorman's church for the quarrymen, miners and farm workers
+
+Has unusually decorative cast-iron windows and a cast-iron communion rail</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>87</number>
+<i:importance>0.719986</i:importance></extensions></wpt>
+<wpt gr:gr="SJ8082504791" lat="52.640541" lon="-2.284790">
+<ele>93.0</ele>
+<name>Donington - St Cuthbert</name>
+<sym>blue plus</sym>
+<extensions>
+<number>88</number>
+<i:importance>0.421794</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7099313067" lat="52.714500" lon="-2.430820">
+<ele>91.0</ele>
+<name>Donnington Wood - St Matthew</name>
+<sym>blue plus</sym>
+<extensions>
+<number>89</number>
+<i:importance>0.415670</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4766702921" lat="52.621540" lon="-2.774460">
+<ele>110.0</ele>
+<name>Dorrington - St Edward</name>
+<sym>blue plus</sym>
+<extensions>
+<number>90</number>
+<i:importance>0.801590</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3461838405" lat="52.939056" lon="-2.974287">
+<ele>109.1</ele>
+<name>Dudleston - St Mary</name>
+<desc>Open during daylight hours
+
+An ancient church dating from Norman times with an older Saxon preaching cross
+
+Look out for the clock, stained glass, the oak chest, ancient 1000 year old yew tree</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>91</number>
+<i:importance>0.553169</i:importance></extensions></wpt>
+<wpt gr:gr="SO5664495103" lat="52.552048" lon="-2.640860">
+<ele>198.1</ele>
+<name>Easthope - St Peter</name>
+<desc>Open 9 to 5 every weekend from May to Sept
+
+Ancient building, with 12th century origins, is remarkable for its encaustic tiles, beautifully 
+proportioned chancel window, carved oak screen, and fine carving on the oak pews, dated 
+1623
+
+Projecting from the pulpit is a wrought-iron hourglass-holder used to restrict “the extraordinary length of services” in 1333
+
+Has a rare carillon bell-ringing mechanism, more in common with European tradition than that of English churches</desc>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>92</number>
+<i:importance>0.034858</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5970706277" lat="52.652740" lon="-2.597050">
+<ele>88.0</ele>
+<name>Eaton Constantine - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>93</number>
+<i:importance>0.646658</i:importance></extensions></wpt>
+<wpt gr:gr="SO5000189977" lat="52.505398" lon="-2.738040">
+<ele>160.0</ele>
+<name>Eaton-under-Heywood - St Edith</name>
+<desc>Open during daylght hours
+	
+Look out for the hung font, the carved green man and the wooden effigy
+
+A gem - has a sloping aisle, carved green man, 14th century wooden effigy, bells of the 17th century and a unique chain hung font carved green man with carved hood
+
+Stunning views</desc>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>94</number>
+<i:importance>0.823346</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7201619291" lat="52.770500" lon="-2.416212">
+<ele>81.1</ele>
+<name>Edgmond - St Peter</name>
+<desc>Dates from 1080, made of local sandstone
+
+Has a Saxon font, interesting gargoyles, a monumental brass showing man in shroud, stained glass by William Morris</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>95</number>
+<i:importance>0.727127</i:importance></extensions></wpt>
+<wpt gr:gr="SO3876685800" lat="52.466709" lon="-2.902770">
+<ele>229.0</ele>
+<name>Edgton - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>96</number>
+<i:importance>0.170754</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5178931988" lat="52.883202" lon="-2.717860">
+<ele>91.0</ele>
+<name>Edstaston - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>97</number>
+<i:importance>0.455193</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4027834815" lat="52.907452" lon="-2.889430">
+<ele>98.0</ele>
+<name>Ellesmere - St Mary</name>
+<sym>green plus</sym>
+<extensions>
+<number>98</number>
+<i:importance>0.601506</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6509314823" lat="52.729931" lon="-2.518332">
+<ele>61.9</ele>
+<name>Eyton-upon-the-Weald Moors - St Catherine</name>
+<sym>plus green</sym>
+<extensions>
+<number>99</number>
+<i:importance>0.297709</i:importance></extensions></wpt>
+<wpt gr:gr="SO6394680606" lat="52.422260" lon="-2.531590">
+<ele>225.0</ele>
+<name>Farlow - St Giles</name>
+<sym>blue plus</sym>
+<extensions>
+<number>100</number>
+<i:importance>0.714397</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5899732679" lat="52.890011" lon="-2.610860">
+<ele>103.0</ele>
+<name>Fauls - Holy Immanuel</name>
+<sym>blue plus</sym>
+<extensions>
+<number>101</number>
+<i:importance>0.650148</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4485717819" lat="52.755180" lon="-2.818470">
+<ele>78.0</ele>
+<name>Fitz - St Peter and St Paul</name>
+<sym>blue plus</sym>
+<extensions>
+<number>102</number>
+<i:importance>0.273380</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4121513829" lat="52.718925" lon="-2.871718">
+<ele>71.0</ele>
+<name>Ford - St Michael</name>
+<desc>Open during daylight hours on Weds, Sat &amp; Sun
+
+The building dates from the early 12th century and boasts many interesting features including the hammer beam roof, possibly 15th century
+
+Restored in 1875</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>103</number>
+<i:importance>0.346560</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5156801019" lat="52.604801" lon="-2.716560">
+<ele>139.0</ele>
+<name>Frodesley - St Mark</name>
+<sym>blue plus</sym>
+<extensions>
+<number>104</number>
+<i:importance>0.817997</i:importance></extensions></wpt>
+<wpt gr:gr="SO7030288222" lat="52.491108" lon="-2.438814">
+<ele>103.0</ele>
+<name>Glazeley - St Bartholomew</name>
+<desc>Open daylight hours between April and October
+
+Built in 1875
+
+12th C font outside the porch door</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>105</number>
+<i:importance>0.522987</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3013233955" lat="52.898499" lon="-3.040080">
+<ele>107.0</ele>
+<name>Gobowen - All Saints</name>
+<sym>blue plus</sym>
+<extensions>
+<number>106</number>
+<i:importance>0.087313</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6474521336" lat="52.788448" lon="-2.524190">
+<ele>64.0</ele>
+<name>Great Bolas - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>107</number>
+<i:importance>0.672501</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3978018998" lat="52.765228" lon="-2.893910">
+<ele>94.0</ele>
+<name>Great Ness - St Andrew</name>
+<sym>blue plus</sym>
+<extensions>
+<number>108</number>
+<i:importance>0.295297</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3291112297" lat="52.704189" lon="-2.994320">
+<ele>149.0</ele>
+<name>Great Wollaston - St John</name>
+<sym>blue plus</sym>
+<extensions>
+<number>109</number>
+<i:importance>0.277362</i:importance></extensions></wpt>
+<wpt gr:gr="SO5772070883" lat="52.334412" lon="-2.621910">
+<ele>96.0</ele>
+<name>Greete - St James</name>
+<sym>blue plus</sym>
+<extensions>
+<number>110</number>
+<i:importance>0.546670</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5201323449" lat="52.806458" lon="-2.713280">
+<ele>96.9</ele>
+<name>Grinshill - All Saints</name>
+<desc>Open during daylight hours
+
+Built in 1839 of local red sandstone</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>111</number>
+<i:importance>0.298032</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3988003572" lat="52.626579" lon="-2.889600">
+<ele>177.0</ele>
+<name>Habberley - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>112</number>
+<i:importance>0.326245</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6764611943" lat="52.704201" lon="-2.480250">
+<ele>91.0</ele>
+<name>Hadley - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>113</number>
+<i:importance>0.172408</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5219420048" lat="52.775902" lon="-2.710112">
+<ele>78.0</ele>
+<name>Hadnall - St Mary Magdalene</name>
+<desc>Open during daylight hours
+
+Norman nave believed to date from 1140 to 1150, tower and chancel Victorian
+
+Contains a monument to Lord Rowland Hill - he is buried in a sealed crypt beneath the tower</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>114</number>
+<i:importance>0.313230</i:importance></extensions></wpt>
+<wpt gr:gr="SO4363583323" lat="52.444962" lon="-2.830690">
+<ele>122.0</ele>
+<name>Halford - St Thomas</name>
+<sym>blue plus</sym>
+<extensions>
+<number>115</number>
+<i:importance>0.934552</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3388531293" lat="52.875050" lon="-2.983750">
+<ele>84.0</ele>
+<name>Halston Chapel</name>
+<sym>blue plus</sym>
+<extensions>
+<number>116</number>
+<i:importance>0.739198</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4436509607" lat="52.681309" lon="-2.824370">
+<ele>77.0</ele>
+<name>Hanwood - St Thomas</name>
+<sym>blue plus</sym>
+<extensions>
+<number>117</number>
+<i:importance>0.846801</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5963201459" lat="52.609417" lon="-2.597570">
+<ele>100.9</ele>
+<name>Harley - St Mary</name>
+<desc>Open during daylight hours March to November
+
+Norman origin, largely rebuilt in the 1850s</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>118</number>
+<i:importance>0.911206</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5416815118" lat="52.731770" lon="-2.680160">
+<ele>94.0</ele>
+<name>Haughmond Abbey</name>
+<sym>blue plus</sym>
+<extensions>
+<number>119</number>
+<i:importance>0.816441</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3723826988" lat="52.836750" lon="-2.933110">
+<ele>87.0</ele>
+<name>Haughton - St Chad</name>
+<sym>blue plus</sym>
+<extensions>
+<number>120</number>
+<i:importance>0.406355</i:importance></extensions></wpt>
+<wpt gr:gr="SO5573485619" lat="52.466721" lon="-2.653010">
+<ele>241.0</ele>
+<name>Heath Chapel</name>
+<sym>blue plus</sym>
+<extensions>
+<number>121</number>
+<i:importance>0.158960</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5942217319" lat="52.751980" lon="-2.602630">
+<ele>68.0</ele>
+<name>High Ercall - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>122</number>
+<i:importance>0.144167</i:importance></extensions></wpt>
+<wpt gr:gr="SO7420583332" lat="52.447361" lon="-2.380951">
+<ele>100.0</ele>
+<name>Highley - St Mary</name>
+<desc>Dates from 12th C
+
+Has a fine Tudor wooden ceiling with bosses</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>123</number>
+<i:importance>0.079234</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6127428606" lat="52.853561" lon="-2.576533">
+<ele>96.0</ele>
+<name>Hodnet - St Luke</name>
+<desc>Open 9:30 to 5 or keys available from village shop</desc>
+<sym>green plus</sym>
+<extensions>
+<number>124</number>
+<i:importance>0.720254</i:importance></extensions></wpt>
+<wpt gr:gr="SO5613689568" lat="52.502251" lon="-2.647620">
+<ele>166.1</ele>
+<name>Holdgate - Holy Trinity</name>
+<desc>Norman church in stunning rural location</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>125</number>
+<i:importance>0.405320</i:importance></extensions></wpt>
+<wpt gr:gr="SO5887674056" lat="52.363014" lon="-2.605343">
+<ele>188.1</ele>
+<name>Hope Bagot - St John the Baptist</name>
+<desc>Open daylight hours summer and 9:30 to 3:30 in winter</desc>
+<sym>plus green</sym>
+<extensions>
+<number>126</number>
+<i:importance>0.282653</i:importance></extensions></wpt>
+<wpt gr:gr="SO4757092474" lat="52.527615" lon="-2.774233">
+<ele>217.9</ele>
+<name>Hope Bowdler - St Andrew</name>
+<desc>Open during daylight hours</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>127</number>
+<i:importance>0.926143</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3410101490" lat="52.607201" lon="-2.974550">
+<ele>239.0</ele>
+<name>Hope - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>128</number>
+<i:importance>0.178685</i:importance></extensions></wpt>
+<wpt gr:gr="SO3892483289" lat="52.444149" lon="-2.899977">
+<ele>171.9</ele>
+<name>Hopesay - St Mary</name>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>129</number>
+<i:importance>0.863784</i:importance></extensions></wpt>
+<wpt gr:gr="SO3633778230" lat="52.398380" lon="-2.937080">
+<ele>168.0</ele>
+<name>Hopton Castle - St Edward</name>
+<sym>blue plus</sym>
+<extensions>
+<number>130</number>
+<i:importance>0.735142</i:importance></extensions></wpt>
+<wpt gr:gr="SO6374176535" lat="52.385651" lon="-2.534160">
+<ele>171.0</ele>
+<name>Hopton Wafers - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>131</number>
+<i:importance>0.039095</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3812230822" lat="52.871319" lon="-2.920720">
+<ele>84.0</ele>
+<name>Hordley - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>132</number>
+<i:importance>0.148245</i:importance></extensions></wpt>
+<wpt gr:gr="SO5646897928" lat="52.577431" lon="-2.643820">
+<ele>117.0</ele>
+<name>Hughley - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>133</number>
+<i:importance>0.926792</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5923938663" lat="52.943821" lon="-2.608010">
+<ele>120.0</ele>
+<name>Ightfield - St John the Baptist</name>
+<sym>green plus</sym>
+<extensions>
+<number>134</number>
+<i:importance>0.169345</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6725503518" lat="52.628441" lon="-2.485204">
+<ele>68.0</ele>
+<name>Ironbridge - St Luke</name>
+<desc>Open 10 to 4 from Easter to September</desc>
+<sym>green plus</sym>
+<extensions>
+<number>135</number>
+<i:importance>0.467843</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6874202949" lat="52.623413" lon="-2.463181">
+<ele>46.9</ele>
+<name>Jackfield - St Mary</name>
+<desc>Open 9 to 5
+
+Built in 1863
+
+Floors contain excellent examples of local tiles</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>136</number>
+<i:importance>0.244983</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7292904498" lat="52.637569" lon="-2.401450">
+<ele>104.0</ele>
+<name>Kemberton - St Andrew and St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>137</number>
+<i:importance>0.572498</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5625600769" lat="52.602951" lon="-2.647320">
+<ele>185.0</ele>
+<name>Kenley - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>138</number>
+<i:importance>0.063862</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6828110502" lat="52.691292" lon="-2.470710">
+<ele>156.0</ele>
+<name>Ketley - St Mary the Virgin</name>
+<sym>blue plus</sym>
+<extensions>
+<number>139</number>
+<i:importance>0.667122</i:importance></extensions></wpt>
+<wpt gr:gr="SO7107580988" lat="52.426128" lon="-2.426800">
+<ele>127.0</ele>
+<name>KInlet - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>140</number>
+<i:importance>0.657581</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3382520940" lat="52.781979" lon="-2.982540">
+<ele>66.0</ele>
+<name>Kinnerley - St Mary</name>
+<sym>green plus</sym>
+<extensions>
+<number>141</number>
+<i:importance>0.079412</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3339522324" lat="52.794369" lon="-2.989190">
+<ele>68.0</ele>
+<name>Knockin - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>142</number>
+<i:importance>0.298869</i:importance></extensions></wpt>
+<wpt gr:gr="SO5717775251" lat="52.373634" lon="-2.630445">
+<ele>282.9</ele>
+<name>Knowbury - St Paul</name>
+<desc>Open during daylight hours</desc>
+<sym>green plus</sym>
+<extensions>
+<number>143</number>
+<i:importance>0.699405</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6727416688" lat="52.746841" lon="-2.486230">
+<ele>58.0</ele>
+<name>Kynnersley - St Chad</name>
+<sym>blue plus</sym>
+<extensions>
+<number>144</number>
+<i:importance>0.995094</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5382900098" lat="52.596718" lon="-2.683058">
+<ele>146.9</ele>
+<name>Langley Chapel</name>
+<desc>Open daily 10 to 6 from April to October and 10 to 4 from November to March
+
+English Heritage
+
+Very limited parking by the field gate
+
+Interior contains a perfect set of 17th C timber furnishings - the structure of the building is 14th C</desc>
+<sym>plus ticked yellow</sym>
+<extensions>
+<number>145</number>
+<i:importance>0.160103</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6669308699" lat="52.674980" lon="-2.494030">
+<ele>188.0</ele>
+<name>Lawley - St John the Evangelist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>146</number>
+<i:importance>0.347977</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4236208226" lat="52.668690" lon="-2.853750">
+<ele>87.0</ele>
+<name>Lea Cross - St Anne</name>
+<sym>blue plus</sym>
+<extensions>
+<number>147</number>
+<i:importance>0.206443</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4695918319" lat="52.759880" lon="-2.787410">
+<ele>80.0</ele>
+<name>Leaton - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>148</number>
+<i:importance>0.198532</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5458627186" lat="52.840279" lon="-2.675640">
+<ele>82.0</ele>
+<name>Lee Brockhurst - St Peter</name>
+<sym>blue plus</sym>
+<extensions>
+<number>149</number>
+<i:importance>0.348413</i:importance></extensions></wpt>
+<wpt gr:gr="SO4708298656" lat="52.583141" lon="-2.782420">
+<ele>154.0</ele>
+<name>Leebotwood - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>150</number>
+<i:importance>0.234664</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6127705112" lat="52.642380" lon="-2.573700">
+<ele>53.0</ele>
+<name>Leighton - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>151</number>
+<i:importance>0.479868</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7374614313" lat="52.725842" lon="-2.390160">
+<ele>96.0</ele>
+<name>Lilleshall Abbey</name>
+<sym>blue plus</sym>
+<extensions>
+<number>152</number>
+<i:importance>0.042425</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7283115227" lat="52.734009" lon="-2.403794">
+<ele>95.1</ele>
+<name>Lilleshall - St Michael and All Angels</name>
+<desc>Open during daylight hours
+
+Keyholder details on door
+
+There has been a Christian on the site since 670
+
+The present church dates from the 13th C
+
+The font is believed to be from the 1100s</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>153</number>
+<i:importance>0.717450</i:importance></extensions></wpt>
+<wpt gr:gr="SO6855998456" lat="52.583019" lon="-2.465450">
+<ele>117.0</ele>
+<name>Linley - St Leonard</name>
+<sym>blue plus</sym>
+<extensions>
+<number>154</number>
+<i:importance>0.878839</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4732714820" lat="52.728470" lon="-2.781390">
+<ele>67.0</ele>
+<name>Little Berwick Chapel</name>
+<sym>blue plus</sym>
+<extensions>
+<number>155</number>
+<i:importance>0.447443</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6635033596" lat="52.898762" lon="-2.501660">
+<ele>97.0</ele>
+<name>Little Drayton - Christ Church</name>
+<sym>blue plus</sym>
+<extensions>
+<number>156</number>
+<i:importance>0.500812</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4075119882" lat="52.773289" lon="-2.879680">
+<ele>100.0</ele>
+<name>Little Ness - St Martin</name>
+<sym>blue plus</sym>
+<extensions>
+<number>157</number>
+<i:importance>0.716030</i:importance></extensions></wpt>
+<wpt gr:gr="SO4436291880" lat="52.521961" lon="-2.821430">
+<ele>186.0</ele>
+<name>Little Stretton - All Saints</name>
+<sym>green plus</sym>
+<extensions>
+<number>158</number>
+<i:importance>0.479752</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6469706828" lat="52.658039" lon="-2.523340">
+<ele>223.0</ele>
+<name>Little Wenlock - St Lawrence</name>
+<sym>blue plus</sym>
+<extensions>
+<number>159</number>
+<i:importance>0.116780</i:importance></extensions></wpt>
+<wpt gr:gr="SO2402376294" lat="52.379410" lon="-3.117580">
+<ele>212.0</ele>
+<name>Llanfair Waterdine - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>160</number>
+<i:importance>0.102299</i:importance></extensions></wpt>
+<wpt gr:gr="SJ2393122875" lat="52.798065" lon="-3.129661">
+<ele>89.9</ele>
+<name>Llanyblodwel - St Michael the Archangel</name>
+<cmt>Open during daylight hours</cmt>
+<sym>green plus</sym>
+<extensions>
+<number>161</number>
+<i:importance>0.059641</i:importance></extensions></wpt>
+<wpt gr:gr="SJ2674020781" lat="52.779640" lon="-3.087530">
+<ele>71.0</ele>
+<name>Llanymynech - St Agatha</name>
+<sym>blue plus</sym>
+<extensions>
+<number>162</number>
+<i:importance>0.906813</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4413406362" lat="52.652119" lon="-2.827230">
+<ele>123.0</ele>
+<name>Longden - St Ruthen</name>
+<sym>green plus</sym>
+<extensions>
+<number>163</number>
+<i:importance>0.754243</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7258118398" lat="52.762508" lon="-2.407750">
+<ele>69.0</ele>
+<name>Longford - Talbot Chapel</name>
+<sym>blue plus</sym>
+<extensions>
+<number>164</number>
+<i:importance>0.043412</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4883900474" lat="52.599651" lon="-2.756780">
+<ele>118.0</ele>
+<name>Longnor - St Mary</name>
+<desc>Also, photo ford with B and W building in backround?
+
+Open every day
+
+Built in c.1275
+
+Considered to be a perfect example of Early English architecture 
+
+Wooden features added later include early 18th C box pews</desc>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>165</number>
+<i:importance>0.558475</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6227815450" lat="52.735378" lon="-2.560090">
+<ele>56.0</ele>
+<name>Longon on Tern - St Bartholomew</name>
+<sym>green plus</sym>
+<extensions>
+<number>166</number>
+<i:importance>0.152755</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4717929253" lat="52.858181" lon="-2.785920">
+<ele>89.0</ele>
+<name>Loppington - St Michael and All Angels</name>
+<sym>blue plus</sym>
+<extensions>
+<number>167</number>
+<i:importance>0.613397</i:importance></extensions></wpt>
+<wpt gr:gr="SO6155483016" lat="52.443760" lon="-2.567040">
+<ele>255.0</ele>
+<name>Loughton Chapel</name>
+<sym>blue plus</sym>
+<extensions>
+<number>168</number>
+<i:importance>0.266680</i:importance></extensions></wpt>
+<wpt gr:gr="SO5127674108" lat="52.362865" lon="-2.716924">
+<ele>89.0</ele>
+<name>Ludford - St Giles</name>
+<desc>Open 10 to 4
+
+Medieval church on picturesque ancient site
+
+Late Norman nave, 14th C chancel
+
+Rebuilt almshouses on left of path up to church</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>169</number>
+<i:importance>0.915877</i:importance></extensions></wpt>
+<wpt gr:gr="SO5155375128" lat="52.372059" lon="-2.713010">
+<ele>114.0</ele>
+<name>Ludlow - St John</name>
+<sym>green plus</sym>
+<extensions>
+<number>170</number>
+<i:importance>0.318534</i:importance></extensions></wpt>
+<wpt gr:gr="SO5114874702" lat="52.368191" lon="-2.718900">
+<ele>105.0</ele>
+<name>Ludlow - St Laurence</name>
+<sym>green plus</sym>
+<extensions>
+<number>171</number>
+<i:importance>0.946127</i:importance></extensions></wpt>
+<wpt gr:gr="SO3522186017" lat="52.468250" lon="-2.954990">
+<ele>159.0</ele>
+<name>Lydbury North - St Michael and All Angels</name>
+<sym>blue plus</sym>
+<extensions>
+<number>172</number>
+<i:importance>0.502453</i:importance></extensions></wpt>
+<wpt gr:gr="SO3356891048" lat="52.513271" lon="-2.980320">
+<ele>181.0</ele>
+<name>Lydham - Holy Trinity</name>
+<sym>green plus</sym>
+<extensions>
+<number>173</number>
+<i:importance>0.892312</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4375832899" lat="52.890610" lon="-2.837360">
+<ele>89.0</ele>
+<name>Lyneal (Colmere) - St John the Evangelist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>174</number>
+<i:importance>0.778615</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6958804113" lat="52.633930" lon="-2.450780">
+<ele>118.0</ele>
+<name>Madeley - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>175</number>
+<i:importance>0.533750</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3017621237" lat="52.784191" lon="-3.036700">
+<ele>67.0</ele>
+<name>Maesbrook - St John</name>
+<sym>blue plus</sym>
+<extensions>
+<number>176</number>
+<i:importance>0.664669</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3099225613" lat="52.823631" lon="-3.025530">
+<ele>82.0</ele>
+<name>Maesbury - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>177</number>
+<i:importance>0.224258</i:importance></extensions></wpt>
+<wpt gr:gr="SO2649087345" lat="52.479080" lon="-3.083780">
+<ele>279.0</ele>
+<name>Mainstone - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>178</number>
+<i:importance>0.159093</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6889808108" lat="52.669800" lon="-2.461360">
+<ele>193.0</ele>
+<name>Malinslee - St Leonard</name>
+<sym>blue plus</sym>
+<extensions>
+<number>179</number>
+<i:importance>0.597290</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6762134062" lat="52.903034" lon="-2.482824">
+<ele>86.9</ele>
+<name>Market Drayton - St Mary</name>
+<desc>Open weekdays 11 to 1, Wed (market day) 10 to 2
+
+Norman doorway c.1150, Early English gothic tower c.1325</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>180</number>
+<i:importance>0.789962</i:importance></extensions></wpt>
+<wpt gr:gr="SJ2888002594" lat="52.616459" lon="-3.051870">
+<ele>113.0</ele>
+<name>Marton - St Mark</name>
+<sym>blue plus</sym>
+<extensions>
+<number>181</number>
+<i:importance>0.235657</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3325516548" lat="52.742447" lon="-2.990087">
+<ele>59.1</ele>
+<name>Melverley - St Peter</name>
+<desc>Open all day every day</desc>
+<sym>green plus</sym>
+<extensions>
+<number>182</number>
+<i:importance>0.412021</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4858510558" lat="52.690281" lon="-2.762100">
+<ele>66.0</ele>
+<name>Meole Brace - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>183</number>
+<i:importance>0.677296</i:importance></extensions></wpt>
+<wpt gr:gr="SO5400977334" lat="52.392101" lon="-2.677250">
+<ele>117.0</ele>
+<name>Middleton Chapel</name>
+<sym>blue plus</sym>
+<extensions>
+<number>184</number>
+<i:importance>0.750177</i:importance></extensions></wpt>
+<wpt gr:gr="SO2974899326" lat="52.587200" lon="-3.038360">
+<ele>236.0</ele>
+<name>Middleton-in-Chirbury - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>185</number>
+<i:importance>0.897924</i:importance></extensions></wpt>
+<wpt gr:gr="SO6812887543" lat="52.484890" lon="-2.470760">
+<ele>152.0</ele>
+<name>Middleton Scriven - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>186</number>
+<i:importance>0.790576</i:importance></extensions></wpt>
+<wpt gr:gr="SO6397272813" lat="52.352200" lon="-2.530370">
+<ele>141.0</ele>
+<name>Milson - St George</name>
+<sym>blue plus</sym>
+<extensions>
+<number>187</number>
+<i:importance>0.677463</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3737905057" lat="52.639648" lon="-2.926830">
+<ele>105.0</ele>
+<name>Minsterley - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>189</number>
+<i:importance>0.148797</i:importance></extensions></wpt>
+<wpt gr:gr="SO6252493424" lat="52.537399" lon="-2.553950">
+<ele>133.0</ele>
+<name>Monkhopton - St Peter</name>
+<sym>blue plus</sym>
+<extensions>
+<number>190</number>
+<i:importance>0.590142</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4187114747" lat="52.727249" lon="-2.862170">
+<ele>68.0</ele>
+<name>Montford - St Chad</name>
+<sym>blue plus</sym>
+<extensions>
+<number>191</number>
+<i:importance>0.745552</i:importance></extensions></wpt>
+<wpt gr:gr="SO3429491505" lat="52.517464" lon="-2.969723">
+<ele>184.1</ele>
+<name>More - St Peter</name>
+<desc>Open during daylight hours
+
+The raised Circular Churchyard indicates a pre-Christian origin
+
+The Tower, 12th C, with its 17th C double pyramid belfry containing three bells dated 1612, 1617 and 1624, choir and nave, early English, sympathetically restored in 1845, Hammer Beam roof, Jacobean Box Pews and a very ancient Church Chest
+
+To the north, the More Family chapel, the More family of Linley Hall, renowned for its Mayflower and USA connection and Robert More's (1703-1780) great friendship with Linnaeus, the world famous botanist</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>192</number>
+<i:importance>0.529623</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5613023199" lat="52.804562" lon="-2.652177">
+<ele>68.9</ele>
+<name>Moreton Corbet - St Bartholomew</name>
+<desc>Open during daylight hours</desc>
+<sym>green plus</sym>
+<extensions>
+<number>193</number>
+<i:importance>0.433461</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6302734469" lat="52.906395" lon="-2.551169">
+<ele>78.0</ele>
+<name>Moreton Say - St Margaret</name>
+<desc>Open during daylight hours BST
+
+Clive of India is buried in the church
+
+Although the church dates back to the 12th Century, the brick structure was completed in 1788</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>194</number>
+<i:importance>0.594130</i:importance></extensions></wpt>
+<wpt gr:gr="SJ2909124612" lat="52.814381" lon="-3.053520">
+<ele>85.0</ele>
+<name>Morton - St Philip and St James</name>
+<sym>blue plus</sym>
+<extensions>
+<number>195</number>
+<i:importance>0.260892</i:importance></extensions></wpt>
+<wpt gr:gr="SO6698093891" lat="52.541882" lon="-2.488300">
+<ele>86.0</ele>
+<name>Morville - St Gregory</name>
+<sym>green plus</sym>
+<extensions>
+<number>196</number>
+<i:importance>0.504726</i:importance></extensions></wpt>
+<wpt gr:gr="SO6236199986" lat="52.596371" lon="-2.557103">
+<ele>150.9</ele>
+<name>Much Wenlock - Holy Trinity</name>
+<desc>Open during daylight hours</desc>
+<sym>green plus</sym>
+<extensions>
+<number>197</number>
+<i:importance>0.605656</i:importance></extensions></wpt>
+<wpt gr:gr="SO5211287720" lat="52.485298" lon="-2.706630">
+<ele>143.0</ele>
+<name>Munslow - St Michael</name>
+<desc>Open during daylight hours</desc>
+<sym>green plus</sym>
+<extensions>
+<number>198</number>
+<i:importance>0.635775</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4676423574" lat="52.807091" lon="-2.791150">
+<ele>97.0</ele>
+<name>Myddle - St Peter</name>
+<sym>blue plus</sym>
+<extensions>
+<number>199</number>
+<i:importance>0.512385</i:importance></extensions></wpt>
+<wpt gr:gr="SO3902689518" lat="52.500160" lon="-2.899630">
+<ele>221.0</ele>
+<name>Myndtown - St John the Baptist</name>
+<sym>green plus</sym>
+<extensions>
+<number>188</number>
+<i:importance>0.798267</i:importance></extensions></wpt>
+<wpt gr:gr="SO6041771688" lat="52.341850" lon="-2.582430">
+<ele>161.0</ele>
+<name>Nash - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>200</number>
+<i:importance>0.353340</i:importance></extensions></wpt>
+<wpt gr:gr="SO6742777297" lat="52.392731" lon="-2.480080">
+<ele>115.0</ele>
+<name>Neen Savage - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>201</number>
+<i:importance>0.088451</i:importance></extensions></wpt>
+<wpt gr:gr="SO6601572273" lat="52.347481" lon="-2.500320">
+<ele>81.0</ele>
+<name>Neen Sollars - All Saints</name>
+<sym>blue plus</sym>
+<extensions>
+<number>202</number>
+<i:importance>0.605542</i:importance></extensions></wpt>
+<wpt gr:gr="SO6372887723" lat="52.486229" lon="-2.535570">
+<ele>172.0</ele>
+<name>Neenton - All Saints</name>
+<sym>blue plus</sym>
+<extensions>
+<number>203</number>
+<i:importance>0.121623</i:importance></extensions></wpt>
+<wpt gr:gr="SO2532582610" lat="52.436359" lon="-3.099870">
+<ele>227.0</ele>
+<name>Newcastle on Clun - St John the Evangelist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>204</number>
+<i:importance>0.862156</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7451319178" lat="52.769611" lon="-2.379190">
+<ele>72.0</ele>
+<name>Newport - St Nicholas</name>
+<sym>green plus</sym>
+<extensions>
+<number>205</number>
+<i:importance>0.140319</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4782531626" lat="52.879570" lon="-2.776710">
+<ele>85.0</ele>
+<name>Newtown - King Charles the Martyr</name>
+<sym>blue plus</sym>
+<extensions>
+<number>206</number>
+<i:importance>0.359626</i:importance></extensions></wpt>
+<wpt gr:gr="SO3640392834" lat="52.529659" lon="-2.938902">
+<ele>227.1</ele>
+<name>Norbury - All Saints</name>
+<desc>Has an ancient yew tree estimated to be 2,700 years old with a girth of 33ft.
+
+Also look out for the monster’s face in the tree trunk!</desc>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>207</number>
+<i:importance>0.520469</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7036938674" lat="52.944649" lon="-2.442400">
+<ele>106.0</ele>
+<name>Norton-in-Hales - St Chad</name>
+<sym>blue plus</sym>
+<extensions>
+<number>208</number>
+<i:importance>0.564937</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6926310624" lat="52.692440" lon="-2.456190">
+<ele>138.0</ele>
+<name>Oakengates - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>209</number>
+<i:importance>0.082826</i:importance></extensions></wpt>
+<wpt gr:gr="SO7104692034" lat="52.525417" lon="-2.428189">
+<ele>89.9</ele>
+<name>Oldbury - St Nicholas</name>
+<desc>Details of keyholders available
+
+Open during daylight hours
+
+A beautiful little church largely the product of Victorian restoration</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>210</number>
+<i:importance>0.110580</i:importance></extensions></wpt>
+<wpt gr:gr="SO4558479153" lat="52.407673" lon="-2.801341">
+<ele>107.0</ele>
+<name>Onibury - St Michael</name>
+<desc>Open during daylight hours
+
+12th C Norman church on site of earlier church (Domesday Book 1086 records a priest here)
+
+Battlemented tower, fine chancel arch, significant fragment of medieval wall paintings, lancet windows. Perpendicular pulpit with Jacobean additions, oldest in Shropshire, 17th C cast iron grave slabs in chancel</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>211</number>
+<i:importance>0.796555</i:importance></extensions></wpt>
+<wpt gr:gr="SJ2926629400" lat="52.857441" lon="-3.051950">
+<ele>122.0</ele>
+<name>Oswestry - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>212</number>
+<i:importance>0.506935</i:importance></extensions></wpt>
+<wpt gr:gr="SJ2886729367" lat="52.857090" lon="-3.057881">
+<ele>130.1</ele>
+<name>Oswestry - St Oswald</name>
+<desc>Open 9 to 5</desc>
+<sym>green plus</sym>
+<extensions>
+<number>213</number>
+<i:importance>0.243367</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6368424754" lat="52.819111" lon="-2.540310">
+<ele>66.0</ele>
+<name>Peplow - Chapel of the Epiphany</name>
+<sym>blue plus</sym>
+<extensions>
+<number>214</number>
+<i:importance>0.587952</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4406126224" lat="52.830635" lon="-2.831709">
+<ele>116.1</ele>
+<name>Petton Church</name>
+<desc>Open every day</desc>
+<sym>green plus</sym>
+<extensions>
+<number>215</number>
+<i:importance>0.015387</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5277904285" lat="52.634270" lon="-2.699160">
+<ele>78.0</ele>
+<name>Pitchford - St Michael and All Angels</name>
+<sym>green plus</sym>
+<extensions>
+<number>216</number>
+<i:importance>0.762581</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3998506086" lat="52.649189" lon="-2.888512">
+<ele>110.0</ele>
+<name>Pontesbury - St George</name>
+<desc>Open during daylight hours
+
+Late 13th C chancel, remainder built in 1829</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>217</number>
+<i:importance>0.541899</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3635824801" lat="52.816990" lon="-2.945750">
+<ele>102.0</ele>
+<name>Pradoe Church</name>
+<sym>blue plus</sym>
+<extensions>
+<number>218</number>
+<i:importance>0.990202</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5568933477" lat="52.896919" lon="-2.660120">
+<ele>109.0</ele>
+<name>Prees - St Chad</name>
+<sym>green plus</sym>
+<extensions>
+<number>219</number>
+<i:importance>0.018911</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4918919618" lat="52.771778" lon="-2.754560">
+<ele>110.0</ele>
+<name>Preston Gubbals - St Martin</name>
+<sym>blue plus</sym>
+<extensions>
+<number>220</number>
+<i:importance>0.844604</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6810415355" lat="52.734901" lon="-2.473810">
+<ele>65.0</ele>
+<name>Preston-upon-the-Weald Moors - St Laurence</name>
+<sym>blue plus</sym>
+<extensions>
+<number>221</number>
+<i:importance>0.857269</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7032210004" lat="52.686932" lon="-2.440470">
+<ele>167.0</ele>
+<name>Prioslee - St Peter</name>
+<sym>blue plus</sym>
+<extensions>
+<number>222</number>
+<i:importance>0.242001</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4299402899" lat="52.620872" lon="-2.843489">
+<ele>210.0</ele>
+<name>Pulverbatch - St Edith</name>
+<desc>Open during daylight hours
+
+Originally from before 1193, the church has a fine classical style 1773 tower
+
+Circular churchyard - a defensive site - has some listed gravestones and an excellent urn monument
+
+Ingterior altered by Victorians, but retains 18th C box pews</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>61</number>
+<i:importance>0.326195</i:importance></extensions></wpt>
+<wpt gr:gr="SO7389190705" lat="52.513615" lon="-2.386151">
+<ele>50.9</ele>
+<name>Quatford - St Mary Magdalene</name>
+<desc>Keyholders contactable by phone
+
+Built in 1086 of sandstone and tufa</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>223</number>
+<i:importance>0.631866</i:importance></extensions></wpt>
+<wpt gr:gr="SO7563288186" lat="52.491051" lon="-2.360310">
+<ele>70.0</ele>
+<name>Quatt - St Andrew</name>
+<sym>blue plus</sym>
+<extensions>
+<number>224</number>
+<i:importance>0.786196</i:importance></extensions></wpt>
+<wpt gr:gr="SO4027296868" lat="52.566360" lon="-2.882603">
+<ele>281.9</ele>
+<name>Ratlinghope - St Margaret</name>
+<desc>Open during daylight hours</desc>
+<sym>green plus</sym>
+<extensions>
+<number>225</number>
+<i:importance>0.468255</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5895914377" lat="52.725498" lon="-2.609110">
+<ele>51.0</ele>
+<name>Rodington - St George</name>
+<sym>blue plus</sym>
+<extensions>
+<number>226</number>
+<i:importance>0.127639</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6157919842" lat="52.774818" lon="-2.570960">
+<ele>60.0</ele>
+<name>Rowton - All Hallows</name>
+<sym>blue plus</sym>
+<extensions>
+<number>227</number>
+<i:importance>0.260096</i:importance></extensions></wpt>
+<wpt gr:gr="SO5136291836" lat="52.522232" lon="-2.718262">
+<ele>167.0</ele>
+<name>Rushbury - St Peter</name>
+<desc>Open during daylight hours
+
+12th C building with Anglo-Saxon masonry
+
+Photo from field with B&amp;W building in front?  This is will be from the road heading north out of the village</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>228</number>
+<i:importance>0.098722</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3951322157" lat="52.793591" lon="-2.898440">
+<ele>86.0</ele>
+<name>Ruyton XI Towns - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>229</number>
+<i:importance>0.397758</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7602302759" lat="52.622082" lon="-2.355600">
+<ele>65.0</ele>
+<name>Ryton - St Andrew</name>
+<sym>blue plus</sym>
+<extensions>
+<number>230</number>
+<i:importance>0.162157</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4885303554" lat="52.627338" lon="-2.757050">
+<ele>108.0</ele>
+<name>Ryton - St Thomas</name>
+<sym>blue plus</sym>
+<extensions>
+<number>231</number>
+<i:importance>0.459873</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7145424459" lat="52.816921" lon="-2.424980">
+<ele>77.0</ele>
+<name>Sambrook - St Luke</name>
+<sym>blue plus</sym>
+<extensions>
+<number>232</number>
+<i:importance>0.529354</i:importance></extensions></wpt>
+<wpt gr:gr="SJ2665634030" lat="52.898705" lon="-3.091765">
+<ele>230.1</ele>
+<name>Selattyn - St Mary</name>
+<desc>Open daytime April to October, closed November to March
+
+First recorded in 1291, but have been use for over 1000 years, font dates from 13th C, barrel roof over the chancel from the 14th C and nave timbers from the 15th C, transcepts added in 1821-28</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>233</number>
+<i:importance>0.437100</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5593021121" lat="52.785873" lon="-2.654863">
+<ele>68.9</ele>
+<name>Shawbury - St Mary</name>
+<desc>Open 8 to 4</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>234</number>
+<i:importance>0.277587</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6106603970" lat="52.632099" lon="-2.576680">
+<ele>65.0</ele>
+<name>Sheinton - St Peter and St Paul</name>
+<sym>blue plus</sym>
+<extensions>
+<number>235</number>
+<i:importance>0.407491</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4588713213" lat="52.713879" lon="-2.802450">
+<ele>85.0</ele>
+<name>Shelton and Oxon - Christ Church</name>
+<sym>blue plus</sym>
+<extensions>
+<number>236</number>
+<i:importance>0.021712</i:importance></extensions></wpt>
+<wpt gr:gr="SO3364199021" lat="52.584949" lon="-2.980850">
+<ele>345.0</ele>
+<name>Shelve - All Saints</name>
+<sym>green plus</sym>
+<extensions>
+<number>237</number>
+<i:importance>0.074024</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7580112027" lat="52.705391" lon="-2.359560">
+<ele>116.0</ele>
+<name>Sheriffhales - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>238</number>
+<i:importance>0.234432</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7467507478" lat="52.664440" lon="-2.375880">
+<ele>86.0</ele>
+<name>Shifnal - St Andrew</name>
+<sym>blue plus</sym>
+<extensions>
+<number>239</number>
+<i:importance>0.245441</i:importance></extensions></wpt>
+<wpt gr:gr="SO5617691852" lat="52.522793" lon="-2.647332">
+<ele>164.9</ele>
+<name>Shipton - St James</name>
+<desc>Open during daylight hours</desc>
+<sym>green plus</sym>
+<extensions>
+<number>240</number>
+<i:importance>0.669433</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3991915272" lat="52.731758" lon="-2.891160">
+<ele>82.0</ele>
+<name>Shrawardine - St Mary the Virgin</name>
+<sym>blue plus</sym>
+<extensions>
+<number>241</number>
+<i:importance>0.212992</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4984512475" lat="52.707630" lon="-2.743750">
+<ele>51.0</ele>
+<name>Shrewsbury Abbey</name>
+<sym>blue plus</sym>
+<extensions>
+<number>242</number>
+<i:importance>0.733137</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4988013189" lat="52.714050" lon="-2.743340">
+<ele>52.0</ele>
+<name>Shrewsbury - All Saints</name>
+<sym>blue plus</sym>
+<extensions>
+<number>243</number>
+<i:importance>0.345780</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4965911935" lat="52.702759" lon="-2.746420">
+<ele>56.0</ele>
+<name>Shrewsbury - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>244</number>
+<i:importance>0.123510</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4926012481" lat="52.707630" lon="-2.752410">
+<ele>69.0</ele>
+<name>Shrewsbury - St Alkmund</name>
+<sym>green plus</sym>
+<extensions>
+<number>245</number>
+<i:importance>0.932233</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4881912441" lat="52.707230" lon="-2.758930">
+<ele>63.0</ele>
+<name>Shrewsbury - St Chad (new)</name>
+<sym>green plus</sym>
+<extensions>
+<number>246</number>
+<i:importance>0.829063</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4920612336" lat="52.706322" lon="-2.753180">
+<ele>67.0</ele>
+<name>Shrewsbury - St Chad (old)</name>
+<sym>green plus</sym>
+<extensions>
+<number>247</number>
+<i:importance>0.683353</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4876213031" lat="52.712521" lon="-2.759860">
+<ele>58.0</ele>
+<name>Shrewsbury - St George</name>
+<sym>blue plus</sym>
+<extensions>
+<number>248</number>
+<i:importance>0.141101</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5073011847" lat="52.702061" lon="-2.730550">
+<ele>67.0</ele>
+<name>Shrewsbury - St Giles</name>
+<sym>blue plus</sym>
+<extensions>
+<number>249</number>
+<i:importance>0.066049</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5025510466" lat="52.689602" lon="-2.737380">
+<ele>71.0</ele>
+<name>Shrewsbury - St John</name>
+<sym>blue plus</sym>
+<extensions>
+<number>250</number>
+<i:importance>0.263453</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4928112433" lat="52.707199" lon="-2.752090">
+<ele>68.0</ele>
+<name>Shrewsbury - St Julian</name>
+<sym>green plus</sym>
+<extensions>
+<number>251</number>
+<i:importance>0.141421</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4932712597" lat="52.708679" lon="-2.751440">
+<ele>69.0</ele>
+<name>Shrewsbury - St Mary the Virgin</name>
+<sym>green plus</sym>
+<extensions>
+<number>252</number>
+<i:importance>0.517562</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4969713628" lat="52.717979" lon="-2.746110">
+<ele>58.0</ele>
+<name>Shrewsbury - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>253</number>
+<i:importance>0.249254</i:importance></extensions></wpt>
+<wpt gr:gr="SO4128283121" lat="52.442902" lon="-2.865270">
+<ele>180.0</ele>
+<name>Sibdon Carwood - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>254</number>
+<i:importance>0.242314</i:importance></extensions></wpt>
+<wpt gr:gr="SO6837485748" lat="52.468769" lon="-2.466960">
+<ele>148.0</ele>
+<name>Sidbury - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>255</number>
+<i:importance>0.742433</i:importance></extensions></wpt>
+<wpt gr:gr="SO6211579850" lat="52.415340" lon="-2.558430">
+<ele>202.0</ele>
+<name>Silvington - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>256</number>
+<i:importance>0.999808</i:importance></extensions></wpt>
+<wpt gr:gr="SO4495699363" lat="52.589291" lon="-2.813920">
+<ele>241.0</ele>
+<name>Smethcott - St Michael</name>
+<sym>green plus</sym>
+<extensions>
+<number>257</number>
+<i:importance>0.743653</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3721202451" lat="52.616199" lon="-2.928800">
+<ele>209.0</ele>
+<name>Snailbeach - St Luke</name>
+<sym>green plus</sym>
+<extensions>
+<number>258</number>
+<i:importance>0.892540</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7092610924" lat="52.695229" lon="-2.431620">
+<ele>172.0</ele>
+<name>St Georges - St George</name>
+<sym>blue plus</sym>
+<extensions>
+<number>259</number>
+<i:importance>0.801188</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3225136272" lat="52.919590" lon="-3.009060">
+<ele>122.0</ele>
+<name>St Martin's - St Martin</name>
+<sym>blue plus</sym>
+<extensions>
+<number>260</number>
+<i:importance>0.150934</i:importance></extensions></wpt>
+<wpt gr:gr="SO4955578806" lat="52.404934" lon="-2.742918">
+<ele>91.1</ele>
+<name>Stanton Lacy - St Peter</name>
+<desc>Open during daylight hours
+
+Cruciform church, original Saxon doorway in the north wall, external pilasters on west wall
+
+Large collection of churchyard trees</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>261</number>
+<i:importance>0.745796</i:importance></extensions></wpt>
+<wpt gr:gr="SO5716790706" lat="52.512569" lon="-2.632570">
+<ele>150.0</ele>
+<name>Stanton Long - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>262</number>
+<i:importance>0.321031</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5679023753" lat="52.809601" lon="-2.642470">
+<ele>64.0</ele>
+<name>Stanton-upon-Hine Heath - St Andrew</name>
+<sym>blue plus</sym>
+<extensions>
+<number>263</number>
+<i:importance>0.500535</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4707004451" lat="52.635231" lon="-2.783530">
+<ele>100.0</ele>
+<name>Stapleton - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>264</number>
+<i:importance>0.339770</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6998306718" lat="52.657372" lon="-2.445190">
+<ele>131.0</ele>
+<name>Stirchley - St James</name>
+<sym>blue plus</sym>
+<extensions>
+<number>265</number>
+<i:importance>0.029786</i:importance></extensions></wpt>
+<wpt gr:gr="SO7290499572" lat="52.593281" lon="-2.401420">
+<ele>98.0</ele>
+<name>Stockton - St Chad</name>
+<sym>blue plus</sym>
+<extensions>
+<number>266</number>
+<i:importance>0.802998</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6384927960" lat="52.847939" lon="-2.538210">
+<ele>60.0</ele>
+<name>Stoke on Tern - St Peter</name>
+<sym>green plus</sym>
+<extensions>
+<number>267</number>
+<i:importance>0.497092</i:importance></extensions></wpt>
+<wpt gr:gr="SO5661282308" lat="52.437031" lon="-2.639661">
+<ele>216.1</ele>
+<name>Stoke St Milborough - St Milburgh</name>
+<desc>Open during daylight hours
+
+Dates back to 12th C, but certainly with Saxon origins - one of 9 churches connected to Wenlock Abbey
+
+Handsome ceiling and rare water leaf decoration</desc>
+<link href="https://www.sstm.uk/store/index.php?page=parish-church-of-st-milburga"/>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>268</number>
+<i:importance>0.108690</i:importance></extensions></wpt>
+<wpt gr:gr="SO4358081735" lat="52.430687" lon="-2.831220">
+<ele>121.9</ele>
+<name>Stokesay - St John the Baptist</name>
+<desc>Open during daylight hours April to September, in line with castle October to March</desc>
+<sym>green plus</sym>
+<extensions>
+<number>269</number>
+<i:importance>0.558635</i:importance></extensions></wpt>
+<wpt gr:gr="SO6724682883" lat="52.442936" lon="-2.483296">
+<ele>184.1</ele>
+<name>Stottesdon - St Mary</name>
+<desc>Open 9 to 4
+
+Has a Saxon Tympanum, Norman font and mediebval tiles
+
+Superb views to Clee Hills</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>270</number>
+<i:importance>0.880894</i:importance></extensions></wpt>
+<wpt gr:gr="SO3101173689" lat="52.356918" lon="-3.014410">
+<ele>221.0</ele>
+<name>Stowe - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>271</number>
+<i:importance>0.619737</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7186901354" lat="52.609249" lon="-2.416850">
+<ele>92.0</ele>
+<name>Sutton Maddock - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>272</number>
+<i:importance>0.305914</i:importance></extensions></wpt>
+<wpt gr:gr="SO6965694110" lat="52.544010" lon="-2.448860">
+<ele>125.0</ele>
+<name>Tasley - St Peter and St Paul</name>
+<sym>blue plus</sym>
+<extensions>
+<number>273</number>
+<i:importance>0.789049</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6812720380" lat="52.780071" lon="-2.473950">
+<ele>61.0</ele>
+<name>Tibberton - All Saints</name>
+<sym>blue plus</sym>
+<extensions>
+<number>274</number>
+<i:importance>0.168428</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5425637857" lat="52.936169" lon="-2.682050">
+<ele>103.0</ele>
+<name>Tilstock - Christ Church</name>
+<sym>blue plus</sym>
+<extensions>
+<number>275</number>
+<i:importance>0.186579</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7957407389" lat="52.663845" lon="-2.303443">
+<ele>79.9</ele>
+<name>Tong - St Mary and St Bartholomew</name>
+<desc>Open during daylight hours</desc>
+<sym>green plus</sym>
+<extensions>
+<number>276</number>
+<i:importance>0.340560</i:importance></extensions></wpt>
+<wpt gr:gr="SJ2614026896" lat="52.834518" lon="-3.097800">
+<ele>181.0</ele>
+<name>Trefonen - All Saints</name>
+<sym>blue plus</sym>
+<extensions>
+<number>277</number>
+<i:importance>0.156254</i:importance></extensions></wpt>
+<wpt gr:gr="SO7876788057" lat="52.490021" lon="-2.314120">
+<ele>173.0</ele>
+<name>Tuckhill - Holy Innocents</name>
+<sym>blue plus</sym>
+<extensions>
+<number>278</number>
+<i:importance>0.547359</i:importance></extensions></wpt>
+<wpt gr:gr="SO5568587046" lat="52.479542" lon="-2.653913">
+<ele>156.1</ele>
+<name>Tugford - St Catherine</name>
+<desc>Open during daylight hours
+
+Mainly Norman, the tower is Early English
+
+Inside the south doorway are two sheela na gigs and there are unusual tomb recesses</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>279</number>
+<i:importance>0.549711</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5279013865" lat="52.720390" lon="-2.700380">
+<ele>52.0</ele>
+<name>Uffington - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>280</number>
+<i:importance>0.083360</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5974209361" lat="52.680466" lon="-2.596898">
+<ele>103.0</ele>
+<name>Uppington - Holy Trinity</name>
+<desc>Has an ancient yew tree with a girth of around 29ft
+
+The tree is thought be at least 1,000 years old, although some estimates put it at 2,000 years
+
+The tree is completely hollow</desc>
+<sym>yellow plus ticked</sym>
+<extensions>
+<number>281</number>
+<i:importance>0.885512</i:importance></extensions></wpt>
+<wpt gr:gr="SO6562492438" lat="52.528740" lon="-2.508140">
+<ele>188.0</ele>
+<name>Upton Cressett - St Michael</name>
+<sym>green plus</sym>
+<extensions>
+<number>282</number>
+<i:importance>0.550242</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5533012442" lat="52.707809" lon="-2.662580">
+<ele>73.0</ele>
+<name>Upton Magna - St Lucy</name>
+<sym>green plus</sym>
+<extensions>
+<number>283</number>
+<i:importance>0.708342</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6339919429" lat="52.771229" lon="-2.543940">
+<ele>62.0</ele>
+<name>Waters Upton - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>284</number>
+<i:importance>0.387730</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6510611720" lat="52.702038" lon="-2.517823">
+<ele>95.1</ele>
+<name>Wellington - All Saints</name>
+<sym>plus green</sym>
+<extensions>
+<number>285</number>
+<i:importance>0.128419</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6557911191" lat="52.697319" lon="-2.510760">
+<ele>109.0</ele>
+<name>Wellington - Christ Church</name>
+<sym>blue plus</sym>
+<extensions>
+<number>286</number>
+<i:importance>0.913876</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3640433166" lat="52.892181" lon="-2.946702">
+<ele>145.1</ele>
+<name>Welsh Frankton - St Andrew</name>
+<desc>Open 1st and 3rd weekends throughout the year, or by arrangement with the key holder
+
+Victorian sandstone church</desc>
+<sym>plus yellow</sym>
+<extensions>
+<number>287</number>
+<i:importance>0.695710</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4338334909" lat="52.908630" lon="-2.843270">
+<ele>95.0</ele>
+<name>Welshampton - St Michael and All Angels</name>
+<sym>green plus</sym>
+<extensions>
+<number>288</number>
+<i:importance>0.606440</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5122828862" lat="52.855049" lon="-2.725730">
+<ele>82.0</ele>
+<name>Wem - St Peter and St Paul</name>
+<sym>green plus</sym>
+<extensions>
+<number>289</number>
+<i:importance>0.443282</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6249500121" lat="52.597599" lon="-2.555140">
+<ele>149.0</ele>
+<name>Wenlock Priory</name>
+<sym>blue plus</sym>
+<extensions>
+<number>290</number>
+<i:importance>0.646293</i:importance></extensions></wpt>
+<wpt gr:gr="SO3836692647" lat="52.528206" lon="-2.909934">
+<ele>262.1</ele>
+<name>Wentnor - St Michael and All Angels</name>
+<desc>Open during daylight hours
+
+Norman origin, but substantially restored in 1886
+
+The 'hurricane tombstone' commemorates a ferrocious blizzard which wiped out an entire family</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>291</number>
+<i:importance>0.212490</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3412125223" lat="52.820511" lon="-2.979020">
+<ele>91.0</ele>
+<name>West Felton - St Michael</name>
+<sym>blue plus</sym>
+<extensions>
+<number>292</number>
+<i:importance>0.099100</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3555609422" lat="52.678669" lon="-2.954620">
+<ele>131.0</ele>
+<name>Westbury - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>293</number>
+<i:importance>0.641008</i:importance></extensions></wpt>
+<wpt gr:gr="SJ2839435645" lat="52.913460" lon="-3.066280">
+<ele>127.0</ele>
+<name>Westin Rhyn - St John the Divine</name>
+<sym>blue plus</sym>
+<extensions>
+<number>294</number>
+<i:importance>0.093109</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4254825629" lat="52.825130" lon="-2.854050">
+<ele>98.0</ele>
+<name>Weston Lullingfields - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>295</number>
+<i:importance>0.443817</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5649928788" lat="52.854832" lon="-2.647460">
+<ele>120.0</ele>
+<name>Weston-under-Redcastle - St Luke</name>
+<sym>blue plus</sym>
+<extensions>
+<number>296</number>
+<i:importance>0.483107</i:importance></extensions></wpt>
+<wpt gr:gr="SO6218982192" lat="52.436401" lon="-2.557610">
+<ele>222.0</ele>
+<name>Wheathill - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>297</number>
+<i:importance>0.060509</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5410841699" lat="52.970688" lon="-2.684799">
+<ele>103.9</ele>
+<name>Whitchurch - St Alkmund</name>
+<desc>Open 10 to 5</desc>
+<sym>green plus</sym>
+<extensions>
+<number>298</number>
+<i:importance>0.824230</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3259931270" lat="52.874680" lon="-3.002850">
+<ele>90.0</ele>
+<name>Whittington - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>299</number>
+<i:importance>0.391217</i:importance></extensions></wpt>
+<wpt gr:gr="SO5759472824" lat="52.351849" lon="-2.624010">
+<ele>138.0</ele>
+<name>Whitton - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>300</number>
+<i:importance>0.415623</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5177234825" lat="52.908699" lon="-2.718540">
+<ele>104.0</ele>
+<name>Whixall - St Mary</name>
+<sym>blue plus</sym>
+<extensions>
+<number>301</number>
+<i:importance>0.558247</i:importance></extensions></wpt>
+<wpt gr:gr="SO6720599192" lat="52.589550" lon="-2.485510">
+<ele>138.0</ele>
+<name>Willey - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>302</number>
+<i:importance>0.144680</i:importance></extensions></wpt>
+<wpt gr:gr="SO4324585632" lat="52.465679" lon="-2.836820">
+<ele>147.0</ele>
+<name>Winstanstow - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>303</number>
+<i:importance>0.842142</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5768612950" lat="52.712570" lon="-2.627780">
+<ele>54.0</ele>
+<name>Withington - St John the Baptist</name>
+<sym>blue plus</sym>
+<extensions>
+<number>304</number>
+<i:importance>0.057983</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6911511641" lat="52.701580" lon="-2.458480">
+<ele>98.0</ele>
+<name>Wombridge - St Mary and St Leonard</name>
+<sym>blue plus</sym>
+<extensions>
+<number>305</number>
+<i:importance>0.908378</i:importance></extensions></wpt>
+<wpt gr:gr="SO4524898476" lat="52.581341" lon="-2.809450">
+<ele>244.0</ele>
+<name>Woolstaston - St Michael</name>
+<desc>The church is locked but a key is readily available from Rectory Farm just above the church</desc>
+<sym>yellow plus</sym>
+<extensions>
+<number>306</number>
+<i:importance>0.308520</i:importance></extensions></wpt>
+<wpt gr:gr="SJ7307142370" lat="52.978020" lon="-2.402500">
+<ele>149.0</ele>
+<name>Woore - St Leonard</name>
+<sym>blue plus</sym>
+<extensions>
+<number>307</number>
+<i:importance>0.553550</i:importance></extensions></wpt>
+<wpt gr:gr="SO7579495772" lat="52.559254" lon="-2.358480">
+<ele>47.9</ele>
+<name>Worfield - St Peter</name>
+<desc>Imposing 12th C church
+
+Picturesque village
+
+Tells s story with medieval Picture Doors
+
+Rare 17th C monuments, a leper's hatch
+
+Nearby stands the 16th C former rectory and old grammar school</desc>
+<sym>plus yellow ticked</sym>
+<extensions>
+<number>308</number>
+<i:importance>0.422035</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3285204689" lat="52.635799" lon="-2.993640">
+<ele>103.0</ele>
+<name>Worthen - All Saints</name>
+<sym>blue plus</sym>
+<extensions>
+<number>309</number>
+<i:importance>0.040382</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6247912063" lat="52.704948" lon="-2.556730">
+<ele>109.0</ele>
+<name>Wrockwardine - St Peter</name>
+<sym>green plus</sym>
+<extensions>
+<number>310</number>
+<i:importance>0.268022</i:importance></extensions></wpt>
+<wpt gr:gr="SJ6994212633" lat="52.710541" lon="-2.446340">
+<ele>98.0</ele>
+<name>Wrockwardine Wood - Holy Trinity</name>
+<sym>blue plus</sym>
+<extensions>
+<number>311</number>
+<i:importance>0.667888</i:importance></extensions></wpt>
+<wpt gr:gr="SJ5632308201" lat="52.669769" lon="-2.647320">
+<ele>53.0</ele>
+<name>Wroxeter - St Andrew</name>
+<sym>green plus</sym>
+<extensions>
+<number>312</number>
+<i:importance>0.614522</i:importance></extensions></wpt>
+<wpt gr:gr="SJ3952110074" lat="52.684990" lon="-2.896090">
+<ele>100.0</ele>
+<name>Yockleton - Holy Trinity</name>
+<sym>green plus</sym>
+<extensions>
+<number>313</number>
+<i:importance>0.585444</i:importance></extensions></wpt></gpx>
