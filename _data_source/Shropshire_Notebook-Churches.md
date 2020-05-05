@@ -1,24 +1,4 @@
 <!--Type: Item-->
-## Date: Before 1075 AD
-# Name: St Eata, Atcham
-
-This is the only church in England dedicated to St Eata of Hexham.
-
-The first church to St Eata is said to have been built in the 8th Century but there is no longer any trace of this.  The present church has been on this site since at least 1075, this is known because the chronicler Orderic Vitalis (a Benedictine monk who wrote one of the great chronicles of 11th and 12th Century England) was baptised at the church on Easter Day in 1075.
-
-The oldest part of the present church is the nave which dates from the late Saxon or early Norman period.  The tower is probably late 12th Century, the chancel late 13th Century and the south porch is dated 1665.  The church was restored in the late 19th Century.
-
-The church is constructed from red and grey sandstone and incorporates some large blocks from the Roman city of Wroxeter.
-
-The name Atcham is a contraction of Attingham, meaning "the home of Eata's people".
-![](../1shropshire/assets/images/churches/2020-01-12_15_47_21_DSC_6211_DxO.jpg)
-
-- Sub-Image: 2020-01-12_15_52_57_DSC_6218_DxO.jpg
-- Sub-Image: 2020-01-12_15_55_16_DSC_6223_DxO.jpg
-- Sub-Image: 2020-01-12_15_55_58_DSC_6224_DxO.jpg
-- Sub-Image: 2020-01-12_15_57_40_DSC_6226_DxO.jpg
-
-<!--Type: Item-->
 ## Date: 1275 AD
 # Name: St Mary, Acton Burnell
 
@@ -41,6 +21,26 @@ The settlement was registered as Actune in the Domesday Book.
 ![](../1shropshire/assets/images/churches/2019-07-13_09_45_21_DSC_4603_DxO_L.jpg)
 - Sub-Image: 2019-07-13_09_52_11_DSC_4607_DxO.jpg
 - Sub-Image: 2019-07-13_09_53_10_DSC_4609_DxO.jpg
+
+<!--Type: Item-->
+## Date: Before 1075 AD
+# Name: St Eata, Atcham
+
+This is the only church in England dedicated to St Eata of Hexham.
+
+The first church to St Eata is said to have been built in the 8th Century but there is no longer any trace of this.  The present church has been on this site since at least 1075, this is known because the chronicler Orderic Vitalis (a Benedictine monk who wrote one of the great chronicles of 11th and 12th Century England) was baptised at the church on Easter Day in 1075.
+
+The oldest part of the present church is the nave which dates from the late Saxon or early Norman period.  The tower is probably late 12th Century, the chancel late 13th Century and the south porch is dated 1665.  The church was restored in the late 19th Century.
+
+The church is constructed from red and grey sandstone and incorporates some large blocks from the Roman city of Wroxeter.
+
+The name Atcham is a contraction of Attingham, meaning "the home of Eata's people".
+![](../1shropshire/assets/images/churches/2020-01-12_15_47_21_DSC_6211_DxO.jpg)
+
+- Sub-Image: 2020-01-12_15_52_57_DSC_6218_DxO.jpg
+- Sub-Image: 2020-01-12_15_55_16_DSC_6223_DxO.jpg
+- Sub-Image: 2020-01-12_15_55_58_DSC_6224_DxO.jpg
+- Sub-Image: 2020-01-12_15_57_40_DSC_6226_DxO.jpg
 
 <!--Type: Item-->
 ## Date: 14th Century AD

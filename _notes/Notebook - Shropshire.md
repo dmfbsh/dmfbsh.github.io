@@ -41,13 +41,13 @@ All assets relating to the project are held in my GitHub repository, which is cl
 
 ![Screenshot00](Screenshot00.JPG)
 
-3. Create a folder (using the AHK Shropshire Photography application) for the item in;
+3. Create a new record for the item in the AHK Shropshire Photography application, this will also create a folder in the directory:
 
 >E:\My Pictures\Published\Shropshire
 
 ![Screenshot01](Screenshot01.jpg)
 
-4. In ACDSee assign the original photo to the item (using the AHK Shropshire Photography application) - this also creates the database record
+4. In the AHK Shropshire Photography application, assign the original photo to the item
 
 ![Screenshot01](Screenshot01.jpg)
 
@@ -56,8 +56,6 @@ All assets relating to the project are held in my GitHub repository, which is cl
 ![Screenshot02](Screenshot02.jpg)
 
 6. In the AHK Shropshire Photography application record any adjustments made in DxO PhotoLab
-
-![Screenshot03](Screenshot03.jpg)
 
 7. Move the developed photo to the item's folder - use the Move function in the AHK Shropshire Photography application to do this
 
