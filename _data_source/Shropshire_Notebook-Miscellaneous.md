@@ -1,4 +1,24 @@
 <!--Type: Item-->
+# Name: Apley Woods
+
+Apley Woods is a 19th Century landscaped 56 acre woodland near Telford.
+![](../1shropshire/assets/images/miscellaneous/2020-05-12_16_55_36_DSC_7022_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Apley Woods
+
+Apley Woods is a 19th Century landscaped 56 acre woodland near Telford.
+![](../1shropshire/assets/images/miscellaneous/2020-05-12_16_59_07_DSC_7027_DxO_bw.jpg)
+
+<!--Type: Item-->
+# Name: Apley Woods
+
+This sculpture called "Energy Rising" is located in the heart of the woodland.
+
+It is believed to symbolise lava emerging from the earth.
+![](../1shropshire/assets/images/miscellaneous/2020-05-12_17_04_05_DSC_7036_DxO.jpg)
+
+<!--Type: Item-->
 # Name: Cressage - Flooded Fields
 
 In the late Winter / early Spring of 2020 there was severe flooding in Shropshire - this picture shows the flooding (River Severn at Cressage).

@@ -2,7 +2,7 @@ REM @ECHO OFF
 PROMPT $Q$G
 
 set DBFViewerEXE=C:\Program Files (x86)\DBF Viewer 2000\dbview.exe
-set SQLite3EXE=C:\Users\David\Documents\iCloudDrive\27N4MQEA55~pro~writer\dmfbsh.github.io\_database\sqlite3.exe
+set SQLite3EXE=C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_database\sqlite3.exe
 set ACDSeeDBPath=C:\Users\David\Documents\NoneDrive\ACDSeeDB2020\ACDSeeDB2020
 set TempPath=C:\Users\David\Documents\OneDrive\Documents\My Documents\3. Shropshire\Temp
 set DBFile=C:\Users\David\Documents\OneDrive\Documents\My Documents\3. Shropshire\Database\Shropshire Photography.db

@@ -275,6 +275,15 @@ The church is built of red brick.  The apse was added in 1850 in the same style.
 
 <!--Type: Item-->
 ## Date: 12th Century AD
+# Name: St Thomas, Halford
+
+The place name Halford means hawkers’ ford (hawker meaning travelling seller) - the Ford is across the river Onny that runs very close to the church.
+
+The church is of Norman origin, and was restored in 1848.  The chancel was totally rebuilt in 1887.
+![](../1shropshire/assets/images/churches/2020-05-16_14_20_44_DSC_7073_DxO.jpg)
+
+<!--Type: Item-->
+## Date: 12th Century AD
 # Name: St Luke, Hodnet
 
 Noted for its tower which is entirely octagonal from top to bottom and the only tower of this type in Shropshire.  In 2006 the church was damaged by people apparently seeking clues in a search for the Holy Grail.
@@ -295,6 +304,17 @@ In the churchyard is an ancient yew tree, thought to be well over 1000 years old
 Hope means an enclosed place or valley and Bagot is a derivation of Richard Bagard's name (who held the manor in 1242).
 ![](../1shropshire/assets/images/churches/2019-04-19_14_22_49_DSC_4113_DxO.jpg)
 - Sub-Image: 2019-04-19_14_33_15_DSC_4121_DxO.jpg
+
+<!--Type: Item-->
+## Date: 1863 AD
+# Name: St Andrew, Hope Bowdler
+
+Hop(e) is the Middle English for valley.  The name Bowdler derives from the Norman name de Bulers.
+
+Hope Bowdler is recorded in the Domesday book as Fordritishope.
+
+There was a medieval church on the site, this was replaced in 1863 by the present building.  The church is built of Soudley banded sandstone.  It was designed by Shrewsbury architect Samuel Pountney Smith.
+![](../1shropshire/assets/images/churches/2020-05-16_15_58_18_DSC_7086_DxO.jpg)
 
 <!--Type: Item-->
 ## Date: 1490 AD

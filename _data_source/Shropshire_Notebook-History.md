@@ -1020,6 +1020,19 @@ Opened originally as a joint aircraft maintenance, storage and technical trainin
 ![](../1shropshire/assets/images/history/2018-06-10_14_58_01_DSC01854_DxO_bw.jpg)
 
 <!--Type: Item-->
+# Date: 1955 (18th November) AD
+# Name: Apley Castle is Dismantled
+
+Apley Castle was a magnificent Georgian mansion house (similar to Attingham Park) and centrepiece of a 900 acre estate.  However, it became too expensive to maintain and so in 1955 the house was dismantled and the contents sold off.
+
+Plans for the new house to replace the old house were approved in October 1791.  Costing 4622 pounds and 8 shillings, the contract stipulated that "The bricks to be made on the estate. Anything required to be taken from the old house, which at the same time is to be turned into the stables and outhouses."
+
+The mansion was of the Georgian style with tall Corinthian pillars to its entrance porch, from which a drive of considerable length led to the town of Wellington.
+
+Throughout the 19th century members of the family that owned the estate (the Charltons) distinguished themselves as soldiers in the Indian Wars and in the Crimea.  Whilst serving in India, Captain St. John Chiverton Charlton, an able botanist, is credited with the discovery of the tea plant, whose subsequent cultivation contributed much to the economic development of India.
+![](../1shropshire/assets/images/history/2020-05-12_17_00_17_DSC_7029_DxO_bw.jpg)
+
+<!--Type: Item-->
 # Date: 1963 AD
 # Name: Ironbridge B Power Station
 
@@ -1104,3 +1117,10 @@ The new town of Telford celebrates its 50th anniversary.
 
 The cooling towers of the Ironbridge power station are demolished to make way for new housing.
 ![](../1shropshire/assets/images/history/2019-12-06_11_08_09_DSC_5693.jpg)
+
+<!--Type: Item-->
+# Date: 8th May 2020 AD
+# Name: Victory in Europe 75th Anniversary
+
+People across the county, like the rest of the country, commemorated the 75th Anniversary of Victory in Europe day by staying at home and living under the restrictions imposed due to the coronavirus pandemic.
+![](../1shropshire/assets/images/history/2020-05-08_17_03_56_DSC02443_DxO.jpg)

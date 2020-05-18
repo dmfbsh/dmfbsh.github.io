@@ -987,7 +987,7 @@ Contains a monument to Lord Rowland Hill - he is buried in a sealed crypt beneat
 <wpt gr:gr="SO4363583323" lat="52.444962" lon="-2.830690">
 <ele>122.0</ele>
 <name>Halford - St Thomas</name>
-<sym>blue plus</sym>
+<sym>green plus</sym>
 <extensions>
 <number>115</number>
 <i:importance>0.934552</i:importance></extensions></wpt>
@@ -1081,7 +1081,7 @@ Has a fine Tudor wooden ceiling with bosses</desc>
 <ele>217.9</ele>
 <name>Hope Bowdler - St Andrew</name>
 <desc>Open during daylight hours</desc>
-<sym>plus yellow ticked</sym>
+<sym>plus green</sym>
 <extensions>
 <number>127</number>
 <i:importance>0.926143</i:importance></extensions></wpt>
