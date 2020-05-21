@@ -314,7 +314,7 @@ Hop(e) is the Middle English for valley.  The name Bowdler derives from the Norm
 Hope Bowdler is recorded in the Domesday book as Fordritishope.
 
 There was a medieval church on the site, this was replaced in 1863 by the present building.  The church is built of Soudley banded sandstone.  It was designed by Shrewsbury architect Samuel Pountney Smith.
-![](../1shropshire/assets/images/churches/2020-05-16_15_58_18_DSC_7086_DxO.jpg)
+![](../1shropshire/assets/images/churches/2020-05-16_15_58_18_DSC_7086_DxO_L4.jpg)
 
 <!--Type: Item-->
 ## Date: 1490 AD

@@ -19,6 +19,14 @@
 <extensions>
 <number>52</number>
 <i:importance>0.520000</i:importance></extensions></wpt>
+<wpt gr:gr="SJ4963112135" lat="52.704548" lon="-2.746871">
+<ele>50.0</ele>
+<time>2020-05-19T16:24:21+01</time>
+<name>Coleham Pumping Station</name>
+<sym>yellow photo</sym>
+<extensions>
+<number>59</number>
+<i:importance>0.590000</i:importance></extensions></wpt>
 <wpt gr:gr="SO7668699343" lat="52.591404" lon="-2.345575">
 <ele>60.0</ele>
 <time>2020-02-19T13:16:35+00</time>
@@ -51,7 +59,7 @@
 <extensions>
 <number>4</number>
 <i:importance>0.001000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ7887305299" lat="52.645027" lon="-2.313674">
+<wpt gr:gr="SJ7887205298" lat="52.645027" lon="-2.313674">
 <ele>86.0</ele>
 <time>2020-04-20T11:16:44+01</time>
 <name>Cosford RAF Museum</name>
@@ -239,7 +247,7 @@
 <extensions>
 <number>21</number>
 <i:importance>0.004000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ6853607416" lat="52.663555" lon="-2.466651">
+<wpt gr:gr="SJ6853607415" lat="52.663555" lon="-2.466651">
 <ele>184.1</ele>
 <time>2020-04-20T11:54:17+01</time>
 <name>Matthew Webb fountain, Dawley</name>
@@ -271,7 +279,7 @@
 <extensions>
 <number>23</number>
 <i:importance>0.006000</i:importance></extensions></wpt>
-<wpt gr:gr="SO3687599133" lat="52.586334" lon="-2.933146">
+<wpt gr:gr="SO3687599132" lat="52.586334" lon="-2.933146">
 <ele>515.1</ele>
 <time>2020-04-21T10:21:01+01</time>
 <name>The Stiperstones - The Devils Chair</name>
@@ -295,7 +303,7 @@
 <extensions>
 <number>55</number>
 <i:importance>0.550000</i:importance></extensions></wpt>
-<wpt gr:gr="SJ5152929619" lat="52.861877" lon="-2.721378">
+<wpt gr:gr="SJ5152829619" lat="52.861877" lon="-2.721378">
 <ele>81.1</ele>
 <time>2020-04-20T11:40:37+01</time>
 <name>Whitchurch Road - cemetary, Wem</name>
