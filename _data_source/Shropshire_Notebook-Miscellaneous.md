@@ -1,4 +1,40 @@
 <!--Type: Item-->
+# Name: Claverley
+
+The village of Claverley near Bridgnorth.
+![](../1shropshire/assets/images/miscellaneous/2020-05-30_10_41_27_DSC_7159_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Claverley
+
+The village of Claverley near Bridgnorth.
+![](../1shropshire/assets/images/miscellaneous/2020-05-30_11_12_58_DSC_7188_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Claverley
+
+The village of Claverley near Bridgnorth.
+![](../1shropshire/assets/images/miscellaneous/2020-05-30_11_16_14_DSC_7192_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Claverley
+
+The village of Claverley near Bridgnorth.
+![](../1shropshire/assets/images/miscellaneous/2020-05-30_11_18_57_DSC_7196_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Claverley - Yew Tree
+
+The yew tree in the churchyard at Claverley has been officially aged by botanist and television presenter Sir David Bellamy, is believed to be one of the oldest in the county at 2,500 years old.  It was trimmed in 2013 to prevent damage to the church, as the tree is listed permission had to be provided by the council.
+![](../1shropshire/assets/images/miscellaneous/2020-05-30_10_44_50_DSC_7164_DxO.jpg)
+
+<!--Type: Item-->
+# Name: Claverley - Yew Tree
+
+The yew tree in the churchyard at Claverley has a trunk which is hollow inside and has a circumference of more than 29ft.
+![](../1shropshire/assets/images/miscellaneous/2020-05-30_10_58_53_DSC_7173_DxO.jpg)
+
+<!--Type: Item-->
 # Name: Blakemoorgate Cottages
 
 Blakemoorgate Cottages are a pair of restored miners' cottages on The Stiperstones above Snailbeach.  They are small squatter cottages built by the miners themselves who were allowed to stay, it is said, if they could build the chimney overnight and have smoke coming out of it by morning.  The building of the rest of the cottage could follow in slower time, a small rent was then paid to the estate.

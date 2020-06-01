@@ -146,6 +146,16 @@ Judge Leighton was known as "the hanging judge" (as was Judge Jeffries) as he co
 - Sub-Image: 2020-02-08_12_29_55_DSC_6371_DxO.jpg
 
 <!--Type: Item-->
+## Date: 14th Century AD
+# Name: St Peter, Chelmarsh
+
+The place name is thought to derive from the Old English Cegel, meaning pole, as it is believed that the marsh may have been marked out by posts.
+
+Although there is evidence of a Norman church existing on the site, the present church dates from the 14th Century.  The brick tower dates from the early 18th Century.
+![](../1shropshire/assets/images/churches/2020-05-30_12_45_31_DSC_7207_DxO.jpg)
+- Sub-Image: 2020-05-30_12_49_48_DSC_7212_DxO.jpg
+
+<!--Type: Item-->
 ## Date: 12th Century AD
 # Name: St Michael the Archangel, Chirbury
 
@@ -195,6 +205,21 @@ The church was extended in circa 1214 AD - a new chancel, transcepts in the form
 - Sub-Image: 2020-02-08_15_35_42_DSC_6516_DxO.jpg
 - Sub-Image: 2020-02-08_15_36_12_DSC_6518_DxO.jpg
 - Sub-Image: 2020-02-08_15_36_29_DSC_6519_DxO.jpg
+
+<!--Type: Item-->
+## Date: 12th Century AD
+# Name: All Saints, Claverley
+
+The church can trace its origins back to the 7th Century (Saxon), however, the present church dates from the 12th Century.
+
+Roger de Montgomerie, 1st Earl of Shrewsbury, held the manor and the church was connected with the collegiate foundation which he endowed at Quatford.
+
+The church was added to in the 13th and 15th Centuries - the tower was doubled in height and angle buttresses were added to it towards the end of the 15th century.  At about the same time the north chapel was added.
+
+The church is noted for the medieval wall paintings which have been dated to circa 1200.
+
+The name Claverley means 'clover meadow'.
+![](../1shropshire/assets/images/churches/2020-05-30_11_09_24_DSC_7181_DxO.jpg)
 
 <!--Type: Item-->
 ## Date: 1854 AD

@@ -1,8 +1,0 @@
-2020-05-19 16:35:44: == Sync Started by User Command
-2020-05-19 16:35:48: Delete File 'C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_maps/Shropshire - Churches v05.gpx'
-2020-05-19 16:35:50: Delete File 'msgraph://graph.microsoft.com/:drive:961084dbff6528f0/Documents/_maps/Shropshire - Hills v03 (1).gpx'
-2020-05-19 16:35:51: Delete File 'msgraph://graph.microsoft.com/:drive:961084dbff6528f0/Documents/_maps/Shropshire - Places.gpx'
-2020-05-19 16:35:53: Copy New 'msgraph://graph.microsoft.com/:drive:961084dbff6528f0/Documents/_maps/Shropshire - Churches v06.gpx' -> 'C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_maps/Shropshire - Churches v06.gpx' (84,128)
-2020-05-19 16:35:55: Copy Over 'C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_maps/Shropshire - Hills v03.gpx' -> 'msgraph://graph.microsoft.com/:drive:961084dbff6528f0/Documents/_maps/Shropshire - Hills v03.gpx' (5,645)
-2020-05-19 16:35:57: == Sync Complete. Time: 00:00:14, Speed: 22.31 KB/s, OK: 5, Errors: 0
-2020-05-19 16:36:00: 
