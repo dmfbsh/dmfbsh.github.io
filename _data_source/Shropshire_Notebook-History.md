@@ -342,6 +342,15 @@ The last remaining medieval watch tower of the fortified, defensive walls of Shr
 ![](../1shropshire/assets/images/history/2018-11-02_14_28_45_DSC_2956_DxO_bw.jpg)
 
 <!--Type: Item-->
+# Date: 21st July 1403 AD
+# Name: Battle of Shrewsbury
+
+The Battle of Shrewsbury was fought on 21st July 1403, between an army led by the Lancastrian King Henry IV and a rebel army led by Henry "Harry Hotspur" Percy from Northumberland.  The battle was the first in which English archers fought each other on English soil and reaffirmed the effectiveness of the longbow and ended the Percy challenge to King Henry IV of England.
+
+The picture is of the statue of the king on the church at Battlefield.
+![](../1shropshire/assets/images/history/2020-06-07_14_54_57_DSC_7247_DxO_bw.jpg)
+
+<!--Type: Item-->
 # Date: 1459 AD
 # Name: The Abbot's House, Shrewsbury
 

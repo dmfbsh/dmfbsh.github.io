@@ -43,6 +43,15 @@ The name Atcham is a contraction of Attingham, meaning "the home of Eata's peopl
 - Sub-Image: 2020-01-12_15_57_40_DSC_6226_DxO.jpg
 
 <!--Type: Item-->
+## Date: 1406 AD
+# Name: St Mary Magdalene, Battlefield
+
+The church was built just after the Battle of Shrewsbury as a chantry - a place of intercession and commemoration for those killed in the fighting.  The building is probably constructed over a mass burial pit as it is thought that some of the battle was fought at the place now known as Battlefield.
+
+The church was originally a collegiate church, the main duty of the community was to perform a daily liturgy for the dead.  The college and chantry were dissolved in 1548 and the building was used as a parish church.  The building, however, deteriorated and became unused, it has been subject to various restorations.
+![](../1shropshire/assets/images/churches/2020-06-07_15_00_50_DSC_7256_DxO.jpg)
+
+<!--Type: Item-->
 ## Date: 14th Century AD
 # Name: St Milburga, Beckbury
 

@@ -1,4 +1,10 @@
 <!--Type: Item-->
+# Name: The Gargoyles, Battlefield Church
+
+The Gargoyles on the church at Battlefield.
+![](../1shropshire/assets/images/miscellaneous/2020-06-07_14_57_41_DSC_7249_DxO.jpg)
+
+<!--Type: Item-->
 # Name: Claverley
 
 The village of Claverley near Bridgnorth.
