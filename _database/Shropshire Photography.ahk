@@ -400,10 +400,54 @@ MenuCreateTemplate:
 	  Return
 	}
 	Gui, Submit, NoHide
+  tmpOrig := "<image>"
+	ImgPath := BasePath . "\" . argPlace . "\*.jpg"
+	ListOfImages := ""
+	FirstPlace := True
+	Loop, Files, %ImgPath%, F
+  {
+		ListOfImages := ListOfImages . A_LoopFileName
+		if FirstPlace
+		{
+			FirstPlace := False
+			ListOfImages := ListOfImages . "||"
+		}
+		else {
+			ListOfImages := ListOfImages . "|"
+		}
+  }
+  if StrLen(ListOfImages) > 1
+  {
+  	if SubStr(ListOfImages, -1) = "||"
+  	{
+  		tmpOrig := SubStr(ListOfImages, 1, StrLen(ListOfImages)-2)
+  		WriteTemplate(tmpOrig)
+  	}
+    else {
+  	  Gui, ImageChooser2:Add, Text, xm section w200 h20, Select Image File for Place:
+  	  Gui, ImageChooser2:Add, DropDownList, xm section vImageChosen w400 h60, %ListOfImages%
+  	  Gui, ImageChooser2:Add, Button, xm section w50 h20, OK
+  	  Gui, ImageChooser2:Show, w440 h100, Image Chooser
+  	  Gui, 1:Default
+    }
+  }
+  else {
+    WriteTemplate(tmpOrig)
+  }
+;  tmpOrig := SubStr(OrigName, InStr(OrigName, "\", , -1)+1)
+;  tmpOrig := SubStr(tmpOrig, 1, StrLen(tmpOrig)-4)
+  Return
+
+ImageChooser2ButtonOK:
+	Gui, ImageChooser2:Submit, NoHide
+	WriteTemplate(ImageChosen)
+  Gui, ImageChooser2:Destroy
+  Return
+
+WriteTemplate(pImgFile) {
+	global
   IniRead, TempPath, %A_ScriptDir%\Shropshire Photography.ini, Paths, TempFolder
   TempPath := TempPath . "\temp.txt"
-  tmpOrig := SubStr(OrigName, InStr(OrigName, "\", , -1)+1)
-  tmpOrig := SubStr(tmpOrig, 1, StrLen(tmpOrig)-4)
   tmpFile := FileOpen(TempPath, "w", "UTF-8")
   Switch Category1
   {
@@ -413,7 +457,7 @@ MenuCreateTemplate:
       tmpFile.WriteLine("# Name: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/history/" . tmpOrig . "_DxO.jpg)")
+      tmpFile.WriteLine("![](../1shropshire/assets/images/history/" . pImgFile)
       Switch Category2
       {
       	Case "Castle":
@@ -423,7 +467,7 @@ MenuCreateTemplate:
           tmpFile.WriteLine("# Name: ")
           tmpFile.WriteLine("")
           tmpFile.WriteLine("<notes>")
-          tmpFile.WriteLine("![](../1shropshire/assets/images/castles/" . tmpOrig . "_DxO.jpg)")
+          tmpFile.WriteLine("![](../1shropshire/assets/images/castles/" . pImgFile)
       	Case "House":
           tmpFile.WriteLine("")
   		    tmpFile.WriteLine("<!--Type: Item-->")
@@ -431,7 +475,7 @@ MenuCreateTemplate:
           tmpFile.WriteLine("# Name: ")
           tmpFile.WriteLine("")
           tmpFile.WriteLine("<notes>")
-          tmpFile.WriteLine("![](../1shropshire/assets/images/houses/" . tmpOrig . "_DxO.jpg)")
+          tmpFile.WriteLine("![](../1shropshire/assets/images/houses/" . pImgFile)
       	Case "Folklore":
           tmpFile.WriteLine("")
   		    tmpFile.WriteLine("<!--Type: Item-->")
@@ -439,7 +483,7 @@ MenuCreateTemplate:
           tmpFile.WriteLine("# Name: ")
           tmpFile.WriteLine("")
           tmpFile.WriteLine("<notes>")
-          tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . tmpOrig . "_DxO.jpg)")
+          tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . pImgFile)
       	Case "People":
           tmpFile.WriteLine("")
   		    tmpFile.WriteLine("<!--Type: Item-->")
@@ -447,7 +491,7 @@ MenuCreateTemplate:
           tmpFile.WriteLine("# Name: ")
           tmpFile.WriteLine("")
           tmpFile.WriteLine("<notes>")
-          tmpFile.WriteLine("![](../1shropshire/assets/images/people/" . tmpOrig . "_DxO.jpg)")
+          tmpFile.WriteLine("![](../1shropshire/assets/images/people/" . pImgFile)
       }
   	Case "Church":
   		tmpFile.WriteLine("<!--Type: Item-->")
@@ -455,37 +499,37 @@ MenuCreateTemplate:
       tmpFile.WriteLine("# Name: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/churches/" . tmpOrig . "_DxO.jpg)")
+      tmpFile.WriteLine("![](../1shropshire/assets/images/churches/" . pImgFile)
       tmpFile.WriteLine("- Sub-Image: ")
   	Case "Miscellaneous":
   		tmpFile.WriteLine("<!--Type: Item-->")
       tmpFile.WriteLine("# Name: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/miscellaneous/" . tmpOrig . "_DxO.jpg)")
+      tmpFile.WriteLine("![](../1shropshire/assets/images/miscellaneous/" . pImgFile)
   	Case "Landscape":
   		tmpFile.WriteLine("<!--Type: Item-->")
       tmpFile.WriteLine("# Name: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/landscape/" . tmpOrig . "_DxO.jpg)")
+      tmpFile.WriteLine("![](../1shropshire/assets/images/landscape/" . pImgFile)
   	Case "Place":
   		tmpFile.WriteLine("<!--Type: Item-->")
       tmpFile.WriteLine("# Name: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/places/" . tmpOrig . "_DxO.jpg)")
+      tmpFile.WriteLine("![](../1shropshire/assets/images/places/" . pImgFile)
   	Case "Garden":
   		tmpFile.WriteLine("<!--Type: Item-->")
       tmpFile.WriteLine("# Name: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/gardens/" . tmpOrig . "_DxO.jpg)")
+      tmpFile.WriteLine("![](../1shropshire/assets/images/gardens/" . pImgFile)
   }
   tmpFile.Close()
   IniRead, TxtEditor, %A_ScriptDir%\Shropshire Photography.ini, Programs, TextEditor
   Run, "%TxtEditor%" "%TempPath%"
-  Return
+}
 
 ;=====================================================================
 ; Filter menu events

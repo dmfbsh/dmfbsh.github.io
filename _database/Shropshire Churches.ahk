@@ -2,13 +2,15 @@
 
 #Include %A_ScriptDir%\Class_SQLiteDB.ahk
 
-tmpJSON    := "C:\Users\David\Documents\OneDrive\Documents\My Documents\3. Shropshire\Database\temp.json"
-boardsCSV  := "C:\Users\David\Documents\OneDrive\Documents\My Documents\3. Shropshire\Database\boards.csv"
-listsCSV   := "C:\Users\David\Documents\OneDrive\Documents\My Documents\3. Shropshire\Database\lists.csv"
+IniRead, tmpPath, %A_ScriptDir%\Shropshire Churches.ini, Paths, TempFolder
 
-ChurchesDB := "C:\Users\David\Documents\OneDrive\Documents\My Documents\3. Shropshire\Database\Shropshire - Churches.db"
+tmpJSON    := tmpPath . "\temp.json"
+boardsCSV  := tmpPath . "\boards.csv"
+listsCSV   := tmpPath . "\lists.csv"
 
-mapFile    := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_maps\Shropshire - Churches vXXXX.gpx"
+IniRead, ChurchesDB, %A_ScriptDir%\Shropshire Churches.ini, Database, DBFile
+
+IniRead, mapFile, %A_ScriptDir%\Shropshire Churches.ini, Files, MapFile
 
 list1 := ""
 list2 := ""
