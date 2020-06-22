@@ -619,6 +619,15 @@ It is likely that most of the building is 17th Century as there are few traces o
 - Sub-Image: 2019-05-06_15_41_00_DSC_4228_DxO.jpg
 
 <!--Type: Item-->
+## Date: 1291 AD 
+# Name: St Mary, Selattyn
+
+The village is close to Offa's Dyke and the dyke bounds the parish on the west, the name derives from sulh and tun which means in Old English a plough(-land) farm/settlement, or perhaps, a gully farm/settlement and has also been modified by Welsh influence.
+
+The churchyard has a number of very old yew trees, suggesting that the site has been a place of Christian worship for over 1000 years.  However, the church itself is first mentioned in the Papal Tax records in 1291.  The church is noted for its 13th Century font and the barrel roof over the chancel, which is thought to be from the 14th Century.  The north and south transepts were added in 1821-28.  The church was extensively rebuilt in 1891-92.
+![](../1shropshire/assets/images/churches/2020-06-20_14_33_42_DSC_7305_DxO_L.jpg)
+
+<!--Type: Item-->
 ## Date: 1839 AD
 # Name: All Saints, Shelve
 
@@ -821,6 +830,15 @@ The Norman church was extended in medieval times, but collaspsed on Sunday 31st 
 The present church was built on the same site, this time of red sandstone.
 ![](../1shropshire/assets/images/churches/2019-02-09_14_13_23_DSC_3263_DxO.jpg)
 - Sub-Image: 2019-10-12_12_53_36_DSC_5357_DxO.jpg
+
+<!--Type: Item-->
+## Date: 1747 AD
+# Name: St John the Baptist, Whittington
+
+The medieval church associated with the castle is long gone and was replaced in the 18th Century by the present building.  The tower was built in 1747 and the nave followed in 1804.  Further changes to the building were made in 1894.
+
+Whittington was once a place of some importance.  The Welsh form of the place name is Drefwen, which means white homestead.  The English form of the name, Wittone, also means white homestead.
+![](../1shropshire/assets/images/churches/2020-06-20_13_20_00_DSC_7266_DxO_L.jpg)
 
 <!--Type: Item-->
 ## Date: 12th Century AD

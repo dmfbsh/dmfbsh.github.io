@@ -69,7 +69,7 @@ The castle saw action in the English Civil War when it is known to have changed 
 # Name: Whittington Castle
 
 The original castle was captured and destroyed by the King of Gwynedd in 1223 - after being returned to the English under the peace treaty it was rebuilt in stone, but was then ceded to the Welsh in 1267. The castle remained in Welsh possession until 1276 when the castle became the residence of a powerful Marcher lord family.
-![](../1shropshire/assets/images/castles/2010-10-02%2013-51-15_00014124_DxO.jpg)
+![](../1shropshire/assets/images/castles/2020-06-20_13_37_21_DSC_7290_DxO_L.jpg)
 
 <!--Type: Item-->
 # Date: 1260s AD

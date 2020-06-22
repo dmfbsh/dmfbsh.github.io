@@ -1,10 +1,11 @@
 ﻿#SingleInstance force
 
 #Include %A_ScriptDir%\Class_SQLiteDB.ahk
+#Include %A_ScriptDir%\Class_Trello.ahk
 
 IniRead, tmpPath, %A_ScriptDir%\Shropshire Churches.ini, Paths, TempFolder
 
-tmpJSON    := tmpPath . "\temp.json"
+tmpJSON    := tmpPath . "\Ctemp.json"
 boardsCSV  := tmpPath . "\boards.csv"
 listsCSV   := tmpPath . "\lists.csv"
 
@@ -27,11 +28,16 @@ gNumChurches := 0
 NStatus1  := ""
 NOverview := ""
 NTrelloID := ""
+LStatus1  := ""
+LOverview := ""
+
+TrelloAPI := new Trello
+TrelloAPI.SetTmpJSONFile(tmpJSON)
 
 DB := new SQLiteDB
 DB.OpenDB(ChurchesDB)
 
-boardID := GetBoardID()
+boardID := TrelloAPI.GetBoardID("Shropshire", boardsCSV)
 GetListsForBoard(boardID)
 
 LoadChurches()
@@ -124,9 +130,9 @@ MenuSave:
 MenuReload:
 	if StrLen(argChurch) <> 0
 	{
-    tListID   := TrelloGetField("https://api.trello.com/1/cards/" . NTrelloID . "/idList")
+    tListID   := TrelloAPI.GetField("cards/" . NTrelloID . "/idList")
     NStatus1  := GetListSymbol(tListID)
-    NOverview := TrelloGetField("https://api.trello.com/1/cards/" . NTrelloID . "/desc")
+    NOverview := TrelloAPI.GetField("cards/" . NTrelloID . "/desc")
     DrawGUI()
     UpdateChurch()
 	}
@@ -261,11 +267,12 @@ LoadChurch() {
     case "ticked plus yellow": NStatus1 := "yellow plus ticked"
     case "plus green": NStatus1 := "green plus"
   }
+  LOverview := NOverview
+  LStatus1  := NStatus1
 }
 
 SaveChurch() {
 	global
-	UpdateChurch()
   listID := ""
   switch NStatus1
   {
@@ -274,17 +281,32 @@ SaveChurch() {
 	  case "yellow plus ticked": listID := list3
 	  case "green plus": listID := list4
   }
-	TrelloUpdateCard(NTrelloID, "idList=" . listID)
-	TrelloUpdateCard(NTrelloID, "desc=" . NOverview)
+  if LStatus1 <> %NStatus1%
+  {
+	  TrelloAPI.UpdateCard(NTrelloID, "idList=" . listID)
+  }
+  if LOverview <> %NOverview%
+  {
+	  TrelloAPI.UpdateCard(NTrelloID, "desc=" . NOverview)
+  }
+	UpdateChurch()
 }
 
 UpdateChurch() {
 	global
 	tDesc := StrReplace(NOverview, """", """""")
-	SQL := "UPDATE Church SET desc = """ . tDesc . """ WHERE name = '" . argChurch . "';"
-	DB.Exec(SQL)
-	SQL := "UPDATE Church SET sym = '" . NStatus1 . "' WHERE name = '" . argChurch . "';"
-	DB.Exec(SQL)
+  if LOverview <> %NOverview%
+  {
+	  SQL := "UPDATE Church SET desc = """ . tDesc . """ WHERE name = '" . argChurch . "';"
+	  DB.Exec(SQL)
+  }
+  if LStatus1 <> %NStatus1%
+  {
+  	SQL := "UPDATE Church SET sym = '" . NStatus1 . "' WHERE name = '" . argChurch . "';"
+	  DB.Exec(SQL)
+  }
+  LOverview := NOverview
+  LStatus1  := NStatus1
 }
 
 DrawGUI() {
@@ -346,9 +368,9 @@ CreateAllChurchCards() {
   		  tN := row[1]
   		  tP := (count / 313) * 100
         Progress, %tp%, %tN%, Processing..., Create Trello Cards
-  		  retID := TrelloCreateCard(listID, row[1])
-        TrelloUpdateCard(retID, "coordinates=" . row[2] . "," . row[3])
-        TrelloUpdateCard(retID, "desc=" . row[4])
+  		  retID := TrelloAPI.CreateCard(listID, row[1])
+        TrelloAPI.UpdateCard(retID, "coordinates=" . row[2] . "," . row[3])
+        TrelloAPI.UpdateCard(retID, "desc=" . row[4])
         SQL := "UPDATE Church SET TrelloCard = '" . retID . "' WHERE name = """ . row[1] . """;"
         DB.Exec(SQL)
   		  count := count + 1
@@ -373,7 +395,7 @@ DeleteAllChurchCards() {
   		tN := row[2]
   		tP := (count / 313) * 100
       Progress, %tp%, %tN%, Processing..., Delete Trello Cards
-    	TrelloDeleteCard(row[1])
+    	TrelloAPI.DeleteCard(row[1])
     }
   }	Until RC < 1
   RecordSet.Free()
@@ -382,64 +404,10 @@ DeleteAllChurchCards() {
   Progress, Off
 }
 
-TrelloCreateCard(pListID, pCardName) {
-	global
-	tCardName := StrReplace(pCardName, " ", "%20")
-	tCardName := StrReplace(tCardName, "'", "%27")
-	tCardName := StrReplace(tCardName, """", "%22")
-  cmd := """C:\Program Files\cURL\bin\curl.exe"" --request POST ""https://api.trello.com/1/cards?key=9ffaa9fbca828239fcb4034ee4e524b7&token=905e27f47d66cac8ffc9bb046924bf8e52c5f7c0780224fe466633d02e91bdf7&idList=" . pListID . "&name=" . tCardName . """ -o """ . tmpJSON . """"
-  RunWait, %cmd%, , Hide
-  FileRead, retJSON, %tmpJSON%
-  return SubStr(retJSON, 8, 24)
-}
-
-TrelloUpdateCard(pCardID, pWhat) {
-	global
-	tWhat := StrReplace(pWhat, " ", "%20")
-	tWhat := StrReplace(tWhat, "'", "%27")
-	tWhat := StrReplace(tWhat, """", "%22")
-	tWhat := StrReplace(tWhat, "`r", "%0D")
-	tWhat := StrReplace(tWhat, "`n", "%0A")
-  cmd := """C:\Program Files\cURL\bin\curl.exe"" --request PUT ""https://api.trello.com/1/cards/" . pCardID . "?key=9ffaa9fbca828239fcb4034ee4e524b7&token=905e27f47d66cac8ffc9bb046924bf8e52c5f7c0780224fe466633d02e91bdf7&" . tWhat . """"
-  RunWait, %cmd%, , Hide
-}
-
-TrelloDeleteCard(pCardID) {
-  global
-  cmd := """C:\Program Files\cURL\bin\curl.exe"" --request DELETE ""https://api.trello.com/1/cards/" . pCardID . "?key=9ffaa9fbca828239fcb4034ee4e524b7&token=905e27f47d66cac8ffc9bb046924bf8e52c5f7c0780224fe466633d02e91bdf7"""
-  RunWait, %cmd%, , Hide
-}
-
-GetBoardID() {
-	global
-  RunTrelloCommand("https://api.trello.com/1/members/me/boards?fields=name")
-  ConvertJSONToCSV(boardsCSV)
-
-  FoundIt := false
-  BoardID := ""
-
-  Loop, read, %boardsCSV%
-  {
-    Loop, parse, A_LoopReadLine, CSV
-    {
-      if FoundIt
-      {
-      	BoardID := A_LoopField
-      	FoundIt := false
-      }
-    	if A_LoopField = Shropshire - Churches
-    	{
-    		FoundIt := true
-    	}
-    }
-  }
-  Return BoardID
-}
-
 GetListsForBoard(pID) {
   global
-  RunTrelloCommand("https://api.trello.com/1/boards/" . pID . "/lists?fields=name")
-  ConvertJSONToCSV(listsCSV)
+  TrelloAPI.RunCommand("boards/" . pID . "/lists?fields=name")
+  TrelloAPI.ConvertJSONToCSV(listsCSV)
   SQL := "DELETE FROM List;"
   DB.Exec(SQL)
 
@@ -458,22 +426,22 @@ GetListsForBoard(pID) {
   {
   	tList := Row[2]
   	tSym := ""
-  	if tList = Pending Visit
+  	if tList = Church - Pending Visit
   	{
   		list1 := Row[1]
   		tSym := "blue plus"
   	}
-  	if tList = Planned to Visit
+  	if tList = Church - Planned to Visit
   	{
   		list2 := Row[1]
   		tSym := "yellow plus"
   	}
-  	if tList = Planned to Visit - Priority
+  	if tList = Church - Planned to Visit - Priority
   	{
   		list3 := Row[1]
   		tSym := "yellow plus ticked"
   	}
-  	if tList = Visited
+  	if tList = Church - Visited
   	{
   		list4 := Row[1]
   		tSym := "green plus"
@@ -481,29 +449,6 @@ GetListsForBoard(pID) {
   	SQL := "INSERT INTO List (ID, Name, Board, Symbol) VALUES (""" . Row[1] . """,""" . Row[2] . """,""" . pID . """,""" . tSym . """);"
   	DB.Exec(SQL)
   }
-}
-
-TrelloGetField(pCommand) {
-	global
-  cmd := """C:\Program Files\cURL\bin\curl.exe"" """ . pCommand . "?key=9ffaa9fbca828239fcb4034ee4e524b7&token=905e27f47d66cac8ffc9bb046924bf8e52c5f7c0780224fe466633d02e91bdf7"" -o """ . tmpJSON . """"
-  RunWait, %cmd%, , Hide
-  FileRead, retJSON, %tmpJSON%
-  retJSON := SubStr(retJSON, 12, StrLen(retJSON)-14)
-  retJSON := StrReplace(retJSON, "\""", """")
-  retJSON := StrReplace(retJSON, "\n", "`n")
-  Return retJSON
-}
-
-RunTrelloCommand(pCommand) {
-	global
-  cmd := """C:\Program Files\cURL\bin\curl.exe"" """ . pCommand . "&key=9ffaa9fbca828239fcb4034ee4e524b7&token=905e27f47d66cac8ffc9bb046924bf8e52c5f7c0780224fe466633d02e91bdf7"" -o """ . tmpJSON . """"
-  RunWait, %cmd%, , Hide
-}
-
-ConvertJSONToCSV(pName) {
-  global
-  cmd := "powershell ""(Get-Content -Path '" . tmpJSON . "' | ConvertFrom-Json) | ConvertTo-Csv -NoTypeInformation | Select-Object -Skip 1 | Set-Content '" . pName . "'"""
-  RunWait, %cmd%, , Hide
 }
 
 GenerateGPXFile() {
@@ -550,6 +495,8 @@ GenerateGPXFile() {
 
   mapFileHndl.WriteLine("</gpx>")
 	mapFileHndl.Close()
+  IniRead, GooglePath, %A_ScriptDir%\Shropshire Churches.ini, Paths, GoogleDrive
+  FileCopy, %mapFileName%, %GooglePath%
 }
 
 GetNextFileID() {
@@ -571,13 +518,3 @@ GetNextFileID() {
   DB.Exec(SQL)
   Return SubStr(nextID, -3)
 }
-
-;"C:\Program Files\cURL\bin\curl.exe" --request PUT "https://api.trello.com/1/cards/5ed792b106ef775c3b9fef16?key=9ffaa9fbca828239fcb4034ee4e524b7&token=905e27f4;7d66cac8ffc9bb046924bf8e52c5f7c0780224fe466633d02e91bdf7&locationName=locNam789"
-
-;"C:\Program Files\cURL\bin\curl.exe" --request PUT "https://api.trello.com/1/cards/5ed792b106ef775c3b9fef16?key=9ffaa9fbca828239fcb4034ee4e524b7&token=905e27f47d66cac8ffc9bb046924bf8e52c5f7c0780224fe466633d02e91bdf7&address=addr456"
-
-;"C:\Program Files\cURL\bin\curl.exe" --request PUT "https://api.trello.com/1/cards/5ed7a2dbe2fac00ab8989755?key=9ffaa9fbca828239fcb4034ee4e524b7&token=905e27f47d66cac8ffc9bb046924bf8e52c5f7c0780224fe466633d02e91bdf7&coordinates=52.613159,-2.690590"
-
-;"C:\Program Files\cURL\bin\curl.exe" --request PUT "https://api.trello.com/1/cards/5ed792b106ef775c3b9fef16?key=9ffaa9fbca828239fcb4034ee4e524b7&token=905e27f47d66cac8ffc9bb046924bf8e52c5f7c0780224fe466633d02e91bdf7&name=update123"
-
-;"C:\Program Files\cURL\bin\curl.exe" --request POST "https://api.trello.com/1/cards?key=9ffaa9fbca828239fcb4034ee4e524b7&token=905e27f47d66cac8ffc9bb046924bf8e52c5f7c0780224fe466633d02e91bdf7&idList=5ed792adb072c014e36d4f12&name=New Card"
