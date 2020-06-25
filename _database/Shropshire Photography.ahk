@@ -54,6 +54,52 @@ LoadSilverEfexPresets()
 
 LoadPlaces()
 
+if A_Args.Length() = 1
+{
+	argFile := A_Args[1]
+	argName := SubStr(argFile, InStr(argFile, "\", , 0)+1)
+	argName := SubStr(argName, 1, InStr(argName, "_DxO")-1)
+	SQL := "SELECT Name FROM Place WHERE OrigName LIKE '" . argName . "%';"
+	alreadyFile := false
+  DB.Query(SQL, RecordSet)
+	Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0)
+    {
+    	alreadyFile := true
+    	argPlace := Row[1]
+    }
+	}	Until RC < 1
+  RecordSet.Free()
+  if !alreadyFile
+  {
+	  Gui, PlaceChooser:Add, DropDownList, xm section vChoosePlace w200 h180, %gPlaces%
+	  Gui, PlaceChooser:Add, Text, xm section w10 h40
+    Gui, PlaceChooser:Add, Button, xm section w60 h20, OK
+    Gui, PlaceChooser:Add, Button, ys w60 h20, New
+    Gui, PlaceChooser:Add, Button, ys w60 h20, Cancel
+    Gui, PlaceChooser:Show, w240 h100, Place Chooser
+    Gui, 1:Default
+    Return
+  }
+}
+
+if argPlace =
+{
+	SQL := "SELECT Name FROM LastPlace WHERE ID=1;"
+  DB.Query(SQL, RecordSet)
+	Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0)
+    {
+    	argPlace := Row[1]
+    }
+	}	Until RC < 1
+  RecordSet.Free()
+  SQL := "UPDATE LastPlace SET Name="""" WHERE ID=1;"
+  DB.Exec(SQL)
+}
+
 ;=====================================================================
 ; Build the GUI
 ;=====================================================================
@@ -71,7 +117,7 @@ Menu, ImageMenu, Add
 Menu, ImageMenu, Add, Move, MenuImageMove
 Menu, PlaceMenu, Add, Edit Notes, MenuEditNotes
 Menu, PlaceMenu, Add
-Menu, PlaceMenu, Add, Goto Published in ACDSee, MenuGotoPublished
+Menu, PlaceMenu, Add, Goto Published Folder, MenuGotoPublished
 Menu, PlaceMenu, Add
 Menu, PlaceMenu, Add, Create Template, MenuCreateTemplate
 Menu, PlaceMenu, Add
@@ -143,7 +189,67 @@ Gui, Show, w750 h410, Shropshire Photography
 SB_SetParts(200)
 SB_SetText("Number of Places: " . gNumPlaces, 1)
 
+if argPlace <>
+{
+	LoadPlace()
+	DrawGUI()
+	GuiControl, ChooseString, PlaceList, %argPlace%
+}
+
 Return
+
+PlaceChooserButtonOK:
+	Gui, PlaceChooser:Submit, NoHide
+	if ChoosePlace <>
+	{
+    SQL := "UPDATE Place SET "
+    SQL := SQL . "Original=""" . argFile . """, "
+    SQL := SQL . "OrigName=""" . SubStr(argFile, InStr(argFile, "\", false, -1)+1) . """ "
+    SQL := SQL . "WHERE Name=""" . ChoosePlace . """;"
+    DB.Exec(SQL)
+    SQL := "UPDATE LastPlace SET Name=""" . ChoosePlace . """ WHERE ID=1;"
+    DB.Exec(SQL)
+	}
+	Gui, PlaceChooser:Destroy
+	DB.CloseDB()
+	Reload
+  Return
+PlaceChooserButtonNew:
+	Gui, PlaceChooser:Destroy
+	InputBox, NewPlacename, Place Name, Enter the name of the place:, , 240, 100
+  if !ErrorLevel
+  {
+  	if NewPlacename <>
+  	{
+  		if !CheckExists(NewPlacename)
+  		{
+	      DefaultPlace()
+	      argPlace := NewPlacename
+	      NOrigName := argFile
+	      SavePlace()
+	      newFolder := BasePath . "\" . NewPlacename
+	      FileCreateDir, %newFolder%
+	      if ErrorLevel
+	      {
+ 		      MsgBox, 48, Error, Failed to create folder %NewPlacename%
+	      }
+        SQL := "UPDATE LastPlace SET Name=""" . NewPlacename . """ WHERE ID=1;"
+        DB.Exec(SQL)
+  		}
+    	else
+    	{
+  		  MsgBox, The place %NewPlacename% already exists.
+  	  }
+  	}
+  }
+	DB.CloseDB()
+	Reload
+	Return
+PlaceChooserButtonCancel:
+	Gui, PlaceChooser:Destroy
+	DB.CloseDB()
+	Reload
+  Return
 
 ;=====================================================================
 ; Handle GUI re-sizing
@@ -308,7 +414,7 @@ MenuImageView:
 	  Return
 	}
 	IniRead, ViewerEXE, %A_ScriptDir%\Shropshire Photography.ini, Programs, ImageViewer
-	Run, "%ViewerEXE%" /view "%NOrigName%"
+	Run, "%ViewerEXE%" "%NOrigName%"
   Return
 
 MenuImageMove:

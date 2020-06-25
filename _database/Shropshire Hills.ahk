@@ -180,8 +180,8 @@ UpdateHill() {
 	if LOverview <> %NOverview%
 	{
   	SQL := "UPDATE Hill SET desc = """ . tDesc . """ WHERE name = '" . argHill . "';"
-	  DB.Exec(SQL
-	)
+	  DB.Exec(SQL)
+	}
   LOverview := NOverview
 }
 
