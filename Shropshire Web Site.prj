@@ -26,6 +26,7 @@ Create Tagfile=0
 12=.+AFw-1shropshire+AFw-
 13=.+AFw-2f1stamps+AFw-
 14=.+AFw-thumbs+AFw-
+15=.+AFwAXw-config+AFw-
 [Tools]
 Tool Cmd0=""Shropshire Photography.exe""
 Tool Dir0="%rp\_database"
