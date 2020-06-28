@@ -193,6 +193,20 @@ The church was reformed into the church of the Augustinian Priory at Chirbury wh
 - Sub-Image: 2020-03-14_14_46_07_DSC_6820_DxO.jpg
 
 <!--Type: Item-->
+## Date: 1773 AD 
+# Name: St Edith, Church Pulverbatch
+
+The name Pulverbatch means the valley of the river Pulre.  The village of Church Pulverbatch is also known as Churton.  The manor is recorded in the Domesday book as Polrebec.
+
+The medieval church (the church's first known priest was 'John the Chaplain', recorded before 1193) was destroyed by the Welsh some time around 1400, the successor building was constructed in the Georgian style in 1773.  However, the nave, chancel and north aisle were restored in the 1850s.
+
+The churchyard contains a number of tombs of interest, including an urn shaped tomb dating from the 18th Century.  The churchyard is circular and was thought to have been a defensive site, there are a number of mature yew trees in the churchyard.
+![](../1shropshire/assets/images/churches/2020-06-27_14_02_09_DSC_7346_DxO.jpg)
+- Sub-Image: 2020-06-27_13_49_27_DSC_7333_DxO.jpg
+- Sub-Image: 2020-06-27_13_58_21_DSC_7342_DxO.jpg
+- Sub-Image: 2020-06-27_13_58_53_DSC_7343_DxO.jpg
+
+<!--Type: Item-->
 ## Date: 12th Century AD
 # Name: St Laurence, Church Stretton
 
@@ -725,6 +739,19 @@ Smethcott means "the smith's cottage".
 A somewhat austere chapel.
 ![](../1shropshire/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO_L.jpg)
 - Sub-Image: 2019-05-06_11_37_16_DSC_4154_DxO.jpg
+
+<!--Type: Item-->
+## Date: 12th Century AD
+# Name: St John the Baptist, Stapleton
+
+Stapleton is an ancient manor recorded in the Domesday book as Hundeslit (from the personal name Hund and the Old English for hill-side.  The present name is derived from steep-place farm/settlement (stepel and tun).
+
+The present church was built in the 12th Century and for reasons unknown it was originally a two storey building, a possibly unique feature amongst churches.  The second storey was built on top of the very thick walls of a Saxon or Early Norman church.  The church was on the upper floor and the ground floor is assumed to have been an undercroft.
+
+The tower was added in 1832, it is unknown when the two storey were converted into one - the result is a tall church with two tiers of windows.
+
+The church organ is among the top six hundred in the country and there is a small tapestry piece in the nave said to have been worked by Mary, Queen of Scots.
+![](../1shropshire/assets/images/churches/2020-06-27_13_14_46_DSC_7327_DxO.jpg)
 
 <!--Type: Item-->
 ## Date: 1874-1875 AD
