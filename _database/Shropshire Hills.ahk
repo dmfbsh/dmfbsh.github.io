@@ -2,6 +2,7 @@
 
 #Include %A_ScriptDir%\Class_SQLiteDB.ahk
 #Include %A_ScriptDir%\Class_Trello.ahk
+#Include %A_ScriptDir%\Class_JSON.ahk
 
 IniRead, tmpPath, %A_ScriptDir%\Shropshire Hills.ini, Paths, TempFolder
 
@@ -23,21 +24,25 @@ NTrelloID := ""
 TrelloAPI := new Trello
 TrelloAPI.SetTmpJSONFile(tmpJSON)
 
+JSONAPI := new JSON
+
 DB := new SQLiteDB
 DB.OpenDB(HillsDB)
 
 LoadHills()
 
-Menu, FileMenu, Add, Save, MenuSave
-Menu, FileMenu, Add
+;Menu, FileMenu, Add, Save, MenuSave
+;Menu, FileMenu, Add
 Menu, FileMenu, Add, Reload, MenuReload
 Menu, FileMenu, Add
 Menu, FileMenu, Add, Exit, MenuExit
 Menu, ProjectMenu, Add, Generate GPX, MenuGenerateGPX
-Menu, ProjectMenu, Add
-Menu, ProjectMenu, Add, Bulk Load Trello, MenuBulkLoadTrello
-Menu, ProjectMenu, Add
-Menu, ProjectMenu, Add, Bulk Clear Trello, MenuBulkClearTrello
+;Menu, ProjectMenu, Add
+;Menu, ProjectMenu, Add, Backup Trello, MenuBackupTrello
+;Menu, ProjectMenu, Add
+;Menu, ProjectMenu, Add, Bulk Load Trello, MenuBulkLoadTrello
+;Menu, ProjectMenu, Add
+;Menu, ProjectMenu, Add, Bulk Clear Trello, MenuBulkClearTrello
 Menu, HelpMenu, Add, About, MenuAbout
 Menu, MyMenuBar, Add, File, :FileMenu
 Menu, MyMenuBar, Add, Project, :ProjectMenu
@@ -52,7 +57,7 @@ GuiControl, , HillList, %gHills%
 Gui, Add, Text, x215 y5 section w120 h20,
 Gui, Add, Text, ys w400 h20, Avoid using ampersand in the text below.
 
-Gui, Add, Text, x215 y25 section w120 h20, Notepad:
+Gui, Add, Text, x215 y25 section w120 h20, Notepad (read only):
 Gui, Add, Edit, ys vOverview +Wrap w400 h160,
 
 Gui, Add, StatusBar, ,
@@ -85,30 +90,33 @@ HillList:
 	DrawGUI()
   Return
 
-MenuSave:
-	Gui, Submit, NoHide
-	if StrLen(argHill) <> 0
-	{
-		GuiValues()
-		SaveHill()
-	}
-	else 
-	{
-    MsgBox, 48, Error, No Hill is Selected
-	}
-  Return
+;MenuSave:
+;	Gui, Submit, NoHide
+;	if StrLen(argHill) <> 0
+;	{
+;		GuiValues()
+;		SaveHill()
+;	}
+;	else 
+;	{
+;    MsgBox, 48, Error, No Hill is Selected
+;	}
+;  Return
 
 MenuReload:
-	if StrLen(argHill) <> 0
-	{
-    NOverview := TrelloAPI.GetField("cards/" . NTrelloID . "/desc")
-    DrawGUI()
-    UpdateHill()
-	}
-	else 
-	{
-    MsgBox, 48, Error, No Hill is Selected
-	}
+;	if StrLen(argHill) <> 0
+;	{
+;    NOverview := TrelloAPI.GetField("cards/" . NTrelloID . "/desc")
+;    DrawGUI()
+;    UpdateHill()
+;	}
+;	else 
+;	{
+;    MsgBox, 48, Error, No Hill is Selected
+;	}
+	BackupTrello()
+  MsgBox, Trello data reloaded
+  Reload
   Return
 
 MenuExit:
@@ -119,13 +127,17 @@ MenuGenerateGPX:
 	GenerateGPXFile()
   Return
 
-MenuBulkLoadTrello:
-	CreateAllHillCards()
-  Return
+;MenuBackupTrello:
+;	BackupTrello()
+;  Return
 
-MenuBulkClearTrello:
-  DeleteAllHillCards()
-  Return
+;MenuBulkLoadTrello:
+;	CreateAllHillCards()
+;  Return
+
+;MenuBulkClearTrello:
+;  DeleteAllHillCards()
+;  Return
 
 MenuAbout:
   Return
@@ -137,7 +149,7 @@ LoadHills() {
   gHills := ""
   gNumHills := 0
   RecordSet := ""
-  SQL := "SELECT name FROM Hill ORDER BY name;"
+  SQL := "SELECT name FROM TrelloCopy ORDER BY name;"
   DB.Query(SQL, RecordSet)
   Loop {
     RC := RecordSet.Next(Row)
@@ -152,7 +164,7 @@ LoadHills() {
 LoadHill() {
   global
   RecordSet := ""
-  SQL := "SELECT desc, TrelloCard FROM Hill WHERE name=""" . argHill . """;"
+  SQL := "SELECT desc, id FROM TrelloCopy WHERE name=""" . argHill . """;"
   DB.Query(SQL, RecordSet)
   Loop {
     RC := RecordSet.Next(Row)
@@ -165,83 +177,126 @@ LoadHill() {
   LOverview := NOverview
 }
 
-SaveHill() {
-	global
-	if LOverview <> %NOverview%
-	{
-	  TrelloAPI.UpdateCard(NTrelloID, "desc=" . NOverview)
-	}
-  UpdateHill()
-}
+;SaveHill() {
+;	global
+;	if LOverview <> %NOverview%
+;	{
+;	  TrelloAPI.UpdateCard(NTrelloID, "desc=" . NOverview)
+;	}
+;  UpdateHill()
+;}
 
-UpdateHill() {
-	global
-	tDesc := StrReplace(NOverview, """", """""")
-	if LOverview <> %NOverview%
-	{
-  	SQL := "UPDATE Hill SET desc = """ . tDesc . """ WHERE name = '" . argHill . "';"
-	  DB.Exec(SQL)
-	}
-  LOverview := NOverview
-}
+;UpdateHill() {
+;	global
+;	tDesc := StrReplace(NOverview, """", """""")
+;	if LOverview <> %NOverview%
+;	{
+;  	SQL := "UPDATE Hill SET desc = """ . tDesc . """ WHERE name = '" . argHill . "';"
+;	  DB.Exec(SQL)
+;	}
+;  LOverview := NOverview
+;}
 
 DrawGUI() {
   global
 	GuiControl, Text, Overview, %NOverview%	
 }
 
-GUIValues() {
-  global
-	NOverview := Overview
-}
+;GUIValues() {
+;  global
+;	NOverview := Overview
+;}
 
-CreateAllHillCards() {
-	global
-  SQL := "SELECT name, lat, lon, desc FROM Hill ORDER BY name;"
-  Progress, 0, Starting..., Processing..., Create Trello Cards
-  count := 0
-  DB.Query(SQL, RecordSet)
-  Loop {
-    RC := RecordSet.Next(Row)
-    if (RC > 0)
-    {
-  		  listID := ""
-  		  tN := row[1]
-  		  tP := (count / gNumHills) * 100
-        Progress, %tp%, %tN%, Processing..., Create Trello Cards
-  		  retID := TrelloAPI.CreateCard("5ee24ea21d034544ab584c90", row[1])
-        TrelloAPI.UpdateCard(retID, "coordinates=" . row[2] . "," . row[3])
-        TrelloAPI.UpdateCard(retID, "desc=" . row[4])
-        SQL := "UPDATE Hill SET TrelloCard = '" . retID . "' WHERE name = """ . row[1] . """;"
-        DB.Exec(SQL)
-  		  count := count + 1
-    }
-  }	Until RC < 1
-  RecordSet.Free()
-  Progress, Off
-}
+;CreateAllHillCards() {
+;	global
+;  SQL := "SELECT name, lat, lon, desc FROM Hill ORDER BY name;"
+;  Progress, 0, Starting..., Processing..., Create Trello Cards
+;  count := 0
+;  DB.Query(SQL, RecordSet)
+;  Loop {
+;    RC := RecordSet.Next(Row)
+;    if (RC > 0)
+;    {
+;  		  listID := ""
+;  		  tN := row[1]
+;  		  tP := (count / gNumHills) * 100
+;        Progress, %tp%, %tN%, Processing..., Create Trello Cards
+;  		  retID := TrelloAPI.CreateCard("5ee24ea21d034544ab584c90", row[1])
+;        TrelloAPI.UpdateCard(retID, "coordinates=" . row[2] . "," . row[3])
+;        TrelloAPI.UpdateCard(retID, "desc=" . row[4])
+;        SQL := "UPDATE Hill SET TrelloCard = '" . retID . "' WHERE name = """ . row[1] . """;"
+;        DB.Exec(SQL)
+;  		  count := count + 1
+;    }
+;  }	Until RC < 1
+;  RecordSet.Free()
+;  Progress, Off
+;}
 
-DeleteAllHillCards() {
+;DeleteAllHillCards() {
+;	global
+;	SQL := "SELECT TrelloCard, name FROM Hill WHERE TrelloCard IS NOT NULL;"
+;  Progress, 0, Starting..., Processing..., Delete Trello Cards
+;  DB.Query(SQL, RecordSet)
+;  count := 0
+;  Loop {
+;    RC := RecordSet.Next(Row)
+;    if (RC > 0)
+;    {
+;    	count := count + 1
+;  		tN := row[2]
+;  		tP := (count / gNumHills) * 100
+;      Progress, %tp%, %tN%, Processing..., Delete Trello Cards
+;    	TrelloAPI.DeleteCard(row[1])
+;    }
+;  }	Until RC < 1
+;  RecordSet.Free()
+;  SQL := "UPDATE Hill SET TrelloCard = Null;"
+;  DB.Exec(SQL)
+;  Progress, Off
+;}
+
+BackupTrello() {
 	global
-	SQL := "SELECT TrelloCard, name FROM Hill WHERE TrelloCard IS NOT NULL;"
-  Progress, 0, Starting..., Processing..., Delete Trello Cards
-  DB.Query(SQL, RecordSet)
-  count := 0
-  Loop {
-    RC := RecordSet.Next(Row)
-    if (RC > 0)
-    {
-    	count := count + 1
-  		tN := row[2]
-  		tP := (count / gNumHills) * 100
-      Progress, %tp%, %tN%, Processing..., Delete Trello Cards
-    	TrelloAPI.DeleteCard(row[1])
-    }
-  }	Until RC < 1
-  RecordSet.Free()
-  SQL := "UPDATE Hill SET TrelloCard = Null;"
+	SQL := "DELETE FROM TrelloCopy;"
   DB.Exec(SQL)
-  Progress, Off
+  TrelloAPI.RunCommand("lists/5ee24ea21d034544ab584c90/cards?fields=name,desc,coordinates")
+  FileRead, theJSON, %tmpJSON%
+  JSONAPI.SetJSON(theJSON)
+  a := JSONAPI.GetNextItem() ; Start the array of objects
+  while (a <> "#EndArray")
+  {
+  	a := JSONAPI.GetNextItem()
+  	if (a == "#StartObject")
+  	{
+  		JSONAPI.GetNextItem() ; id
+  		JSONAPI.GetNextItem() ; :
+  		i := JSONAPI.GetNextItem()
+  		JSONAPI.GetNextItem() ; ,
+  		JSONAPI.GetNextItem() ; name
+  		JSONAPI.GetNextItem() ; :
+  		n := JSONAPI.GetNextItem()
+  		JSONAPI.GetNextItem() ; ,
+  		JSONAPI.GetNextItem() ; desc
+  		JSONAPI.GetNextItem() ; :
+  		d := JSONAPI.GetNextItem()
+  		JSONAPI.GetNextItem() ; ,
+  		JSONAPI.GetNextItem() ; coordinates
+  		JSONAPI.GetNextItem() ; :
+  		JSONAPI.GetNextItem() ; {
+  		JSONAPI.GetNextItem() ; lattitude
+  		JSONAPI.GetNextItem() ; :
+  		x := JSONAPI.GetNextItem()
+  		JSONAPI.GetNextItem() ; ,
+  		JSONAPI.GetNextItem() ; longitude
+  		JSONAPI.GetNextItem() ; :
+  		y := JSONAPI.GetNextItem()
+  		JSONAPI.GetNextItem() ; }
+  		JSONAPI.GetNextItem() ; }
+  		SQL := "INSERT INTO TrelloCopy (id, name, desc, lat, long) VALUES (""" . i . """, """ . n . """, """ . d . """, """ . x . """, """ . y . """);"
+  		DB.Exec(SQL)
+  	}
+  }
 }
 
 GenerateGPXFile() {
@@ -249,12 +304,14 @@ GenerateGPXFile() {
 	mapFileName := StrReplace(mapFile, "XXXX", GetNextFileID())
 	mapFileHndl := FileOpen(mapFileName, "w")
 	mapFileHndl.WriteLine("<?xml version=""1.0""?>")
-  mapFileHndl.WriteLine("<gpx xmlns=""http://www.topografix.com/GPX/1/1"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:schemaLocation=""http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"" xmlns:gs=""http://ukmapapp.com/GPX_STYLESHEET/v1"" xmlns:i=""http://ukmapapp.com/GPX_IMPORTANCE/v1"" xmlns:gr=""http://ukmapapp.com/GPX_GRIDREF/v1"" version=""1.1"" creator=""UK Map 4.2"">")
+;  mapFileHndl.WriteLine("<gpx xmlns=""http://www.topografix.com/GPX/1/1"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:schemaLocation=""http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"" xmlns:gs=""http://ukmapapp.com/GPX_STYLESHEET/v1"" xmlns:i=""http://ukmapapp.com/GPX_IMPORTANCE/v1"" xmlns:gr=""http://ukmapapp.com/GPX_GRIDREF/v1"" version=""1.1"" creator=""UK Map 4.2"">")
+  mapFileHndl.WriteLine("<gpx xmlns=""http://www.topografix.com/GPX/1/1"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:schemaLocation=""http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"" >")
   mapFileHndl.WriteLine("<metadata>")
   mapFileHndl.WriteLine("<name>Shropshire - Hills</name>")
-  mapFileHndl.WriteLine("<bounds minlat=""52.356628"" minlon=""-3.000417"" maxlat=""52.671238"" maxlon=""-2.543808""/></metadata>")
+;  mapFileHndl.WriteLine("<bounds minlat=""52.356628"" minlon=""-3.000417"" maxlat=""52.671238"" maxlon=""-2.543808""/></metadata>")
+  mapFileHndl.WriteLine("</metadata>")
 
-	SQL := "SELECT gr, lat, lon, desc, ele, importance, number, href, name, sym FROM Hill ORDER BY name;"
+	SQL := "SELECT name, desc, lat, long FROM TrelloCopy ORDER BY name;"
   Progress, 0, Starting..., Processing..., Create GPX File
   count := 0
   DB.Query(SQL, RecordSet)
@@ -266,24 +323,15 @@ GenerateGPXFile() {
   		tN := row[9]
   		tP := (count / gNumHills) * 100
       Progress, %tp%, %tN%, Processing..., Create GPX File
-      mapFileHndl.WriteLine("<wpt gr:gr=""" . row[1] . """ lat=""" . row[2] . """ lon=""" . row[3] . """>")
-      mapFileHndl.WriteLine("<ele>" . row[5] . "</ele>")
-      mapFileHndl.WriteLine("<name>" . row[9] . "</name>")
-      if StrLen(row[4]) > 0
+      mapFileHndl.WriteLine("<wpt lat=""" . row[3] . """ lon=""" . row[4] . """>")
+;      mapFileHndl.WriteLine("<ele>" . row[5] . "</ele>")
+      mapFileHndl.WriteLine("<name>" . row[1] . "</name>")
+      if StrLen(row[2]) > 0
       {
-      	mapFileHndl.WriteLine("<desc>" . row[4] . "</desc>")
+      	mapFileHndl.WriteLine("<desc>" . row[2] . "</desc>")
       }
-      if StrLen(row[8]) > 0
-      {
-      	mapFileHndl.WriteLine("<link href=""" . row[8] . """/>")
-      }
-      mapFileHndl.WriteLine("<sym>" . row[10] . "</sym>")
-      mapFileHndl.WriteLine("<extensions>")
-      if StrLen(row[7]) > 0
-      {
-        mapFileHndl.WriteLine("<number>" . row[7] . "</number>")
-      }
-      mapFileHndl.WriteLine("<i:importance>" . row[6] . "</i:importance></extensions></wpt>")
+      mapFileHndl.WriteLine("<sym>yellow</sym>")
+      mapFileHndl.WriteLine("</wpt>")
     }
   }	Until RC < 1
   RecordSet.Free()

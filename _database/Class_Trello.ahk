@@ -34,7 +34,7 @@ CreateCard(pListID, pCardName) {
 DeleteCard(pCardID) {
   cmd := This._curl . " --request DELETE "
   cmd := cmd . """" . This._url . "cards/" . pCardID . "?" . This._key . "&" . This._token . """"
-   RunWait, %cmd%, , Hide
+  RunWait, %cmd%, , Hide
 }
 
 UpdateCard(pCardID, pWhat) {

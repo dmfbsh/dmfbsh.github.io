@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" >
+<metadata>
+<name>Shropshire - Hills</name>
+</metadata>
+<wpt lat="52.604607" lon="-2.998966">
+<name>Bromlow Callow (384m)</name>
+<desc>Has a ring of trees on top of the hill, this is a well known landmark.</desc>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.479439" lon="-2.602559">
+<name>Brown Clee (540m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.440285" lon="-2.918847">
+<name>Burrow Hill (358m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.553596" lon="-2.773866">
+<name>Caer Caradoc (459m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.460361" lon="-2.79597">
+<name>Callow Hill (335m)</name>
+<desc>Has Flounder's Folly at the top of the hill.</desc>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.358887" lon="-2.673132">
+<name>Caynham Camp</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.563938" lon="-2.951168">
+<name>Heath Mynd (452m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.540901" lon="-2.782562">
+<name>Helmeth Hill (333m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.540859" lon="-2.769746">
+<name>Hope Bowdler Hill (426m)</name>
+<desc>Includes the Gaer Stone on the way from Church Stretton.</desc>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.446224" lon="-2.887468">
+<name>Hopesay Hill (284m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.548065" lon="-2.947477">
+<name>Linley Hill (397m)</name>
+<desc>Look out for the avenue of beech trees.\n\nThese majestic trees were planted around 1740 by local MP Robert More, who was a noted amateur botanist.\n\nThey stretch for about a mile along the ridge and some of them measure several feet across, although they are coming to the end of their lives now.\n\nHappily, new saplings are being planted to ensure that this magnificent sight can be enjoyed by future generations.\n\nIf you want to visit this lovely spot, turn right to Linley off the A488 from Bishop's Castle. After half a mile take a left turn, signposted Linley, and then a mile later turn left to The Bog. After half a mile park in Arbour Lane and then follow the Shropshire Way footpath sign up the hill. There is no designated car park.</desc>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.559895" lon="-2.768214">
+<name>Little Caradoc (327m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.523464" lon="-2.804877">
+<name>Ragleth Hill (398m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.571404" lon="-2.74846">
+<name>The Lawley (377m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.615891" lon="-2.893139">
+<name>The Stiperstones (536m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.671238" lon="-2.54767">
+<name>The Wrekin (407m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.392422" lon="-2.590931">
+<name>Titterstone Clee (533m)</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.524235" lon="-2.732783">
+<name>Wenlock Edge</name>
+<sym>yellow</sym>
+</wpt>
+<wpt lat="52.544113" lon="-2.760425">
+<name>Willstone Hill (403m)</name>
+<desc>Has the Battle Stones at the summit.</desc>
+<sym>yellow</sym>
+</wpt>
+</gpx>
