@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Shropshire - Places</name>
+    <description/>
+    <Style id="icon-1899-0288D1-labelson-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Shropshire - Places</name>
+      <Placemark>
+        <name>Ashfield Hall
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5593483,52.5950053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atcham Bridge
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6809641,52.6795526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Attingham Park - Viewpoint
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6634312,52.6796213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Badger Dingle
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3452514,52.5918491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benthall Hall
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5064592,52.6202012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bishop's Castle - House on Crutches
+]]></name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9980532,52.4942914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blakemoorgate Cottages
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9238392,52.6113603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boscobel House
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.241625,52.6717942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>British Ironworks Centre
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9947761,52.8431602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cantlop Bridge
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7145526,52.652111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caynton Caves
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3508044,52.6132753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coleham Pumping Station
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7466686,52.7044875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cosford RAF Museum
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3139913,52.6451666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cressage Bridge
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6016923,52.637119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cronkhill
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6879529,52.6705571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Daniel's Mill
+]]></name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4162335,52.5232881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>David Austin Roses
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2994776,52.6364986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dawley - Matthew Webb Fountain
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4666221,52.6634946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dudmaston Hall
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3692491,52.4960322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Flounder's Folly
+]]></name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7951119,52.4608455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harper Adams University
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.429433,52.7793837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hawkstone Park Follies
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6305875,52.8569374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hodnet Hall Garden
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5799576,52.8529681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ironbridge - Merrythought
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4940022,52.629753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ironbridge - The Iron Bridge
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4855218,52.6274737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ironbridge - The Rotunda
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.492161,52.6305546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Laura's Tower
+]]></name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7493871,52.7107767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lilleshall - Monument
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4031085,52.7374143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lilleshall Abbey
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3896555,52.724813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lilleshall Hall
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3735849,52.7275809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longdon upon Term Aquaduct
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5568737,52.7356219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mitchell's Fold Stone Circle
+]]></name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.0294251,52.5781654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morville Hall
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.491098,52.5431755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Oswestry Hill Fort
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.0480098,52.8720164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shipton Hall
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6469874,52.524502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - Viewpoint
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7586793,52.7036335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snailbeach Lead Mine
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9250838,52.6141293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Milburga's Well
+]]></name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6371649,52.4371084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunnycroft
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5163668,52.6957267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bog Centre
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9520738,52.5757672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Dower House
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4901967,52.5435409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Stiperstones - The Hollies
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9193482,52.6133967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wem - cemetary at Whitchurch Road (Henry Eckford)</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7214698,52.8619136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whitcliffe Common
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7257185,52.3647898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>White Ladies Priory
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2580418,52.6657699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wilderhope Manor
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6721155,52.5316874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wollerton Old Hall Garden
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5643262,52.8667831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wroxeter Roman City
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6440651,52.6742615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wroxeter Vineyard
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6438265,52.6678473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wyle Cop
+</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7512548,52.7066111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>HHA - Aldenham Park</name>
+      <Placemark>
+        <name>HHA - Aldenham Park
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4872997,52.5548724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HHA - Broadward Hall Estate</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.8991812,52.3844088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HHA - Brynkinalt</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.0381442,52.9350749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HHA - Combermere Abbey</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6116985,52.9940147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HHA - Hardwick Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9296927,52.9021994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HHA - Hatton Grange</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3478227,52.6365238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HHA - Iscoyd Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7391891,52.972535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HHA - Millichope Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6986291,52.4908808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HHA - Stokesay Court</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.8186541,52.4030238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HHA - Walcot Hall</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9619776,52.4592003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HHA - Weston Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2880886,52.6943341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HHA - Willey Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4848203,52.5891949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -148,7 +148,7 @@ Menu, MyMenuBar, Add, File, :FileMenu
 Menu, MyMenuBar, Add, Image, :ImageMenu
 Menu, MyMenuBar, Add, Place, :PlaceMenu
 Menu, MyMenuBar, Add, Filter, :FilterMenu
-Menu, MyMenuBar, Add, Project, :ProjectMenu
+;Menu, MyMenuBar, Add, Project, :ProjectMenu
 Menu, MyMenuBar, Add, Help, :HelpMenu
 Gui, Menu, MyMenuBar
 
