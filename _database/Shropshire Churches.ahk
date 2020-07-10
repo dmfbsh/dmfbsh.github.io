@@ -55,9 +55,11 @@ Menu, FilterMenu, Add, Yellow Plus Ticked, MenuYellowPlusTicked
 Menu, FilterMenu, Add, Green Plus, MenuGreenPlus
 Menu, ProjectMenu, Add, Generate GPX, MenuGenerateGPX
 Menu, ProjectMenu, Add
-Menu, ProjectMenu, Add, Bulk Load Trello, MenuBulkLoadTrello
-Menu, ProjectMenu, Add
-Menu, ProjectMenu, Add, Bulk Clear Trello, MenuBulkClearTrello
+Menu, ProjectMenu, Add, Compare Trello, MenuCompareTrello
+;Menu, ProjectMenu, Add
+;Menu, ProjectMenu, Add, Bulk Load Trello, MenuBulkLoadTrello
+;Menu, ProjectMenu, Add
+;Menu, ProjectMenu, Add, Bulk Clear Trello, MenuBulkClearTrello
 Menu, HelpMenu, Add, About, MenuAbout
 Menu, MyMenuBar, Add, File, :FileMenu
 Menu, MyMenuBar, Add, Filter, :FilterMenu
@@ -185,6 +187,10 @@ MenuGreenPlus:
 
 MenuGenerateGPX:
 	GenerateGPXFile()
+  Return
+
+MenuCompareTrello:
+	CompareTrello()
   Return
 
 MenuBulkLoadTrello:
@@ -337,6 +343,34 @@ GetListSymbol(pListID) {
   Return retSym
 }
 
+CompareTrello() {
+	global
+  SQL := "SELECT TrelloCard, name, sym, desc FROM Church ORDER BY name;"
+  DB.Query(SQL, RecordSetC)
+  Loop {
+    RCC := RecordSetC.Next(RowC)
+    if (RCC > 0)
+    {
+      SB_SetText(RowC[2], 2)	
+      tListID  := TrelloAPI.GetField("cards/" . RowC[1] . "/idList")
+      tStatus1 := GetListSymbol(tListID)
+      if (RowC[3] <> tStatus1)
+      {
+      	tN := RowC[2]
+      	MsgBox, Card is in the wrong column: %tN%
+      }
+      tOverview := TrelloAPI.GetField("cards/" . RowC[1] . "/desc")
+      if (RowC[4] <> tOverview)
+      {
+      	tN := RowC[2]
+      	MsgBox, Card has mismatched descriptions: %tN%
+      }
+    }
+  }	Until RCC < 1
+  RecordSetC.Free()
+  SB_SetText("", 2)	
+}
+
 CreateAllChurchCards() {
 	global
   SQL := "SELECT name, lat, lon, desc, sym FROM Church ORDER BY name;"
@@ -453,26 +487,30 @@ GetListsForBoard(pID) {
 
 GenerateGPXFile() {
 	global
-	mapFileName := StrReplace(mapFile, "XXXX", GetNextFileID())
+	n := GetNextFileID()
+	mapFileName := StrReplace(mapFile, "XXXX", n)
 	mapFileHndl := FileOpen(mapFileName, "w")
 	mapFileHndl.WriteLine("<?xml version=""1.0""?>")
-  mapFileHndl.WriteLine("<gpx xmlns=""http://www.topografix.com/GPX/1/1"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:schemaLocation=""http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"" xmlns:gs=""http://ukmapapp.com/GPX_STYLESHEET/v1"" xmlns:i=""http://ukmapapp.com/GPX_IMPORTANCE/v1"" xmlns:gr=""http://ukmapapp.com/GPX_GRIDREF/v1"" version=""1.1"" creator=""UK Map 4.2"">")
+;  mapFileHndl.WriteLine("<gpx xmlns=""http://www.topografix.com/GPX/1/1"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:schemaLocation=""http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"" xmlns:gs=""http://ukmapapp.com/GPX_STYLESHEET/v1"" xmlns:i=""http://ukmapapp.com/GPX_IMPORTANCE/v1"" xmlns:gr=""http://ukmapapp.com/GPX_GRIDREF/v1"" version=""1.1"" creator=""UK Map 4.2"">")
+  mapFileHndl.WriteLine("<gpx xmlns=""http://www.topografix.com/GPX/1/1"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:schemaLocation=""http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"" >")
   mapFileHndl.WriteLine("<metadata>")
-  mapFileHndl.WriteLine("<name>Shropshire - Churches</name>")
-  mapFileHndl.WriteLine("<bounds minlat=""52.307598"" minlon=""-3.183949"" maxlat=""52.978367"" maxlon=""-2.277569""/></metadata>")
+  mapFileHndl.WriteLine("<name>Shropshire - Churches v" . n . "</name>")
+;  mapFileHndl.WriteLine("<bounds minlat=""52.356628"" minlon=""-3.000417"" maxlat=""52.671238"" maxlon=""-2.543808""/></metadata>")
+  mapFileHndl.WriteLine("</metadata>")
 
 	SQL := "SELECT gr, lat, lon, desc, ele, importance, number, href, name, sym FROM Church ORDER BY name;"
-  Progress, 0, Starting..., Processing..., Create GPX File
-  count := 0
+;  Progress, 0, Starting..., Processing..., Create GPX File
+;  count := 0
   DB.Query(SQL, RecordSet)
   Loop {
     RC := RecordSet.Next(Row)
     if (RC > 0)
     {
-		  count := count + 1
-  		tN := row[9]
-  		tP := (count / 313) * 100
-      Progress, %tp%, %tN%, Processing..., Create GPX File
+    	SB_SetText(row[9], 2)	
+;		  count := count + 1
+;  		tN := row[9]
+;  		tP := (count / 313) * 100
+;      Progress, %tp%, %tN%, Processing..., Create GPX File
       mapFileHndl.WriteLine("<wpt gr:gr=""" . row[1] . """ lat=""" . row[2] . """ lon=""" . row[3] . """>")
       mapFileHndl.WriteLine("<ele>" . row[5] . "</ele>")
       mapFileHndl.WriteLine("<name>" . row[9] . "</name>")
@@ -491,7 +529,8 @@ GenerateGPXFile() {
     }
   }	Until RC < 1
   RecordSet.Free()
-  Progress, Off
+;  Progress, Off
+ 	SB_SetText("", 2)	
 
   mapFileHndl.WriteLine("</gpx>")
 	mapFileHndl.Close()
