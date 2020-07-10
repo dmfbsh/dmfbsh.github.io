@@ -7,6 +7,7 @@ title: Introduction
 {: .mt-4}
 
 To learn more about the beautiful county of Shropshire, I use my photographs to investigate the history and explore the landscape.
+
 My photographs are presented via a Web Site, which is organised into the following areas:
 
 - History

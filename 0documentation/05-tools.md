@@ -9,6 +9,7 @@ title: Tools
 The following tools are used by the project:
 
 - MS Windows 10
+  - Directory Opus
   - Development Tools
     - Ruby
     - Jekyll
@@ -17,10 +18,6 @@ The following tools are used by the project:
     - AutoHotKey
     - GitHub Desktop
     - DB Browser (SQLite)
-  - Cloud Services
-    - GitHub
-    - Trello
-    - Google Maps
   - Photo Editors
     - XnViewMP
     - DxO PhotoLab
@@ -34,6 +31,15 @@ The following tools are used by the project:
   - Trello
 
 ## Installation and Configuration
+
+### Directory Opus
+
+Directory Opus is the main tool for managing the files and providing easy access to the tools.
+
+<img src="images/screen00.jpg" width="600"/>
+
+Directory Opus is configured as shown above.
+
 
 ### Ruby
 
@@ -51,13 +57,7 @@ To install Jekyll, do the following:
 
 ### UltraEdit
 
-UltraEdit is installed with no specific configuration.  A project - Shropshire Web Site - has been set up to allow easy access to the files, and provide shortcuts to access the various tools and scripts.
-
-<img src="images/screen11.jpg" width="200"/>
-
-<img src="images/screen12.jpg" width="200"/>
-
-<img src="images/screen13.jpg" width="500"/>
+UltraEdit is installed with no additional configuration.
 
 ### Typora
 
