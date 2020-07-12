@@ -129,6 +129,15 @@ The Old English name means "Ford by the Fort".
 ![](../1shropshire/assets/images/churches/2019-08-26_15_36_44_DSC_4915_DxO.jpg)
 
 <!--Type: Item-->
+# Date: 1276 AD
+# Name: St Michael, Cardeston
+
+The church is known to have existed prior to 1276, as there is one window in the chancel in the present building from before that date.  By the 18th Century, the medieval church was in a poor state of repair and it was replaced by a new building in 1749, the building was significantly remodelled in 1844.
+
+The church is notable for its unusual tower as the square lower stage becomes octagonal above angle broaches.
+![](../1shropshire/assets/images/history/2020-07-11_12_51_11_DSC_7384_DxO_bw.jpg)
+
+<!--Type: Item-->
 ## Date: 12th Century AD
 # Name: St James, Cardington
 
