@@ -8,7 +8,7 @@ title: Hills
 
 An SQLite database of the Hills in Shropshire is maintained.
 
-Information is maintained in two places:
+Source information is maintained in two places:
 
 - Trello - used to hold textual information about each Hill
 - Google Maps - used to hold the location of each Hill
