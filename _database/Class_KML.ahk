@@ -14,19 +14,19 @@ _fileHndl := ""
 OpenKMLFile(pKMLFile) {
 	This._fileName := pKMLFile
 	This._fileHndl := FileOpen(pKMLFile, "r")
-	foundPlacemark := false
-	nextLine := Trim(This._fileHndl.ReadLine(), OmitChars := " `t`n`r")
-	while (!This._fileHndl.AtEOF and !foundPlacemark)
-	{
-	  if (nextLine == "<Placemark>")
-	  {
-	  	foundPlacemark := true
-	  }
-	  else
-	  {
-	    nextLine := Trim(This._fileHndl.ReadLine(), OmitChars := " `t`n`r")
-	  }
-	}
+;	foundPlacemark := false
+;	nextLine := Trim(This._fileHndl.ReadLine(), OmitChars := " `t`n`r")
+;	while (!This._fileHndl.AtEOF and !foundPlacemark)
+;	{
+;	  if (nextLine == "<Placemark>")
+;	  {
+;	  	foundPlacemark := true
+;	  }
+;	  else
+;	  {
+;	    nextLine := Trim(This._fileHndl.ReadLine(), OmitChars := " `t`n`r")
+;	  }
+;	}
 }
 
 CloseKMLFile() {
@@ -35,13 +35,19 @@ CloseKMLFile() {
 
 GetNextPlacemarkName() {
 	foundPlacemark := false
+	foundName := false
 	retName := "END_OF_FILE"
   nextLine := Trim(This._fileHndl.ReadLine(), OmitChars := " `t`n`r")
-	while (!This._fileHndl.AtEOF and !foundPlacemark)
+	while (!This._fileHndl.AtEOF and !foundName)
 	{
-	  if (InStr(nextLine, "<name>"))
+		if (InStr(nextLine, "<placemark>"))
+		{
+			foundPlacemark := true
+	    nextLine := Trim(This._fileHndl.ReadLine(), OmitChars := " `t`n`r")
+		}
+	  else if (InStr(nextLine, "<name>") and foundPlacemark)
 	  {
-	  	foundPlacemark := true
+	  	foundName := true
 	  	retName := nextLine
 	  	retName := StrReplace(retName, "<name>", "")
 	  	retName := StrReplace(retName, "</name>", "")

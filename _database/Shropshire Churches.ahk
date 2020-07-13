@@ -2,6 +2,7 @@
 
 #Include %A_ScriptDir%\Class_SQLiteDB.ahk
 #Include %A_ScriptDir%\Class_Trello.ahk
+#Include %A_ScriptDir%\Class_KML.ahk
 
 IniRead, tmpPath, %A_ScriptDir%\Shropshire Churches.ini, Paths, TempFolder
 
@@ -12,6 +13,9 @@ listsCSV   := tmpPath . "\lists.csv"
 IniRead, ChurchesDB, %A_ScriptDir%\Shropshire Churches.ini, Database, DBFile
 
 IniRead, mapFile, %A_ScriptDir%\Shropshire Churches.ini, Files, MapFile
+
+IniRead, gmkFileN, %A_ScriptDir%\Shropshire Churches.ini, Files, KMLFileNorth
+IniRead, gmkFileS, %A_ScriptDir%\Shropshire Churches.ini, Files, KMLFileSouth
 
 list1 := ""
 list2 := ""
@@ -34,6 +38,8 @@ LOverview := ""
 TrelloAPI := new Trello
 TrelloAPI.SetTmpJSONFile(tmpJSON)
 
+KMLAPI := new KMLFile
+
 DB := new SQLiteDB
 DB.OpenDB(ChurchesDB)
 
@@ -54,6 +60,8 @@ Menu, FilterMenu, Add, Yellow Plus, MenuYellowPlus
 Menu, FilterMenu, Add, Yellow Plus Ticked, MenuYellowPlusTicked
 Menu, FilterMenu, Add, Green Plus, MenuGreenPlus
 Menu, ProjectMenu, Add, Generate GPX, MenuGenerateGPX
+Menu, ProjectMenu, Add
+Menu, ProjectMenu, Add, Import from KML, MenuImport
 Menu, ProjectMenu, Add
 Menu, ProjectMenu, Add, Compare Trello, MenuCompareTrello
 ;Menu, ProjectMenu, Add
@@ -183,6 +191,42 @@ MenuGreenPlus:
 	SB_SetText("Filter: Green Plus", 2)
   gFilter := "sym = 'green plus' OR sym = 'plus green'"
   ApplyFilter()
+  Return
+
+MenuImport:
+	SQL := "DELETE FROM GoogleMap;"
+  DB.Exec(SQL)
+  KMLAPI.OpenKMLFile(gmkFileN)
+  l := ""
+  while (!(l == "END_OF_FILE"))
+  {
+    l := KMLAPI.GetNextPlacemarkName()
+    if (!(l == "END_OF_FILE"))
+    {
+    	n := l
+    	p := KMLAPI.GetNextPlacemarkCoords()
+    	c := StrSplit(p, [","])
+    	SQL := "INSERT INTO GoogleMap (name, lat, long) VALUES (""" . n . """,""" . c[1] . """,""" . c[2] . """);"
+      DB.Exec(SQL)
+    }
+  }
+  KMLAPI.CloseKMLFile()
+  KMLAPI.OpenKMLFile(gmkFileS)
+  l := ""
+  while (!(l == "END_OF_FILE"))
+  {
+    l := KMLAPI.GetNextPlacemarkName()
+    if (!(l == "END_OF_FILE"))
+    {
+    	n := l
+    	p := KMLAPI.GetNextPlacemarkCoords()
+    	c := StrSplit(p, [","])
+    	SQL := "INSERT INTO GoogleMap (name, lat, long) VALUES (""" . n . """,""" . c[1] . """,""" . c[2] . """);"
+      DB.Exec(SQL)
+    }
+  }
+  KMLAPI.CloseKMLFile()
+  MsgBox, Google Maps data reloaded
   Return
 
 MenuGenerateGPX:
@@ -365,6 +409,12 @@ CompareTrello() {
       	tN := RowC[2]
       	MsgBox, Card has mismatched descriptions: %tN%
       }
+      tName := TrelloAPI.GetField("cards/" . RowC[1] . "/name")
+      if (RowC[2] <> tName)
+      {
+      	tN := RowC[2]
+      	MsgBox, Card has mismatched names: %tN%
+      }
     }
   }	Until RCC < 1
   RecordSetC.Free()
@@ -498,7 +548,8 @@ GenerateGPXFile() {
 ;  mapFileHndl.WriteLine("<bounds minlat=""52.356628"" minlon=""-3.000417"" maxlat=""52.671238"" maxlon=""-2.543808""/></metadata>")
   mapFileHndl.WriteLine("</metadata>")
 
-	SQL := "SELECT gr, lat, lon, desc, ele, importance, number, href, name, sym FROM Church ORDER BY name;"
+  SQL := "SELECT c.name, c.sym, g.lat, g.long, c.desc, c.href FROM Church c, GoogleMap g WHERE c.name = g.name;"
+;	SQL := "SELECT gr, lat, lon, desc, ele, importance, number, href, name, sym FROM Church ORDER BY name;"
 ;  Progress, 0, Starting..., Processing..., Create GPX File
 ;  count := 0
   DB.Query(SQL, RecordSet)
@@ -506,26 +557,28 @@ GenerateGPXFile() {
     RC := RecordSet.Next(Row)
     if (RC > 0)
     {
-    	SB_SetText(row[9], 2)	
+    	SB_SetText(row[1], 2)	
 ;		  count := count + 1
 ;  		tN := row[9]
 ;  		tP := (count / 313) * 100
 ;      Progress, %tp%, %tN%, Processing..., Create GPX File
-      mapFileHndl.WriteLine("<wpt gr:gr=""" . row[1] . """ lat=""" . row[2] . """ lon=""" . row[3] . """>")
-      mapFileHndl.WriteLine("<ele>" . row[5] . "</ele>")
-      mapFileHndl.WriteLine("<name>" . row[9] . "</name>")
-      if StrLen(row[4]) > 0
+;      mapFileHndl.WriteLine("<wpt gr:gr=""" . row[1] . """ lat=""" . row[2] . """ lon=""" . row[3] . """>")
+      mapFileHndl.WriteLine("<wpt lat=""" . row[3] . """ lon=""" . row[4] . """>")
+;      mapFileHndl.WriteLine("<ele>" . row[5] . "</ele>")
+      mapFileHndl.WriteLine("<name>" . row[1] . "</name>")
+      if StrLen(row[5]) > 0
       {
-      	mapFileHndl.WriteLine("<desc>" . row[4] . "</desc>")
+      	mapFileHndl.WriteLine("<desc>" . row[5] . "</desc>")
       }
-      if StrLen(row[8]) > 0
+      if StrLen(row[6]) > 0
       {
-      	mapFileHndl.WriteLine("<link href=""" . row[8] . """/>")
+      	mapFileHndl.WriteLine("<link href=""" . row[6] . """/>")
       }
-      mapFileHndl.WriteLine("<sym>" . row[10] . "</sym>")
-      mapFileHndl.WriteLine("<extensions>")
-      mapFileHndl.WriteLine("<number>" . row[7] . "</number>")
-      mapFileHndl.WriteLine("<i:importance>" . row[6] . "</i:importance></extensions></wpt>")
+      mapFileHndl.WriteLine("<sym>" . row[2] . "</sym>")
+;      mapFileHndl.WriteLine("<extensions>")
+;      mapFileHndl.WriteLine("<number>" . row[7] . "</number>")
+;      mapFileHndl.WriteLine("<i:importance>" . row[6] . "</i:importance></extensions></wpt>")
+      mapFileHndl.WriteLine("</wpt>")
     }
   }	Until RC < 1
   RecordSet.Free()
