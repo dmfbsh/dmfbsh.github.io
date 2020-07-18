@@ -161,7 +161,7 @@ Gui, Add, Text, x215 y5 section w120 h20, Original Photograph:
 Gui, Add, Edit, ys vOrigName w400 h20,
 
 Gui, Add, Text, x215 y30 section w120 h20, Category:
-Gui, Add, DropDownList, ys vCategory1 gCategory1 w196 h180, History|Church|Landscape|Miscellaneous|Place|Garden|Information
+Gui, Add, DropDownList, ys vCategory1 gCategory1 w196 h180, History|Church|Landscape|Miscellaneous|Place|Garden|Information|Not Used
 Gui, Add, DropDownList, ys vCategory2 w196 h180, N/A
 
 Gui, Add, Text, x215 y55 section w120 h20, DxO PhotoLab Preset:
