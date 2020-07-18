@@ -210,7 +210,7 @@ The name Pulverbatch means the valley of the river Pulre.  The village of Church
 The medieval church (the church's first known priest was 'John the Chaplain', recorded before 1193) was destroyed by the Welsh some time around 1400, the successor building was constructed in the Georgian style in 1773.  However, the nave, chancel and north aisle were restored in the 1850s.
 
 The churchyard contains a number of tombs of interest, including an urn shaped tomb dating from the 18th Century.  The churchyard is circular and was thought to have been a defensive site, there are a number of mature yew trees in the churchyard.
-![](../1shropshire/assets/images/churches/2020-06-27_14_02_09_DSC_7346_DxO.jpg)
+![](../1shropshire/assets/images/churches/2020-06-27_14_02_09_DSC_7346_DxO_1.jpg)
 - Sub-Image: 2020-06-27_13_49_27_DSC_7333_DxO.jpg
 - Sub-Image: 2020-06-27_13_58_21_DSC_7342_DxO.jpg
 - Sub-Image: 2020-06-27_13_58_53_DSC_7343_DxO.jpg
@@ -252,6 +252,15 @@ The church is noted for the medieval wall paintings which have been dated to cir
 
 The name Claverley means 'clover meadow'.
 ![](../1shropshire/assets/images/churches/2020-05-30_11_09_24_DSC_7181_DxO.jpg)
+
+<!--Type: Item-->
+## Date: Saxon / Norman
+# Name: St Margaret, Clee St Margaret
+
+The name of the village derives from the Old English 'cleo' (clee) meaning a ball, used in this case to mean a ball-shaped hill (referring to the distictive shape of the Clee Hills) and the saint to which the church is dedicated.
+
+The exact date of the church is unknown, although there was probably a Saxon church on the site.  The most notable feature of the present building is the extensive herring-bone masonry.
+![](../1shropshire/assets/images/churches/2020-07-17_13_44_05_DSC_7415_DxO_1.jpg)
 
 <!--Type: Item-->
 ## Date: 1854 AD
@@ -632,6 +641,17 @@ The church is a mixture of styles, Gothic nave, 18th Century tower and Victorian
 - Sub-Image: 2019-03-24_12_20_27_DSC_3610_DxO.jpg
 
 <!--Type: Item-->
+## Date: 1742 AD
+# Name: St Laurence, Preston-upon-the-Weald Moors
+
+The current church was built between 1739 and 1742 to replace the former church.  The chancel and vestry were added in 1853.
+
+The name Preston upon the Weald Moors (24 letters) is one of the longest names of any village in England and is thought to have derived from the words 'Priests' farm/settlement' on the 'wild moors' indicating that the village may well have ecclesiastical origins.
+![](../1shropshire/assets/images/churches/2020-07-12_14_00_27_DSC_7399_DxO.jpg)
+- Sub-Image: 2020-07-12_14_03_00_DSC_7403_DxO.jpg
+- Sub-Image: 2020-07-12_14_05_40_DSC_7404_DxO.jpg
+
+<!--Type: Item-->
 ## Date: 1209 AD
 # Name: St Margaret, Ratlinghope
 
@@ -772,6 +792,15 @@ The medieval church was rebuilt in the 1870s as it was in much need of restorati
 
 The name of the place derives from the Old English "stoc" (meaning a place or a secondary settlement) and the nearby river Tern.
 ![](../1shropshire/assets/images/churches/2020-02-23_15_09_35_DSC_6521_DxO.jpg)
+
+<!--Type: Item-->
+## Date: 13th Century
+# Name: St Milburgh, Stoke St Milborough
+
+The church dates back to the 13th Century, but likely has Saxon origins.  This is one of nine churches connected with Wenlock Abbey.  It is noted for its handsome ceiling and rare water leaf decoration.
+
+The name of the village is derived from the Old English 'stoc' meaning a place or secondary settlement and the saint to which the church is dedicated (St Milburga).  The village was known in Saxon times as Godstoke.
+![](../1shropshire/assets/images/churches/2020-07-17_14_32_13_DSC_7438_DxO_1.jpg)
 
 <!--Type: Item-->
 ## Date: 1150 AD

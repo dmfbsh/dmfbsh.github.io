@@ -1,12 +1,13 @@
 
-cl = Dir.glob("../1shropshire/assets/images/churches/20*.jpg")
-hl = Dir.glob("../1shropshire/assets/images/history/20*.jpg")
-ll = Dir.glob("../1shropshire/assets/images/landscape/20*.jpg")
-ml = Dir.glob("../1shropshire/assets/images/miscellaneous/20*.jpg")
-pl = Dir.glob("../1shropshire/assets/images/places/20*.jpg")
-gl = Dir.glob("../1shropshire/assets/images/gardens/20*.jpg")
+clp = Dir.glob("../1shropshire/assets/images/churches/20*.jpg")
+hlp = Dir.glob("../1shropshire/assets/images/history/20*.jpg")
+llp = Dir.glob("../1shropshire/assets/images/landscape/20*.jpg")
+mlp = Dir.glob("../1shropshire/assets/images/miscellaneous/20*.jpg")
+plp = Dir.glob("../1shropshire/assets/images/places/20*.jpg")
+glp = Dir.glob("../1shropshire/assets/images/gardens/20*.jpg")
+flp = Dir.glob("../1shropshire/assets/images/folklore/20*.jpg")
 
-fl = cl + hl + ll + ml + pl + gl
+fl = clp + hlp + llp + mlp + plp + glp + flp
 gl = Array.new
 
 fl.each { |ni|

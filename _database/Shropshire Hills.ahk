@@ -370,8 +370,8 @@ GenerateGPXFile() {
 
   mapFileHndl.WriteLine("</gpx>")
 	mapFileHndl.Close()
-  IniRead, GooglePath, %A_ScriptDir%\Shropshire Hills.ini, Paths, GoogleDrive
-  FileCopy, %mapFileName%, %GooglePath%
+;  IniRead, GooglePath, %A_ScriptDir%\Shropshire Hills.ini, Paths, GoogleDrive
+;  FileCopy, %mapFileName%, %GooglePath%
   GetLastReload()
 }
 

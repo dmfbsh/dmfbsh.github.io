@@ -12,9 +12,13 @@ The image files for the flags need to be copied to the web site - there is a fun
 
 Once the files have been copied, the images are resized to have a maximum width of 150px.
 
-Use the Batch Convert function of FastStone viewer, the options file is "F1 Stamps - Flags.ccf" - overwrite the copied files.
+Use the Batch Convert function in XnViewMP:
 
-<img src="images/screen26.jpg" width="300"/>
+<img src="images/screen26a.jpg" width="300"/>
+
+<img src="images/screen26b.jpg" width="300"/>
+
+<img src="images/screen26c.jpg" width="300"/>
 
 ## Thumbnails
 
@@ -22,15 +26,23 @@ The image files for the thumbnails need to be copied to the web site - there is 
 
 Once the files have been copied, the images are resized to have a maximum height of 120px.
 
-Use the Batch Convert function of FastStone viewer, the options file is "F1 Stamps - Thumbs ht120.ccf" - overwrite the copied files.
+Use the Batch Convert function in XnViewMP:
 
-<img src="images/screen27.jpg" width="300"/>
+<img src="images/screen27a.jpg" width="300"/>
+
+<img src="images/screen27b.jpg" width="300"/>
+
+<img src="images/screen27c.jpg" width="300"/>
 
 The thumbnails must also be cropped to have a maximum width of 200px.
 
-Use the Batch Convert function of FastStone viewer, the options file is "F1 Stamps - Thumbs crop200.ccf" - overwrite the copied files.
+Use the Batch Convert function in XnViewMP:
 
-<img src="images/screen28.jpg" width="300"/>
+<img src="images/screen28a.jpg" width="300"/>
+
+<img src="images/screen28b.jpg" width="300"/>
+
+<img src="images/screen28c.jpg" width="300"/>
 
 ## Images
 
@@ -38,11 +50,19 @@ The image files for the main images need to be copied to the web site, the image
 
 Once the files have been copied, the images are resized to have a maximum width of 200px is small or 400px if large.
 
-Use the Batch Convert function of FastStone viewer, the options file is either "F1 Stamps - Pictures wd200.ccf" or "F1 Stamps - Pictures wd400.ccf" - overwrite the copied files.
+Use the Batch Convert function in XnViewMP:
 
-<img src="images/screen29.jpg" width="300"/>
+<img src="images/screen29a.jpg" width="300"/>
+
+<img src="images/screen29b.jpg" width="300"/>
+
+<img src="images/screen29c.jpg" width="300"/>
 
 The large and small images must then be copied to the parent folder to consolidate into one place.
+
+
+
+
 
 Generate YML and HTML
 

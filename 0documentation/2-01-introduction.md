@@ -8,10 +8,23 @@ title: Introduction
 
 My stamp collection is based on the theme of Formula 1.
 
-The stamps are catalogued and recorded in an MS Access database.  The information is then published as a web site, organised to show the history of the sport.
+The stamps are catalogued and recorded in an MS Access database.
 
-The web site which depicts the history of Formula 1 using postage stamps is hosted on my GitHub Pages site at:
+The information is then published as a web site, organised to show the history of the sport.
 
-https://dmfbsh.github.io/
+The Web Site is hosted in my GitHub repository:
 
-The web site is built using data extracted from the MS Access database.
+`https://dmfbsh.github.io/`
+
+It is a static site, generated using [Jekyll](https://jekyllrb.com/), Jekyll is Ruby based.
+
+The Web Site is developed using [Liquid](https://shopify.github.io/liquid/basics/introduction/) templates to define the presentation layout and data is contained in [YAML](https://yaml.org/) files.  The YAML files are generated from data extracted from the MS Access database.
+
+All assets relating to the project are held in my GitHub repository, which is cloned to the OneDrive in the folder:
+
+`C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io`
+
+The main tools for managing the workflow are:
+
+- [XnViewMP](https://www.xnview.com/en/) (for handling the images)
+- [UltraEdit](https://www.ultraedit.com/) (for handling the text-based files)

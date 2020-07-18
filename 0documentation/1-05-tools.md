@@ -40,7 +40,6 @@ Directory Opus is the main tool for managing the files and providing easy access
 
 Directory Opus is configured as shown above.
 
-
 ### Ruby
 
 To install Ruby, do the following:
