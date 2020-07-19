@@ -559,6 +559,51 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>The Hay Inclined Plane</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4514677,52.6226266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coalport China</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4513307,52.6191334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Tar Tunnel</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4533867,52.620262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Darby Houses</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4935708,52.6408966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Old Blast Furnace</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4924455,52.6404684,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>HHA - Aldenham Park</name>

@@ -1,4 +1,10 @@
 <!--Type: Item-->
+# Name: The Wrekin
+
+TBD
+![](../1shropshire/assets/images/landscape/2020-07-19_15_56_40_DSC_7478_DxO_1.jpg)
+
+<!--Type: Item-->
 # Name: The Stiperstones
 
 View walking down from Blakemoorgate to Snailbeach.

@@ -60,11 +60,7 @@ Use the Batch Convert function in XnViewMP:
 
 The large and small images must then be copied to the parent folder to consolidate into one place.
 
-
-
-
-
-Generate YML and HTML
+## Generate YML and HTML
 
 The YML is generated from the MS Access database.
 
@@ -72,18 +68,16 @@ The HTML templates for the popups are generated from the MS Access database (bec
 
 The static HTML is then generated using Jekyll.
 
-Additional Years and Decades
+## Additional Years and Decades
 
 For each extra year covered by the web site, create a new 2-yearYYYY.html file
 
 For each extra decade covered by the web site, create a new 2-yearsYYY0.html file
 
-Sub-Images
+## Sub-Images
 
 Advanced Renamer is used to rename the car and driver sub-images.  Two batch methods are defined:
 
-F1 Stamps - Cars
+- F1 Stamps - Cars
 
-F1 Stamps - Drivers
-
-ARen is set up an external editor in FastStone Image Viewer  - copy the master image, rename with ARen and crop with FastStone Image Viewer.
+- F1 Stamps - Drivers
