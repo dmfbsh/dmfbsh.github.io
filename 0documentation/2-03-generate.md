@@ -76,8 +76,8 @@ For each extra decade covered by the web site, create a new 2-yearsYYY0.html fil
 
 ## Sub-Images
 
-Advanced Renamer is used to rename the car and driver sub-images.  Two batch methods are defined:
+Directory Opus is used to rename the car and driver sub-images.  Two rename functions are defined:
 
-- F1 Stamps - Cars
+- Stamps - Cars
 
-- F1 Stamps - Drivers
+- Stamps - Drivers

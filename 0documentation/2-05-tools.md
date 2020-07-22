@@ -17,7 +17,6 @@ The following tools and applications are used:
     - UltraEdit
     - Typora
     - GitHub Desktop
-    - ARen
   - Photo Editors
     - XnViewMP
 
@@ -26,6 +25,8 @@ The following tools and applications are used:
 ### Directory Opus
 
 See the configuration for the Shropshire Web Site project.
+
+Also install the rename scripts.
 
 ### Ruby
 
@@ -46,15 +47,6 @@ See the configuration for the Shropshire Web Site project.
 ### GitHub Desktop
 
 See the configuration for the Shropshire Web Site project.
-
-### ARen
-
-Define the rename jobs - these are held in configuration files:
-
-- F1 Stamps - Cars.aren
-- F1 Stamps - Drivers.aren
-
-<img src="images/screen30.jpg" width="300"/>
 
 ### XnViewMP
 
