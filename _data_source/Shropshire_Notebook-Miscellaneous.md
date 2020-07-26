@@ -1,4 +1,10 @@
 <!--Type: Item-->
+# Name: Stone Cross, Alberbury
+
+Situated by the church at Alberbury, a medieval churchyard cross (most likely 15th Century) which has been converted into a sundial, probably in the 17th Century.
+![](../1shropshire/assets/images/miscellaneous/2020-07-24_15_53_01_DSC_7552_DxO_1.jpg)
+
+<!--Type: Item-->
 # Name: Memorial by the Church at Church Pulverbatch
 
 The memorial reads:

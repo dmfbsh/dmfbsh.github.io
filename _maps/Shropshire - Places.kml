@@ -604,6 +604,24 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Alberbury Castle</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9514862,52.7236384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rowton Castle</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9190782,52.7080177,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>HHA - Aldenham Park</name>
