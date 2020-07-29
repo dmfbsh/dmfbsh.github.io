@@ -773,6 +773,15 @@ This church is one of the four Saxon foundations in Shrewsbury.  The tower dates
 ![](../1shropshire/assets/images/churches/2019-10-04_13_26_29_DSC_0039_DxO.jpg)
 
 <!--Type: Item-->
+## Date: 1863 AD
+# Name: Congregational Church, Shrewsbury
+
+Originally known as the Abbey Foregate Congregational Church (a church in which each congregation independently and autonomously runs its own affairs).  The site was bought in 1872 and worship began, immediately.  Work on the building started at once and the foundation stone was laid in 1863.
+
+In 1972 the church became a United Reformed Church.
+![](../1shropshire/assets/images/churches/2018-11-02_14_08_55_DSC_2945_DxO.jpg)
+
+<!--Type: Item-->
 ## Date: 12th Century AD
 # Name: St Michael & All Angels, Smethcott
 

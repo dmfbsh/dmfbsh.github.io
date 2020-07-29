@@ -220,6 +220,24 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Edenhope Hill (424m)</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.0981705,52.4871614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Churchtown Hill (410m)</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.0990288,52.4801572,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
