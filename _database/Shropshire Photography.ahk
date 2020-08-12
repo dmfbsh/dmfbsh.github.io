@@ -134,34 +134,35 @@ Menu, FilterMenu, Add, Landscape, MenuFilterLandscape
 Menu, FilterMenu, Add, Garden, MenuFilterGarden
 Menu, FilterMenu, Add, Place, MenuFilterPlace
 Menu, FilterMenu, Add, Folklore, MenuFilterFolklore
-Menu, FilterMenu, Add, Miscellaneous, MenuFilterMiscellaneous
+Menu, FilterMenu, Add, Other, MenuFilterOther
 Menu, FilterMenu, Add, Information, MenuFilterInformation
-Menu, ProjectMenu, Add, Compare Folders, MenuCompareFolders
-Menu, ProjectMenu, Add, Compare ACDSee, MenuCompareACDSee
-Menu, ProjectMenu, Add
-Menu, ProjectMenu, Add, Unused Images, MenuUnusedImages
-Menu, ProjectMenu, Add
-Menu, ProjectMenu, Add, Generate Report, MenuGenerateReport
-Menu, ProjectMenu, Add, View Report, MenuViewReport
+Menu, ProjectMenu, Add, Write XnViewMP Search, MenuProjectXnViewMPSearch
+;Menu, ProjectMenu, Add, Compare Folders, MenuCompareFolders
+;Menu, ProjectMenu, Add, Compare ACDSee, MenuCompareACDSee
+;Menu, ProjectMenu, Add
+;Menu, ProjectMenu, Add, Unused Images, MenuUnusedImages
+;Menu, ProjectMenu, Add
+;Menu, ProjectMenu, Add, Generate Report, MenuGenerateReport
+;Menu, ProjectMenu, Add, View Report, MenuViewReport
 Menu, HelpMenu, Add, About, MenuAbout
 Menu, MyMenuBar, Add, File, :FileMenu
 Menu, MyMenuBar, Add, Image, :ImageMenu
 Menu, MyMenuBar, Add, Place, :PlaceMenu
 Menu, MyMenuBar, Add, Filter, :FilterMenu
-;Menu, MyMenuBar, Add, Project, :ProjectMenu
+Menu, MyMenuBar, Add, Project, :ProjectMenu
 Menu, MyMenuBar, Add, Help, :HelpMenu
 Gui, Menu, MyMenuBar
 
 Gui +Resize +MinSize450x410
 
 Gui, Add, ListBox, vPlaceList gPlaceList w200 h385, Empty|Null
-GuiControl, , PlaceList, %gPlaces%
+GuiControl, , PlaceList, |%gPlaces%
 
 Gui, Add, Text, x215 y5 section w120 h20, Original Photograph:
 Gui, Add, Edit, ys vOrigName w400 h20,
 
 Gui, Add, Text, x215 y30 section w120 h20, Category:
-Gui, Add, DropDownList, ys vCategory1 gCategory1 w196 h180, History|Church|Landscape|Miscellaneous|Place|Garden|Information|Not Used
+Gui, Add, DropDownList, ys vCategory1 gCategory1 w196 h180, History|Church|Landscape|Other|Place|Garden|Information|Not Used
 Gui, Add, DropDownList, ys vCategory2 w196 h180, N/A
 
 Gui, Add, Text, x215 y55 section w120 h20, DxO PhotoLab Preset:
@@ -214,6 +215,7 @@ PlaceChooserButtonOK:
 	DB.CloseDB()
 	Reload
   Return
+
 PlaceChooserButtonNew:
 	Gui, PlaceChooser:Destroy
 	InputBox, NewPlacename, Place Name, Enter the name of the place:, , 240, 100
@@ -245,6 +247,7 @@ PlaceChooserButtonNew:
 	DB.CloseDB()
 	Reload
 	Return
+
 PlaceChooserButtonCancel:
 	Gui, PlaceChooser:Destroy
 	DB.CloseDB()
@@ -313,7 +316,7 @@ MenuNew:
  		MsgBox, 48, Error, Failed to create folder %newFolder%
 	}
 	LoadPlaces()
-	GuiControl, , PlaceList, %gPlaces%
+	GuiControl, , PlaceList, |%gPlaces%
 	DrawGUI()
 	SB_SetText("Number of Places: " . gNumPlaces, 1)
 	GuiControl, ChooseString, PlaceList, %argPlace%
@@ -342,7 +345,7 @@ MenuRename:
 		ClearFilter()
 		argPlace := newPlace
 		LoadPlaces()
-		GuiControl, , PlaceList, %gPlaces%
+		GuiControl, , PlaceList, |%gPlaces%
 		DrawGUI()
 		SB_SetText("Number of Places: " . gNumPlaces, 1)
 		GuiControl, ChooseString, PlaceList, %argPlace%
@@ -369,7 +372,7 @@ MenuDelete:
 			}
 			ClearFilter()
 			LoadPlaces()
-			GuiControl, , PlaceList, %gPlaces%
+			GuiControl, , PlaceList, |%gPlaces%
 			DefaultPlace()
 			argPlace := ""
 			DrawGUI()
@@ -555,81 +558,117 @@ ImageChooser2ButtonOK:
 
 WriteTemplate(pImgFile) {
 	global
+	mdFile1 := ""
+	mdFile2 := ""
   IniRead, TempPath, %A_ScriptDir%\Shropshire Photography.ini, Paths, TempFolder
   TempPath := TempPath . "\temp.txt"
   tmpFile := FileOpen(TempPath, "w", "UTF-8")
   Switch Category1
   {
+  	Case "Not Used":
+      Switch Category2
+      {
+      	Case "Folklore":
+  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Folklore.md"
+          tmpFile.WriteLine("")
+;  		    tmpFile.WriteLine("<!--Type: Item-->")
+          tmpFile.WriteLine("# Name: ")
+          tmpFile.WriteLine("- Date: ")
+          tmpFile.WriteLine("")
+          tmpFile.WriteLine("<notes>")
+          tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . pImgFile . ")")
+      }
   	Case "History":
-  		tmpFile.WriteLine("<!--Type: Item-->")
-      tmpFile.WriteLine("# Date: ")
+  		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-History.md"
+;  		tmpFile.WriteLine("<!--Type: Item-->")
       tmpFile.WriteLine("# Name: ")
+      tmpFile.WriteLine("- Date: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
       tmpFile.WriteLine("![](../1shropshire/assets/images/history/" . pImgFile . ")")
       Switch Category2
       {
       	Case "Castle":
+  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Castles.md"
           tmpFile.WriteLine("")
-  		    tmpFile.WriteLine("<!--Type: Item-->")
-          tmpFile.WriteLine("# Date: ")
+;  		    tmpFile.WriteLine("<!--Type: Item-->")
           tmpFile.WriteLine("# Name: ")
+          tmpFile.WriteLine("- Date: ")
           tmpFile.WriteLine("")
           tmpFile.WriteLine("<notes>")
           tmpFile.WriteLine("![](../1shropshire/assets/images/castles/" . pImgFile . ")")
       	Case "House":
+  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Houses.md"
           tmpFile.WriteLine("")
-  		    tmpFile.WriteLine("<!--Type: Item-->")
-          tmpFile.WriteLine("# Date: ")
+;  		    tmpFile.WriteLine("<!--Type: Item-->")
           tmpFile.WriteLine("# Name: ")
+          tmpFile.WriteLine("- Date: ")
           tmpFile.WriteLine("")
           tmpFile.WriteLine("<notes>")
           tmpFile.WriteLine("![](../1shropshire/assets/images/houses/" . pImgFile . ")")
-      	Case "Folklore":
-          tmpFile.WriteLine("")
-  		    tmpFile.WriteLine("<!--Type: Item-->")
-          tmpFile.WriteLine("# Date: ")
-          tmpFile.WriteLine("# Name: ")
-          tmpFile.WriteLine("")
-          tmpFile.WriteLine("<notes>")
-          tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . pImgFile . ")")
       	Case "People":
+  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-People.md"
           tmpFile.WriteLine("")
-  		    tmpFile.WriteLine("<!--Type: Item-->")
-          tmpFile.WriteLine("# Date: ")
+;  		    tmpFile.WriteLine("<!--Type: Item-->")
           tmpFile.WriteLine("# Name: ")
+          tmpFile.WriteLine("- Date: ")
           tmpFile.WriteLine("")
           tmpFile.WriteLine("<notes>")
           tmpFile.WriteLine("![](../1shropshire/assets/images/people/" . pImgFile . ")")
+      	Case "Folklore":
+  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Folklore.md"
+          tmpFile.WriteLine("")
+;  		    tmpFile.WriteLine("<!--Type: Item-->")
+          tmpFile.WriteLine("# Name: ")
+          tmpFile.WriteLine("- Date: ")
+          tmpFile.WriteLine("")
+          tmpFile.WriteLine("<notes>")
+          tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . pImgFile . ")")
       }
   	Case "Church":
-  		tmpFile.WriteLine("<!--Type: Item-->")
-      tmpFile.WriteLine("## Date: ")
+  		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Churches.md"
+;  		tmpFile.WriteLine("<!--Type: Item-->")
       tmpFile.WriteLine("# Name: ")
+      tmpFile.WriteLine("- Date: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
       tmpFile.WriteLine("![](../1shropshire/assets/images/churches/" . pImgFile . ")")
       tmpFile.WriteLine("- Sub-Image: ")
-  	Case "Miscellaneous":
-  		tmpFile.WriteLine("<!--Type: Item-->")
+  	Case "Other":
+  		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Other.md"
+;  		tmpFile.WriteLine("<!--Type: Item-->")
       tmpFile.WriteLine("# Name: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/miscellaneous/" . pImgFile . ")")
+      tmpFile.WriteLine("![](../1shropshire/assets/images/other/" . pImgFile . ")")
   	Case "Landscape":
-  		tmpFile.WriteLine("<!--Type: Item-->")
+  		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Landscape.md"
+;  		tmpFile.WriteLine("<!--Type: Item-->")
       tmpFile.WriteLine("# Name: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
       tmpFile.WriteLine("![](../1shropshire/assets/images/landscape/" . pImgFile . ")")
+;      Switch Category2
+;      {
+;      	Case "Folklore":
+;  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Folklore.md"
+;          tmpFile.WriteLine("")
+;;  		    tmpFile.WriteLine("<!--Type: Item-->")
+;          tmpFile.WriteLine("# Name: ")
+;          tmpFile.WriteLine("- Date: ")
+;          tmpFile.WriteLine("")
+;          tmpFile.WriteLine("<notes>")
+;          tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . pImgFile . ")")
+;      }
   	Case "Place":
-  		tmpFile.WriteLine("<!--Type: Item-->")
+;  		tmpFile.WriteLine("<!--Type: Item-->")
       tmpFile.WriteLine("# Name: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
       tmpFile.WriteLine("![](../1shropshire/assets/images/places/" . pImgFile . ")")
   	Case "Garden":
-  		tmpFile.WriteLine("<!--Type: Item-->")
+  		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Gardens.md"
+;  		tmpFile.WriteLine("<!--Type: Item-->")
       tmpFile.WriteLine("# Name: ")
       tmpFile.WriteLine("")
       tmpFile.WriteLine("<notes>")
@@ -637,6 +676,14 @@ WriteTemplate(pImgFile) {
   }
   tmpFile.Close()
   IniRead, TxtEditor, %A_ScriptDir%\Shropshire Photography.ini, Programs, TextEditor
+  if mdFile1 <>
+  {
+    Run, "%TxtEditor%" "%mdFile1%"
+  }
+  if mdFile2 <>
+  {
+    Run, "%TxtEditor%" "%mdFile2%"
+  }
   Run, "%TxtEditor%" "%TempPath%"
 }
 
@@ -747,11 +794,11 @@ MenuFilterFolklore:
 	ApplyFilter()
 	Return
 
-MenuFilterMiscellaneous:
+MenuFilterOther:
 	ClearFilter()
-	Menu, FilterMenu, Check, Miscellaneous
-	SB_SetText("Filter: Miscellaneous", 2)
-	filterCat1 := "Miscellaneous"
+	Menu, FilterMenu, Check, Other
+	SB_SetText("Filter: Other", 2)
+	filterCat1 := "Other"
 	ApplyFilter()
 	Return
 
@@ -762,6 +809,182 @@ MenuFilterInformation:
 	filterCat1 := "Information"
 	ApplyFilter()
 	Return
+
+MenuProjectXnViewMPSearch:
+  tmpFile := FileOpen("C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_database\XnView\search.ini", "w", "UTF-8")
+
+  tmpFile.WriteLine("Castles=filename *_DxO.jpg")
+  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("recurse 1")
+  tmpFile.WriteLine("regexp 0")
+  tmpFile.WriteLine("all 0")
+  tmpFile.WriteLine("db 0")
+  RecordSet := ""
+  SQL := "SELECT Name FROM Place WHERE Category1 LIKE '%' AND Category2 LIKE 'Castle' ORDER BY Name;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+  	  tmpFile.WriteLine("pathname2 contains [" . row[1] . "]")
+    }
+  } Until RC < 1
+  RecordSet.Free()
+
+  tmpFile.WriteLine("Churches=filename *_DxO.jpg")
+  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("recurse 1")
+  tmpFile.WriteLine("regexp 0")
+  tmpFile.WriteLine("all 0")
+  tmpFile.WriteLine("db 0")
+  RecordSet := ""
+  SQL := "SELECT Name FROM Place WHERE Category1 LIKE 'Church' AND Category2 LIKE '%' ORDER BY Name;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+  	  tmpFile.WriteLine("pathname2 contains [" . row[1] . "]")
+    }
+  } Until RC < 1
+  RecordSet.Free()
+
+  tmpFile.WriteLine("Folklore=filename *_DxO.jpg")
+  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("recurse 1")
+  tmpFile.WriteLine("regexp 0")
+  tmpFile.WriteLine("all 0")
+  tmpFile.WriteLine("db 0")
+  RecordSet := ""
+  SQL := "SELECT Name FROM Place WHERE Category1 LIKE '%' AND Category2 LIKE 'Folklore' ORDER BY Name;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+  	  tmpFile.WriteLine("pathname2 contains [" . row[1] . "]")
+    }
+  } Until RC < 1
+  RecordSet.Free()
+
+  tmpFile.WriteLine("Gardens=filename *_DxO.jpg")
+  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("recurse 1")
+  tmpFile.WriteLine("regexp 0")
+  tmpFile.WriteLine("all 0")
+  tmpFile.WriteLine("db 0")
+  RecordSet := ""
+  SQL := "SELECT Name FROM Place WHERE Category1 LIKE 'Garden' AND Category2 LIKE '%' ORDER BY Name;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+  	  tmpFile.WriteLine("pathname2 contains [" . row[1] . "]")
+    }
+  } Until RC < 1
+  RecordSet.Free()
+
+  tmpFile.WriteLine("History=filename *_DxO.jpg")
+  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("recurse 1")
+  tmpFile.WriteLine("regexp 0")
+  tmpFile.WriteLine("all 0")
+  tmpFile.WriteLine("db 0")
+  RecordSet := ""
+  SQL := "SELECT Name FROM Place WHERE Category1 LIKE 'History' AND Category2 LIKE '%' ORDER BY Name;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+  	  tmpFile.WriteLine("pathname2 contains [" . row[1] . "]")
+    }
+  } Until RC < 1
+  RecordSet.Free()
+
+  tmpFile.WriteLine("Houses=filename *_DxO.jpg")
+  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("recurse 1")
+  tmpFile.WriteLine("regexp 0")
+  tmpFile.WriteLine("all 0")
+  tmpFile.WriteLine("db 0")
+  RecordSet := ""
+  SQL := "SELECT Name FROM Place WHERE Category1 LIKE '%' AND Category2 LIKE 'House' ORDER BY Name;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+  	  tmpFile.WriteLine("pathname2 contains [" . row[1] . "]")
+    }
+  } Until RC < 1
+  RecordSet.Free()
+
+  tmpFile.WriteLine("Landscape=filename *_DxO.jpg")
+  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("recurse 1")
+  tmpFile.WriteLine("regexp 0")
+  tmpFile.WriteLine("all 0")
+  tmpFile.WriteLine("db 0")
+  RecordSet := ""
+  SQL := "SELECT Name FROM Place WHERE Category1 LIKE 'Landscape' AND Category2 LIKE '%' ORDER BY Name;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+  	  tmpFile.WriteLine("pathname2 contains [" . row[1] . "]")
+    }
+  } Until RC < 1
+  RecordSet.Free()
+
+  tmpFile.WriteLine("Other=filename *_DxO.jpg")
+  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("recurse 1")
+  tmpFile.WriteLine("regexp 0")
+  tmpFile.WriteLine("all 0")
+  tmpFile.WriteLine("db 0")
+  RecordSet := ""
+  SQL := "SELECT Name FROM Place WHERE Category1 LIKE 'Other' AND Category2 LIKE '%' ORDER BY Name;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+  	  tmpFile.WriteLine("pathname2 contains [" . row[1] . "]")
+    }
+  } Until RC < 1
+  RecordSet.Free()
+
+  tmpFile.WriteLine("People=filename *_DxO.jpg")
+  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("recurse 1")
+  tmpFile.WriteLine("regexp 0")
+  tmpFile.WriteLine("all 0")
+  tmpFile.WriteLine("db 0")
+  RecordSet := ""
+  SQL := "SELECT Name FROM Place WHERE Category1 LIKE '%' AND Category2 LIKE 'People' ORDER BY Name;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+  	  tmpFile.WriteLine("pathname2 contains [" . row[1] . "]")
+    }
+  } Until RC < 1
+  RecordSet.Free()
+
+  tmpFile.WriteLine("Places=filename *_DxO.jpg")
+  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("recurse 1")
+  tmpFile.WriteLine("regexp 0")
+  tmpFile.WriteLine("all 0")
+  tmpFile.WriteLine("db 0")
+  RecordSet := ""
+  SQL := "SELECT Name FROM Place WHERE Category1 LIKE 'Place' AND Category2 LIKE '%' ORDER BY Name;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+  	  tmpFile.WriteLine("pathname2 contains [" . row[1] . "]")
+    }
+  } Until RC < 1
+  RecordSet.Free()
+
+  tmpFile.Close()
+  Return
 
 ClearFilter() {
 	global
@@ -774,7 +997,7 @@ ClearFilter() {
 	Menu, FilterMenu, Uncheck, Garden
 	Menu, FilterMenu, Uncheck, Place
 	Menu, FilterMenu, Uncheck, Folklore
-	Menu, FilterMenu, Uncheck, Miscellaneous
+	Menu, FilterMenu, Uncheck, Other
 	Menu, FilterMenu, Uncheck, Information
 	SB_SetText("", 2)
 	filterCat1  := "%"
@@ -784,7 +1007,7 @@ ClearFilter() {
 ApplyFilter() {
 	global
 	LoadPlaces()
-	GuiControl, , PlaceList, %gPlaces%
+	GuiControl, , PlaceList, |%gPlaces%
 	DefaultPlace()
 	argPlace := ""
 	DrawGUI()
@@ -847,7 +1070,7 @@ MenuUnusedImages:
   Progress, 6
   UnusedImagesLoadAssets("Landscape", "landscape")
   Progress, 7
-  UnusedImagesLoadAssets("Miscellaneous", "miscellaneous")
+  UnusedImagesLoadAssets("Other", "other")
   Progress, 8
   UnusedImagesLoadAssets("People", "people")
   Progress, 9
@@ -867,7 +1090,7 @@ MenuUnusedImages:
   Progress, 16
   UnusedImagesLoadMD("Landscape", "Shropshire_Notebook-Landscape.md")
   Progress, 17
-  UnusedImagesLoadMD("Miscellaneous", "Shropshire_Notebook-Miscellaneous.md")
+  UnusedImagesLoadMD("Other", "Shropshire_Notebook-Other.md")
   Progress, 18
   UnusedImagesLoadMD("People", "Shropshire_Notebook-People.md")
   Progress, 19
@@ -982,6 +1205,11 @@ Category1:
 		GuiControl, Enable, Category2
 	}
 	else if ("" . Category1 = "Landscape")
+	{
+		GuiControl, , Category2, |N/A||Folklore
+		GuiControl, Enable, Category2
+	}
+	else if ("" . Category1 = "Not Used")
 	{
 		GuiControl, , Category2, |N/A||Folklore
 		GuiControl, Enable, Category2
@@ -1209,7 +1437,10 @@ LoadPlaces() {
     RC := RecordSet.Next(Row)
     if (RC > 0) {
     	gNumPlaces := gNumPlaces + 1
-      gPlaces := gPlaces . "|" . row[2]
+    	if (gNumPlaces > 1) {
+    		gPlaces := gPlaces . "|"
+    	}
+      gPlaces := gPlaces . row[2]
     }
   } Until RC < 1
   RecordSet.Free()

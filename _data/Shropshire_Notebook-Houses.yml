@@ -1,27 +1,20 @@
 - Type: Item
-  Date: 1269 AD
   Name: Cruck Cottage, Upton Magna
+  Date: 1269 AD
   Description: |
     This cottage is thought to be the oldest still-standing cruck cottage in England (and one of the oldest still-standing cruck cottages in Europe).  The Historic England listing suggests that the cottage dates from the 15th or 16th Century (and building does appear to have been remodelled in the 15th century), but dendrochronological tests on the crucks in the cottage have dated the timber to 1269.
   Thumbnail: 2020-03-01_15_34_46_DSC_6681_DxO.jpg
 
 - Type: Item
-  Date: 1459 AD
   Name: The Abbot's House, Shrewsbury
+  Date: 1459 AD
   Description: |
     A remarkably complete and significant surviving example of a late medieval town house.  It was built by the Abbot of Lilleshall as an investment for his abbey.  The trees used for the wooden frame were cut down in 1457-8.  Town bailiffs and the abbot's carpenter are mentioned in records as attending a frame raising ceremony in 1459. The ground floor was all shops.  The upper floors were tenements for people to live in.
   Thumbnail: 2018-07-14_12_57_54_DSC_2798_DxO.jpg
 
 - Type: Item
-  Date: 1604 AD
-  Name: Llwyd Mansion, Oswestry
-  Description: |
-    The mansion was built in 1604 for John Lloyd (or Llwyd in Welsh) as a home and shop area at the bottom.
-  Thumbnail: 2019-06-01_14_45_04_DSC_4508_DxO.jpg
-
-- Type: Item
-  Date: 1546 AD
   Name: Morville Hall
+  Date: 1546 AD
   Description: |
     Originally an Elizabethan country house dating from 1546.  It was enlarged and expanded around 1750 by the then MP for Bridgnorth.
 
@@ -29,8 +22,8 @@
   Thumbnail: 2019-07-12_14_45_35_DSC_4581_DxO.jpg
 
 - Type: Item
-  Date: c. 1560 AD
   Name: Pitchford Hall
+  Date: c. 1560 AD
   Description: |
     The hall is considered to be one of England's finest Elizabethan half timbered houses.
 
@@ -40,43 +33,50 @@
   Thumbnail: 2019-06-19_14_35_01_DSC_4527_DxO.jpg
 
 - Type: Item
-  Date: 1580 AD
   Name: Benthall Hall
+  Date: 1580 AD
   Description: |
     Built on the site of what was probably a 12th Century manor for the Benthall family.  The hall was garrisoned during the English Civil War and was the site of several skirmishes.
   Thumbnail: 2016-04-23_12_22_06_DSC00313_DxO.jpg
 
 - Type: Item
-  Date: 1587 AD
   Name: Shipton Hall
+  Date: 1587 AD
   Description: |
     Built to replace a timber framed house which had burned down.  The hall was largely rebuilt in the 18th Century, including the rococo interior decor which was created by the designer of the Iron Bridge.
   Thumbnail: 2015-05-25_15_18_26_DSC_0073_DxO.jpg
 
 - Type: Item
-  Date: Late 1500s AD
   Name: Rowley's House, Shrewsbury
+  Date: Late 1500s AD
   Description: |
     Rowley's House was built by Roger Rowley - a wool merchant.  The house was built in the late 1500s.  The Mansion was built by his son in 1618 and is believed to be the earliest brick building in Shrewsbury.
   Thumbnail: 2018-11-02_14_49_32_DSC_2961_DxO.jpg
 
 - Type: Item
-  Date: 16th Century AD
   Name: Moreton Corbet Mansion
+  Date: 16th Century AD
   Description: |
     The build of the Moreton Corbet manor was influenced by the classical architecture overseas as Robert Corbet, who started the build, spent time abroad in his role as a diplomat.  Robert Corbet died of the plague before the mansion was completed, his two brothers completed the building and left the remains of the original fortification as they were.
   Thumbnail: 2018-09-29_15_15_33_DSC_2896_DxO.jpg
 
 - Type: Item
-  Date: 1616 AD
+  Name: Llwyd Mansion, Oswestry
+  Date: 1604 AD
+  Description: |
+    The mansion was built in 1604 for John Lloyd (or Llwyd in Welsh) as a home and shop area at the bottom.
+  Thumbnail: 2019-06-01_14_45_04_DSC_4508_DxO.jpg
+
+- Type: Item
   Name: The Reader's House, Ludlow
+  Date: 1616 AD
   Description: |
     Once the home of the bible reader for St Laurence's Church (bible reading was once a rare skill and so the position had prestige).
   Thumbnail: 2019-04-13_14_24_09_DSC_4049_DxO.jpg
 
 - Type: Item
-  Date: 1619 AD
   Name: The Feathers, Ludlow
+  Date: 1619 AD
   Description: |
     Built by Rees Jones, a successful attorney in the town, who had frequently appeared before the Council of the Marches, which from 1536 until 1689 was situated in Ludlow, making the town in effect the capital of Wales.
 
@@ -84,8 +84,8 @@
   Thumbnail: 2019-07-13_13_31_26_DSC_4637_DxO.jpg
 
 - Type: Item
-  Date: 1695 AD
   Name: Dudmaston Hall
+  Date: 1695 AD
   Description: |
     The estate dates back to the 12th Century or earlier, it was acquired by the Wolryche family in the 14th Century.
 
@@ -95,29 +95,36 @@
   Thumbnail: 2013-08-19_14_11_18_DSC_0001_DxO.jpg
 
 - Type: Item
-  Date: 1717 AD
+  Name: House on Crutches, Bishop's Castle
+  Date: 17th Century AD
+  Description: |
+    Now a museum, little is actually known of the origin and history of the building.  It is likely to have originally been a single room dwelling some time in the twelfth century.  Architectural features reveal that by the 1600s, the owners were very affluent.  The 'crutches' refer to the posts supporting a 17th century upstairs extension, giving more space without encroaching on the cobbled street which still passes underneath.
+  Thumbnail: 2020-08-08_15_16_47_DSC_7992_DxO.jpg
+
+- Type: Item
   Name: Dale House, Coalbrookdale
+  Date: 1717 AD
   Description: |
     Built for Abraham Darby I, the house looks out over the Upper Furnace Pool whose outflow powered his blast furnace.
   Thumbnail: 2015-07-25_14_46_00_DSC_0028_DxO.jpg
 
 - Type: Item
-  Date: 1728 AD
   Name: Burford House, Burford
+  Date: 1728 AD
   Description: |
     The house was commissioned by William Bowles who was a Whig politician and proprietor of the Vauxhall glassworks (the largest glass works in the country).
   Thumbnail: 2019-08-26_15_40_49_DSC_4927_DxO.jpg
 
 - Type: Item
-  Date: 1738 AD
   Name: Rosehill, Coalbrookdale
+  Date: 1738 AD
   Description: |
     Built for Richard Fort who was Clerk to the Coalbrookdale Company under Abraham Darby I (and also his son in law), Fort later became the manager of the Coalbrookdale Ironworks.
   Thumbnail: 2015-07-25_14_45_05_DSC_0026_DxO.jpg
 
 - Type: Item
-  Date: 1772 AD
   Name: Attingham Park
+  Date: 1772 AD
   Description: |
     Built from 1772 to 1785 for Noel Hill, 1st Baron Berwick, Hill was the politician who aided William Pitt the younger in the restructuring of the East India Company.
 
@@ -127,8 +134,8 @@
   Thumbnail: 2008-03-23 14-34-02_00000022_DxO.jpg
 
 - Type: Item
-  Date: 1787 AD
   Name: William Hazlitt House, Wem
+  Date: 1787 AD
   Description: |
     William Hazlitt is considered to be one of the greatest critics and essayists in the history of the English Language.
 
@@ -136,29 +143,29 @@
   Thumbnail: 2019-03-02_13_52_17_DSC_3459_DxO.jpg
 
 - Type: Item
-  Date: 1802 AD
   Name: Cronkhill
+  Date: 1802 AD
   Description: |
     Designed by John Nash, it is thought to be the earliest Italianate villa in England.  It was built for Francis Walford, a friend of the 2nd Baron Berwick an agent for the Berwick's Attingham estates.
   Thumbnail: 2006-04-09 15-38-35_00003183_DxO.jpg
 
 - Type: Item
-  Date: 1870 AD
   Name: Hodnet Hall
+  Date: 1870 AD
   Description: |
     The original timber framed manor house dates from some time before the late 16th Century.  Historically it was owned by the Heber family, the family of the noted English cleric Reginald Heber.  The old hall was demolished in 1870 when a new hall in the neo-Elizabethan style was built.
   Thumbnail: 2016-08-29_12_47_18_DSC01067_DxO.jpg
 
 - Type: Item
-  Date: 1880 AD
   Name: Sunnycroft
+  Date: 1880 AD
   Description: |
     A Victorian suburban villa - Sunnycroft is a rare example as it remains intact, complete with many of its original interior fixtures and fittings (many villas of this type have been changed out of recognition or replaced with more modern housing).
   Thumbnail: 2005-05-22 14-55-22_00002090_DxO.jpg
 
 - Type: Item
-  Date: 1892 AD
   Name: Petton Hall
+  Date: 1892 AD
   Description: |
     Rebuilt in 1892 as a large neo-Elizabethan brick mansion, close to the site of the prior Petton Hall.
   Thumbnail: 2017-07-02_15_35_55_DSC01249_DxO.jpg

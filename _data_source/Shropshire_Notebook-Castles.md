@@ -1,15 +1,13 @@
-<!--Type: Item-->
-# Date: 1070 AD
 # Name: Shrewsbury Castle
+- Date: 1070 AD
 
 Built by Roger de Montgomery as a defensive fortification for the town. The town walls (of which little now remain) surrounded the town from the castle.
 
 Little of the original structure remains. The castle was extensively repaired in 1643 during the Civil War before being acquired by Sir Francis Newport in 1663. The castle was further repaired by Thomas Telford in 1780 on behalf of Sir William Pulteney.
 ![](../1shropshire/assets/images/castles/2018-07-14_12_32_05_DSC_2787_DxO.jpg)
 
-<!--Type: Item-->
-# Date: 1075 AD
 # Name: Ludlow Castle
+- Date: 1075 AD
 
 The castle is believed to have been founded by Walter de Lacy after the Norman Conquest and was one of the first stone castles to be built in England.
 
@@ -20,9 +18,8 @@ The castle was chosen as the seat of the Council in the Marches of Wales and so 
 With the castle being besieged and taken by Parliamentary forces during the English Civil War and following the abolition of the Council in 1689 (after it had been restored following the English Civil War), the castle fell into neglect.
 ![](../1shropshire/assets/images/castles/2018-01-13_13_29_52_DSC01549_DxO.jpg)
 
-<!--Type: Item-->
-# Date: 1086 AD
 # Name: Oswestry Castle
+- Date: 1086 AD
 
 The first reference to this castle is in 1086 - the recording of castelle Lurve in the Domesday book as being built by the then Sheriff of Shropshire in the Hundred of Meresberie.
 
@@ -35,9 +32,8 @@ The castle was the scene of a parliament held by Richard II in 1398.
 The castle was captured by Oliver Cromwell's troops in 1644, and by 1650 it had largely been demolished by the Roundheads.
 ![](../1shropshire/assets/images/castles/2019-02-16_13_23_41_DSC_3368_DxO_L.jpg)
 
-<!--Type: Item-->
-# Date: 1101 AD
 # Name: Bridgnorth Castle
+- Date: 1101 AD
 
 Founded in 1101 by Robert de Belleme (the second Earl of Shrewsbury, succeeding after his father Roger de Montgomery).
 
@@ -46,34 +42,30 @@ The main feature of the castle is the great square tower, built during the reign
 During the English Civil War, Bridgnorth was one of the Midlands' main Royalist strongholds. But following a three week siege Cromwell's Roundheads took Bridgnorth - Cromwell ordered that the castle be demolished and by 1647 little of the structure remained. As a result, the remaining parts of the great tower now lean at an angle of 15 degrees (four times the lean of the tower at Pisa).
 ![](../1shropshire/assets/images/castles/2019-02-02_14_34_09_DSC_3187_DxO.jpg)
 
-<!--Type: Item-->
-# Date: 12th Century AD
 # Name: Clun Castle
+- Date: 12th Century AD
 
 Established by Robert de Say after the Norman invasion, Clun Castle was an important Marcher lord castle in the 12th Century.
 
 Clun played a key part in protecting the region from Welsh attack, but the family (Fitzalan) gradually abandoned it as a property in favour of their more luxurious castle at Arundel. The family converted the castle into a hunting lodge in the 14th Century, but by the 16th Century the castle was largely ruined.
 ![](../1shropshire/assets/images/castles/2018-06-30_15_25_44_DSC_2668_DxO_L.jpg)
 
-<!--Type: Item-->
-# Date: Circa 1200 AD
 # Name: Moreton Corbet Castle
+- Date: Circa 1200 AD
 
 Originally known as Moreton Toret Castle, the stone structure was constructed to replace the probable fortified structure inhabited by Anglo Saxon thegns. The name was changed to Moreton Corbet when Richard de Corbet inherited the castle in 1235.
 
 The castle saw action in the English Civil War when it is known to have changed hands at least four times.
 ![](../1shropshire/assets/images/castles/2018-09-29_15_27_31_DSC_2907_DxO.jpg)
 
-<!--Type: Item-->
-# Date: 13th Century AD
 # Name: Whittington Castle
+- Date: 13th Century AD
 
 The original castle was captured and destroyed by the King of Gwynedd in 1223 - after being returned to the English under the peace treaty it was rebuilt in stone, but was then ceded to the Welsh in 1267. The castle remained in Welsh possession until 1276 when the castle became the residence of a powerful Marcher lord family.
 ![](../1shropshire/assets/images/castles/2020-06-20_13_37_21_DSC_7290_DxO_L.jpg)
 
-<!--Type: Item-->
-# Date: 1260s AD
 # Name: Hopton Castle
+- Date: 1260s AD
 
 It is believed that the castle was founded in the 12th century as a motte and bailey castle by one of the de Optons as a mesne lord of the Says of Clun Castle. The family was politically significant, Sir Walter de Opton being Sheriff of the large, adjacent counties of Shropshire and Staffordshire.
 
@@ -82,18 +74,16 @@ It is most probable that Walter de Opton (over time becoming de Hopton) built th
 The last Walter Hopton died during the Wars of the Roses in the 15th century and the castle passed by marriage to the Corbet family of Moreton Corbet castle.
 ![](../1shropshire/assets/images/castles/2018-02-24_16_11_09_DSC_2160_DxO.jpg)
 
-<!--Type: Item-->
-# Date: 1284 AD
 # Name: Acton Burnell Castle
+- Date: 1284 AD
 
 Built in 1284 by Richard Burnell, Bishop of Bath and Wells, Acton Burnell Castle is a fortified manor house three storeys high which comprised hall, solar, bedrooms, offices, chapel and kitchen. A benefit only extended to trusted people, Burnell as a friend and advisor to King Edward I, was granted a royal licence to crenellate and fortify the manor.
 
 In the Autumn of 1283, it is believed that Edward I held a Parliament at Acton Burnell - this is significant because it was the first time in English history that the law making process included the Commons. The law passed became known as the Statute of Acton Burnell, a law giving protection to creditors, indicating the increasing significance of traders during those times.
 ![](../1shropshire/assets/images/castles/2018-06-11_15_15_17_DSC_2621_DxO.jpg)
 
-<!--Type: Item-->
-# Date: 1280s AD
 # Name: Stokesay Castle
+- Date: 1280s AD
 
 One of the first fortified manor houses in England, Stokesay Castle was built by Laurence of Ludlow. It was built on the site of an earlier castle, some of which still survives. Laurence of Ludlow was one of the leading wool merchants in England.
 

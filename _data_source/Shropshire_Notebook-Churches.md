@@ -1,6 +1,5 @@
-<!--Type: Item-->
-## Date: 1275 AD
 # Name: St Mary, Acton Burnell
+- Date: 1275 AD
 
 This church is considered to be the finest Early English (13th Century) church in Shropshire.  Unlike most English parish churches, Acton Burnell is built in a same style throughout.
 
@@ -9,9 +8,8 @@ It features a corbel-table with many grotesque carvings (a corbel-table is a con
 Acton generally means "settlement (farm or estate) by the oaks" and this estate belonged to Robert Burnell an English bishop who served as Lord Chancellor of England from 1274 to 1292.
 ![](../1shropshire/assets/images/churches/2018-06-11_15_20_23_DSC_2625_DxO_L.jpg)
 
-<!--Type: Item-->
-## Date: 12th-14th Century AD
 # Name: St Margaret, Acton Scott
+- Date: 12th-14th Century AD
 
 This is a church that has suffered at the hands of 19th Century restorers.  Much of the masonry is medieval, but the windows were all renewed in the 19th Century.  The porch was added in 1722 and the north chapel in 1820.
 
@@ -22,9 +20,8 @@ The settlement was registered as Actune in the Domesday Book.
 - Sub-Image: 2019-07-13_09_52_11_DSC_4607_DxO.jpg
 - Sub-Image: 2019-07-13_09_53_10_DSC_4609_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1290 AD
 # Name: St Michael and All Angels, Alberbury
+- Date: 1290 AD
 
 The church is thought to have been founded between the 7th and 10th Centuries.  It was originally a Minster Church (Minster was the Anglo-Saxon version of a monastery, and was originally applied to churches served by monks / clergy living a communal life and endowed by a charter with the obligation of maintaining the daily office of prayer, but was not the seat of a bishop and the church had no diocesan responsibilities).
 
@@ -43,9 +40,8 @@ There are two wall-monuments to Sir Richard Lyster, who was MP for Shrewsbury in
 The place name derives from the Old English 'burh' (a fortified place) and the personal name Aluburg or Ealhburg.
 ![](../1shropshire/assets/images/churches/2020-07-24_15_40_42_DSC_7527_DxO_1.jpg)
 
-<!--Type: Item-->
-## Date: Before 1075 AD
 # Name: St Eata, Atcham
+- Date: Before 1075 AD
 
 This is the only church in England dedicated to St Eata of Hexham.
 
@@ -57,24 +53,21 @@ The church is constructed from red and grey sandstone and incorporates some larg
 
 The name Atcham is a contraction of Attingham, meaning "the home of Eata's people".
 ![](../1shropshire/assets/images/churches/2020-01-12_15_47_21_DSC_6211_DxO.jpg)
-
 - Sub-Image: 2020-01-12_15_52_57_DSC_6218_DxO.jpg
 - Sub-Image: 2020-01-12_15_55_16_DSC_6223_DxO.jpg
 - Sub-Image: 2020-01-12_15_55_58_DSC_6224_DxO.jpg
 - Sub-Image: 2020-01-12_15_57_40_DSC_6226_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1406 AD
 # Name: St Mary Magdalene, Battlefield
+- Date: 1406 AD
 
 The church was built just after the Battle of Shrewsbury as a chantry - a place of intercession and commemoration for those killed in the fighting.  The building is probably constructed over a mass burial pit as it is thought that some of the battle was fought at the place now known as Battlefield.
 
 The church was originally a collegiate church, the main duty of the community was to perform a daily liturgy for the dead.  The college and chantry were dissolved in 1548 and the building was used as a parish church.  The building, however, deteriorated and became unused, it has been subject to various restorations.
 ![](../1shropshire/assets/images/churches/2020-06-07_15_00_50_DSC_7256_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 14th Century AD
 # Name: St Milburga, Beckbury
+- Date: 14th Century AD
 
 Beckbury was included in the Domesday Book and the name means Beocca's Fort or defended place (Beocca being a personal name).
 
@@ -90,17 +83,36 @@ The chancel is possibly 14th Century, the nave and the tower were added in 1731.
 - Sub-Image: 2020-02-01_12_57_32_DSC_6324_DxO.jpg
 - Sub-Image: 2020-02-01_12_58_35_DSC_6325_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1858 AD
 # Name: St Margaret, Betton Strange
+- Date: 1858 AD
 
 A well-preserved memorial chapel built for the Scott family.
 ![](../1shropshire/assets/images/churches/2019-09-21_12_02_47_DSC_5090_DxO.jpg)
 - Sub-Image: 2019-09-21_11_41_02_DSC_5080_DxO.jpg
 
-<!--Type: Item-->
-## Date: 13th Century AD
+# Name: St John the Baptist, Bishop's Castle
+- Date: 13th Century AD
+
+Bishop's Castle is named from the castle built there by the Bishop of Hereford in circa 1127.
+
+The original church was built towards the end of the 13th century to serve the medieval town controlled by the Bishops of Hereford.  Only the tower remains of the original church (but this was rebuilt in 1648 after the church was badly damaged in 1645 during the Civil War).  The rest of the church was completely re-built in 1869-60 by Thomas Nicholson in the Victorian Gothic style.
+
+During the rebuild, an Early English (1180-1275) doorway was removed and is now in the wall of the vicarage garden.
+![](../1shropshire/assets/images/churches/2020-08-08_14_45_28_DSC_7980_DxO_bw.jpg)
+- Sub-Image: 2020-08-08_14_29_50_DSC_7952_DxO.jpg
+- Sub-Image: 2020-08-08_14_31_41_DSC_7954_DxO.jpg
+- Sub-Image: 2020-08-08_14_32_25_DSC_7956_DxO.jpg
+- Sub-Image: 2020-08-08_14_36_52_DSC_7965_DxO.jpg
+- Sub-Image: 2020-08-08_14_37_05_DSC_7966_DxO.jpg
+- Sub-Image: 2020-08-08_14_37_19_DSC_7967_DxO.jpg
+- Sub-Image: 2020-08-08_14_38_02_DSC_7969_DxO.jpg
+- Sub-Image: 2020-08-08_14_38_47_DSC_7972_DxO.jpg
+- Sub-Image: 2020-08-08_14_43_36_DSC_7978_DxO.jpg
+- Sub-Image: 2020-08-08_14_47_47_DSC_7983_DxO.jpg
+- Sub-Image: 2020-08-08_14_48_01_DSC_7984_DxO.jpg
+
 # Name: St Mary, Bitterley
+- Date: 13th Century AD
 
 The church dates mostly fron the Transitional period (when the Norman style was giving way to Early English style).
 
@@ -109,27 +121,24 @@ In the Dommsday book, the nearby manor is known as Buterlie (Butter Pasture).
 - Sub-Image: 2019-08-26_14_06_40_DSC_4867_DxO.jpg
 - Sub-Image: 2019-08-26_14_08_15_DSC_4868_DxO.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Leonard, Bridgnorth
+- Date: 12th Century AD
 
 Although not mentioned in the Domesday book, there is Anglo-Saxon and Norman stonework in the fabric of the church and so it is likely that an earlier church stood on the site of the present church.
 
 During the Civil War the Parliamentarians used the church to store ammunition, this was ignited by a cannon shot - the north aisle and part of the south aisle were destroyed.  The roof and nave were rebuilt in 1662, but the church was not fully restored until 1860.
 ![](../1shropshire/assets/images/churches/2019-09-21_14_42_09_DSC_5092_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1792 - 1795 AD
 # Name: St Mary Magdalene, Bridgnorth
+- Date: 1792 - 1795 AD
 
 The church was designed by Thomas Telford.
 
 It is aligned north-south, rather than the more usual west-east.
 ![](../1shropshire/assets/images/churches/2019-09-21_15_16_30_DSC_5116_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1720 AD
 # Name: Holy Trinity, Buildwas
+- Date: 1720 AD
 
 The name Buildwas may derive its name from the Saxon words "beild" or "belde" (a shelter). and "was" (water), surrounded as it is on three sides by hills and on the fourth by the river Severn.  Another view is that the name is from the Old English "waesse" which means "swamp" or "marsh" and is usually translated as "land by a meanering river which floods and drains quickly".
 
@@ -140,27 +149,24 @@ There has been a church on the present site since medieval times, the present ch
 Within the church are memorial tablets to members of two local families who were closely linked to the Industrial Revolution.  In the churchyard, there are some unusual cast iron headstones and tombstones, which were cast locally.
 ![](../1shropshire/assets/images/churches/2020-07-19_15_28_15_DSC_7461_DxO_1.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Mary, Burford
+- Date: 12th Century AD
 
 The church comprises a mixture of medieval and Victorian elements; the chancel is 12th Century the nave and tower are later and date from the 14th Century.  In 1889-90 the church was extensively restored by Aston Webb, an English architect who designed the principal facade of Buckingham Palace and the main building of the Victoria and Albert Museum.
 
 The Old English name means "Ford by the Fort".
 ![](../1shropshire/assets/images/churches/2019-08-26_15_36_44_DSC_4915_DxO.jpg)
 
-<!--Type: Item-->
-# Date: 1276 AD
 # Name: St Michael, Cardeston
+- Date: 1276 AD
 
 The church is known to have existed prior to 1276, as there is one window in the chancel in the present building from before that date.  By the 18th Century, the medieval church was in a poor state of repair and it was replaced by a new building in 1749, the building was significantly remodelled in 1844.
 
 The church is notable for its unusual tower as the square lower stage becomes octagonal above angle broaches.
 ![](../1shropshire/assets/images/history/2020-07-11_12_51_11_DSC_7384_DxO_bw.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St James, Cardington
+- Date: 12th Century AD
 
 The presence of a church on the site is recorded in the Domesday Book.  In 1167, the village, including the church, was given to the Knights Templar (and was known as Templars' Cardington, allowing the people to share the privileges of the Knights).  It remained in their possession until 1308 (when the order was supressed).  The Knights were responsible for starting the building of the present church in the later part of the 12th Century.  During the following century the chancel was rebuilt and extended, and the tower was added.  Further additions and alterations were made during the following three centuries, followed by the porch in 1639.
 
@@ -184,9 +190,8 @@ Judge Leighton was known as "the hanging judge" (as was Judge Jeffries) as he co
 - Sub-Image: 2020-02-08_12_22_49_DSC_6367_DxO.jpg
 - Sub-Image: 2020-02-08_12_29_55_DSC_6371_DxO.jpg
 
-<!--Type: Item-->
-## Date: 14th Century AD
 # Name: St Peter, Chelmarsh
+- Date: 14th Century AD
 
 The place name is thought to derive from the Old English Cegel, meaning pole, as it is believed that the marsh may have been marked out by posts.
 
@@ -194,9 +199,8 @@ Although there is evidence of a Norman church existing on the site, the present 
 ![](../1shropshire/assets/images/churches/2020-05-30_12_45_31_DSC_7207_DxO.jpg)
 - Sub-Image: 2020-05-30_12_49_48_DSC_7212_DxO.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Michael the Archangel, Chirbury
+- Date: 12th Century AD
 
 An Anglo-Saxon church was founded circa 915 when a fort was built on the site.  The current building dates from the 12th Century.  The aisles and arcades were added in the 13th Century - the arcades noticeably lean outwards.  The tower was constructed around 1300 and the chancel was added in 1733.  The church was restored in 1871-72.  The tower and body of the church were constructed using limestone rubble with pink sandstone ashlar dressings and slate roofs.  The chancel is red brick with a tiled roof.
 
@@ -222,9 +226,8 @@ The church was reformed into the church of the Augustinian Priory at Chirbury wh
 - Sub-Image: 2020-03-14_14_41_31_DSC_6818_DxO.jpg
 - Sub-Image: 2020-03-14_14_46_07_DSC_6820_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1773 AD 
 # Name: St Edith, Church Pulverbatch
+- Date: 1773 AD 
 
 The name Pulverbatch means the valley of the river Pulre.  The village of Church Pulverbatch is also known as Churton.  The manor is recorded in the Domesday book as Polrebec.
 
@@ -236,9 +239,8 @@ The churchyard contains a number of tombs of interest, including an urn shaped t
 - Sub-Image: 2020-06-27_13_58_21_DSC_7342_DxO.jpg
 - Sub-Image: 2020-06-27_13_58_53_DSC_7343_DxO.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Laurence, Church Stretton
+- Date: 12th Century AD
 
 The Domesday book makes reference to a church in the Manor existing before the Norman conquest, most likely a small wooden building.
 
@@ -259,9 +261,8 @@ The church was extended in circa 1214 AD - a new chancel, transcepts in the form
 - Sub-Image: 2020-02-08_15_36_12_DSC_6518_DxO.jpg
 - Sub-Image: 2020-02-08_15_36_29_DSC_6519_DxO.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: All Saints, Claverley
+- Date: 12th Century AD
 
 The church can trace its origins back to the 7th Century (Saxon), however, the present church dates from the 12th Century.
 
@@ -274,18 +275,16 @@ The church is noted for the medieval wall paintings which have been dated to cir
 The name Claverley means 'clover meadow'.
 ![](../1shropshire/assets/images/churches/2020-05-30_11_09_24_DSC_7181_DxO.jpg)
 
-<!--Type: Item-->
-## Date: Saxon / Norman
 # Name: St Margaret, Clee St Margaret
+- Date: Saxon / Norman
 
 The name of the village derives from the Old English 'cleo' (clee) meaning a ball, used in this case to mean a ball-shaped hill (referring to the distictive shape of the Clee Hills) and the saint to which the church is dedicated.
 
 The exact date of the church is unknown, although there was probably a Saxon church on the site.  The most notable feature of the present building is the extensive herring-bone masonry.
 ![](../1shropshire/assets/images/churches/2020-07-17_13_44_05_DSC_7415_DxO_1.jpg)
 
-<!--Type: Item-->
-## Date: 1854 AD
 # Name: St Luke, Coalbrookdale
+- Date: 1854 AD
 
 With the support of the Darbys a new church was planned for the village of Coalbrookdale.  The foundation stone was laid by Abraham's wife, Matilda Frances, on 11th December 1851 and the completed building was consecrated by the Bishop of Hereford on 25th July 1854.
 
@@ -294,9 +293,8 @@ The church is notable because unusually a number of the gravemarkers were locall
 The most notable grave is that of Abraham Darby IV and his Wife Matilda.
 ![](../1shropshire/assets/images/churches/2020-01-12_12_48_52_DSC_6206_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Mary, Cleobury Mortimer
+- Date: 12th Century AD
 
 Cleobury passed to the Mortimer family (one of the great Marcher families) after the Norman conquest.
 
@@ -305,17 +303,15 @@ The church is largely Early English.  The arcades lean outwards and were first s
 The shingled spire is not quite symmetrical when seen from certain viewpoints.
 ![](../1shropshire/assets/images/churches/2019-04-19_15_28_58_DSC_4140_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1777 AD
 # Name: St Simon and St Jude, Cockshutt
+- Date: 1777 AD
 
 A plain brick building constructed to replace the medieval church (dedicated to St Helena) which fell into dis-repair. The church clock (made in 1789) is thought to be the only collaborative piece between two well-known Shropshire clockmakers - Bullock and Davies.
 ![](../1shropshire/assets/images/churches/2019-09-18_14_53_43_DSC_5075_DxO_L.jpg)
 - Sub-Image: 2019-09-18_14_55_20_DSC_5076_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1841 AD
 # Name: Christ Church, Cressage
+- Date: 1841 AD
 
 The name Cressage means "Christ's Oak", and so it is thought the village's location may be a very early Christian site (possibly an oak tree from where the gospel was preached).
 
@@ -324,16 +320,14 @@ There was a medieval church at Cressage, but it suffered repeated flooding from 
 The octagonal pulpit is made of panelling from St Samson's church (the old medieval church).
 ![](../1shropshire/assets/images/churches/2020-03-01_14_31_17_DSC_6656_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1863 AD
 # Name: St Mary, Crudgington
+- Date: 1863 AD
 
 Crudgington is mentioned in the Domesday Book, where it is called Crugetone.  The name derives from the old English of the village (tun) by the hill-hill, presumably referring to its proximity to the Wrekin.
 ![](../1shropshire/assets/images/churches/2020-02-02_11_58_18_DSC_6336_DxO_bw.jpg)
 
-<!--Type: Item-->
-## Date: 11th Century (or earlier) AD
 # Name: St Peter, Diddlebury
+- Date: 11th Century (or earlier) AD
 
 One of only about 20 churches in Shropshire mentioned in the Domesday book (under the manor of Corfham) and therefore of known Saxon origin.
 
@@ -344,34 +338,42 @@ The most striking internal feature is the herring-bone masonry in the north wall
 - Sub-Image: 2019-12-14_12_56_14_DSC_5992_DxO.jpg
 - Sub-Image: 2019-12-14_12_59_16_DSC_5995_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1840s AD
+# Name: St Edward, Dorrington
+- Date: 1845 AD
+
+The church was paid for by J T Hope of Netley Hall.  In the 1840s the Early English style was dominant in Shropshire, and this church conforms to that style.  The church is built of ashlar.
+
+The name Dorrington derives from the Old English Deoringtun meaning 'settlement (tun) associated with Deor(a)', Deor being a personal name.
+![](../1shropshire/assets/images/churches/2020-08-01_16_04_46_DSC_7772_DxO_bw.jpg)
+- Sub-Image: 2020-08-01_16_10_54_DSC_7781_DxO.jpg
+- Sub-Image: 2020-08-01_16_12_10_DSC_7782_DxO.jpg
+- Sub-Image: 2020-08-01_16_12_23_DSC_7785_DxO.jpg
+- Sub-Image: 2020-08-01_16_13_53_DSC_7787_DxO.jpg
+
 # Name: St Mary, Ellesmere
+- Date: 1840s AD
 
 Originally a medieval church of the which the tower and chancel chapels, but little else, remain, as by the 1840s the church was in a poor state.  Sir George Gilbert Scott was asked to advise and recommended that the dilapidated nave be rebuilt completely - this advice was accepted the present chchuch is largely his work.
 ![](../1shropshire/assets/images/churches/2019-09-18_12_13_46_DSC_5044_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1743 AD
 # Name: St Catherine, Eyton upon the Weald Moors
+- Date: 1743 AD
 
 The name Eyton upon the Weald Moors is derived from the Old English Eg-tun meaning settlement on an island or in land by a river, and Weald which means wild or waste moor.
 
 The church is built of red brick.  The apse was added in 1850 in the same style.
 ![](../1shropshire/assets/images/churches/2020-05-01_17_12_12_DSC_6980_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Thomas, Halford
+- Date: 12th Century AD
 
 The place name Halford means hawkers’ ford (hawker meaning travelling seller) - the Ford is across the river Onny that runs very close to the church.
 
 The church is of Norman origin, and was restored in 1848.  The chancel was totally rebuilt in 1887.
 ![](../1shropshire/assets/images/churches/2020-05-16_14_20_44_DSC_7073_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Luke, Hodnet
+- Date: 12th Century AD
 
 Noted for its tower which is entirely octagonal from top to bottom and the only tower of this type in Shropshire.  In 2006 the church was damaged by people apparently seeking clues in a search for the Holy Grail.
 
@@ -380,9 +382,8 @@ The church is constructed of sandstone.
 Hodnet's name has Celtic origins derived from the Welsh hawdd meaning pleasant or peaceful and nant, a glen or valley.
 ![](../1shropshire/assets/images/churches/2019-03-02_15_39_58_DSC_3481_DxO_L.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St John the Baptist, Hope Bagot
+- Date: 12th Century AD
 
 A small church in a delightful spot, it has an impressive Norman chancel arch.
 
@@ -392,9 +393,8 @@ Hope means an enclosed place or valley and Bagot is a derivation of Richard Baga
 ![](../1shropshire/assets/images/churches/2019-04-19_14_22_49_DSC_4113_DxO.jpg)
 - Sub-Image: 2019-04-19_14_33_15_DSC_4121_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1863 AD
 # Name: St Andrew, Hope Bowdler
+- Date: 1863 AD
 
 Hop(e) is the Middle English for valley.  The name Bowdler derives from the Norman name de Bulers.
 
@@ -403,9 +403,8 @@ Hope Bowdler is recorded in the Domesday book as Fordritishope.
 There was a medieval church on the site, this was replaced in 1863 by the present building.  The church is built of Soudley banded sandstone.  It was designed by Shrewsbury architect Samuel Pountney Smith.
 ![](../1shropshire/assets/images/churches/2020-05-16_15_58_18_DSC_7086_DxO_L4.jpg)
 
-<!--Type: Item-->
-## Date: 1490 AD
 # Name: St John the Baptist, Ightfield
+- Date: 1490 AD
 
 Mentioned in the Doomsday book as Istefelt, the name Ightfield may derive from the Old English "Ihtfeld" (Iht means creature and Feld means field), referring to the fact that the area was rural and farming was prevalent.  Alternatively, it is thought it could dervice from Giht, an ancient British river name.
 
@@ -416,18 +415,24 @@ The church has 15th Century origins and was partly rebuilt in the 19th Century (
 - Sub-Image: 2019-12-21_15_09_36_DSC_6049_DxO.jpg
 - Sub-Image: 2019-12-21_15_13_05_DSC_6052_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1837 AD
 # Name: St Luke, Ironbridge
+- Date: 1837 AD
 
 The area was originally part of the parish of Madeley, but with the growth of the population due to the bridge, it was thought necessary for Ironbridge to have its own church.
 
 The position of Ironbridge church is the reverse of the majority of churches, the sanctuary is at the west end and the tower at the east end.  This is because the land at the west end would not bear the weight of a tower.
 ![](../1shropshire/assets/images/churches/2020-01-12_12_15_40_DSC_6177_DxO_L.jpg)
 
-<!--Type: Item-->
-## Date: 15th Century AD
+# Name: St Mary, Jackfield
+- Date: 1863 AD
+
+The present church was build in 1863 to replace a chapel (dating from 1759).  The church was designed by Sir Arthur Blomfield and is considered to be the best of the four Shropshire churches he designed.  Blomfield was a prolific architect, and a leading figure in his profession.
+
+The church has an unusual bell-turret, the style is French Gothic which was in vogue in the 1860s.  The church is most noted for its tiles - there are both Maws and Craven Dunhill tiles in the building.
+![](../1shropshire/assets/images/churches/2020-07-31_07_21_07_DSC_7734_DxO_1.jpg)
+
 # Name: St Mary, Kinnerley
+- Date: 15th Century AD
 
 The mother church of all churches south of Oswestry.
 
@@ -442,25 +447,29 @@ The lower part of the tower is medieval and dates to the late 14th Century or ea
 - Sub-Image: 2020-01-18_12_43_58_DSC_6250_DxO.jpg
 - Sub-Image: 2020-01-18_12_48_52_DSC_6252_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1838-9 AD
 # Name: St Paul, Knowbury
+- Date: 1838-9 AD
 
 The original church was described as being a barn-like structure.  It was radically altered in 1884 to produce the current building mainly in the Decorated style.
 ![](../1shropshire/assets/images/churches/2019-04-19_14_12_06_DSC_4111_DxO.jpg)
-- Width: static
 - Sub-Image: 2019-04-19_14_01_24_DSC_4106_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1903 AD
+# Name: St Chad, Kynnersley
+- Date: 13th Century
+
+The original parts of the church are medieval.  The tower was added in 1722-23.
+
+The name of the village derives from the Old English personal name Cynheard and the Old English word leah, which meant forest clearing.  The place-name as a whole meant forest clearing belonging to Cynheard.
+![](../1shropshire/assets/images/churches/2020-08-07_14_27_49_DSC_7905_DxO.jpg)
+
 # Name: All Saints, Little Stretton
+- Date: 1903 AD
 
 The building is painted to look half-timbered.  However, the whole interior is wooden.
 ![](../1shropshire/assets/images/churches/2019-03-29_16_54_07_DSC_3761_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1847-1853 AD
 # Name: St Michael the Archangel, Llanyblodwel
+- Date: 1847-1853 AD
 
 The present church was the result of rebuilding the old medieval church in stages between 1847 and 1853 by the then vicar.  The almost detached steeple was designed and added in 1855-6 by the same vicar, he was convinced that the shape would be stronger than the usual hollow spire construction where the thickness of the straight sides diminishes towards the apex.  The height is 104 ft (tower 57 ft and spire 47 ft).
 
@@ -469,9 +478,8 @@ The place name means "an enclosure (especially a church or churchyard) by a spri
 - Sub-Image: 2019-08-03_11_40_25_DSC_4701_DxO.jpg
 - Sub-Image: 2019-08-03_11_40_49_DSC_4702_DxO.jpg
 
-<!--Type: Item-->
-## Date: Pre-1569 AD
 # Name: St Ruthen, Longden
+- Date: Pre-1569 AD
 
 The age of the church is unknown, but will have existed prior to 1569 as records from that year mention a chapel on the site.
 
@@ -481,20 +489,16 @@ This is the only church in England to be named after St. Ruthen - probably a Wel
 ![](../1shropshire/assets/images/churches/2019-08-31_15_51_47_DSC_4974_DxO.jpg)
 - Sub-Image: 2019-08-31_15_47_20_DSC_4969_DxO.jpg
 
-<!--Type: Item-->
-
-## Date: 1742 AD
 # Name: St Bartholomew, Longdon on Tern
+- Date: 1742 AD
 
 The name Longdon is derived from two Old English words, lang and dun, meaning long hill.  The settlement is also situated on the river Tern, a tributary of the river Severn.
 
 The church was significantly altered in 1854.
 ![](../1shropshire/assets/images/churches/2020-03-01_16_27_11_DSC_6708_DxO.jpg)
 
-<!--Type: Item-->
-
-## Date: 12th Century AD
 # Name: St Laurence, Ludlow
+- Date: 12th Century AD
 
 One of the greatest parish churches in England.
 
@@ -509,16 +513,14 @@ There was a massive rebuilding of the church between 1433 and 1471, much of whic
 - Sub-Image: 2020-01-04_15_11_18_DSC_6119_DxO.jpg
 - Sub-Image: 2020-01-04_15_13_36_DSC_6123_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1881 AD
 # Name: St John, Ludlow
+- Date: 1881 AD
 
 A suburban church built by Sir Arthur Blomfield (English architect).
 ![](../1shropshire/assets/images/churches/2019-07-13_13_17_24_DSC_4630_DxO.jpg)
 
-<!--Type: Item-->
-## Date: Circa 1200 AD
 # Name: Holy Trinity, Lydham
+- Date: Circa 1200 AD
 
 There was probably a Saxon church here as Lidum is mentioned in the Doomsday book.  The present church is of medieval origin, but was substantially rebuilt in 1642.
 
@@ -532,9 +534,8 @@ The origin of the name Lydham is unknowm, but may be the old English for "at the
 - Sub-Image: 2020-01-25_15_05_26_DSC_6293_DxO.jpg
 - Sub-Image: 2020-01-25_15_06_34_DSC_6294_DxO.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Peter, Melverley
+- Date: 12th Century AD
 
 Melverley means "meadow by the mill-ford".
 
@@ -547,32 +548,28 @@ It is noted for being one of just a small number of half timbered churches in th
 - Sub-Image: 2019-06-01_11_16_57_DSC_4422_DxO.jpg
 - Sub-Image: 2019-06-01_11_20_14_DSC_4424_DxO.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Bartholomew, Moreton Corbet
+- Date: 12th Century AD
 
 The Norman church was founded in about 1140 AD as a chapel attached to Shawbury.  Some parts of the Norman church remain, but the greater part of the church dates from the 14th Century.
 
 The church has an unusual triangular window, similar to one in Alberbury, which was another of the Corbet family's holdings.
 ![](../1shropshire/assets/images/churches/2018-09-29_15_40_02_DSC_2922_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1118 AD
 # Name: St Gregory, Morville
+- Date: 1118 AD
 
 The church retains almost all of the original Norman features and was constructed within the precincts of a Priory establishment.  This was destroyed in 1540 leaving the church as the parish place of worship.
 ![](../1shropshire/assets/images/churches/2019-07-12_14_56_05_DSC_4601_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1150 AD
 # Name: Holy Trinity Church, Much Wenlock
+- Date: 1150 AD
 
 Built by the Cluniac monks of Wenlock Priory.
 ![](../1shropshire/assets/images/churches/2019-08-23_14_52_22_DSC_4757_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Michael, Munslow
+- Date: 12th Century AD
 
 The church has its origins in the 12th Century, but has grown and been modified over the years.
 
@@ -591,9 +588,8 @@ The name Munslow derives from the old English hlaw (low) meaning tumulus or buri
 - Sub-Image: 2019-09-28_13_26_29_DSC_0007_DxO.jpg
 - Sub-Image: 2019-09-28_13_26_29_DSC_0009_DxO.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St John the Baptist, Myndtown
+- Date: 12th Century AD
 
 The church may even date back to before the 12th Century.  It is thought to be unique not just within Shropshire, but in the whole of England, in that it has not been the subject of Victorian restoration or alteration.  It is a simple and plain country church.
 
@@ -607,18 +603,16 @@ The name Myndtown literally means place or town by the mynd (mountain).  Myndtow
 - Sub-Image: 2020-03-21_13_56_46_DSC_6897_DxO.jpg
 - Sub-Image: 2020-03-21_13_57_23_DSC_6898_DxO.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Nicholas, Newport
+- Date: 12th Century AD
 
 Although the church dates back to the 12th Century, virtually nothing from this time survives.
 
 Externally the building is a medieval west tower and a Victorian church (both of red sandstone).
 ![](../1shropshire/assets/images/churches/2019-12-07_13_49_02_DSC02370_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 13th Century AD
 # Name: St Oswald, Oswestry
+- Date: 13th Century AD
 
 In 642 AD Oswald, the King of Northumbria who had previously converted to Christianity was killed by the pagan King Penda of Mercia in the Battle of Oswestry, as a result he rose to martyrdom.  He is thought to have been killed on the site of the church.
 
@@ -629,9 +623,8 @@ The church has a memorial to the Yale family - a descendant of the figures in th
 - Sub-Image: 2019-06-01_13_55_10_DSC_4469_DxO.jpg
 - Sub-Image: 2019-06-01_13_57_28_DSC_4473_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1727 AD
 # Name: St Raphael and St Isidore, Petton
+- Date: 1727 AD
 
 The present building was built in 1727 to replace the old medieval church.
 
@@ -640,9 +633,8 @@ Although the exterior is plain, the interior contains many items collected from 
 The name Petton is derived from the Old English "peac" meaning a knoll, a hill or a peak and tun meaning an enclosure, a farmstead, a village or an estate.
 ![](../1shropshire/assets/images/churches/2017-07-02_15_23_25_DSC01248_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1220 AD
 # Name: St Michael and All Angels, Pitchford
+- Date: 1220 AD
 
 The church founded and built by Ralph de Pitchford.
 
@@ -651,9 +643,8 @@ Noted for a solid oak carved tomb effigy (one of only three in the country) of a
 - Sub-Image: 2019-06-19_15_56_04_DSC_4539_DxO.jpg
 - Sub-Image: 2019-06-19_15_58_52_DSC_4540_DxO.jpg
 
-<!--Type: Item-->
-## Date: 14th Century AD
 # Name: St Chad, Prees
+- Date: 14th Century AD
 
 Prees is thought to be an ancient Celtic name meaning brushwood or grove.
 
@@ -661,9 +652,8 @@ The church is a mixture of styles, Gothic nave, 18th Century tower and Victorian
 ![](../1shropshire/assets/images/churches/2019-03-24_12_31_37_DSC_3619_DxO.jpg)
 - Sub-Image: 2019-03-24_12_20_27_DSC_3610_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1742 AD
 # Name: St Laurence, Preston-upon-the-Weald Moors
+- Date: 1742 AD
 
 The current church was built between 1739 and 1742 to replace the former church.  The chancel and vestry were added in 1853.
 
@@ -672,9 +662,8 @@ The name Preston upon the Weald Moors (24 letters) is one of the longest names o
 - Sub-Image: 2020-07-12_14_03_00_DSC_7403_DxO.jpg
 - Sub-Image: 2020-07-12_14_05_40_DSC_7404_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1209 AD
 # Name: St Margaret, Ratlinghope
+- Date: 1209 AD
 
 Ratlinghope is thought to mean "the valley of Rotel's people" and is set in some of the finest scenery in the county.
 
@@ -682,18 +671,16 @@ It is likely that most of the building is 17th Century as there are few traces o
 ![](../1shropshire/assets/images/churches/2019-05-06_15_49_10_DSC_4232_DxO.jpg)
 - Sub-Image: 2019-05-06_15_41_00_DSC_4228_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1291 AD 
 # Name: St Mary, Selattyn
+- Date: 1291 AD 
 
 The village is close to Offa's Dyke and the dyke bounds the parish on the west, the name derives from sulh and tun which means in Old English a plough(-land) farm/settlement, or perhaps, a gully farm/settlement and has also been modified by Welsh influence.
 
 The churchyard has a number of very old yew trees, suggesting that the site has been a place of Christian worship for over 1000 years.  However, the church itself is first mentioned in the Papal Tax records in 1291.  The church is noted for its 13th Century font and the barrel roof over the chancel, which is thought to be from the 14th Century.  The north and south transepts were added in 1821-28.  The church was extensively rebuilt in 1891-92.
 ![](../1shropshire/assets/images/churches/2020-06-20_14_33_42_DSC_7305_DxO_L.jpg)
 
-<!--Type: Item-->
-## Date: 1839 AD
 # Name: All Saints, Shelve
+- Date: 1839 AD
 
 The present church was built to replace a medieval structure and is built in the Early English style.  The church contains items from the former church, specifically the rood-beam above the sanctuary, the nine-sided font (which may be Norman) and some 17th Century panelling.
 
@@ -706,9 +693,8 @@ The place name likely derives from the fact it is situated on an area of relativ
 - Sub-Image: 2020-03-21_11_10_09_DSC_6848_DxO.jpg
 - Sub-Image: 2020-03-21_11_14_35_DSC_6852_DxO.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St James, Shipton
+- Date: 12th Century AD
 
 The nave and lower part of the tower date from the last 12th Century.  Noted for its Elizabethan chancel, as hardly any churches were built during the reign of Elizabeth I.
 
@@ -717,9 +703,8 @@ Shipton means "sheep farm".
 In the church there is a tablet recording the departure of four children of Samuel More on the Mayflower in 1620.
 ![](../1shropshire/assets/images/churches/2019-02-02_11_01_56_DSC_3120_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Mary, Shrewsbury
+- Date: 12th Century AD
 
 This church dominates Shrewsbury as was built at the highest point in the town and has a spire which is 222ft (one of the tallest in the country).
 
@@ -728,18 +713,16 @@ The church was largely transformed into its present state in the 12th Century (w
 St Mary's is considered to have one of the finest collections of stained glass in the country, largely brought in from elsewhere.
 ![](../1shropshire/assets/images/churches/2019-03-31_12_54_19_DSC_3856_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Chad (old), Shrewsbury
+- Date: 12th Century AD
 
 St Chad's may well be the oldest church in Shrewsbury, possibly originating in the 7th Century.
 
 In 1788 the tower collapsed and all that remains is the south chancel chapel.
 ![](../1shropshire/assets/images/churches/2019-03-31_12_31_38_DSC_3838_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1475 AD
 # Name: St Alkmund, Shrewsbury
+- Date: 1475 AD
 
 St Alkmund died circa 802 AD, he was the younger son of Alhred (king of Northumbria) at Lilleshall, his relics were removed to the collegiate church dedicated to him at Derby.  This church in Shrewsbury was also founded as a collegiate church in 912 AD by Aethelflaed, daughter of Alfred the Great, king of Mercia.  By the time of the Domesday survey, the church was substantially endowed.  However, when Lilleshall Abbey was established in 1148 AD, the church became an poor vicarage as property was transferred to Lilleshall.
 
@@ -750,9 +733,8 @@ The original medieval church is thought to have been a very fine example.  Howev
 The present tower and spire were built around 1475 AD.  The rest of the present church is Georgian.
 ![](../1shropshire/assets/images/churches/2018-07-14_12_53_39_DSC_2794_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1792 AD
 # Name: St Chad (new), Shrewsbury
+- Date: 1792 AD
 
 St Chad was the first Bishop of Mercia, he was canonised in 779 AD.
 
@@ -765,25 +747,22 @@ This church is considered to be the finest 18th Century church in Shropshire.  T
 - Sub-Image: 2019-12-22_11_56_02_IMG_6218.jpg
 - Sub-Image: 2019-12-22_11_37_34_IMG_6206.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Julian, Shrewsbury
+- Date: 12th Century AD
 
 This church is one of the four Saxon foundations in Shrewsbury.  The tower dates from the 12th Century whereas the present nave was designed by Thomas Farnolls Pritchard who also designed the Iron Bridge at Telford.  Pritchard was born in Shrewsbury and baptised in St Julian's Church on 11 May 1723.
 ![](../1shropshire/assets/images/churches/2019-10-04_13_26_29_DSC_0039_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1863 AD
 # Name: Congregational Church, Shrewsbury
+- Date: 1863 AD
 
 Originally known as the Abbey Foregate Congregational Church (a church in which each congregation independently and autonomously runs its own affairs).  The site was bought in 1872 and worship began, immediately.  Work on the building started at once and the foundation stone was laid in 1863.
 
 In 1972 the church became a United Reformed Church.
 ![](../1shropshire/assets/images/churches/2018-11-02_14_08_55_DSC_2945_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Michael & All Angels, Smethcott
+- Date: 12th Century AD
 
 Although not mentioned in any records before 1341, the building does retain some 12th Century features.  Over the years the church fell into disrepair and was rebuilt in 1850.
 
@@ -791,17 +770,19 @@ Smethcott means "the smith's cottage".
 ![](../1shropshire/assets/images/churches/2019-02-23_12_50_01_DSC_3417_DxO.jpg)
 - Sub-Image: 2019-02-23_12_46_49_DSC_3414_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1872 AD
 # Name: St Luke, Snailbeach
+- Date: 1872 AD
 
 A somewhat austere chapel.
+
+The word Beach is derived from the Old English Baece (stream) or Bache (a steep wooded narrow valley).
+
 ![](../1shropshire/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO_L.jpg)
+
 - Sub-Image: 2019-05-06_11_37_16_DSC_4154_DxO.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St John the Baptist, Stapleton
+- Date: 12th Century AD
 
 Stapleton is an ancient manor recorded in the Domesday book as Hundeslit (from the personal name Hund and the Old English for hill-side.  The present name is derived from steep-place farm/settlement (stepel and tun).
 
@@ -812,9 +793,8 @@ The tower was added in 1832, it is unknown when the two storey were converted in
 The church organ is among the top six hundred in the country and there is a small tapestry piece in the nave said to have been worked by Mary, Queen of Scots.
 ![](../1shropshire/assets/images/churches/2020-06-27_13_14_46_DSC_7327_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1874-1875 AD
 # Name: St Peter, Stoke on Tern
+- Date: 1874-1875 AD
 
 The manor at Stoke on Tern was once very prosperous (being valued at 7 pounds at the time of the Domesday book, more than most Shropshire manors).
 
@@ -823,18 +803,16 @@ The medieval church was rebuilt in the 1870s as it was in much need of restorati
 The name of the place derives from the Old English "stoc" (meaning a place or a secondary settlement) and the nearby river Tern.
 ![](../1shropshire/assets/images/churches/2020-02-23_15_09_35_DSC_6521_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 13th Century
 # Name: St Milburgh, Stoke St Milborough
+- Date: 13th Century
 
 The church dates back to the 13th Century, but likely has Saxon origins.  This is one of nine churches connected with Wenlock Abbey.  It is noted for its handsome ceiling and rare water leaf decoration.
 
 The name of the village is derived from the Old English 'stoc' meaning a place or secondary settlement and the saint to which the church is dedicated (St Milburga).  The village was known in Saxon times as Godstoke.
 ![](../1shropshire/assets/images/churches/2020-07-17_14_32_13_DSC_7438_DxO_1.jpg)
 
-<!--Type: Item-->
-## Date: 1150 AD
 # Name: St John the Baptist, Stokesay
+- Date: 1150 AD
 
 The original church was built around 1150 as a chapel to the nearby castle.  The original church was destroyed during the English Civil War; the current church is a rare example of a church extensively rebuilt during the Puritan period (1654) although some Norman features survive.
 
@@ -845,9 +823,16 @@ The name of Stokesay is derived from the old English "stoc" meaning a place or s
 - Sub-Image: 2019-08-23_12_43_08_DSC_4710_DxO.jpg
 - Sub-Image: 2019-08-23_12_43_52_DSC_4711_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1410 AD
+# Name: All Saints, Tibberton
+- Date: 1842 AD
+
+A small plain Early English style church built of sandstone ashlar.  The church was designed by J Baddeley.
+
+The name of the village means 'Tidbeorht's farm/settlement', from a personal name and the Old English tun (meaning an enclosure or farmstead).
+![](../1shropshire/assets/images/churches/2020-08-07_15_21_42_DSC_7934_DxO.jpg)
+
 # Name: St Bartholomew, Tong
+- Date: 1410 AD
 
 Sometimes referred to as the "Westminster Abbey of the Midlands"; the church is noted for its architecture which includes a fan vaulted side chapel (which is rare in Shropshire) and its numerous tombs.
 
@@ -861,18 +846,16 @@ The name Tong is derived from the old English "tweonga" meaning a pinched piece 
 - Sub-Image: 2019-09-01_14_04_32_DSC_5026_DxO.jpg
 - Sub-Image: 2019-09-01_14_05_46_DSC_5027_DxO.jpg
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Michael, Upton Cressett
+- Date: 12th Century AD
 
 The body of the church dates from the second half of the 12th Century.  The church is noted for the quality of the Norman arches.
 
 The name is derived from the old English meaning higher farm or settlement (Upton) and the family name.
 ![](../1shropshire/assets/images/churches/2019-02-02_12_34_34_DSC_3159_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Lucy, Upton Magna
+- Date: 12th Century AD
 
 Magna is Latin, meaning "great", so the translation of Upton Magna is "Great Upton".
 
@@ -881,9 +864,8 @@ The nave and chancel are originally Norman, as is the south doorway of the Nave.
 This church is the only one in Shropshire dedicated to St Lucy (a Christian martyr who died during the Diocletianic Persecution - the last and most severe persecution of Christians in the Roman Empire).
 ![](../1shropshire/assets/images/churches/2020-03-01_15_22_17_DSC_6668_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1789-1790 AD
 # Name: All Saints, Wellington
+- Date: 1789-1790 AD
 
 The present church was built to replace a medieval one which was damaged during the Civil War.  The church was designed by George Steuart who was also responsible for St Chad's in Shrewsbury - All Saints being built a little earlier and is less impressive than St Chad's.  No extensions have been added, but the interior has been modified on a number of occasions.
 
@@ -892,9 +874,8 @@ This was the first Shropshire church to introduce an entrance front in the form 
 There is mention of a priest at the site in the Domesday book.  The origin of the name of the town is uncertain, but is likely to mean farm or settlement of a Saxon settler - Weola.
 ![](../1shropshire/assets/images/churches/2020-07-26_17_00_10_DSC_7577_DxO_1.jpg)
 
-<!--Type: Item-->
-## Date: 1860s AD
 # Name: St Michael and All Angels, Welshampton
+- Date: 1860s AD
 
 The present church was preceeded by a Saxon or Norman church, a medieval building dating from 1391 and church built in 1788 which became inadequate for the needs of the parish and fell into disrepair.  In 1861 a new building was commissioned from the leading architect of the day Sir George Gilbert Scott.  The walls are of yellow sandstone ashlar; the church has a slate roof which has a lozenge pattern over the nave and a zig-zag pattern over the chancel.
 
@@ -903,18 +884,16 @@ Welshampton is recorded in the Domesday book as Hantone, meaning high farm or se
 An African prince is buried in the churchyard - the then vicar was as offered a post in Lesotho, which he turned down but maintained contact with the country.  The prince came to England to train as a priest and visited Welshampton when the new church was consecrated in 1863, but during the visit he caught a fever and died and so was buried at the church.
 ![](../1shropshire/assets/images/churches/2019-07-21_13_20_12_DSC_4685_DxO_L.jpg)
 
-<!--Type: Item-->
-## Date: 14th Century AD
 # Name: St Peter & St Paul, Wem
+- Date: 14th Century AD
 
 The church has been rebuilt at least three times - the 14th Century tower is probably the only structure that survived the great fire of Wem in 1677.
 
 Wem (or wemm) is the Old English for "a marshy place".
 ![](../1shropshire/assets/images/churches/2019-03-02_14_14_43_DSC_3474_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1712 AD
 # Name: St Alkmund, Whitchurch
+- Date: 1712 AD
 
 Whitchurch is the oldest continually inhabited town in Shropshire.
 
@@ -926,36 +905,32 @@ The present church was built on the same site, this time of red sandstone.
 ![](../1shropshire/assets/images/churches/2019-02-09_14_13_23_DSC_3263_DxO.jpg)
 - Sub-Image: 2019-10-12_12_53_36_DSC_5357_DxO.jpg
 
-<!--Type: Item-->
-## Date: 1747 AD
 # Name: St John the Baptist, Whittington
+- Date: 1747 AD
 
 The medieval church associated with the castle is long gone and was replaced in the 18th Century by the present building.  The tower was built in 1747 and the nave followed in 1804.  Further changes to the building were made in 1894.
 
 Whittington was once a place of some importance.  The Welsh form of the place name is Drefwen, which means white homestead.  The English form of the name, Wittone, also means white homestead.
 ![](../1shropshire/assets/images/churches/2020-06-20_13_20_00_DSC_7266_DxO_L.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Peter, Wrockwardine
+- Date: 12th Century AD
 
 The church is mentioned in the Domesday book and so is thought to be of Saxon origin.  The current church is of Norman origin (with modifiications being made in the 14th Century).  The plan of the church forms a cruciform with the tower at the cross point, a less common layout (when compared with the more usual configuration of siting the tower at the east or west end of the building).
 
 The name Wrockwardine is derived from the words meaning "enclosure or settlement by the Wrekin" - Wrekin is the British name for Wroxeter (and is the name given to the nearby hill).
 ![](../1shropshire/assets/images/churches/2020-03-01_16_09_46_DSC_6695_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 12th Century AD
 # Name: St Andrew, Wroxeter
+- Date: 12th Century AD
 
 This church is likely more steeped in history than any other in Shropshire.
 
 Masonry from the Roman fort of Viroconium was plundered for the construction of the church.
 ![](../1shropshire/assets/images/churches/2019-03-10_11_42_17_IMG_9737_DxO.jpg)
 
-<!--Type: Item-->
-## Date: 1861 AD
 # Name: Holy Trinity, Yockleton
+- Date: 1861 AD
 
 Yockleton became a parish in it's own right in the 19th Century, and those who lived in Yockleton and the surrounding areas decided to build their own Church.  The land on which the Church stands was donated by Col. Wingfield of Onslow, a local landowner.
 

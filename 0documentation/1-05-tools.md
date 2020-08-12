@@ -82,10 +82,6 @@ DB Browser (SQLite) is installed with no additional configuration.
 
     <img src="images/screen14.jpg" width="600"/>
 
-2. Set up the categories as shown below:
-
-    <img src="images/screen15.jpg" width="600"/>
-
 3. Configure the toolbar as shown below:
 
     <img src="images/screen16.jpg" width="600"/>
@@ -106,7 +102,7 @@ DB Browser (SQLite) is installed with no additional configuration.
 
     Enable thumbnail caching
 
-    Paths (the catalogue database is located in the GitHub repository)
+    Paths (the other files are located in the GitHub repository)
 
     <img src="images/screen17.jpg" width="500"/>
 
