@@ -70,4 +70,23 @@ GetNextItem() {
   Return b
 }
 
+GetNextObjectValue() {
+	k := This.GetNextItem()
+	if k = #EndObject
+	{
+	  return "#EndObject"
+	}
+	if k = #StartObject
+	{
+		k := This.GetNextItem()
+	}
+	if k = #NextPair
+	{
+		k := This.GetNextItem()
+	}
+  s := This.GetNextItem()
+  v := This.GetNextItem()
+  return v
+}
+
 }

@@ -61,6 +61,16 @@ GetField(pCommand) {
   Return retJSON
 }
 
+GetFields(pCommand) {
+	global
+	cmd := This._curl
+	cmd := cmd . " """ . This._url . pCommand . "&" . This._key . "&" . This._token . """ -o """ . This._outputJSON . """"
+  RunWait, %cmd%, , Hide
+  tmpJSON := This._outputJSON
+  FileRead, retJSON, %tmpJSON%
+  return retJSON
+}
+
 AddURLAttachmentToCard(pCardID, pHREF) {
   cmd := This._curl . " --request POST "
   cmd := cmd . """" . This._url . "cards/" . pCardID . "/attachments" . "?" . This._key . "&" . This._token . "&url=" . pHREF . """ -o """ . This._outputJSON . """"

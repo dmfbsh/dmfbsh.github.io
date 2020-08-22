@@ -3,6 +3,7 @@
 #Include %A_ScriptDir%\Class_SQLiteDB.ahk
 #Include %A_ScriptDir%\Class_Trello.ahk
 #Include %A_ScriptDir%\Class_KML.ahk
+#Include %A_ScriptDir%\Class_JSON.ahk
 
 IniRead, tmpPath, %A_ScriptDir%\Shropshire Churches.ini, Paths, TempFolder
 
@@ -40,6 +41,8 @@ TrelloAPI.SetTmpJSONFile(tmpJSON)
 
 KMLAPI := new KMLFile
 
+JSONAPI := new JSON
+
 DB := new SQLiteDB
 DB.OpenDB(ChurchesDB)
 
@@ -61,7 +64,7 @@ Menu, FilterMenu, Add, Yellow Plus Ticked, MenuYellowPlusTicked
 Menu, FilterMenu, Add, Green Plus, MenuGreenPlus
 Menu, ProjectMenu, Add, Generate GPX, MenuGenerateGPX
 Menu, ProjectMenu, Add
-Menu, ProjectMenu, Add, Import from KML, MenuImport
+Menu, ProjectMenu, Add, Import KML, MenuImport
 Menu, ProjectMenu, Add
 Menu, ProjectMenu, Add, Compare Trello, MenuCompareTrello
 ;Menu, ProjectMenu, Add
@@ -73,25 +76,25 @@ Menu, MyMenuBar, Add, File, :FileMenu
 Menu, MyMenuBar, Add, Filter, :FilterMenu
 Menu, MyMenuBar, Add, Project, :ProjectMenu
 Menu, MyMenuBar, Add, Help, :HelpMenu
-Gui, Menu, MyMenuBar
+Gui, 1:Menu, MyMenuBar
 
-Gui +Resize +MinSize450x410
+Gui, 1: +Resize +MinSize450x410
 
-Gui, Add, ListBox, vChurchList gChurchList w200 h385, Empty|Null
+Gui, 1:Add, ListBox, vChurchList gChurchList w200 h385, Empty|Null
 GuiControl, , ChurchList, %gChurches%
 
-Gui, Add, Text, x215 y5 section w120 h20, Status:
-Gui, Add, DropDownList, ys vStatus1 gStatus1 w196 h180, blue plus|yellow plus|yellow plus ticked|green plus
+Gui, 1:Add, Text, x215 y5 section w120 h20, Status:
+Gui, 1:Add, DropDownList, ys vStatus1 gStatus1 w196 h180, blue plus|yellow plus|yellow plus ticked|green plus
 
-Gui, Add, Text, x215 y25 section w120 h20,
-Gui, Add, Text, ys w400 h20, Avoid using ampersand in the text below.
+Gui, 1:Add, Text, x215 y25 section w120 h20,
+Gui, 1:Add, Text, ys w400 h20, Avoid using ampersand in the text below.
 
-Gui, Add, Text, x215 y45 section w120 h20, Notepad:
-Gui, Add, Edit, ys vOverview +Wrap w400 h160,
+Gui, 1:Add, Text, x215 y45 section w120 h20, Notepad:
+Gui, 1:Add, Edit, ys vOverview +Wrap w400 h160,
 
-Gui, Add, StatusBar, ,
+Gui, 1:Add, StatusBar, ,
 
-Gui, Show, w750 h410, Shropshire Churches
+Gui, 1:Show, w750 h410, Shropshire Churches
 
 SB_SetParts(200)
 SB_SetText("Number of Churches: " . gNumChurches, 1)
@@ -109,11 +112,11 @@ GuiClose:
 	ExitApp
 
 Status1:
-	Gui, Submit, NoHide
+	Gui, 1:Submit, NoHide
   Return
 
 ChurchList:
-	Gui, Submit, NoHide
+	Gui, 1:Submit, NoHide
 	argChurch := ChurchList
 ; This bit of code returns the index number rather than the value
 ;	GuiControl, +AltSubmit, PlaceList
@@ -125,7 +128,7 @@ ChurchList:
   Return
 
 MenuSave:
-	Gui, Submit, NoHide
+	Gui, 1:Submit, NoHide
 	if StrLen(argChurch) <> 0
 	{
 		GuiValues()
@@ -395,31 +398,91 @@ CompareTrello() {
     RCC := RecordSetC.Next(RowC)
     if (RCC > 0)
     {
-      SB_SetText(RowC[2], 2)	
-      tListID  := TrelloAPI.GetField("cards/" . RowC[1] . "/idList")
+    	lID       := RowC[1]
+      lName     := RowC[2]
+      lStatus1  := RowC[3]
+  lListID := ""
+  switch lStatus1
+  {
+	  case "blue plus": lListID := list1
+	  case "yellow plus": lListID := list2
+	  case "yellow plus ticked": lListID := list3
+	  case "green plus": lListID := list4
+  }
+      lOverview := RowC[4]
+      SB_SetText(lName, 2)
+      tmpJSON := TrelloAPI.GetFields("cards/" . RowC[1] . "?fields=idList,desc,name")
+      JSONAPI.SetJSON(tmpJSON)
+      tID       := JSONAPI.GetNextObjectValue()
+      tListID   := JSONAPI.GetNextObjectValue()
+      tOverview := JSONAPI.GetNextObjectValue()
+      tName     := JSONAPI.GetNextObjectValue()
+      	
+;      tListID  := TrelloAPI.GetField("cards/" . RowC[1] . "/idList")
       tStatus1 := GetListSymbol(tListID)
-      if (RowC[3] <> tStatus1)
+
+      diff := false
+      if (lStatus1 <> tStatus1)
       {
-      	tN := RowC[2]
-      	MsgBox, Card is in the wrong column: %tN%
+;      	tN := RowC[2]
+;      	MsgBox, Mismatched status: %tN%
+      diff := true
       }
-      tOverview := TrelloAPI.GetField("cards/" . RowC[1] . "/desc")
-      if (RowC[4] <> tOverview)
+;      tOverview := TrelloAPI.GetField("cards/" . RowC[1] . "/desc")
+      if (lOverview <> tOverview)
       {
-      	tN := RowC[2]
-      	MsgBox, Card has mismatched descriptions: %tN%
+;      	tN := RowC[2]
+;      	MsgBox, Mismatched descriptions: %tN%
+      diff := true
       }
-      tName := TrelloAPI.GetField("cards/" . RowC[1] . "/name")
-      if (RowC[2] <> tName)
+;      tName := TrelloAPI.GetField("cards/" . RowC[1] . "/name")
+      if (lName <> tName)
       {
-      	tN := RowC[2]
-      	MsgBox, Card has mismatched names: %tN%
+;      	tN := RowC[2]
+;      	MsgBox, Mismatched names: %tN%
+      diff := true
       }
+
+  if (diff)
+  {
+  Gui, SyncTrello:Add, Text, x5 y5 w300 h20, Database
+  Gui, SyncTrello:Add, Text, x310 y5 w300 h20, Trello
+  Gui, SyncTrello:Add, Edit, x5 y25 w300 h20, %lName%
+  Gui, SyncTrello:Add, Edit, x310 y25 w300 h20, %tName%
+  Gui, SyncTrello:Add, Edit, x5 y45 w300 h20, %lStatus1%
+  Gui, SyncTrello:Add, Edit, x310 y45 w300 h20, %tStatus1%
+  Gui, SyncTrello:Add, Edit, x5 y65 w300 h100, %lOverview%
+  Gui, SyncTrello:Add, Edit, x310 y65 w300 h100, %tOverview%
+	Gui, SyncTrello:Add, Button, xm section w120 h20, Database to Trello
+  Gui, SyncTrello:Add, Button, ys w120 h20, Trello to Database
+  Gui, SyncTrello:Add, Button, ys w60 h20, Cancel
+  Gui, SyncTrello:Show, w620 h200, Sync Database and Trello
+  Gui, SyncTrello:Default
+  WinWaitClose, Sync Database and Trello
+	Gui, 1:Default
+  }
     }
   }	Until RCC < 1
   RecordSetC.Free()
   SB_SetText("", 2)	
 }
+
+SyncTrelloButtonDatabasetoTrello:
+	MsgBox, %lID%
+	MsgBox, %lName%
+	MsgBox, %lListID%
+	MsgBox, %lOverview%
+	
+;	TrelloAPI.UpdateCard(NTrelloID, "idList=" . listID)
+;	TrelloAPI.UpdateCard(NTrelloID, "desc=" . NOverview)
+  Return
+
+SyncTrelloButtonTrellotoDatabase:
+  Return
+
+SyncTrelloButtonCancel:
+	Gui, SyncTrello:Destroy
+  Return
 
 CreateAllChurchCards() {
 	global
