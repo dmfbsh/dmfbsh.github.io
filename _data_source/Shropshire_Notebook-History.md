@@ -916,6 +916,14 @@ A number of quarries have existed on Titterstone Clee Hill.  Dhustone or basalt 
 Richard Munslow is believed to be the last known 'sin-eater' in England.
 ![](../1shropshire/assets/images/history/2019-05-06_15_36_39_DSC_4221_DxO.jpg)
 
+# Name: Weir Built in the Shrewsbury Loop (the Middle Severn)
+- Date: 1909 AD
+
+The River Severn was a busy route for carrying raw materials and goods.  Up to the Victorian times the river was usually deep enough for the barges.  But throughout the 19th Century abstraction of water for domestic, agricultural and industrial use increased, reducing water levels such that by the early 20th century navigation with barges was impossible to manage with any reliability.
+
+The weir at Shrewsbury was built in 1909 to keep the water level at a depth suitable for pleasure boats around the loop.
+![](../1shropshire/assets/images/history/2020-08-21_14_12_51_DSC_8144_DxO_1.jpg)
+
 # Name: RAF Shawbury
 - Date: 1917 AD
 

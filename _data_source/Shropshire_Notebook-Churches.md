@@ -952,6 +952,14 @@ The church has been rebuilt at least three times - the 14th Century tower is pro
 Wem (or wemm) is the Old English for "a marshy place".
 ![](../1shropshire/assets/images/churches/2019-03-02_14_14_43_DSC_3474_DxO.jpg)
 
+# Name: St Mary, Westbury
+- Date: 13th or 14th Century
+
+The medieval chancel was pulled down in 1753 and rebuilt.  The tower was also rebuilt at this time as the previous tower collapsed in 1753.  The church is noted for its roof structure in the aisle and nave, said to be the oldest roof of its type in the country, dendrochronolgy dates the timbers to 1342.  It is the trussed rafters and the collar-beams on the arched braces that make this roof special.  A grant from English Heritage has paid for substantial repairs.
+
+The name of the village derives from the Old English west and burh meaning a fortified place, i.e. a fortified place in the west.  It was an outpost of Wroxeter Roman City, also close to Caus Castle which was a border stronghold.
+![](../1shropshire/assets/images/churches/2020-08-22_13_35_52_DSC_8170_DxO.jpg)
+
 # Name: St Alkmund, Whitchurch
 - Date: 1712 AD
 

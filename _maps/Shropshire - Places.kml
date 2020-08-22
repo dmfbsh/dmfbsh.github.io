@@ -676,6 +676,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Shrewsbury Weir</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7396126,52.7126514,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>HHA - Aldenham Park</name>
