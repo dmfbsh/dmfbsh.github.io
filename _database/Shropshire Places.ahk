@@ -28,11 +28,13 @@ gNumPlaces := 0
 
 NIsOnMapChanged := false
 NIsOnTPEChanged := false
+NVisitedChanged := false
 LHREF           := ""
 LOverview       := ""
 
 NIsOnMap  := false
 NIsOnTPE  := false
+NVisited  := false
 NHREF     := ""
 NOverview := ""
 NTrelloID := ""
@@ -40,6 +42,7 @@ NAttID    := ""
 	
 IDIsOnMap := ""
 IDIsOnTPE := ""
+IDVisited := ""
 
 TrelloAPI := new Trello
 TrelloAPI.SetTmpJSONFile(tmpJSON)
@@ -88,19 +91,22 @@ Gui +Resize +MinSize450x410
 Gui, Add, ListBox, vPlaceList gPlaceList w200 h385, Empty|Null
 GuiControl, , PlaceList, %gPlaces%
 
-Gui, Add, Text, x215 y5 section w120 h20, Is on map?:
+Gui, Add, Text, x215 y5 section w120 h20, Is on map?
 Gui, Add, CheckBox, ys vCBIsOnMap,
 
-Gui, Add, Text, x215 y25 section w120 h20, Is on TPE?:
+Gui, Add, Text, x215 y25 section w120 h20, Is on TPE?
 Gui, Add, CheckBox, ys vCBIsOnTPE,
 
-Gui, Add, Text, x215 y45 section w120 h20, HREF:
+Gui, Add, Text, x215 y45 section w120 h20, Visited?
+Gui, Add, CheckBox, ys vCBVisited,
+
+Gui, Add, Text, x215 y65 section w120 h20, HREF:
 Gui, Add, Edit, ys vHREF w400 h20,
 
-Gui, Add, Text, x215 y65 section w120 h20,
+Gui, Add, Text, x215 y85 section w120 h20,
 Gui, Add, Text, ys w400 h20, Avoid using ampersand in the text below.
 
-Gui, Add, Text, x215 y85 section w120 h20, Notepad (read only):
+Gui, Add, Text, x215 y105 section w120 h20, Notepad (read only):
 Gui, Add, Edit, ys vOverview +Wrap w400 h160,
 
 Gui, Add, StatusBar, ,
@@ -141,6 +147,10 @@ PlaceList:
 
 ;CBIsOnTPE:
 ;  NIsOnTPEChanged := !NIsOnTPEChanged
+;  Return
+
+;CBVisited:
+;  NVisitedChanged := !NVisitedChanged
 ;  Return
 
 ;MenuNew:
@@ -313,6 +323,8 @@ MenuReload:
   	  DB.Exec(SQL)
 	    SQL := "UPDATE TrelloCopy SET IsOnTPE = '" . NIsOnTPE . "' WHERE id = '" . Row[1] . "';"
 	    DB.Exec(SQL)
+	    SQL := "UPDATE TrelloCopy SET Visited = '" . NVisited . "' WHERE id = '" . Row[1] . "';"
+	    DB.Exec(SQL)
     }
   } Until RC < 1
   RecordSet.Free()
@@ -403,7 +415,7 @@ LoadPlaces() {
 LoadPlace() {
   global
   RecordSet := ""
-  SQL := "SELECT desc, id, IsOnMap, IsOnTPE, href FROM TrelloCopy WHERE name=""" . argPlace . """;"
+  SQL := "SELECT desc, id, IsOnMap, IsOnTPE, href, Visited FROM TrelloCopy WHERE name=""" . argPlace . """;"
   DB.Query(SQL, RecordSet)
   Loop {
     RC := RecordSet.Next(Row)
@@ -413,11 +425,13 @@ LoadPlace() {
 			NIsOnMap  := Row[3]
 			NIsOnTPE  := Row[4]
 			NHREF     := Row[5]
+			NVisited  := Row[6]
     }
   } Until RC < 1
   RecordSet.Free()
   NIsOnMapChanged := false
   NIsOnTPEChanged := false
+  NVisitedChanged := false
   LHREF     := NHREF
   LOverview := NOverview
 }
@@ -506,6 +520,7 @@ DrawGUI() {
 	GuiControl, Text, HREF, %NHREF%
 	GuiControl, , CBIsOnMap, %NIsOnMap%
 	GuiControl, , CBIsOnTPE, %NIsOnTPE%
+	GuiControl, , CBVisited, %NVisited%
 }
 
 ;GUIValues() {
@@ -612,6 +627,10 @@ GetLabelsForBoard(pID) {
   	{
   		IDIsOnTPE := Row[1]
   	}
+  	if tN = Visited
+  	{
+  		IDVisited := Row[1]
+  	}
   }
 }
 
@@ -619,8 +638,10 @@ GetLabelsForCard(pCardID) {
   global
   NIsOnMap := 0
   NIsOnTPE := 0
+  NVisited := 0
   NIsOnMapChanged := true
   NIsOnTPEChanged := true
+  NVisitedChanged := true
   TrelloAPI.RunCommand("cards/" . pCardID . "?fields=idLabels")
   FileGetSize, fileSize, %tmpJSON%
   if fileSize > 50
@@ -638,6 +659,10 @@ GetLabelsForCard(pCardID) {
     	if A_LoopField = %IDIsOnTPE%
     	{
     		NIsOnTPE := 1
+    	}
+    	if A_LoopField = %IDVisited%
+    	{
+    		NVisited := 1
     	}
     }
   }

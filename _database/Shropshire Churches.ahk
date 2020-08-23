@@ -401,14 +401,14 @@ CompareTrello() {
     	lID       := RowC[1]
       lName     := RowC[2]
       lStatus1  := RowC[3]
-  lListID := ""
-  switch lStatus1
-  {
-	  case "blue plus": lListID := list1
-	  case "yellow plus": lListID := list2
-	  case "yellow plus ticked": lListID := list3
-	  case "green plus": lListID := list4
-  }
+		  lListID := ""
+  		switch lStatus1
+  		{
+	  		case "blue plus": lListID := list1
+	  		case "yellow plus": lListID := list2
+	  		case "yellow plus ticked": lListID := list3
+	  		case "green plus": lListID := list4
+  		}
       lOverview := RowC[4]
       SB_SetText(lName, 2)
       tmpJSON := TrelloAPI.GetFields("cards/" . RowC[1] . "?fields=idList,desc,name")
@@ -442,25 +442,24 @@ CompareTrello() {
 ;      	MsgBox, Mismatched names: %tN%
       diff := true
       }
-
-  if (diff)
-  {
-  Gui, SyncTrello:Add, Text, x5 y5 w300 h20, Database
-  Gui, SyncTrello:Add, Text, x310 y5 w300 h20, Trello
-  Gui, SyncTrello:Add, Edit, x5 y25 w300 h20, %lName%
-  Gui, SyncTrello:Add, Edit, x310 y25 w300 h20, %tName%
-  Gui, SyncTrello:Add, Edit, x5 y45 w300 h20, %lStatus1%
-  Gui, SyncTrello:Add, Edit, x310 y45 w300 h20, %tStatus1%
-  Gui, SyncTrello:Add, Edit, x5 y65 w300 h100, %lOverview%
-  Gui, SyncTrello:Add, Edit, x310 y65 w300 h100, %tOverview%
-	Gui, SyncTrello:Add, Button, xm section w120 h20, Database to Trello
-  Gui, SyncTrello:Add, Button, ys w120 h20, Trello to Database
-  Gui, SyncTrello:Add, Button, ys w60 h20, Cancel
-  Gui, SyncTrello:Show, w620 h200, Sync Database and Trello
-  Gui, SyncTrello:Default
-  WinWaitClose, Sync Database and Trello
-	Gui, 1:Default
-  }
+		  if (diff)
+		  {
+			  Gui, SyncTrello:Add, Text, x5 y5 w300 h20, Database
+			  Gui, SyncTrello:Add, Text, x310 y5 w300 h20, Trello
+			  Gui, SyncTrello:Add, Edit, x5 y25 w300 h20, %lName%
+			  Gui, SyncTrello:Add, Edit, x310 y25 w300 h20, %tName%
+			  Gui, SyncTrello:Add, Edit, x5 y45 w300 h20, %lStatus1%
+			  Gui, SyncTrello:Add, Edit, x310 y45 w300 h20, %tStatus1%
+			  Gui, SyncTrello:Add, Edit, x5 y65 w300 h100, %lOverview%
+			  Gui, SyncTrello:Add, Edit, x310 y65 w300 h100, %tOverview%
+				Gui, SyncTrello:Add, Button, xm section w120 h20, Database to Trello
+			  Gui, SyncTrello:Add, Button, ys w120 h20, Trello to Database
+			  Gui, SyncTrello:Add, Button, ys w60 h20, Cancel
+			  Gui, SyncTrello:Show, w620 h200, Sync Database and Trello
+			  Gui, SyncTrello:Default
+			  WinWaitClose, Sync Database and Trello
+				Gui, 1:Default
+		  }
     }
   }	Until RCC < 1
   RecordSetC.Free()
@@ -468,16 +467,18 @@ CompareTrello() {
 }
 
 SyncTrelloButtonDatabasetoTrello:
-	MsgBox, %lID%
-	MsgBox, %lName%
-	MsgBox, %lListID%
-	MsgBox, %lOverview%
-	
-;	TrelloAPI.UpdateCard(NTrelloID, "idList=" . listID)
-;	TrelloAPI.UpdateCard(NTrelloID, "desc=" . NOverview)
+	TrelloAPI.UpdateCard(lID, "idList=" . lListID)
+	TrelloAPI.UpdateCard(lID, "desc=" . lOverview)
+	Gui, SyncTrello:Destroy
   Return
 
 SyncTrelloButtonTrellotoDatabase:
+	tOverview := StrReplace(tOverview, """", """""")
+  SQL := "UPDATE Church SET desc = """ . tOverview . """ WHERE name = '" . tName . "';"
+  DB.Exec(SQL)
+ 	SQL := "UPDATE Church SET sym = '" . tStatus1 . "' WHERE name = '" . tName . "';"
+  DB.Exec(SQL)
+	Gui, SyncTrello:Destroy
   Return
 
 SyncTrelloButtonCancel:

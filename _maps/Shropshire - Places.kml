@@ -685,6 +685,51 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Shawbury Medieval Moated Homestead Site</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6530705,52.7868481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caus Castle</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9770844,52.6630436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coalbrookdale Quaker Burial Ground</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4948326,52.6416515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wollaston Castle</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9943675,52.7042321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Beacon - Bretchel</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9825188,52.6997483,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>HHA - Aldenham Park</name>
