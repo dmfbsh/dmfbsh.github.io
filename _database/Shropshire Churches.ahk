@@ -452,10 +452,10 @@ CompareTrello() {
 			  Gui, SyncTrello:Add, Edit, x310 y45 w300 h20, %tStatus1%
 			  Gui, SyncTrello:Add, Edit, x5 y65 w300 h100, %lOverview%
 			  Gui, SyncTrello:Add, Edit, x310 y65 w300 h100, %tOverview%
-				Gui, SyncTrello:Add, Button, xm section w120 h20, Database to Trello
-			  Gui, SyncTrello:Add, Button, ys w120 h20, Trello to Database
-			  Gui, SyncTrello:Add, Button, ys w60 h20, Cancel
-			  Gui, SyncTrello:Show, w620 h200, Sync Database and Trello
+				Gui, SyncTrello:Add, Button, xm section x5 w300 h20, Database to Trello >>
+			  Gui, SyncTrello:Add, Button, ys x310 w300 h20, << Trello to Database
+			  Gui, SyncTrello:Add, Button, xm section x5 w60 h20, Cancel
+			  Gui, SyncTrello:Show, w620 h225, Sync Database and Trello
 			  Gui, SyncTrello:Default
 			  WinWaitClose, Sync Database and Trello
 				Gui, 1:Default
@@ -466,13 +466,13 @@ CompareTrello() {
   SB_SetText("", 2)	
 }
 
-SyncTrelloButtonDatabasetoTrello:
+SyncTrelloButtonDatabasetoTrello>>:
 	TrelloAPI.UpdateCard(lID, "idList=" . lListID)
 	TrelloAPI.UpdateCard(lID, "desc=" . lOverview)
 	Gui, SyncTrello:Destroy
   Return
 
-SyncTrelloButtonTrellotoDatabase:
+SyncTrelloButton<<TrellotoDatabase:
 	tOverview := StrReplace(tOverview, """", """""")
   SQL := "UPDATE Church SET desc = """ . tOverview . """ WHERE name = '" . tName . "';"
   DB.Exec(SQL)
