@@ -1,0 +1,83 @@
+{
+	"ego.power-tools": {
+		"user": {},
+		"buttons": [
+			{
+				"text": "Site 0",
+				"tooltip": "Site 0",
+				"action": {
+					"type": "shell",
+					"command": "\"C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe\" --profile-directory=\"Profile 1\" \"C:/Users/David/Documents/NoneDrive/GitHub Pages/_site0/0documentation/1-01-introduction.html\"",
+					"wait" : false
+				}
+			},
+			{
+				"text": "Site 1",
+				"tooltip": "Site 1",
+				"action": {
+					"type": "shell",
+					"command": "\"C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe\" --profile-directory=\"Profile 1\" \"C:/Users/David/Documents/NoneDrive/GitHub Pages/_site0/0documentation/1-01-introduction.html\"",
+					"wait" : false
+				}
+			},
+			{
+				"text": "Site 2",
+				"tooltip": "Site 2",
+				"action": {
+					"type": "shell",
+					"command": "\"C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe\" --profile-directory=\"Profile 1\" \"C:/Users/David/Documents/NoneDrive/GitHub Pages/_site0/0documentation/1-01-introduction.html\"",
+					"wait" : false
+				}
+			},
+			{
+				"text": "Shropshire",
+				"tooltip": "Shropshire Database",
+				"action": {
+					"type": "shell",
+					"command": "\"C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/Shropshire Photography.exe\"",
+					"wait" : false
+				}
+			},
+			{
+				"text": "Churches",
+				"tooltip": "Churches Database",
+				"action": {
+					"type": "shell",
+					"command": "\"C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/Shropshire Churches.exe\"",
+					"wait" : false
+				}
+			},
+			{
+				"text": "Places",
+				"tooltip": "Places Database",
+				"action": {
+					"type": "shell",
+					"command": "\"C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/Shropshire Places.exe\"",
+					"wait" : false
+				}
+			},
+			{
+				"text": "Hills",
+				"tooltip": "Hills Database",
+				"action": {
+					"type": "shell",
+					"command": "\"C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/Shropshire Hills.exe\"",
+					"wait" : false
+				}
+			}
+		]
+	},
+	"vscode-ahk-plus.compilePath": "C:/Program Files/AutoHotkey/Compiler/Ahk2Exe.exe",
+	"editor.wordWrap": "on",
+	"openInExternalApp.openMapper": [
+		{
+			"extensionName": "md",
+			"apps": [{"title" : "Typora", "openCommand" : "C:/Program Files/Typora/Typora.exe"}]
+		},
+		{
+			"extensionName": "db",
+			"apps": [{"title" : "DB Browser for SQLite", "openCommand" : "C:/Program Files/DB Browser for SQLite/DB Browser for SQLite.exe"}]
+		}
+	],
+	"sqlite.sqlite3": "C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/sqlite3.exe"
+}

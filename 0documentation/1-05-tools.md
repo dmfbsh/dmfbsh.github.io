@@ -9,14 +9,13 @@ title: Tools
 The following tools are used by the project:
 
 - MS Windows 10
-  - Directory Opus
   - Development Tools
     - Ruby
     - Jekyll
-    - UltraEdit
+    - Visual Studio Code
     - Typora
     - AutoHotKey
-    - GitHub Desktop
+    - Git
     - DB Browser (SQLite)
   - Photo Editors
     - XnViewMP
@@ -32,14 +31,6 @@ The following tools are used by the project:
 
 ## Installation and Configuration
 
-### Directory Opus
-
-Directory Opus is the main tool for managing the files and providing easy access to the tools.
-
-<img src="images/screen00.jpg" width="600"/>
-
-Directory Opus is configured as shown above.
-
 ### Ruby
 
 To install Ruby, do the following:
@@ -54,9 +45,22 @@ To install Jekyll, do the following:
 1. Install the Ruby gems: ***gem install jekyll bundler***
 2. Check the version: ***jekyll -v***
 
-### UltraEdit
+### Visual Studio Code
 
-UltraEdit is installed with no additional configuration.
+Install the following:
+
+1. Git
+
+Install the following extensions:
+
+1. AutoHotKey Plus
+2. Code Runner
+3. Hex Editor
+4. Open in External App
+5. Power Tools
+6. Ruby
+7. SQLite
+8. VSCode Ruby
 
 ### Typora
 
@@ -68,9 +72,9 @@ AutoHotKey is installed with no additional configuration.
 
 Note that the 64-bit version must be installed.
 
-### GitHub Desktop
+### Git
 
-GitHub Desktop is installed with no additional configuration.
+Git is installed with no additional configuration.
 
 ### DB Browser (SQLite)
 

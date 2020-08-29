@@ -36,4 +36,4 @@ All assets relating to the project are held in my GitHub repository, which is cl
 The main tools for managing the workflow are:
 
 - [XnViewMP](https://www.xnview.com/en/) (for handling the images)
-- [UltraEdit](https://www.ultraedit.com/) (for handling the text-based files)
+- [Visual Studio Code](https://code.visualstudio.com/) (for handling the text-based files)

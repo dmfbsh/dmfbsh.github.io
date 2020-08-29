@@ -10,23 +10,16 @@ The following tools and applications are used:
 
 - MS Windows 10
   - MS Access
-  - Directory Opus
   - Development Tools
     - Ruby
     - Jekyll
-    - UltraEdit
+    - Visual Studio Code
     - Typora
-    - GitHub Desktop
+    - Git
   - Photo Editors
     - XnViewMP
 
 ## Installation and Configuration
-
-### Directory Opus
-
-See the configuration for the Shropshire Web Site project.
-
-Also install the rename scripts.
 
 ### Ruby
 
@@ -36,7 +29,7 @@ See the configuration for the Shropshire Web Site project.
 
 See the configuration for the Shropshire Web Site project.
 
-### UltraEdit
+### Visual Studio Code
 
 See the configuration for the Shropshire Web Site project.
 
@@ -44,7 +37,7 @@ See the configuration for the Shropshire Web Site project.
 
 See the configuration for the Shropshire Web Site project.
 
-### GitHub Desktop
+### Git
 
 See the configuration for the Shropshire Web Site project.
 
