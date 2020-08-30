@@ -120,9 +120,7 @@ Menu, PlaceMenu, Add
 Menu, PlaceMenu, Add, Goto Published Folder, MenuGotoPublished
 Menu, PlaceMenu, Add
 Menu, PlaceMenu, Add, Create Template, MenuCreateTemplate
-Menu, PlaceMenu, Add
-Menu, PlaceMenu, Add, Create New Post, MenuCreateNewPost
-Menu, PlaceMenu, Add, Update Existing Post, MenuUpdateExistingPost
+;Menu, PlaceMenu, Add, Update Existing Post, MenuUpdateExistingPost
 Menu, FilterMenu, Add, Clear Filter, MenuClearFilter
 Menu, FilterMenu, Add
 Menu, FilterMenu, Add, History, MenuFilterHistory
@@ -136,6 +134,8 @@ Menu, FilterMenu, Add, Place, MenuFilterPlace
 Menu, FilterMenu, Add, Folklore, MenuFilterFolklore
 Menu, FilterMenu, Add, Other, MenuFilterOther
 Menu, FilterMenu, Add, Information, MenuFilterInformation
+Menu, ProjectMenu, Add, Create New Post, MenuCreateNewPost
+Menu, ProjectMenu, Add
 Menu, ProjectMenu, Add, Write XnViewMP Search, MenuProjectXnViewMPSearch
 ;Menu, ProjectMenu, Add, Compare Folders, MenuCompareFolders
 ;Menu, ProjectMenu, Add, Compare ACDSee, MenuCompareACDSee
@@ -558,133 +558,223 @@ ImageChooser2ButtonOK:
 
 WriteTemplate(pImgFile) {
 	global
-	mdFile1 := ""
-	mdFile2 := ""
-  IniRead, TempPath, %A_ScriptDir%\Shropshire Photography.ini, Paths, TempFolder
-  TempPath := TempPath . "\temp.txt"
-  tmpFile := FileOpen(TempPath, "w", "UTF-8")
+  mdTemp := ""
   Switch Category1
   {
   	Case "Not Used":
       Switch Category2
       {
-      	Case "Folklore":
-  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Folklore.md"
-          tmpFile.WriteLine("")
-;  		    tmpFile.WriteLine("<!--Type: Item-->")
-          tmpFile.WriteLine("# Name: ")
-          tmpFile.WriteLine("- Date: ")
-          tmpFile.WriteLine("")
-          tmpFile.WriteLine("<notes>")
-          tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . pImgFile . ")")
+       	Case "Folklore":
+          mdTemp := "# Name: " . argPlace . "`r`n"
+          mdTemp := mdTemp . "- Date: N/A" . "`r`n"
+          mdTemp := mdTemp . "`r`n"
+          mdTemp := mdTemp . "<notes>" . "`r`n"
+          mdTemp := mdTemp . "![](../1shropshire/assets/images/folklore/" . pImgFile . ")" . "`r`n"
       }
   	Case "History":
-  		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-History.md"
-;  		tmpFile.WriteLine("<!--Type: Item-->")
-      tmpFile.WriteLine("# Name: ")
-      tmpFile.WriteLine("- Date: ")
-      tmpFile.WriteLine("")
-      tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/history/" . pImgFile . ")")
+      mdTemp := "# Name: " . argPlace . "`r`n"
+      mdTemp := mdTemp . "- Date: TBD" . "`r`n"
+      mdTemp := mdTemp . "`r`n"
+      mdTemp := mdTemp . "<notes>" . "`r`n"
+      mdTemp := mdTemp . "![](../1shropshire/assets/images/history/" . pImgFile . ")" . "`r`n"
       Switch Category2
       {
       	Case "Castle":
-  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Castles.md"
-          tmpFile.WriteLine("")
-;  		    tmpFile.WriteLine("<!--Type: Item-->")
-          tmpFile.WriteLine("# Name: ")
-          tmpFile.WriteLine("- Date: ")
-          tmpFile.WriteLine("")
-          tmpFile.WriteLine("<notes>")
-          tmpFile.WriteLine("![](../1shropshire/assets/images/castles/" . pImgFile . ")")
+          mdTemp := mdTemp . "`r`n"
+          mdTemp := mdTemp . "# Name: " . argPlace . "`r`n"
+          mdTemp := mdTemp . "- Date: TBD" . "`r`n"
+          mdTemp := mdTemp . "`r`n"
+          mdTemp := mdTemp . "<notes>" . "`r`n"
+          mdTemp := mdTemp . "![](../1shropshire/assets/images/castles/" . pImgFile . ")" . "`r`n"
       	Case "House":
-  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Houses.md"
-          tmpFile.WriteLine("")
-;  		    tmpFile.WriteLine("<!--Type: Item-->")
-          tmpFile.WriteLine("# Name: ")
-          tmpFile.WriteLine("- Date: ")
-          tmpFile.WriteLine("")
-          tmpFile.WriteLine("<notes>")
-          tmpFile.WriteLine("![](../1shropshire/assets/images/houses/" . pImgFile . ")")
+          mdTemp := mdTemp . "`r`n"
+          mdTemp := mdTemp . "# Name: " . argPlace . "`r`n"
+          mdTemp := mdTemp . "- Date: TBD" . "`r`n"
+          mdTemp := mdTemp . "`r`n"
+          mdTemp := mdTemp . "<notes>" . "`r`n"
+          mdTemp := mdTemp . "![](../1shropshire/assets/images/houses/" . pImgFile . ")" . "`r`n"
       	Case "People":
-  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-People.md"
-          tmpFile.WriteLine("")
-;  		    tmpFile.WriteLine("<!--Type: Item-->")
-          tmpFile.WriteLine("# Name: ")
-          tmpFile.WriteLine("- Date: ")
-          tmpFile.WriteLine("")
-          tmpFile.WriteLine("<notes>")
-          tmpFile.WriteLine("![](../1shropshire/assets/images/people/" . pImgFile . ")")
+          mdTemp := mdTemp . "`r`n"
+          mdTemp := mdTemp . "# Name: " . argPlace . "`r`n"
+          mdTemp := mdTemp . "- Date: TBD" . "`r`n"
+          mdTemp := mdTemp . "`r`n"
+          mdTemp := mdTemp . "<notes>" . "`r`n"
+          mdTemp := mdTemp . "![](../1shropshire/assets/images/people/" . pImgFile . ")" . "`r`n"
       	Case "Folklore":
-  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Folklore.md"
-          tmpFile.WriteLine("")
-;  		    tmpFile.WriteLine("<!--Type: Item-->")
-          tmpFile.WriteLine("# Name: ")
-          tmpFile.WriteLine("- Date: ")
-          tmpFile.WriteLine("")
-          tmpFile.WriteLine("<notes>")
-          tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . pImgFile . ")")
+          mdTemp := mdTemp . "`r`n"
+          mdTemp := mdTemp . "# Name: " . argPlace . "`r`n"
+          mdTemp := mdTemp . "- Date: N/A" . "`r`n"
+          mdTemp := mdTemp . "`r`n"
+          mdTemp := mdTemp . "<notes>" . "`r`n"
+          mdTemp := mdTemp . "![](../1shropshire/assets/images/folklore/" . pImgFile . ")" . "`r`n"
       }
   	Case "Church":
-  		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Churches.md"
-;  		tmpFile.WriteLine("<!--Type: Item-->")
-      tmpFile.WriteLine("# Name: ")
-      tmpFile.WriteLine("- Date: ")
-      tmpFile.WriteLine("")
-      tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/churches/" . pImgFile . ")")
-      tmpFile.WriteLine("- Sub-Image: ")
+      mdTemp := "# Name: " . argPlace . "`r`n"
+      mdTemp := mdTemp . "- Date: TBD" . "`r`n"
+      mdTemp := mdTemp . "`r`n"
+      mdTemp := mdTemp . "<notes>" . "`r`n"
+      mdTemp := mdTemp . "![](../1shropshire/assets/images/churches/" . pImgFile . ")" . "`r`n"
+      mdTemp := mdTemp . "- Sub-Image: " . "`r`n"
   	Case "Other":
-  		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Other.md"
-;  		tmpFile.WriteLine("<!--Type: Item-->")
-      tmpFile.WriteLine("# Name: ")
-      tmpFile.WriteLine("")
-      tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/other/" . pImgFile . ")")
+      mdTemp := "# Name: " . argPlace . "`r`n"
+      mdTemp := mdTemp . "`r`n"
+      mdTemp := mdTemp . "<notes>" . "`r`n"
+      mdTemp := mdTemp . "![](../1shropshire/assets/images/other/" . pImgFile . ")" . "`r`n"
   	Case "Landscape":
-  		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Landscape.md"
-;  		tmpFile.WriteLine("<!--Type: Item-->")
-      tmpFile.WriteLine("# Name: ")
-      tmpFile.WriteLine("")
-      tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/landscape/" . pImgFile . ")")
-;      Switch Category2
-;      {
-;      	Case "Folklore":
-;  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Folklore.md"
-;          tmpFile.WriteLine("")
-;;  		    tmpFile.WriteLine("<!--Type: Item-->")
-;          tmpFile.WriteLine("# Name: ")
-;          tmpFile.WriteLine("- Date: ")
-;          tmpFile.WriteLine("")
-;          tmpFile.WriteLine("<notes>")
-;          tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . pImgFile . ")")
-;      }
+      mdTemp := "# Name: " . argPlace . "`r`n"
+      mdTemp := mdTemp . "`r`n"
+      mdTemp := mdTemp . "<notes>" . "`r`n"
+      mdTemp := mdTemp . "![](../1shropshire/assets/images/landscape/" . pImgFile . ")" . "`r`n"
+      Switch Category2
+      {
+      	Case "Folklore":
+          mdTemp := mdTemp . "`r`n"
+          mdTemp := mdTemp . "# Name: " . argPlace . "`r`n"
+          mdTemp := mdTemp . "- Date: N/A" . "`r`n"
+          mdTemp := mdTemp . "`r`n"
+          mdTemp := mdTemp . "<notes>" . "`r`n"
+          mdTemp := mdTemp . "![](../1shropshire/assets/images/folklore/" . pImgFile . ")" . "`r`n"
+      }
   	Case "Place":
-;  		tmpFile.WriteLine("<!--Type: Item-->")
-      tmpFile.WriteLine("# Name: ")
-      tmpFile.WriteLine("")
-      tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/places/" . pImgFile . ")")
+      mdTemp := "# Name: " . argPlace . "`r`n"
+      mdTemp := mdTemp . "`r`n"
+      mdTemp := mdTemp . "<notes>" . "`r`n"
+      mdTemp := mdTemp . "![](../1shropshire/assets/images/places/" . pImgFile . ")" . "`r`n"
   	Case "Garden":
-  		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Gardens.md"
-;  		tmpFile.WriteLine("<!--Type: Item-->")
-      tmpFile.WriteLine("# Name: ")
-      tmpFile.WriteLine("")
-      tmpFile.WriteLine("<notes>")
-      tmpFile.WriteLine("![](../1shropshire/assets/images/gardens/" . pImgFile . ")")
+      mdTemp := "# Name: " . argPlace . "`r`n"
+      mdTemp := mdTemp . "`r`n"
+      mdTemp := mdTemp . "<notes>" . "`r`n"
+      mdTemp := mdTemp . "![](../1shropshire/assets/images/gardens/" . pImgFile . ")" . "`r`n"
   }
-  tmpFile.Close()
-  IniRead, TxtEditor, %A_ScriptDir%\Shropshire Photography.ini, Programs, TextEditor
-  if mdFile1 <>
-  {
-    Run, "%TxtEditor%" "%mdFile1%"
-  }
-  if mdFile2 <>
-  {
-    Run, "%TxtEditor%" "%mdFile2%"
-  }
-  Run, "%TxtEditor%" "%TempPath%"
+  Clipboard := mdTemp
+  MsgBox, Template is in the clipboard
+; 	mdFile1 := ""
+; 	mdFile2 := ""
+;   IniRead, TempPath, %A_ScriptDir%\Shropshire Photography.ini, Paths, TempFolder
+;   TempPath := TempPath . "\temp.txt"
+;   tmpFile := FileOpen(TempPath, "w", "UTF-8")
+;   Switch Category1
+;   {
+;   	Case "Not Used":
+;       Switch Category2
+;       {
+;       	Case "Folklore":
+;   		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Folklore.md"
+;           tmpFile.WriteLine("")
+; ;  		    tmpFile.WriteLine("<!--Type: Item-->")
+;           tmpFile.WriteLine("# Name: ")
+;           tmpFile.WriteLine("- Date: ")
+;           tmpFile.WriteLine("")
+;           tmpFile.WriteLine("<notes>")
+;           tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . pImgFile . ")")
+;       }
+;   	Case "History":
+;   		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-History.md"
+; ;  		tmpFile.WriteLine("<!--Type: Item-->")
+;       tmpFile.WriteLine("# Name: ")
+;       tmpFile.WriteLine("- Date: ")
+;       tmpFile.WriteLine("")
+;       tmpFile.WriteLine("<notes>")
+;       tmpFile.WriteLine("![](../1shropshire/assets/images/history/" . pImgFile . ")")
+;       Switch Category2
+;       {
+;       	Case "Castle":
+;   		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Castles.md"
+;           tmpFile.WriteLine("")
+; ;  		    tmpFile.WriteLine("<!--Type: Item-->")
+;           tmpFile.WriteLine("# Name: ")
+;           tmpFile.WriteLine("- Date: ")
+;           tmpFile.WriteLine("")
+;           tmpFile.WriteLine("<notes>")
+;           tmpFile.WriteLine("![](../1shropshire/assets/images/castles/" . pImgFile . ")")
+;       	Case "House":
+;   		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Houses.md"
+;           tmpFile.WriteLine("")
+; ;  		    tmpFile.WriteLine("<!--Type: Item-->")
+;           tmpFile.WriteLine("# Name: ")
+;           tmpFile.WriteLine("- Date: ")
+;           tmpFile.WriteLine("")
+;           tmpFile.WriteLine("<notes>")
+;           tmpFile.WriteLine("![](../1shropshire/assets/images/houses/" . pImgFile . ")")
+;       	Case "People":
+;   		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-People.md"
+;           tmpFile.WriteLine("")
+; ;  		    tmpFile.WriteLine("<!--Type: Item-->")
+;           tmpFile.WriteLine("# Name: ")
+;           tmpFile.WriteLine("- Date: ")
+;           tmpFile.WriteLine("")
+;           tmpFile.WriteLine("<notes>")
+;           tmpFile.WriteLine("![](../1shropshire/assets/images/people/" . pImgFile . ")")
+;       	Case "Folklore":
+;   		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Folklore.md"
+;           tmpFile.WriteLine("")
+; ;  		    tmpFile.WriteLine("<!--Type: Item-->")
+;           tmpFile.WriteLine("# Name: ")
+;           tmpFile.WriteLine("- Date: ")
+;           tmpFile.WriteLine("")
+;           tmpFile.WriteLine("<notes>")
+;           tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . pImgFile . ")")
+;       }
+;   	Case "Church":
+;   		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Churches.md"
+; ;  		tmpFile.WriteLine("<!--Type: Item-->")
+;       tmpFile.WriteLine("# Name: ")
+;       tmpFile.WriteLine("- Date: ")
+;       tmpFile.WriteLine("")
+;       tmpFile.WriteLine("<notes>")
+;       tmpFile.WriteLine("![](../1shropshire/assets/images/churches/" . pImgFile . ")")
+;       tmpFile.WriteLine("- Sub-Image: ")
+;   	Case "Other":
+;   		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Other.md"
+; ;  		tmpFile.WriteLine("<!--Type: Item-->")
+;       tmpFile.WriteLine("# Name: ")
+;       tmpFile.WriteLine("")
+;       tmpFile.WriteLine("<notes>")
+;       tmpFile.WriteLine("![](../1shropshire/assets/images/other/" . pImgFile . ")")
+;   	Case "Landscape":
+;   		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Landscape.md"
+; ;  		tmpFile.WriteLine("<!--Type: Item-->")
+;       tmpFile.WriteLine("# Name: ")
+;       tmpFile.WriteLine("")
+;       tmpFile.WriteLine("<notes>")
+;       tmpFile.WriteLine("![](../1shropshire/assets/images/landscape/" . pImgFile . ")")
+; ;      Switch Category2
+; ;      {
+; ;      	Case "Folklore":
+; ;  		    mdFile2 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Folklore.md"
+; ;          tmpFile.WriteLine("")
+; ;;  		    tmpFile.WriteLine("<!--Type: Item-->")
+; ;          tmpFile.WriteLine("# Name: ")
+; ;          tmpFile.WriteLine("- Date: ")
+; ;          tmpFile.WriteLine("")
+; ;          tmpFile.WriteLine("<notes>")
+; ;          tmpFile.WriteLine("![](../1shropshire/assets/images/folklore/" . pImgFile . ")")
+; ;      }
+;   	Case "Place":
+; ;  		tmpFile.WriteLine("<!--Type: Item-->")
+;       tmpFile.WriteLine("# Name: ")
+;       tmpFile.WriteLine("")
+;       tmpFile.WriteLine("<notes>")
+;       tmpFile.WriteLine("![](../1shropshire/assets/images/places/" . pImgFile . ")")
+;   	Case "Garden":
+;   		mdFile1 := "C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_data_source\Shropshire_Notebook-Gardens.md"
+; ;  		tmpFile.WriteLine("<!--Type: Item-->")
+;       tmpFile.WriteLine("# Name: ")
+;       tmpFile.WriteLine("")
+;       tmpFile.WriteLine("<notes>")
+;       tmpFile.WriteLine("![](../1shropshire/assets/images/gardens/" . pImgFile . ")")
+;   }
+;   tmpFile.Close()
+;   IniRead, TxtEditor, %A_ScriptDir%\Shropshire Photography.ini, Programs, TextEditor
+;   if mdFile1 <>
+;   {
+;     Run, "%TxtEditor%" "%mdFile1%"
+;   }
+;   if mdFile2 <>
+;   {
+;     Run, "%TxtEditor%" "%mdFile2%"
+;   }
+;   Run, "%TxtEditor%" "%TempPath%"
 }
 
 MenuCreateNewPost:
@@ -693,8 +783,8 @@ MenuCreateNewPost:
 	FormatTime, TempFile, , yyyy-MM-dd
 	TempFile := TempFile . "-Updates.md"
 	FileAppend, Added the following items:`r`n`r`n1. , %TempPath%\%TempFile%
-  IniRead, TxtEditor, %A_ScriptDir%\Shropshire Photography.ini, Programs, TextEditor
-  Run, "%TxtEditor%" "%TempPath%\%TempFile%"
+;  IniRead, TxtEditor, %A_ScriptDir%\Shropshire Photography.ini, Programs, TextEditor
+;  Run, "%TxtEditor%" "%TempPath%\%TempFile%"
   Return
 
 MenuUpdateExistingPost:

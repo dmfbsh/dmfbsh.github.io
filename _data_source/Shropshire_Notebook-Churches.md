@@ -20,6 +20,21 @@ The settlement was registered as Actune in the Domesday Book.
 - Sub-Image: 2019-07-13_09_52_11_DSC_4607_DxO.jpg
 - Sub-Image: 2019-07-13_09_53_10_DSC_4609_DxO.jpg
 
+# Name: St Peter, Adderley
+- Date: 1635-1636 AD
+
+The oldest existing part of the present church is the north transept, which was built in 1635–36 as a burial chapel for the Needham family, the Viscounts Kilmorey of Shavington.  The other remaining part of the older church is the tower, built in 1712.  The rest of the church was built in 1801 by Richard Baker; it is the only known work by this architect.
+
+The cast iron window frames were made locally at Coalbrookdale.
+
+The name of the village derives from the Old English meaning 'Ealdthryth's wood/clearing', a leah (Old English) is a forest, wood, glade or clearing; (later) a pasture or a meadow.
+![](../1shropshire/assets/images/churches/2020-08-29_15_07_12_DSC_8199_DxO_bw.jpg)
+- Sub-Image: 2020-08-29_14_54_19_DSC_8186_DxO.jpg
+- Sub-Image: 2020-08-29_15_03_12_DSC_8194_DxO.jpg
+- Sub-Image: 2020-08-29_15_03_41_DSC_8195_DxO.jpg
+- Sub-Image: 2020-08-29_15_12_55_DSC_8211_DxO.jpg
+- Sub-Image: 2020-08-29_15_14_04_DSC_8213_DxO.jpg
+
 # Name: St Michael and All Angels, Alberbury
 - Date: 1290 AD
 

@@ -985,6 +985,14 @@ The first Ironbridge power station was opened in 1932, it was in operation until
 Construction of the Ironbridge B Power Station began in 1963, but due to construction delays, industrial action and the implementation of design improvements it didn't start feeding power into the National Grid until 1969.  The station stopped generating electricity in 2015 when it reached its 20,000 hours limit of generation under an EU directive.
 ![](../1shropshire/assets/images/history/2018-11-11_16_09_24_DSC_3054_DxO.jpg)
 
+# Name: Shire Hall, Shrewsbury
+- Date: 1966 AD
+
+The new Shire Hall for Shrewsbury was designed by Ralph Crowe, the County Architect.
+
+Originally established as the headquarters of Shropshire County Council, the building became the offices of the new unitary authority, Shropshire Council in April 2009.
+![](../1shropshire/assets/images/history/2018-07-14_10_20_43_DSC_2747_DxO.jpg)
+
 # Name: Telford New Town
 - Date: 1968 AD
 

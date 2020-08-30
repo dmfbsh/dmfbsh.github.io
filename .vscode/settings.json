@@ -1,13 +1,24 @@
 {
 	"ego.power-tools": {
+
+
 		"user": {},
 		"buttons": [
 			{
-				"text": "Site 0",
-				"tooltip": "Site 0",
+				"text": "Site 0-1",
+				"tooltip": "Site 0-1",
 				"action": {
 					"type": "shell",
 					"command": "\"C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe\" --profile-directory=\"Profile 1\" \"C:/Users/David/Documents/NoneDrive/GitHub Pages/_site0/0documentation/1-01-introduction.html\"",
+					"wait" : false
+				}
+			},
+			{
+				"text": "Site 0-2",
+				"tooltip": "Site 0-2",
+				"action": {
+					"type": "shell",
+					"command": "\"C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe\" --profile-directory=\"Profile 1\" \"C:/Users/David/Documents/NoneDrive/GitHub Pages/_site0/0documentation/2-01-introduction.html\"",
 					"wait" : false
 				}
 			},
@@ -16,7 +27,7 @@
 				"tooltip": "Site 1",
 				"action": {
 					"type": "shell",
-					"command": "\"C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe\" --profile-directory=\"Profile 1\" \"C:/Users/David/Documents/NoneDrive/GitHub Pages/_site0/0documentation/1-01-introduction.html\"",
+					"command": "\"C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe\" --profile-directory=\"Profile 1\" \"C:/Users/David/Documents/NoneDrive/GitHub Pages/_site1/index.html\"",
 					"wait" : false
 				}
 			},
@@ -25,7 +36,7 @@
 				"tooltip": "Site 2",
 				"action": {
 					"type": "shell",
-					"command": "\"C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe\" --profile-directory=\"Profile 1\" \"C:/Users/David/Documents/NoneDrive/GitHub Pages/_site0/0documentation/1-01-introduction.html\"",
+					"command": "\"C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe\" --profile-directory=\"Profile 1\" \"C:/Users/David/Documents/NoneDrive/GitHub Pages/_site2/index.html\"",
 					"wait" : false
 				}
 			},
