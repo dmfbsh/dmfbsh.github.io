@@ -83,10 +83,7 @@ The Normans, however, found the name difficult to pronounce and so softened the 
 
 <div class="rowh">
 <div class="columntl">
-<h2>Latest Posts</h2>
-{% for post in site.posts %}
-<h3>{{ post.date | date_to_string }} - {{ post.title }}</h3>
-<p>{{ post.content }}</p>
-{% endfor %}
+{% capture my_include %}{% include_relative 1-updates.md %}{% endcapture %}
+{{ my_include | markdownify }}
 </div>
 </div>

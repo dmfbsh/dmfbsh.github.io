@@ -33,7 +33,7 @@
       <name>North East</name>
       <Placemark>
         <name>Adderley - St Peter</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.506002,52.952094,0
@@ -507,7 +507,7 @@
       <name>West</name>
       <Placemark>
         <name>Alberbury - St Michael</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.951226,52.723647,0
@@ -651,7 +651,7 @@
       </Placemark>
       <Placemark>
         <name>Westbury - St Mary</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.954623,52.678672,0
@@ -753,7 +753,7 @@
       </Placemark>
       <Placemark>
         <name>Hadnall - St Mary Magdalene</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.710108,52.775909,0
@@ -825,7 +825,7 @@
       </Placemark>
       <Placemark>
         <name>Preston Gubbals - St Martin</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.754562,52.771782,0
@@ -986,6 +986,15 @@
         <Point>
           <coordinates>
             -2.743343,52.714049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrewsbury - Congregational Church</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7463113,52.7067958,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1202,7 +1211,7 @@
       </Placemark>
       <Placemark>
         <name>Jackfield - St Mary</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.463178,52.623423,0
@@ -1283,7 +1292,7 @@
       </Placemark>
       <Placemark>
         <name>Preston-upon-the-Weald Moors - St Laurence</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.473809,52.734903,0
@@ -1328,7 +1337,7 @@
       </Placemark>
       <Placemark>
         <name>Wellington - Christ Church</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.510763,52.697315,0
@@ -1475,7 +1484,7 @@
       </Placemark>
       <Placemark>
         <name>Kynnersley - St Chad</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.486226,52.746839,0
@@ -1503,7 +1512,7 @@
       </Placemark>
       <Placemark>
         <name>Longford - Talbot Chapel</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.407754,52.762513,0
@@ -1584,7 +1593,7 @@
       </Placemark>
       <Placemark>
         <name>Tibberton - All Saints</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.473951,52.780075,0

@@ -119,7 +119,7 @@ TBD
 # Name: Coalbrookdale
 
 TBD
-![](../1shropshire/assets/images/other/2019-08-24_16_23_46_DSC_4812_DxO_bw.jpg)
+![](../1shropshire/assets/images/other/2019-08-24_16_23_46_DSC_4812_DxO.jpg)
 
 # Name: Canal Basin, Coalport
 
@@ -194,6 +194,11 @@ Edwards did this from 1773 to her death in 1815.
 
 Lucien Boneparte (brother of Napoleon) was held as a prisoner of war at Dinham House for a few months in 1811 while the war between Britain and France was ongoing.
 ![](../1shropshire/assets/images/other/2020-01-04_13_59_49_DSC_6082_DxO_bw.jpg)
+
+# Name: Yew Tree, Norbury
+
+This yew tree is said to be one of the largest and one of the oldest in the UK, it has a girth of about 10m / 33ft and is estimated to be 2,700 years old.
+![](../1shropshire/assets/images/other/2020-09-19_14_30_48_DSC_8634_DxO.jpg)
 
 # Name: Sabrina, Shrewsbury
 

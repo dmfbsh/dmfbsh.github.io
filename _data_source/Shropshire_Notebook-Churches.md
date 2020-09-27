@@ -5,7 +5,7 @@ This church is considered to be the finest Early English (13th Century) church i
 
 It features a corbel-table with many grotesque carvings (a corbel-table is a continuous row of corbels, and a corbel is a block of stone projecting from a wall and supporting some heavy feature).
 
-Acton generally means "settlement (farm or estate) by the oaks" and this estate belonged to Robert Burnell an English bishop who served as Lord Chancellor of England from 1274 to 1292.
+Acton generally means 'settlement (farm or estate) by the oaks' and this estate belonged to Robert Burnell an English bishop who served as Lord Chancellor of England from 1274 to 1292.
 ![](../1shropshire/assets/images/churches/2018-06-11_15_20_23_DSC_2625_DxO_L.jpg)
 
 # Name: St Margaret, Acton Scott
@@ -13,7 +13,7 @@ Acton generally means "settlement (farm or estate) by the oaks" and this estate 
 
 This is a church that has suffered at the hands of 19th Century restorers.  Much of the masonry is medieval, but the windows were all renewed in the 19th Century.  The porch was added in 1722 and the north chapel in 1820.
 
-Acton generally means "settlement (farm or estate) by the oaks" and the "Scott" originates from the medieval name Reynold le. Scot who held a share in the manor in 1255.
+Acton generally means 'settlement (farm or estate) by the oaks' and the 'Scott' originates from the medieval name Reynold le. Scot who held a share in the manor in 1255.
 
 The settlement was registered as Actune in the Domesday Book.
 ![](../1shropshire/assets/images/churches/2019-07-13_09_45_21_DSC_4603_DxO_L.jpg)
@@ -66,7 +66,7 @@ The oldest part of the present church is the nave which dates from the late Saxo
 
 The church is constructed from red and grey sandstone and incorporates some large blocks from the Roman city of Wroxeter.
 
-The name Atcham is a contraction of Attingham, meaning "the home of Eata's people".
+The name Atcham is a contraction of Attingham, meaning 'the home of Eata's people'.
 ![](../1shropshire/assets/images/churches/2020-01-12_15_47_21_DSC_6211_DxO.jpg)
 - Sub-Image: 2020-01-12_15_52_57_DSC_6218_DxO.jpg
 - Sub-Image: 2020-01-12_15_55_16_DSC_6223_DxO.jpg
@@ -155,7 +155,7 @@ It is aligned north-south, rather than the more usual west-east.
 # Name: Holy Trinity, Buildwas
 - Date: 1720 AD
 
-The name Buildwas may derive its name from the Saxon words "beild" or "belde" (a shelter). and "was" (water), surrounded as it is on three sides by hills and on the fourth by the river Severn.  Another view is that the name is from the Old English "waesse" which means "swamp" or "marsh" and is usually translated as "land by a meanering river which floods and drains quickly".
+The name Buildwas may derive its name from the Saxon words 'beild' or 'belde' (a shelter). and 'was' (water), surrounded as it is on three sides by hills and on the fourth by the river Severn.  Another view is that the name is from the Old English 'waesse' which means 'swamp' or 'marsh' and is usually translated as 'land by a meanering river which floods and drains quickly'.
 
 The village of Buildwas has been recognised since 1086 as the first reference to it was made in the Domesday Book.
 
@@ -169,7 +169,7 @@ Within the church are memorial tablets to members of two local families who were
 
 The church comprises a mixture of medieval and Victorian elements; the chancel is 12th Century the nave and tower are later and date from the 14th Century.  In 1889-90 the church was extensively restored by Aston Webb, an English architect who designed the principal facade of Buckingham Palace and the main building of the Victoria and Albert Museum.
 
-The Old English name means "Ford by the Fort".
+The Old English name means 'Ford by the Fort'.
 ![](../1shropshire/assets/images/churches/2019-08-26_15_36_44_DSC_4915_DxO.jpg)
 
 # Name: St Michael, Cardeston
@@ -189,11 +189,11 @@ The body of the church is constructed in sandstone rubble with ashlar dressings 
 
 In the churchyard is a sandstone sundial dating from the middle of the 18th Century.
 
-In the Domesday Book the village is referred to as "Cardintine under the Fief of Rainwald Vicecomes" and it is mentioned that there were 11 leagues of woodland.  The name "Cardington" derives from an English chief and warrior named Carda, whose sons and followers were called the Cardinga.  They made their home where the village is, and the village they built became known as Cardington, or the town of the sons of Carda.
+In the Domesday Book the village is referred to as 'Cardintine under the Fief of Rainwald Vicecomes' and it is mentioned that there were 11 leagues of woodland.  The name 'Cardington' derives from an English chief and warrior named Carda, whose sons and followers were called the Cardinga.  They made their home where the village is, and the village they built became known as Cardington, or the town of the sons of Carda.
 
 In the church is a large monument to Chief Justice of Leighton of Plaish (died 1607), this Jacobean monument is the earliest in Shropshire which depicts the deceased lying on his side. 
 
-Judge Leighton was known as "the hanging judge" (as was Judge Jeffries) as he condemned so many people to be hanged.  Amongst those condemned by Leighton was a local builder, who had come to the judge to ask to be pardoned for his crime.  The Judge promised him that if he would build him the finest set of chimneys he had ever yet built he would spare his life.  The builder did construct the chimneys (on Plaish Hall).  But after completing the job the Judge ordered the mans' eyes to be put out, and for him to be hanged from the same chimneys he had just built (so that he could build no more chimneys ever finer).  It is said that one can see the rope with which the builder was hanged.
+Judge Leighton was known as 'the hanging judge' (as was Judge Jeffries) as he condemned so many people to be hanged.  Amongst those condemned by Leighton was a local builder, who had come to the judge to ask to be pardoned for his crime.  The Judge promised him that if he would build him the finest set of chimneys he had ever yet built he would spare his life.  The builder did construct the chimneys (on Plaish Hall).  But after completing the job the Judge ordered the mans' eyes to be put out, and for him to be hanged from the same chimneys he had just built (so that he could build no more chimneys ever finer).  It is said that one can see the rope with which the builder was hanged.
 ![](../1shropshire/assets/images/churches/2020-02-08_13_22_42_DSC_6401_DxO_L.jpg)
 - Sub-Image: 2020-02-08_11_55_02_DSC_6349_DxO.jpg
 - Sub-Image: 2020-02-08_11_56_19_DSC_6352_DxO.jpg
@@ -219,7 +219,7 @@ Although there is evidence of a Norman church existing on the site, the present 
 
 An Anglo-Saxon church was founded circa 915 when a fort was built on the site.  The current building dates from the 12th Century.  The aisles and arcades were added in the 13th Century - the arcades noticeably lean outwards.  The tower was constructed around 1300 and the chancel was added in 1733.  The church was restored in 1871-72.  The tower and body of the church were constructed using limestone rubble with pink sandstone ashlar dressings and slate roofs.  The chancel is red brick with a tiled roof.
 
-In the Anglo-Saxon Chronicle the place name was recorded as Cyricbyrig.  Later in 1086 in the Domesday book, the place name was recorded as Cireberie which means "a fortified place with a church".
+In the Anglo-Saxon Chronicle the place name was recorded as Cyricbyrig.  Later in 1086 in the Domesday book, the place name was recorded as Cireberie which means 'a fortified place with a church'.
 
 The church was reformed into the church of the Augustinian Priory at Chirbury when the order relocated from Snead (near Bishop's Castle) round about 1220.  With the dissolution of the Priory in 1535, the church became a parish church once again.  The church as seen today is the nave of the Priory.
 ![](../1shropshire/assets/images/churches/2020-03-14_14_09_50_DSC_6783_DxO_L.jpg)
@@ -259,7 +259,7 @@ The churchyard contains a number of tombs of interest, including an urn shaped t
 
 The Domesday book makes reference to a church in the Manor existing before the Norman conquest, most likely a small wooden building.
 
-The name Stretton is derived from the old name Stratun which means "tun" (settlement) near to the "Street" or Roman Road.
+The name Stretton is derived from the old name Stratun which means 'tun' (settlement) near to the 'Street' or Roman Road.
 
 The Norman church was probably built around 1110 to 1130 as the region was growing in prosperity and population (and the Welsh boarder was quieter).
 
@@ -298,16 +298,6 @@ The name of the village derives from the Old English 'cleo' (clee) meaning a bal
 The exact date of the church is unknown, although there was probably a Saxon church on the site.  The most notable feature of the present building is the extensive herring-bone masonry.
 ![](../1shropshire/assets/images/churches/2020-07-17_13_44_05_DSC_7415_DxO_1.jpg)
 
-# Name: St Luke, Coalbrookdale
-- Date: 1854 AD
-
-With the support of the Darbys a new church was planned for the village of Coalbrookdale.  The foundation stone was laid by Abraham's wife, Matilda Frances, on 11th December 1851 and the completed building was consecrated by the Bishop of Hereford on 25th July 1854.
-
-The church is notable because unusually a number of the gravemarkers were locally cast in iron.
-
-The most notable grave is that of Abraham Darby IV and his Wife Matilda.
-![](../1shropshire/assets/images/churches/2020-01-12_12_48_52_DSC_6206_DxO.jpg)
-
 # Name: St Mary, Cleobury Mortimer
 - Date: 12th Century AD
 
@@ -318,6 +308,16 @@ The church is largely Early English.  The arcades lean outwards and were first s
 The shingled spire is not quite symmetrical when seen from certain viewpoints.
 ![](../1shropshire/assets/images/churches/2019-04-19_15_28_58_DSC_4140_DxO.jpg)
 
+# Name: Holy Trinity, Coalbrookdale
+- Date: 1854 AD
+
+With the support of the Darbys a new church was planned for the village of Coalbrookdale.  The foundation stone was laid by Abraham's wife, Matilda Frances, on 11th December 1851 and the completed building was consecrated by the Bishop of Hereford on 25th July 1854.
+
+The church is notable because unusually a number of the gravemarkers were locally cast in iron.
+
+The most notable grave is that of Abraham Darby IV and his Wife Matilda.
+![](../1shropshire/assets/images/churches/2020-01-12_12_48_52_DSC_6206_DxO.jpg)
+
 # Name: St Simon and St Jude, Cockshutt
 - Date: 1777 AD
 
@@ -325,10 +325,49 @@ A plain brick building constructed to replace the medieval church (dedicated to 
 ![](../1shropshire/assets/images/churches/2019-09-18_14_53_43_DSC_5075_DxO_L.jpg)
 - Sub-Image: 2019-09-18_14_55_20_DSC_5076_DxO.jpg
 
+# Name: St Peter, Cound
+- Date: 13th Century AD
+
+The church is dedicated to St Peter because of its medieval association with Shrewsbury Abbey, which is dedicated to Saints Peter and Paul.
+
+The oldest part of the church is the nave which dates from the 13th Century, and although the south aisle was built at the same time as the nave it was rebuilt a century later.  Since then the church has been added to quite considerably.  The tower was added in the 15th Century and in 1841/1842 the north aisle was built.  In 1862 the chancel was built and in 1889-91 the vestry was added re-using the 13th-century priest's door.
+
+The church is constructed in red and yellow sandstone.  In the older parts of the building the colours are used randomly, and for the 19th Century additions the blocks are deliberately arranged.
+
+The interior has many features of interest including the font which dates from the 12th Century (Norman) and the Pulpit which is dates 1633 (Jacobean).  In the chancel are re-used medieval tiles.  Over the chancel arch is part of a 15th Century wall painting of the Last Judgement.  There are many monuments on the interior walls.  In the churchyard is a sandstone cross base dating from the 18th Century or earlier.
+
+The name of the village is taken from the nearby brook, Cound Brook.  In the Domesday book, the manor was recorded as Cuneet.
+![](../1shropshire/assets/images/churches/2020-08-31_13_22_23_DSC_8233_DxO.jpg)
+- Sub-Image: 2020-08-31_13_17_42_DSC_8230_DxO.jpg
+- Sub-Image: 2020-08-31_13_24_43_DSC_8238_DxO.jpg
+- Sub-Image: 2020-08-31_13_30_00_DSC_8241_DxO.jpg
+- Sub-Image: 2020-08-31_13_30_31_DSC_8242_DxO.jpg
+- Sub-Image: 2020-08-31_13_30_54_DSC_8243_DxO.jpg
+- Sub-Image: 2020-08-31_13_31_17_DSC_8245_DxO.jpg
+- Sub-Image: 2020-08-31_13_31_43_DSC_8246_DxO.jpg
+- Sub-Image: 2020-08-31_13_32_00_DSC_8247_DxO.jpg
+- Sub-Image: 2020-08-31_13_34_03_DSC_8248_DxO.jpg
+- Sub-Image: 2020-08-31_13_34_32_DSC_8249_DxO.jpg
+- Sub-Image: 2020-08-31_13_34_55_DSC_8250_DxO.jpg
+- Sub-Image: 2020-08-31_13_35_16_DSC_8251_DxO.jpg
+- Sub-Image: 2020-08-31_13_35_34_DSC_8252_DxO.jpg
+- Sub-Image: 2020-08-31_13_36_19_DSC_8253_DxO.jpg
+- Sub-Image: 2020-08-31_13_37_15_DSC_8254_DxO.jpg
+- Sub-Image: 2020-08-31_13_41_56_DSC_8256_DxO.jpg
+- Sub-Image: 2020-08-31_13_42_18_DSC_8257_DxO.jpg
+- Sub-Image: 2020-08-31_13_45_13_DSC_8258_DxO.jpg
+- Sub-Image: 2020-08-31_13_46_22_DSC_8260_DxO.jpg
+- Sub-Image: 2020-08-31_13_48_23_DSC_8261_DxO.jpg
+- Sub-Image: 2020-08-31_13_49_00_DSC_8262_DxO.jpg
+- Sub-Image: 2020-08-31_13_51_34_DSC_8264_DxO.jpg
+- Sub-Image: 2020-08-31_13_51_55_DSC_8265_DxO.jpg
+- Sub-Image: 2020-08-31_13_59_07_DSC_8266_DxO.jpg
+- Sub-Image: 2020-08-31_14_09_31_DSC_8290_DxO.jpg
+
 # Name: Christ Church, Cressage
 - Date: 1841 AD
 
-The name Cressage means "Christ's Oak", and so it is thought the village's location may be a very early Christian site (possibly an oak tree from where the gospel was preached).
+The name Cressage means 'Christ's Oak', and so it is thought the village's location may be a very early Christian site (possibly an oak tree from where the gospel was preached).
 
 There was a medieval church at Cressage, but it suffered repeated flooding from the nearby river Severn and so the current church was built on higher ground.  The rather austere church was architected by Edward Haycock snr (Haycock was responsible for 14 churches in Shropshire, other work by him includes Millichope Park and the Lord Hill monument in Shrewsbury).
 
@@ -378,6 +417,12 @@ The name Eyton upon the Weald Moors is derived from the Old English Eg-tun meani
 
 The church is built of red brick.  The apse was added in 1850 in the same style.
 ![](../1shropshire/assets/images/churches/2020-05-01_17_12_12_DSC_6980_DxO.jpg)
+
+# Name: St Thomas, Great Ryton
+- Date: 1896 AD
+
+A small red-brick 'Mission Church', the size of a chapel, which forms part of the Condover ecclesiastical parish.
+![](../1shropshire/assets/images/churches/2020-09-13_15_22_48_DSC_8513_DxO.jpg)
 
 # Name: St Mary Magdalene, Hadnall
 - Date: 1140 to 1150 AD
@@ -445,7 +490,7 @@ There was a medieval church on the site, this was replaced in 1863 by the presen
 # Name: St John the Baptist, Ightfield
 - Date: 1490 AD
 
-Mentioned in the Doomsday book as Istefelt, the name Ightfield may derive from the Old English "Ihtfeld" (Iht means creature and Feld means field), referring to the fact that the area was rural and farming was prevalent.  Alternatively, it is thought it could dervice from Giht, an ancient British river name.
+Mentioned in the Doomsday book as Istefelt, the name Ightfield may derive from the Old English 'Ihtfeld' (Iht means creature and Feld means field), referring to the fact that the area was rural and farming was prevalent.  Alternatively, it is thought it could dervice from Giht, an ancient British river name.
 
 The church has 15th Century origins and was partly rebuilt in the 19th Century (although records show a church here dedicated to St John the Baptist in 1072 AD).
 ![](../1shropshire/assets/images/churches/2019-12-21_14_42_27_DSC_6010_DxO_L.jpg)
@@ -501,6 +546,24 @@ The original parts of the church are medieval.  The tower was added in 1722-23.
 The name of the village derives from the Old English personal name Cynheard and the Old English word leah, which meant forest clearing.  The place-name as a whole meant forest clearing belonging to Cynheard.
 ![](../1shropshire/assets/images/churches/2020-08-07_14_27_49_DSC_7905_DxO.jpg)
 
+# Name: Chapel, Langley
+- Date: 14th Century AD
+
+In 1313 the lords of the manor at Langley (the Burnell's of Actor Burnell) obtained permission to build a chapel at Langley.  The structure of the present building dates from this time.  The chapel was fitted out in about 1546 by the Lee family (to whom the manor of Langley had passed in the second half of the 14th Century).  The chapel was re-roofed in 1601 by the same family.
+
+By the start of the 18th Century, the chapel had largely fallen out of use, and so avoided the changes being made to churches to re-order interiors to the more elaborate 'high church' model favoured in the 19th Century.  Consequently, it is the set of early 17th Century fittings that makes this chapel significant.
+
+The last regular service was held at Langley Chapel in 1871.
+
+The name of the settlement derives from the Old English meaning long wood/clearing - lang (long or tall) and leah (a forest, wood, glade or clearing, and later a pasture or meadow).
+![](../1shropshire/assets/images/churches/2020-09-11_17_04_37_DSC_8492_DxO_1.jpg)
+- Sub-Image: 2020-09-11_17_08_41_DSC_8497_DxO.jpg
+- Sub-Image: 2020-09-11_17_10_06_DSC_8499_DxO.jpg
+- Sub-Image: 2020-09-11_17_10_48_DSC_8502_DxO.jpg
+- Sub-Image: 2020-09-11_17_11_59_DSC_8506_DxO.jpg
+- Sub-Image: 2020-09-11_17_12_53_DSC_8508_DxO.jpg
+- Sub-Image: 2020-09-11_17_13_35_DSC_8510_DxO.jpg
+
 # Name: All Saints, Little Stretton
 - Date: 1903 AD
 
@@ -512,7 +575,7 @@ The building is painted to look half-timbered.  However, the whole interior is w
 
 The present church was the result of rebuilding the old medieval church in stages between 1847 and 1853 by the then vicar.  The almost detached steeple was designed and added in 1855-6 by the same vicar, he was convinced that the shape would be stronger than the usual hollow spire construction where the thickness of the straight sides diminishes towards the apex.  The height is 104 ft (tower 57 ft and spire 47 ft).
 
-The place name means "an enclosure (especially a church or churchyard) by a spring or well which is red (this may refer to a red-leaved tree or red soil)".
+The place name means 'an enclosure (especially a church or churchyard) by a spring or well which is red (this may refer to a red-leaved tree or red soil)'.
 ![](../1shropshire/assets/images/churches/2019-08-03_11_19_00_DSC_4692_DxO_bw.jpg)
 - Sub-Image: 2019-08-03_11_40_25_DSC_4701_DxO.jpg
 - Sub-Image: 2019-08-03_11_40_49_DSC_4702_DxO.jpg
@@ -583,7 +646,7 @@ There was probably a Saxon church here as Lidum is mentioned in the Doomsday boo
 
 The churchyard is noted as it has 35 yews shaped by a topiarist.  The church also has an excellent roof.
 
-The origin of the name Lydham is unknowm, but may be the old English for "at the gates" or "at the slopes".
+The origin of the name Lydham is unknowm, but may be the old English for 'at the gates' or 'at the slopes'.
 ![](../1shropshire/assets/images/churches/2020-01-25_15_13_18_DSC_6295_DxO_bw.jpg)
 - Sub-Image: 2020-01-25_14_59_41_IMG_6240_DxO.jpg
 - Sub-Image: 2020-01-25_15_04_00_DSC_6291_DxO.jpg
@@ -594,7 +657,7 @@ The origin of the name Lydham is unknowm, but may be the old English for "at the
 # Name: St Peter, Melverley
 - Date: 12th Century AD
 
-Melverley means "meadow by the mill-ford".
+Melverley means 'meadow by the mill-ford'.
 
 The church stands very close to the river Vyrnwy.
 
@@ -654,7 +717,7 @@ The church has two bells, one is 15th Century, and the other is from 1150, makin
 
 Some of the roof timbers have been identified as being from trees felled between 1225 and 1250, which makes them some of the oldest in situ church roof timbers.  The original roof was replaced after about 100 years, the timbers in the replacement roof are from trees felled between 1326 and 1348.
 
-The name Myndtown literally means place or town by the mynd (mountain).  Myndtown was once a significant medieval village.  The village is recorded as "Munete" in the Domesday book.
+The name Myndtown literally means place or town by the mynd (mountain).  Myndtown was once a significant medieval village.  The village is recorded as 'Munete' in the Domesday book.
 ![](../1shropshire/assets/images/churches/2020-03-21_14_08_42_DSC_6901_DxO.jpg)
 - Sub-Image: 2020-03-21_13_56_02_DSC_6896_DxO.jpg
 - Sub-Image: 2020-03-21_13_56_46_DSC_6897_DxO.jpg
@@ -687,7 +750,7 @@ The present building was built in 1727 to replace the old medieval church.
 
 Although the exterior is plain, the interior contains many items collected from home and abroad.
 
-The name Petton is derived from the Old English "peac" meaning a knoll, a hill or a peak and tun meaning an enclosure, a farmstead, a village or an estate.
+The name Petton is derived from the Old English 'peac' meaning a knoll, a hill or a peak and tun meaning an enclosure, a farmstead, a village or an estate.
 ![](../1shropshire/assets/images/churches/2017-07-02_15_23_25_DSC01248_DxO.jpg)
 
 # Name: St Michael and All Angels, Pitchford
@@ -705,7 +768,7 @@ Noted for a solid oak carved tomb effigy (one of only three in the country) of a
 
 Prees is thought to be an ancient Celtic name meaning brushwood or grove.
 
-The church is a mixture of styles, Gothic nave, 18th Century tower and Victorian chancel.  It is thought that the whole church was rebuilt in the 14th Century
+The church is a mixture of styles, Gothic nave, 18th Century tower and Victorian chancel.  It is thought that the whole church was rebuilt in the 14th Century.
 ![](../1shropshire/assets/images/churches/2019-03-24_12_31_37_DSC_3619_DxO.jpg)
 - Sub-Image: 2019-03-24_12_20_27_DSC_3610_DxO.jpg
 
@@ -740,7 +803,7 @@ The name Preston upon the Weald Moors (24 letters) is one of the longest names o
 # Name: St Margaret, Ratlinghope
 - Date: 1209 AD
 
-Ratlinghope is thought to mean "the valley of Rotel's people" and is set in some of the finest scenery in the county.
+Ratlinghope is thought to mean 'the valley of Rotel's people' and is set in some of the finest scenery in the county.
 
 It is likely that most of the building is 17th Century as there are few traces of the the priory that was here until the Dissolution in 1536.
 ![](../1shropshire/assets/images/churches/2019-05-06_15_49_10_DSC_4232_DxO.jpg)
@@ -754,6 +817,14 @@ The village is close to Offa's Dyke and the dyke bounds the parish on the west, 
 The churchyard has a number of very old yew trees, suggesting that the site has been a place of Christian worship for over 1000 years.  However, the church itself is first mentioned in the Papal Tax records in 1291.  The church is noted for its 13th Century font and the barrel roof over the chancel, which is thought to be from the 14th Century.  The north and south transepts were added in 1821-28.  The church was extensively rebuilt in 1891-92.
 ![](../1shropshire/assets/images/churches/2020-06-20_14_33_42_DSC_7305_DxO_L.jpg)
 
+# Name: St Peter and St Paul, Sheinton
+- Date: 1854 AD
+
+Although medieval in origin, the church was partly rebuilt in the 1660s and then nearly the whole church was rebuilt in 1854.  The church is noted for the half-timbered belfry which juts out above the west wall.
+
+The name of the village derives from the Saxon 'shena' and 'tun' meaning beautiful place or farm/settlement.
+![](../1shropshire/assets/images/churches/2020-08-31_14_57_21_DSC_8302_DxO.jpg)
+
 # Name: All Saints, Shelve
 - Date: 1839 AD
 
@@ -761,7 +832,7 @@ The present church was built to replace a medieval structure and is built in the
 
 This church is one of the highest in the county at 1,150 feet above sea level.
 
-The place name likely derives from the fact it is situated on an area of relatively flat ground in an otherwise undulating terrain, as in "shelf" of level ground.
+The place name likely derives from the fact it is situated on an area of relatively flat ground in an otherwise undulating terrain, as in 'shelf' of level ground.
 ![](../1shropshire/assets/images/churches/2020-03-21_11_21_07_DSC_6856_DxO.jpg)
 - Sub-Image: 2020-03-21_11_07_03_DSC_6846_DxO.jpg
 - Sub-Image: 2020-03-21_11_09_12_DSC_6847_DxO.jpg
@@ -773,7 +844,7 @@ The place name likely derives from the fact it is situated on an area of relativ
 
 The nave and lower part of the tower date from the last 12th Century.  Noted for its Elizabethan chancel, as hardly any churches were built during the reign of Elizabeth I.
 
-Shipton means "sheep farm".
+Shipton means 'sheep farm'.
 
 In the church there is a tablet recording the departure of four children of Samuel More on the Mayflower in 1620.
 ![](../1shropshire/assets/images/churches/2019-02-02_11_01_56_DSC_3120_DxO.jpg)
@@ -841,7 +912,7 @@ In 1972 the church became a United Reformed Church.
 
 Although not mentioned in any records before 1341, the building does retain some 12th Century features.  Over the years the church fell into disrepair and was rebuilt in 1850.
 
-Smethcott means "the smith's cottage".
+Smethcott means 'the smith's cottage'.
 ![](../1shropshire/assets/images/churches/2019-02-23_12_50_01_DSC_3417_DxO.jpg)
 - Sub-Image: 2019-02-23_12_46_49_DSC_3414_DxO.jpg
 
@@ -851,7 +922,6 @@ Smethcott means "the smith's cottage".
 A somewhat austere chapel.
 
 The word Beach is derived from the Old English Baece (stream) or Bache (a steep wooded narrow valley).
-
 ![](../1shropshire/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO_L.jpg)
 
 - Sub-Image: 2019-05-06_11_37_16_DSC_4154_DxO.jpg
@@ -875,7 +945,7 @@ The manor at Stoke on Tern was once very prosperous (being valued at 7 pounds at
 
 The medieval church was rebuilt in the 1870s as it was in much need of restoration and repair.
 
-The name of the place derives from the Old English "stoc" (meaning a place or a secondary settlement) and the nearby river Tern.
+The name of the place derives from the Old English 'stoc' (meaning a place or a secondary settlement) and the nearby river Tern.
 ![](../1shropshire/assets/images/churches/2020-02-23_15_09_35_DSC_6521_DxO.jpg)
 
 # Name: St Milburgh, Stoke St Milborough
@@ -893,7 +963,7 @@ The original church was built around 1150 as a chapel to the nearby castle.  The
 
 The church is noted for the biblical texts on the walls, two decker pulpit and box and canopied pews.
 
-The name of Stokesay is derived from the old English "stoc" meaning a place or secondary settlement, in this case for the de Say family, who held the manor in the 12th and 13th centuries.
+The name of Stokesay is derived from the old English 'stoc' meaning a place or secondary settlement, in this case for the de Say family, who held the manor in the 12th and 13th centuries.
 ![](../1shropshire/assets/images/churches/2019-08-23_12_50_01_DSC_4716_DxO.jpg)
 - Sub-Image: 2019-08-23_12_43_08_DSC_4710_DxO.jpg
 - Sub-Image: 2019-08-23_12_43_52_DSC_4711_DxO.jpg
@@ -909,13 +979,13 @@ The name of the village means 'Tidbeorht's farm/settlement', from a personal nam
 # Name: St Bartholomew, Tong
 - Date: 1410 AD
 
-Sometimes referred to as the "Westminster Abbey of the Midlands"; the church is noted for its architecture which includes a fan vaulted side chapel (which is rare in Shropshire) and its numerous tombs.
+Sometimes referred to as the 'Westminster Abbey of the Midlands'; the church is noted for its architecture which includes a fan vaulted side chapel (which is rare in Shropshire) and its numerous tombs.
 
 The church was founded by the widowed Isabel Lingen as a chantry and collegiate church.  The commission to dissolve the college was issued on 17th September 1546 and referred to the legislation that permitted the king's commissioners to seize property on his behalf.
 
 The church is a cruciform building (rare for the Perpendicular era) and is built of red sandstone (which is abundant locally).  The church is noted for its bourdon bell which weighs over 2 tonnes and is called the Great Bell of Tong - claimed to be the loudest and biggest bell in Shropshire.  It had been feared that the tower would not support continued tolling, so it is rung only on certain days / occasions which gives the vicar of the church an equal status with the local noble families and the sitting monarch.
 
-The name Tong is derived from the old English "tweonga" meaning a pinched piece or a spit of land, in this case, it describes the situation of the village between the two headstreams of the River Worfe.
+The name Tong is derived from the old English 'tweonga' meaning a pinched piece or a spit of land, in this case, it describes the situation of the village between the two headstreams of the River Worfe.
 ![](../1shropshire/assets/images/churches/2019-09-01_13_55_12_DSC_5019_DxO.jpg)
 - Sub-Image: 2019-09-01_13_45_36_DSC_4999_DxO.jpg
 - Sub-Image: 2019-09-01_14_04_32_DSC_5026_DxO.jpg
@@ -932,7 +1002,7 @@ The name is derived from the old English meaning higher farm or settlement (Upto
 # Name: St Lucy, Upton Magna
 - Date: 12th Century AD
 
-Magna is Latin, meaning "great", so the translation of Upton Magna is "Great Upton".
+Magna is Latin, meaning 'great', so the translation of Upton Magna is 'Great Upton'.
 
 The nave and chancel are originally Norman, as is the south doorway of the Nave.  Some original masonry survives in the chancel but the church was substantially rebuilt and enriched by the architect G E Street (best known as the designer of the Royal Courts of Justice) in the 1850s and 1860s.  The tower is Perpendicular (he final phase of Gothic architecture, which spanned the late 14th Century to the early 16th Century).
 
@@ -949,12 +1019,20 @@ This was the first Shropshire church to introduce an entrance front in the form 
 There is mention of a priest at the site in the Domesday book.  The origin of the name of the town is uncertain, but is likely to mean farm or settlement of a Saxon settler - Weola.
 ![](../1shropshire/assets/images/churches/2020-07-26_17_00_10_DSC_7577_DxO_1.jpg)
 
+# Name: Christ Church, Wellington
+- Date: 1839 AD
+
+The church was built in 1838 and was originally consecrated in the following year as a chapel of ease (as a daughter church to All Saints in the town centre).  The church was designed by Thomas Smith of Madeley and closely resembles his earlier church at Ironbridge.
+
+In the tower is the Great Bell weighing two tons which was cast for the centenary of the building in 1938.
+![](../1shropshire/assets/images/churches/2020-09-06_10_42_41_DSC_8308_DxO.jpg)
+
 # Name: St Michael and All Angels, Welshampton
 - Date: 1860s AD
 
 The present church was preceeded by a Saxon or Norman church, a medieval building dating from 1391 and church built in 1788 which became inadequate for the needs of the parish and fell into disrepair.  In 1861 a new building was commissioned from the leading architect of the day Sir George Gilbert Scott.  The walls are of yellow sandstone ashlar; the church has a slate roof which has a lozenge pattern over the nave and a zig-zag pattern over the chancel.
 
-Welshampton is recorded in the Domesday book as Hantone, meaning high farm or settlement.  The prefix "Welsh" is a reflection of its proximity to Flintshire.
+Welshampton is recorded in the Domesday book as Hantone, meaning high farm or settlement.  The prefix 'Welsh' is a reflection of its proximity to Flintshire.
 
 An African prince is buried in the churchyard - the then vicar was as offered a post in Lesotho, which he turned down but maintained contact with the country.  The prince came to England to train as a priest and visited Welshampton when the new church was consecrated in 1863, but during the visit he caught a fever and died and so was buried at the church.
 ![](../1shropshire/assets/images/churches/2019-07-21_13_20_12_DSC_4685_DxO_L.jpg)
@@ -964,8 +1042,18 @@ An African prince is buried in the churchyard - the then vicar was as offered a 
 
 The church has been rebuilt at least three times - the 14th Century tower is probably the only structure that survived the great fire of Wem in 1677.
 
-Wem (or wemm) is the Old English for "a marshy place".
+Wem (or wemm) is the Old English for 'a marshy place'.
 ![](../1shropshire/assets/images/churches/2019-03-02_14_14_43_DSC_3474_DxO.jpg)
+
+# Name: St Michael and All Angels, Wentnor
+- Date: Norman (1095 AD or earlier)
+
+The original church was Norman and there are a few surviving elements of this church in the present building.  The advowson (the right of presentation of a candidate to a benefice or church office) of the church was presented to the Abbey of Shrewsbury as early as 1095.  Much of the church was rebuilt in 1886.
+
+The church has a notable tombstone (the so called Hurricane Tombstone) inside by the font under the tower, it commemorates a hurricane and snow storm which claimed the lives of seven villagers from the nearby hamlet of Asterton in 1772.
+
+In the Domesday book, Wentnor is listed as Wantenovre.  The name of the village means Wonta's or Wenta's (personal name) flat-topped ridge (Old English ofer).
+![](../1shropshire/assets/images/churches/2020-09-19_14_04_19_DSC_8624_DxO.jpg)
 
 # Name: St Mary, Westbury
 - Date: 13th or 14th Century
@@ -980,7 +1068,7 @@ The name of the village derives from the Old English west and burh meaning a for
 
 Whitchurch is the oldest continually inhabited town in Shropshire.
 
-Whitchurch acquired its present name after the construction of a Norman church in white Grinshill stone (replacing a wooden Saxon church), from the Middle English for "White Church".  Originally a Roman settlement it was half way between Wroxeter and Chester and so was known as Mediolanum (the place in the middle of the plain).  In the Doomsday book it was known as Westune (indicating its situation on the Western border of England).
+Whitchurch acquired its present name after the construction of a Norman church in white Grinshill stone (replacing a wooden Saxon church), from the Middle English for 'White Church'.  Originally a Roman settlement it was half way between Wroxeter and Chester and so was known as Mediolanum (the place in the middle of the plain).  In the Doomsday book it was known as Westune (indicating its situation on the Western border of England).
 
 The Norman church was extended in medieval times, but collaspsed on Sunday 31st July 1711.
 
@@ -1001,7 +1089,7 @@ Whittington was once a place of some importance.  The Welsh form of the place na
 
 The church is mentioned in the Domesday book and so is thought to be of Saxon origin.  The current church is of Norman origin (with modifiications being made in the 14th Century).  The plan of the church forms a cruciform with the tower at the cross point, a less common layout (when compared with the more usual configuration of siting the tower at the east or west end of the building).
 
-The name Wrockwardine is derived from the words meaning "enclosure or settlement by the Wrekin" - Wrekin is the British name for Wroxeter (and is the name given to the nearby hill).
+The name Wrockwardine is derived from the words meaning 'enclosure or settlement by the Wrekin' - Wrekin is the British name for Wroxeter (and is the name given to the nearby hill).
 ![](../1shropshire/assets/images/churches/2020-03-01_16_09_46_DSC_6695_DxO.jpg)
 
 # Name: St Andrew, Wroxeter

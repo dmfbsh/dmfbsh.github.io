@@ -123,7 +123,7 @@
       </Placemark>
       <Placemark>
         <name>Cound - St Peter</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.6540129,52.6407322,0
@@ -150,7 +150,7 @@
       </Placemark>
       <Placemark>
         <name>Dorrington - St Edward</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.7744592,52.6215382,0
@@ -186,7 +186,7 @@
       </Placemark>
       <Placemark>
         <name>Langley Chapel</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.6830507,52.5967186,0
@@ -231,7 +231,7 @@
       </Placemark>
       <Placemark>
         <name>Ryton - St Thomas</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.7570478,52.6273431,0
@@ -414,7 +414,7 @@
       </Placemark>
       <Placemark>
         <name>Sheinton - St Peter and St Paul</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.5766848,52.6320988,0
@@ -700,7 +700,7 @@
       </Placemark>
       <Placemark>
         <name>Bishops Castle - St John the Baptist</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.9982786,52.489506,0
@@ -919,7 +919,7 @@
       </Placemark>
       <Placemark>
         <name>Clee St Margaret - St Margaret</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.64234,52.4555674,0
@@ -1017,7 +1017,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>KInlet - St John the Baptist</name>
+        <name>Kinlet - St John the Baptist</name>
         <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -1099,7 +1099,7 @@
       </Placemark>
       <Placemark>
         <name>Stoke St Milborough - St Milburgh</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.6396463,52.4370391,0

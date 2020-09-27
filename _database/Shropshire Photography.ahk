@@ -115,11 +115,11 @@ Menu, ImageMenu, Add, Select, MenuImageSelect
 Menu, ImageMenu, Add, View, MenuImageView
 Menu, ImageMenu, Add
 Menu, ImageMenu, Add, Move, MenuImageMove
-Menu, PlaceMenu, Add, Edit Notes, MenuEditNotes
+Menu, PlaceMenu, Add, Create Template, MenuCreateTemplate
 Menu, PlaceMenu, Add
 Menu, PlaceMenu, Add, Goto Published Folder, MenuGotoPublished
 Menu, PlaceMenu, Add
-Menu, PlaceMenu, Add, Create Template, MenuCreateTemplate
+Menu, PlaceMenu, Add, Edit Notes, MenuEditNotes
 ;Menu, PlaceMenu, Add, Update Existing Post, MenuUpdateExistingPost
 Menu, FilterMenu, Add, Clear Filter, MenuClearFilter
 Menu, FilterMenu, Add
@@ -134,8 +134,8 @@ Menu, FilterMenu, Add, Place, MenuFilterPlace
 Menu, FilterMenu, Add, Folklore, MenuFilterFolklore
 Menu, FilterMenu, Add, Other, MenuFilterOther
 Menu, FilterMenu, Add, Information, MenuFilterInformation
-Menu, ProjectMenu, Add, Create New Post, MenuCreateNewPost
-Menu, ProjectMenu, Add
+;Menu, ProjectMenu, Add, Create New Post, MenuCreateNewPost
+;Menu, ProjectMenu, Add
 Menu, ProjectMenu, Add, Write XnViewMP Search, MenuProjectXnViewMPSearch
 ;Menu, ProjectMenu, Add, Compare Folders, MenuCompareFolders
 ;Menu, ProjectMenu, Add, Compare ACDSee, MenuCompareACDSee
@@ -609,12 +609,38 @@ WriteTemplate(pImgFile) {
           mdTemp := mdTemp . "![](../1shropshire/assets/images/folklore/" . pImgFile . ")" . "`r`n"
       }
   	Case "Church":
-      mdTemp := "# Name: " . argPlace . "`r`n"
-      mdTemp := mdTemp . "- Date: TBD" . "`r`n"
-      mdTemp := mdTemp . "`r`n"
-      mdTemp := mdTemp . "<notes>" . "`r`n"
-      mdTemp := mdTemp . "![](../1shropshire/assets/images/churches/" . pImgFile . ")" . "`r`n"
-      mdTemp := mdTemp . "- Sub-Image: " . "`r`n"
+;      IniRead, FeaturesDB, %A_ScriptDir%\Shropshire Features.ini, Database, DBFile
+;      DBC := new SQLiteDB
+;      DBC.OpenDB(FeaturesDB)
+      RecordSet := ""
+      c1 := "<dedication>"
+      c2 := "<place>"
+      c3 := "<date>"
+      c4 := "<details"
+      SQL := "SELECT Dedication, Place, Date, Details FROM Churches WHERE Link = """ . argPlace . """;"
+      DB.Query(SQL, RecordSet)
+      Loop {
+        RC := RecordSet.Next(Row)
+        if (RC > 0) {
+          c1 := row[1]
+          c2 := row[2]
+          c3 := row[3]
+          c4 := row[4]
+    	  }
+      } Until RC < 1
+      RecordSet.Free()
+;      DBC.CloseDB()
+      mdTemp := "# Name: " . c1 . ", " . c2 . "`r`n"
+      mdTemp .= "- Date: " . c3 . "`r`n"
+      mdTemp .=  "`r`n"
+      mdTemp .=  c4 . "`r`n"
+      mdTemp .= "![](../1shropshire/assets/images/churches/" . pImgFile . ")" . "`r`n"
+;      mdTemp := "# Name: " . argPlace . "`r`n"
+;      mdTemp := mdTemp . "- Date: TBD" . "`r`n"
+;      mdTemp := mdTemp . "`r`n"
+;      mdTemp := mdTemp . "<notes>" . "`r`n"
+;      mdTemp := mdTemp . "![](../1shropshire/assets/images/churches/" . pImgFile . ")" . "`r`n"
+;      mdTemp := mdTemp . "- Sub-Image: " . "`r`n"
   	Case "Other":
       mdTemp := "# Name: " . argPlace . "`r`n"
       mdTemp := mdTemp . "`r`n"

@@ -2,6 +2,7 @@
 	"ego.power-tools": {
 
 
+
 		"user": {},
 		"buttons": [
 			{
@@ -50,29 +51,11 @@
 				}
 			},
 			{
-				"text": "Churches",
-				"tooltip": "Churches Database",
+				"text": "Features",
+				"tooltip": "Features Database",
 				"action": {
 					"type": "shell",
-					"command": "\"C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/Shropshire Churches.exe\"",
-					"wait" : false
-				}
-			},
-			{
-				"text": "Places",
-				"tooltip": "Places Database",
-				"action": {
-					"type": "shell",
-					"command": "\"C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/Shropshire Places.exe\"",
-					"wait" : false
-				}
-			},
-			{
-				"text": "Hills",
-				"tooltip": "Hills Database",
-				"action": {
-					"type": "shell",
-					"command": "\"C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/Shropshire Hills.exe\"",
+					"command": "\"C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/Shropshire Features.exe\"",
 					"wait" : false
 				}
 			}
