@@ -1,3 +1,17 @@
+### 03 Oct 2020
+Added the following items:
+
+- Norbury Church
+- Broseley Church
+- Benthall Church
+- Baschurch Church
+- Baschurch Yew Tree
+- The Hollies x 2
+- The Long Mynd x 11
+- Longnor Church
+- Petton Church - extra images
+- Broseley Railway
+
 ### 22 Sep 2020
 Added the following items:
 

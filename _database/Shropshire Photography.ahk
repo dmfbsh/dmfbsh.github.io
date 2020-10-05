@@ -616,7 +616,7 @@ WriteTemplate(pImgFile) {
       c1 := "<dedication>"
       c2 := "<place>"
       c3 := "<date>"
-      c4 := "<details"
+      c4 := "<details>"
       SQL := "SELECT Dedication, Place, Date, Details FROM Churches WHERE Link = """ . argPlace . """;"
       DB.Query(SQL, RecordSet)
       Loop {

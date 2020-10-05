@@ -73,6 +73,20 @@ The name Atcham is a contraction of Attingham, meaning 'the home of Eata's peopl
 - Sub-Image: 2020-01-12_15_55_58_DSC_6224_DxO.jpg
 - Sub-Image: 2020-01-12_15_57_40_DSC_6226_DxO.jpg
 
+# Name: All Saints, Baschurch
+- Date: 12th Century
+
+Some parts of the church are Norman (and date from the 12th Century).  The bottom four stages of the tower were constructed in the early 13th Century.  The top stage was added in circa 1400.
+
+The church was restored in 1790 by Thomas Telford.  Further restorations were carried out in the late 19th Century.
+
+The font dates from 1681, and there are monuments to Thomas Corbet, dated 1615, and Thomas Slaney M.P. for Shrewsbury, who served in eight parliaments.  There is also is an old chained Bible, given in 1770 by the Rev. Robert Jeffreys, vicar here for 58 years, who died in 1800.
+
+The stained glass in the east window is by Kempe (1886).
+
+The English name Baschurch first appears in the Domesday Book of 1086 as Bascherche, but the earliest references to Baschurch are under its Welsh name Eglwyssau Bassa (Churches of Bassa), in a seven-stanza englyn-poem of the same name found in the Welsh cycle of poems called Canu Heledd, generally thought to date to the ninth century.
+![](../1shropshire/assets/images/churches/2020-09-25_13_47_17_DSC_8752_DxO.jpg)
+
 # Name: St Mary Magdalene, Battlefield
 - Date: 1406 AD
 
@@ -97,6 +111,23 @@ The chancel is possibly 14th Century, the nave and the tower were added in 1731.
 - Sub-Image: 2020-02-01_12_57_06_DSC_6323_DxO.jpg
 - Sub-Image: 2020-02-01_12_57_32_DSC_6324_DxO.jpg
 - Sub-Image: 2020-02-01_12_58_35_DSC_6325_DxO.jpg
+
+# Name: St Bartholomew, Benthall
+- Date: 1667 AD
+
+At the time of the Domesday Book, the settlement was most likely part of the manor at Much Wenlock.  During the Middle Ages, there was a chapel at Benthall which was dedicated to St Brice, and which was dependent on Wenlock Priory.
+
+The chapel was destroyed in the Civil War and the present church was built to replace it.  The church is considered to be a fine example of a restoration era (the post Civil War Stuart period) church. The church was extended in the late 19th Century.
+
+There is a vertical sun dial on the church with an eye constructed of glass tesserae.
+
+St Bartholomew was the patron saint of bees.  At one time a bee hive was kept in the church, the honey was sold or given away to help the poor of the community.  The bees used to access the hive through the mouth of the lion's head carving which is just beneath the sun dial.
+
+The place-name means 'nook of land where the bent-grass grows', this derives from the Old English 'beonet' whicn means bent-grass and 'halh' (Anglian) which means a nook of land, a small valley, dry ground in marsh, or a piece of land projecting from, or detached from, the main area of its administrative unit.
+![](../1shropshire/assets/images/churches/2020-09-20_16_45_54_DSC_8701_DxO_1_bw.jpg)
+- Sub-Image: 2020-09-20_16_32_27_DSC_8690_DxO.jpg
+- Sub-Image: 2020-09-20_16_40_31_DSC_8694_DxO.jpg
+- Sub-Image: 2020-09-20_16_42_41_DSC_8695_DxO.jpg
 
 # Name: St Margaret, Betton Strange
 - Date: 1858 AD
@@ -151,6 +182,33 @@ The church was designed by Thomas Telford.
 
 It is aligned north-south, rather than the more usual west-east.
 ![](../1shropshire/assets/images/churches/2019-09-21_15_16_30_DSC_5116_DxO.jpg)
+
+# Name: All Saints, Broseley
+- Date: 1845 AD
+
+This church is considered to be the finest early Victorian church in the county, and is constructed throughout in an authentic Perpendicular style.  It is built of stone from Grinshill.
+
+In the late 16th and early 17th Centuries, the wooded parish of Broseley expanded as the coal-mining industry grew, there was further expansion in the 18th Century with increasing industry in the area.  This made the existing church unsuitable for the increasing population.
+
+In the early 1700's, what was probably the original medieval church, was completely rebuilt and finished in 1716.  The present church then replaced this building.  When the new church was consecrated the dedication was changed from St Leonard to All Saints.
+
+The church contains a window by Kempe.
+
+A settlement existed at Broseley in 1086 and is listed as Bosle in the Domesday Book.  The name of the town likely derives from either the Old English for town's guardian (burh-weard) or the Old English personal name Burgweard, and the Old English leah meaning a forest, wood, glade or clearing (and later a pasture or meadow).
+![](../1shropshire/assets/images/churches/2020-09-20_15_53_14_DSC_8658_DxO.jpg)
+- Sub-Image: 2020-09-20_15_54_50_DSC_8663_DxO.jpg
+- Sub-Image: 2020-09-20_15_56_20_DSC_8666_DxO.jpg
+- Sub-Image: 2020-09-20_15_57_02_DSC_8667_DxO.jpg
+- Sub-Image: 2020-09-20_15_57_35_DSC_8668_DxO.jpg
+- Sub-Image: 2020-09-20_15_58_15_DSC_8669_DxO.jpg
+- Sub-Image: 2020-09-20_16_00_00_DSC_8670_DxO.jpg
+- Sub-Image: 2020-09-20_16_00_25_DSC_8671_DxO.jpg
+- Sub-Image: 2020-09-20_16_01_10_DSC_8672_DxO.jpg
+- Sub-Image: 2020-09-20_16_04_22_DSC_8675_DxO.jpg
+- Sub-Image: 2020-09-20_16_04_39_DSC_8676_DxO.jpg
+- Sub-Image: 2020-09-20_16_04_54_DSC_8677_DxO.jpg
+- Sub-Image: 2020-09-20_16_05_41_DSC_8678_DxO.jpg
+- Sub-Image: 2020-09-20_16_11_07_DSC_8681_DxO.jpg
 
 # Name: Holy Trinity, Buildwas
 - Date: 1720 AD
@@ -617,6 +675,41 @@ The name of the village simply means (in Old English) long ford, possibly referr
 - Sub-Image: 2020-08-15_13_53_52_DSC_8032_DxO.jpg
 - Sub-Image: 2020-08-15_13_55_49_DSC_8033_DxO.jpg
 
+# Name: St Mary, Longnor
+- Date: 1275 AD
+
+Since its construction, the building has hardly been altered.  The western bell turret is 19th Century.
+
+The interior is noted for its wooden furnishings, some of which date from the 17th Century.
+
+The building is considered to be a perfect example of Early English architecture, it is considered to be a rarity among English parish churches as the building is entirely a single medieval style.
+
+The name of the village derives its name from an alder copse on the banks of the river Cound near to the church ('lang' is the Old English for long or tall and 'alor' is the Old English for an alder tree).
+![](../1shropshire/assets/images/churches/2020-09-13_16_03_30_DSC_8567_DxO_1.jpg)
+- Sub-Image: 2020-09-13_15_37_17_DSC_8514_DxO.jpg
+- Sub-Image: 2020-09-13_15_37_56_DSC_8515_DxO.jpg
+- Sub-Image: 2020-09-13_15_45_09_DSC_8531_DxO.jpg
+- Sub-Image: 2020-09-13_15_45_50_DSC_8533_DxO.jpg
+- Sub-Image: 2020-09-13_15_47_07_DSC_8536_DxO.jpg
+- Sub-Image: 2020-09-13_15_48_51_DSC_8538_DxO.jpg
+- Sub-Image: 2020-09-13_15_49_23_DSC_8539_DxO.jpg
+- Sub-Image: 2020-09-13_15_49_53_DSC_8541_DxO.jpg
+- Sub-Image: 2020-09-13_15_50_09_DSC_8542_DxO.jpg
+- Sub-Image: 2020-09-13_15_50_20_DSC_8543_DxO.jpg
+- Sub-Image: 2020-09-13_15_50_36_DSC_8544_DxO.jpg
+- Sub-Image: 2020-09-13_15_50_43_DSC_8545_DxO.jpg
+- Sub-Image: 2020-09-13_15_51_05_DSC_8546_DxO.jpg
+- Sub-Image: 2020-09-13_15_51_34_DSC_8548_DxO.jpg
+- Sub-Image: 2020-09-13_15_51_58_DSC_8549_DxO.jpg
+- Sub-Image: 2020-09-13_15_52_13_DSC_8550_DxO.jpg
+- Sub-Image: 2020-09-13_15_52_22_DSC_8551_DxO.jpg
+- Sub-Image: 2020-09-13_15_52_37_DSC_8552_DxO.jpg
+- Sub-Image: 2020-09-13_15_53_04_DSC_8553_DxO.jpg
+- Sub-Image: 2020-09-13_15_53_27_DSC_8554_DxO.jpg
+- Sub-Image: 2020-09-13_15_53_52_DSC_8555_DxO.jpg
+- Sub-Image: 2020-09-13_15_55_30_DSC_8558_DxO.jpg
+- Sub-Image: 2020-09-13_15_55_48_DSC_8559_DxO.jpg
+
 # Name: St Laurence, Ludlow
 - Date: 12th Century AD
 
@@ -731,6 +824,20 @@ Although the church dates back to the 12th Century, virtually nothing from this 
 Externally the building is a medieval west tower and a Victorian church (both of red sandstone).
 ![](../1shropshire/assets/images/churches/2019-12-07_13_49_02_DSC02370_DxO.jpg)
 
+# Name: All Saints, Norbury
+- Date: 13th Century
+
+The original church was built circa 1200, the tower dates from the late 13th Century / early 14th Century.  The church was substantially rebuilt from 1879 to 1893 (nave 1879-80, chancel 1892-3 and spire 1880).
+
+The tower has a very distinctive batter (a receding or inward slope) and very thick walls - indicating a degree of defensibility.
+
+Until 1894 Norbury was a dependent chapelry of Lydbury North.  Also, records from 1521 indicate that the church was dedicated to St Ethelbert.
+
+The yew tree in the churchyard is believed to be circa 2,700 years old, the tree has a girth of approx. 33ft.
+
+The name of the village derives from the Old English for northern (nord) and fortified place (burh).  There are hill fort defences near the church.
+![](../1shropshire/assets/images/churches/2020-09-19_14_39_21_DSC_8644_DxO.jpg)
+
 # Name: St Oswald, Oswestry
 - Date: 13th Century AD
 
@@ -752,6 +859,18 @@ Although the exterior is plain, the interior contains many items collected from 
 
 The name Petton is derived from the Old English 'peac' meaning a knoll, a hill or a peak and tun meaning an enclosure, a farmstead, a village or an estate.
 ![](../1shropshire/assets/images/churches/2017-07-02_15_23_25_DSC01248_DxO.jpg)
+- Sub-Image: 2020-09-25_12_36_05_DSC_8704_DxO.jpg
+- Sub-Image: 2020-09-25_12_37_00_DSC_8706_DxO.jpg
+- Sub-Image: 2020-09-25_12_38_09_DSC_8709_DxO.jpg
+- Sub-Image: 2020-09-25_12_40_02_DSC_8714_DxO.jpg
+- Sub-Image: 2020-09-25_12_41_09_DSC_8715_DxO.jpg
+- Sub-Image: 2020-09-25_12_41_54_DSC_8717_DxO.jpg
+- Sub-Image: 2020-09-25_12_42_18_DSC_8718_DxO.jpg
+- Sub-Image: 2020-09-25_12_42_29_DSC_8719_DxO.jpg
+- Sub-Image: 2020-09-25_12_44_14_DSC_8723_DxO.jpg
+- Sub-Image: 2020-09-25_12_45_46_DSC_8726_DxO.jpg
+- Sub-Image: 2020-09-25_12_49_46_DSC_8728_DxO.jpg
+- Sub-Image: 2020-09-25_13_01_55_DSC_8733_DxO.jpg
 
 # Name: St Michael and All Angels, Pitchford
 - Date: 1220 AD

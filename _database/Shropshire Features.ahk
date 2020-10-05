@@ -260,7 +260,7 @@ DataTabs:
   Return
 
 ShropshireList:
-	Gui, 1:Submit, NoHide
+	Gui, Submit, NoHide
   Return
 
 ChurchStatus:

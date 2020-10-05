@@ -13,6 +13,11 @@ In the late Winter / early Spring of 2020 there was severe flooding in Shropshir
 In the late Winter / early Spring of 2020 there was severe flooding in Shropshire - this picture shows the parkland at Attingham Park.
 ![](../1shropshire/assets/images/other/2020-03-01_13_28_06_DSC_6572_DxO.jpg)
 
+# Name: Yew Tree, Baschurch
+
+The yew tree in the churchyard at Baschurch is hollow inside.  It is thought to date from the 6th Century.
+![](../1shropshire/assets/images/other/2020-09-25_13_55_22_DSC_8765_DxO.jpg)
+
 # Name: The Gargoyles on the Church, Battlefield
 
 The Gargoyles on the church at Battlefield.
@@ -42,6 +47,13 @@ Blakemoorgate Cottages are a pair of restored miners' cottages on The Stiperston
 
 Blakemoorgate Cottages are a pair of restored miners' cottages on The Stiperstones above Snailbeach.  It is quite a walk up to these cottage from the mine and other facilities like the church at Snailbeach.
 ![](../1shropshire/assets/images/other/2020-05-22_13_56_06_DSC_7130_DxO.jpg)
+
+# Name: The Railway, Broseley
+
+Broseley developed as an industrial area due to the abundance of coal, clay, iron ore and limestone easily workable in one area, also the woods provided charcoal and the River Severn transport.  In fact, the mines in Broseley and the adjoining parish of Benthall became of national importance in the seventeenth century.
+
+This industrialisation drove innovation - a document of 1605 refers to a railway line from Birch Leasows, Broseley to the Calcutts, this is only the second railway for which evidence survives in England (making it one of the oldest railways in England).  A railway at the time would have horse drawn wagons on flanged wheels (meaning that greater loads could be moved with the same effort).
+![](../1shropshire/assets/images/other/2020-09-20_16_14_13_DSC_8687_DxO_1.jpg)
 
 # Name: The Royal Oak, Cardington
 
