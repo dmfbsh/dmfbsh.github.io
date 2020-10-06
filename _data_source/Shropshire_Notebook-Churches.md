@@ -456,7 +456,7 @@ The most striking internal feature is the herring-bone masonry in the north wall
 The church was paid for by J T Hope of Netley Hall.  In the 1840s the Early English style was dominant in Shropshire, and this church conforms to that style.  The church is built of ashlar.
 
 The name Dorrington derives from the Old English Deoringtun meaning 'settlement (tun) associated with Deor(a)', Deor being a personal name.
-![](../1shropshire/assets/images/churches/2020-08-01_16_04_46_DSC_7772_DxO_bw.jpg)
+![](../1shropshire/assets/images/churches/2020-08-01_16_04_46_DSC_7772_DxO_1_bw.jpg)
 - Sub-Image: 2020-08-01_16_10_54_DSC_7781_DxO.jpg
 - Sub-Image: 2020-08-01_16_12_10_DSC_7782_DxO.jpg
 - Sub-Image: 2020-08-01_16_12_23_DSC_7785_DxO.jpg

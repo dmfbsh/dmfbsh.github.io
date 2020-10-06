@@ -582,17 +582,17 @@ UpdateChurch() {
   l := NData["Shropshire"]
 	td := StrReplace(d, """", """""")
 	tn := StrReplace(n, """", """""")
-	SQL := "UPDATE Churches SET Details = """ . td . """ WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
-	DB.Exec(SQL)
-	SQL := "UPDATE Churches SET Notes = """ . tn . """ WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
-	DB.Exec(SQL)
-	SQL := "UPDATE Churches SET Status = """ . s . """ WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
-	DB.Exec(SQL)
-	SQL := "UPDATE Churches SET Date = """ . t . """ WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
-	DB.Exec(SQL)
-	SQL := "UPDATE Churches SET NeedToRevisit =  " . r . " WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
-	DB.Exec(SQL)
-	SQL := "UPDATE Churches SET Link = """ . l . """ WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
+	SQL := "UPDATE Churches SET Details = """ . td . """, Notes = """ . tn . """, Status = """ . s . """, Date = """ . t . """, NeedToRevisit =  " . r . ", Link = """ . l . """ WHERE Place = """ . a . """ AND Dedication = """ . b . """;"
+;	DB.Exec(SQL)
+;	SQL := "UPDATE Churches SET Notes = """ . tn . """ WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
+;	DB.Exec(SQL)
+;	SQL := "UPDATE Churches SET Status = """ . s . """ WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
+;	DB.Exec(SQL)
+;	SQL := "UPDATE Churches SET Date = """ . t . """ WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
+;	DB.Exec(SQL)
+;	SQL := "UPDATE Churches SET NeedToRevisit =  " . r . " WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
+;	DB.Exec(SQL)
+;	SQL := "UPDATE Churches SET Link = """ . l . """ WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
 	DB.Exec(SQL)
 }
 
