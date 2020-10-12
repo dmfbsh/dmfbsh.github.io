@@ -1,3 +1,9 @@
+### 10 Oct 2020
+Added the following items:
+
+- Lee Brockhurst Church
+- Newtown Church
+
 ### 03 Oct 2020
 Added the following items:
 

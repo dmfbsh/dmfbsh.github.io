@@ -617,7 +617,8 @@ WriteTemplate(pImgFile) {
       c2 := "<place>"
       c3 := "<date>"
       c4 := "<details>"
-      SQL := "SELECT Dedication, Place, Date, Details FROM Churches WHERE Link = """ . argPlace . """;"
+      c5 := "<area>"
+      SQL := "SELECT Dedication, Place, Date, Details, Area FROM Churches WHERE Link = """ . argPlace . """;"
       DB.Query(SQL, RecordSet)
       Loop {
         RC := RecordSet.Next(Row)
@@ -626,11 +627,13 @@ WriteTemplate(pImgFile) {
           c2 := row[2]
           c3 := row[3]
           c4 := row[4]
+          c5 := row[5]
     	  }
       } Until RC < 1
       RecordSet.Free()
 ;      DBC.CloseDB()
       mdTemp := "# Name: " . c1 . ", " . c2 . "`r`n"
+      mdTemp .= "- Area: " . c5 . "`r`n"
       mdTemp .= "- Date: " . c3 . "`r`n"
       mdTemp .=  "`r`n"
       mdTemp .=  c4 . "`r`n"

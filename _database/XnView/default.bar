@@ -28,17 +28,6 @@ _cmd_=LandscapePro;C:/Program Files/LandscapePro 3/LandscapePro.exe;C:/Program F
 cmd_convert
 _cmd_=Church Subimages;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/Church Subimages.exe;C:/Program Files/AutoHotkey/AutoHotkey.exe
 _cmd_=Code;C:/Program Files/Microsoft VS Code/Code.exe;C:/Program Files/Microsoft VS Code/Code.exe
-_bar_
-_cmd_=Castles;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Castles.exe;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Castles.exe
-_cmd_=Churches;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Churches.exe;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Churches.exe
-_cmd_=Churches-Sub;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Churches-Sub.exe;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Churches-Sub.exe
-_cmd_=Folklore;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Folklore.exe;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Folklore.exe
-_cmd_=History;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/History.exe;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/History.exe
-_cmd_=Houses;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Houses.exe;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Houses.exe
-_cmd_=Landscape;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Landscape.exe;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Landscape.exe
-_cmd_=Other;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Other.exe;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Other.exe
-_cmd_=People;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/People.exe;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/People.exe
-_cmd_=Places;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Places.exe;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_config/XnViewMP/Places.exe
 
 [View]
 cmd_browse

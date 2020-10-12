@@ -5,94 +5,26 @@ title: Churches of Shropshire
 
 {% include 1-header.html %}
 
-{% assign numrecs = 0 %}
-
-{% for item in site.data.Shropshire_Notebook-Churches %}
-
-{% assign numrecs = numrecs | plus: 1 %}
-
-{% if item.Type == "Item" %}
-
-{% if orientation == "right" %}
-  {% assign orientation = "left" %}
-{% else %}
-  {% assign orientation = "right" %}
-{% endif %}
-
 <div class="rowh">
-  <div class="columnhl">
-    <h2>{{ item.Date }}</h2>
-  </div>
-  <div class="columnhr">
-    <h3>{{ item.Name }}</h3>
-    <table><tr><td>
-{% if orientation == "right" %}
-    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" class="ml" align="right" style="max-width:100%">
-{% else %}
-    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" class="mr" align="left" style="max-width:100%">
-{% endif %}
-    {{ item.Description | markdownify }}
-  	{% for subimage in item.Sub-Images %}
-    	{% if forloop.first %}
-    </td></tr><tr><td><ul class="sc">
-      {% endif %}
-    <li class="sc"><a href="#"><img src="assets/images/churches-sub/{{ subimage.Sub-Image }}"/></a></li>
-    	{% if forloop.last %}
-    </ul>
-      {% endif %}
-    {% endfor %}
-    </td></tr></table>
-  </div>
-{% comment %}
-  <div class="columnhr">
-    <h3>{{ item.Name }}</h3>
-    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" align="{{ orientation }}" style="max-width:100%">
-    {{ item.Description | markdownify }}
-    {% if item.Width %}
-    {% if item.Width == "static" %}
-      {% if orientation == "right" %}
-      <div style="float:right;">
-      {% else %}
-      <div style="float:left;">
-      {% endif %}
-    	{% for subimage in item.Sub-Images %}
-    	<img src="assets/images/churches-sub/{{ subimage.Sub-Image }}" alt="" />
-		  {% endfor %}
-      </div>
-    {% else %}
-      {% if orientation == "right" %}
-      <div id="container" style="float:right;">
-      {% else %}
-      <div id="container">
-      {% endif %}
-      <div class="photobanner" style="height:240px;width:{{ item.Width }}px;">
-    	{% for subimage in item.Sub-Images %}
-    	{% if forloop.first %}
-    	<img class="first{{ numrecs }}" src="assets/images/churches-sub/{{ subimage.Sub-Image }}" alt="" />
-    	{% else %}
-    	<img src="assets/images/churches-sub/{{ subimage.Sub-Image }}" alt="" />
-			{% endif %}
-		  {% endfor %}
-      </div>
-      </div>
-    {% endif %}
-    {% endif %}
-  </div>
-{% endcomment %}
-
-{% comment %}
-  {% for subimage in item.Sub-Images %}
-  {% if forloop.first %}<div class="columnsir">{% endif %}
-    <img src="assets/images/churches-sub/{{ subimage.Sub-Image }}" alt="" style="max-width:100%">
-  {% if forloop.last %}</div>{% endif %}
-  {% endfor %}
-{% endcomment %}
+<div class="columntl">  
+<p style="color:#DDDDDD;"><b>
+  As the number of churches featured on this page has increased, it has been split into two separate pages - North and South - use the links below to access these pages:
+</b></p>
+<p>
+  <a href="1-churches-north.html"><b>North</b></a>
+</p>
+<p>
+  <a href="1-churches-south.html"><b>South</b></a>
+</p>
+</div>
 </div>
 
-{% endif %}
-
-{% endfor %}
-
-<p>Number of records: {{ numrecs }}</p>
+<h1>Maps</h1>
+<div class="map-responsive">
+  <iframe src="https://www.google.co.uk/maps/d/embed?mid=129Y_cZQyAUwAwyFNFb-jWPcMyX8aBOPZ"></iframe>
+</div>
+<div class="map-responsive">
+  <iframe src="https://www.google.co.uk/maps/d/embed?mid=1UBGi054_OErBBCFvxLHzmffegbrRhGFx"></iframe>
+</div>
 
 {% include 1-footer.html %}

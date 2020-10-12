@@ -1,19 +1,20 @@
 #SingleInstance force
 
 #Include %A_ScriptDir%\Class_SQLiteDB.ahk
-#Include %A_ScriptDir%\Class_Airtable.ahk
-#Include %A_ScriptDir%\Class_JSON.ahk
+;#Include %A_ScriptDir%\Class_Airtable.ahk
+;#Include %A_ScriptDir%\Class_JSON.ahk
 #Include %A_ScriptDir%\Class_KML.ahk
 #Include %A_ScriptDir%\Class_GoogleMyMaps.ahk
+#Include %A_ScriptDir%\Class_Joplin.ahk
 
 IniRead, tmpPath, %A_ScriptDir%\Shropshire Photography.ini, Paths, TempFolder
-
 tmpJSON := tmpPath . "\Ftemp.json"
 
-AirtableAPI := new Airtable
-AirtableAPI.SetTmpJSONFile(tmpJSON)
+JoplinAPI := new Joplin
+;AirtableAPI := new Airtable
+;AirtableAPI.SetTmpJSONFile(tmpJSON)
 KMLAPI  := new KMLFile
-JSONAPI := new JSON
+;JSONAPI := new JSON
 MAPSAPI := new GoogleMyMaps
 
 currTab := "Churches"
@@ -57,19 +58,19 @@ Menu, ChurchesMenu, Add, Download Map, MenuChurchesDownloadMap
 Menu, ChurchesMenu, Add
 Menu, ChurchesMenu, Add, Import KML, MenuChurchesImportKML
 Menu, ChurchesMenu, Add
-Menu, ChurchesMenu, Add, Compare Airtable, MenuChurchesCompareAirtable
+Menu, ChurchesMenu, Add, Compare Joplin, MenuChurchesCompareJoplin
 Menu, ChurchesMenu, Add
 Menu, ChurchesMenu, Add, Generate GPX, MenuChurchesGenerateGPX
 Menu, PlacesMenu, Add, Open Map, MenuPlacesOpenMap
 Menu, PlacesMenu, Add, Download Map, MenuPlacesDownloadMap
 Menu, PlacesMenu, Add
-Menu, PlacesMenu, Add, Airtable Import, MenuPlacesAirtableImport
+Menu, PlacesMenu, Add, Joplin Import, MenuPlacesJoplinImport
 Menu, PlacesMenu, Add
 Menu, PlacesMenu, Add, Generate GPX, MenuPlacesGenerateGPX
 Menu, HillsMenu, Add, Open Map, MenuHillsOpenMap
 Menu, HillsMenu, Add, Download Map, MenuHillsDownloadMap
 Menu, HillsMenu, Add
-Menu, HillsMenu, Add, Airtable Import, MenuHillsAirtableImport
+Menu, HillsMenu, Add, Joplin Import, MenuHillsJoplinImport
 Menu, HillsMenu, Add
 Menu, HillsMenu, Add, Generate GPX, MenuHillsGenerateGPX
 Menu, HelpMenu, Add, About, MenuAbout
@@ -97,10 +98,12 @@ Gui, Add, Text, x230 y75 section w120 h20, Date:
 Gui, Add, Edit, ys vChurchDates w370 h20,
 Gui, Add, Text, x230 y100 section w120 h20, Need to Re-Visit?
 Gui, Add, CheckBox, ys vCBChurchReVisit gCBChurchRevisit,
-Gui, Add, Text, x230 y120 section w120 h20,
+Gui, Add, Text, x230 y120 section w120 h20, Area:
+Gui, Add, Edit, ys vChurchArea w370 h20,
+Gui, Add, Text, x230 y140 section w120 h20,
 Gui, Add, Text, ys w370 h20, Avoid using ampersand and double quotes in the text below.
-Gui, Add, Text, x230 y140 section w120 h20, Notes:
-Gui, Add, Edit, ys vChurchNotes +Wrap w370 h80,
+Gui, Add, Text, x230 y160 section w120 h20, Notes:
+Gui, Add, Edit, ys vChurchNotes +Wrap w370 h60,
 Gui, Add, Text, x230 y225 section w120 h20, Details:
 Gui, Add, Edit, ys vChurchDetails +Wrap w370 h145,
 
@@ -140,11 +143,11 @@ SB_SetParts(200)
 
 Menu, PlacesMenu, Disable, Open Map
 Menu, PlacesMenu, Disable, Download Map
-Menu, PlacesMenu, Disable, Airtable Import
+Menu, PlacesMenu, Disable, Joplin Import
 Menu, PlacesMenu, Disable, Generate GPX
 Menu, HillsMenu, Disable, Open Map
 Menu, HillsMenu, Disable, Download Map
-Menu, HillsMenu, Disable, Airtable Import
+Menu, HillsMenu, Disable, Joplin Import
 Menu, HillsMenu, Disable, Generate GPX
 
 LoadShropshirePlacesList()
@@ -161,6 +164,7 @@ GuiSize:
   GuiControl, Move, ShropshireList, % "w" . A_GuiWidth - 380
   GuiControl, Move, ChurchStatus, % "w" . A_GuiWidth - 380
   GuiControl, Move, ChurchDates, % "w" . A_GuiWidth - 380
+  GuiControl, Move, ChurchArea, % "w" . A_GuiWidth - 380
   GuiControl, Move, ChurchNotes, % "w" . A_GuiWidth - 380
   GuiControl, Move, ChurchDetails, % "w" . A_GuiWidth - 380 "h" . A_GuiHeight - 265
   GuiControl, Move, PlaceList, % "h" . A_GuiHeight - 60
@@ -189,14 +193,14 @@ DataTabs:
     Menu, ChurchesMenu, Enable, Download Map
     Menu, ChurchesMenu, Enable, Generate GPX
     Menu, ChurchesMenu, Enable, Import KML
-    Menu, ChurchesMenu, Enable, Compare Airtable
+    Menu, ChurchesMenu, Enable, Compare Joplin
     Menu, PlacesMenu, Disable, Open Map
     Menu, PlacesMenu, Disable, Download Map
-    Menu, PlacesMenu, Disable, Airtable Import
+    Menu, PlacesMenu, Disable, Joplin Import
     Menu, PlacesMenu, Disable, Generate GPX
     Menu, HillsMenu, Disable, Open Map
     Menu, HillsMenu, Disable, Download Map
-    Menu, HillsMenu, Disable, Airtable Import
+    Menu, HillsMenu, Disable, Joplin Import
     Menu, HillsMenu, Disable, Generate GPX
     LoadChurches()
     GuiControl, , ChurchList, %gChurches%
@@ -216,14 +220,14 @@ DataTabs:
     Menu, ChurchesMenu, Disable, Download Map
     Menu, ChurchesMenu, Disable, Generate GPX
     Menu, ChurchesMenu, Disable, Import KML
-    Menu, ChurchesMenu, Disable, Compare Airtable
+    Menu, ChurchesMenu, Disable, Compare Joplin
     Menu, PlacesMenu, Enable, Open Map
     Menu, PlacesMenu, Enable, Download Map
-    Menu, PlacesMenu, Enable, Airtable Import
+    Menu, PlacesMenu, Enable, Joplin Import
     Menu, PlacesMenu, Enable, Generate GPX
     Menu, HillsMenu, Disable, Open Map
     Menu, HillsMenu, Disable, Download Map
-    Menu, HillsMenu, Disable, Airtable Import
+    Menu, HillsMenu, Disable, Joplin Import
     Menu, HillsMenu, Disable, Generate GPX
     LoadPlaces()
     GuiControl, , PlaceList, %gPlaces%
@@ -243,14 +247,14 @@ DataTabs:
     Menu, ChurchesMenu, Disable, Download Map
     Menu, ChurchesMenu, Disable, Generate GPX
     Menu, ChurchesMenu, Disable, Import KML
-    Menu, ChurchesMenu, Disable, Compare Airtable
+    Menu, ChurchesMenu, Disable, Compare Joplin
     Menu, PlacesMenu, Disable, Open Map
     Menu, PlacesMenu, Disable, Download Map
-    Menu, PlacesMenu, Disable, Airtable Import
+    Menu, PlacesMenu, Disable, Joplin Import
     Menu, PlacesMenu, Disable, Generate GPX
     Menu, HillsMenu, Enable, Open Map
     Menu, HillsMenu, Enable, Download Map
-    Menu, HillsMenu, Enable, Airtable Import
+    Menu, HillsMenu, Enable, Joplin Import
     Menu, HillsMenu, Enable, Generate GPX
     LoadHills()
     GuiControl, , HillList, %gHills%
@@ -272,6 +276,7 @@ CBChurchReVisit:
   Return
 
 GuiClose:
+	DB.CloseDB()
   ExitApp
 
 MenuSave:
@@ -290,49 +295,59 @@ MenuSave:
 MenuReload:
 	if StrLen(argChurch) <> 0
 	{
-    rJSON := AirtableAPI.Select("Churches", gAirtable)
-    JSONAPI.SetJSON(rJSON)
-    NData["Details"] := ""
-    NData["Notes"] := ""
-    NData["Status"] := ""
-    NData["Date"] := ""
-    NData["Need to Revisit"] := 0
-    i := JSONAPI.GetNextItem() ; {
-    i := JSONAPI.GetNextItem() ; id
-    i := JSONAPI.GetNextItem() ; :
-    i := JSONAPI.GetNextItem() ; <id>
-    i := JSONAPI.GetNextItem() ; ,
-    i := JSONAPI.GetNextItem() ; fields
-    i := JSONAPI.GetNextItem() ; :
-    i := JSONAPI.GetNextItem() ; {
-    while (i <> "#EndObject")
-    {
-      k := JSONAPI.GetNextItem()
-      i := JSONAPI.GetNextItem()
-      v := JSONAPI.GetNextItem()
-      i := JSONAPI.GetNextItem()
-      if k = Details
-      {
-        NData[k] := v
-      }
-      if k = Notes
-      {
-        NData[k] := v
-      }
-      if k = Status
-      {
-        NData[k] := v
-      }
-      if k = Date
-      {
-        NData[k] := v
-      }
-      if k = Need to Revisit
-      {
-        if v = true
-          NData[k] := 1
-      }
-    }
+;    rJSON := AirtableAPI.Select("Churches", gAirtable)
+;    JSONAPI.SetJSON(rJSON)
+;    NData["Details"] := ""
+;    NData["Notes"] := ""
+;    NData["Status"] := ""
+;    NData["Date"] := ""
+;    NData["Need to Revisit"] := 0
+;    i := JSONAPI.GetNextItem() ; {
+;    i := JSONAPI.GetNextItem() ; id
+;    i := JSONAPI.GetNextItem() ; :
+;    i := JSONAPI.GetNextItem() ; <id>
+;    i := JSONAPI.GetNextItem() ; ,
+;    i := JSONAPI.GetNextItem() ; fields
+;    i := JSONAPI.GetNextItem() ; :
+;    i := JSONAPI.GetNextItem() ; {
+;    while (i <> "#EndObject")
+;    {
+;      k := JSONAPI.GetNextItem()
+;      i := JSONAPI.GetNextItem()
+;      v := JSONAPI.GetNextItem()
+;      i := JSONAPI.GetNextItem()
+;      if k = Details
+;      {
+;        NData[k] := v
+;      }
+;      if k = Notes
+;      {
+;        NData[k] := v
+;      }
+;      if k = Status
+;      {
+;        NData[k] := v
+;      }
+;      if k = Date
+;      {
+;        NData[k] := v
+;      }
+;      if k = Need to Revisit
+;      {
+;        if v = true
+;          NData[k] := 1
+;      }
+;    }
+    updChurch := JoplinAPI.SelectChurch(NData["Place"], NData["Dedication"])
+    NData["Date"]    := updChurch["Date"]
+    NData["Details"] := updChurch["Details"]
+    NData["Notes"]   := updChurch["Notes"]
+    NData["Status"]  := updChurch["Status"]
+    v := updChurch["Revisit"]
+    if v = No
+      NData["Need to Revisit"] := 0
+    else
+      NData["Need to Revisit"] := 1
     DrawGUI()
     UpdateChurch()
 	}
@@ -343,6 +358,7 @@ MenuReload:
   Return
 
 MenuExit:
+	DB.CloseDB()
   ExitApp
 
 MenuClearFilter:
@@ -414,8 +430,8 @@ MenuChurchesImportKML:
   ChurchesImportKML()
   Return
 
-MenuChurchesCompareAirtable:
-  ChurchesCompareAirtable()
+MenuChurchesCompareJoplin:
+  ChurchesCompareJoplin()
   Return
 
 MenuChurchesGenerateGPX:
@@ -430,8 +446,9 @@ MenuPlacesDownloadMap:
   MAPSAPI.DownloadPlaces()
   Return
 
-MenuPlacesAirtableImport:
-  PlacesAirtableImport()
+MenuPlacesJoplinImport:
+  MsgBox, Sync Joplin
+  PlacesJoplinImport()
   Return
 
 MenuPlacesGenerateGPX:
@@ -446,8 +463,9 @@ MenuHillsDownloadMap:
   MAPSAPI.DownloadHills()
   Return
 
-MenuHillsAirtableImport:
-  HillsAirtableImport()
+MenuHillsJoplinImport:
+  MsgBox, Sync Joplin
+  HillsJoplinImport()
   Return
 
 MenuHillsGenerateGPX:
@@ -556,17 +574,34 @@ LoadChurch() {
 
 SaveChurch() {
 	global
-  uData := {}
-  uData["Details"] := NData["Details"]
-  uData["Notes"]   := NData["Notes"]
-  uData["Status"]  := NData["Status"]
-  uData["Date"]    := NData["Date"]
-  if NData["Need to Revisit"] = 0
-    uData["Need to Revisit"] := false
-  if NData["Need to Revisit"] = 1
-    uData["Need to Revisit"] := true
-  jData := AirtableAPI.CreateJSONData(uData, gAirtable)
-  AirtableAPI.Update("Churches", jData)
+  jD := ""
+  jD .= "- Status: " . NData["Status"] . "`n"
+  jD .= "- Date: " . NData["Date"] . "`n"
+  v := NData["Need to Revisit"]
+  if v = 0
+    jD .= "- Need to Revisit: No`n"
+  else
+    jD .= "- Need to Revisit: Yes`n"
+  jD .= "- Area: " . NData["Area"] . "`n"
+  jD .= "* * *`n"
+  jD .= "## Details`n`n"
+  jD .= NData["Details"] . "`n"
+  jD .= "* * *`n"
+  jD .= "## Notes`n`n"
+  jD .= NData["Notes"] . "`n"
+  JoplinAPI.SaveChurch(NData["Place"], NData["Dedication"], jD)
+;  uData := {}
+;  uData["Details"] := NData["Details"]
+;  uData["Notes"]   := NData["Notes"]
+;  uData["Status"]  := NData["Status"]
+;  uData["Date"]    := NData["Date"]
+;  uData["Area"]    := NData["Area"]
+;  if NData["Need to Revisit"] = 0
+;    uData["Need to Revisit"] := "No"
+;  if NData["Need to Revisit"] = 1
+;    uData["Need to Revisit"] := "Yes"
+;  jData := AirtableAPI.CreateJSONData(uData, gAirtable)
+;  AirtableAPI.Update("Churches", jData)
 	UpdateChurch()
 }
 
@@ -736,10 +771,10 @@ ChurchesImportKML() {
   SB_SetText("", 2)
 }
 
-ChurchesCompareAirtable() {
+ChurchesCompareJoplin() {
   global
   RecordSetC := ""
-  SQL := "SELECT Place, Dedication, Date, Details, Notes, Status, NeedToRevisit, Area, AirtableID, lat, long FROM Churches c, GoogleMap g WHERE c.GoogleName = g.name;"
+  SQL := "SELECT Place, Dedication, Date, Details, Notes, Status, NeedToRevisit, Area FROM Churches ORDER BY Place;"
   DB.Query(SQL, RecordSetC)
   Loop {
     RCC := RecordSetC.Next(RowC)
@@ -749,68 +784,23 @@ ChurchesCompareAirtable() {
       tX := RowC[1]
       tY := RowC[2]
       SB_SetText(tZ, 2)
-      tA := RowC[9]
       tT := RowC[3]
       tD := RowC[4]
       tN := RowC[5]
       tS := RowC[6]
       tR := RowC[7]
+      tA := RowC[8]
       if tR = 0
-        tR := "false"
+        tR := "No"
       if tR = 1
-        tR := "true"
-      aZ := ""
-      aT := ""
-      aD := ""
-      aN := ""
-      aS := ""
-      aR := "false"
-      Sleep, 250
-      rJSON := AirtableAPI.Select("Churches", tA)
-      JSONAPI.SetJSON(rJSON)
-      i := JSONAPI.GetNextItem() ; {
-      i := JSONAPI.GetNextItem() ; id
-      i := JSONAPI.GetNextItem() ; :
-      i := JSONAPI.GetNextItem() ; <id>
-      i := JSONAPI.GetNextItem() ; ,
-      i := JSONAPI.GetNextItem() ; fields
-      i := JSONAPI.GetNextItem() ; :
-      i := JSONAPI.GetNextItem() ; {
-      while (i <> "#EndObject")
-      {
-        k := JSONAPI.GetNextItem()
-        i := JSONAPI.GetNextItem()
-        v := JSONAPI.GetNextItem()
-        i := JSONAPI.GetNextItem()
-        if k = Date
-        {
-          aT := v
-        }
-        if k = Details
-        {
-          aD := v
-        }
-        if k = Notes
-        {
-          aN := v
-        }
-        if k = Status
-        {
-          aS := v
-        }
-        if k = Need to Revisit
-        {
-          aR := v
-        }
-        if k = Place
-        {
-          aZ := v
-        }
-        if k = Dedication
-        {
-          aZ .= " - " . v
-        }
-      }
+        tR := "Yes"
+      rJ := JoplinAPI.SelectChurch(tX, tY)
+      aZ := tZ
+      aT := rJ["Date"]
+      aD := rJ["Details"]
+      aN := rJ["Notes"]
+      aS := rJ["Status"]
+      aR := rJ["Revisit"]
       diff := false
       if (tT <> aT)
         diff := true
@@ -824,26 +814,26 @@ ChurchesCompareAirtable() {
         diff := true
       if (diff)
       {
-			  Gui, SyncAirtable:Add, Text, x5 y5 w300 h20, Database
-			  Gui, SyncAirtable:Add, Text, x310 y5 w300 h20, Airtable
-			  Gui, SyncAirtable:Add, Edit, x5 y25 w300 h20, %tZ%
-			  Gui, SyncAirtable:Add, Edit, x310 y25 w300 h20, %aZ%
-			  Gui, SyncAirtable:Add, Edit, x5 y45 w300 h20, %tS%
-			  Gui, SyncAirtable:Add, Edit, x310 y45 w300 h20, %aS%
-			  Gui, SyncAirtable:Add, Edit, x5 y65 w300 h20, %tT%
-			  Gui, SyncAirtable:Add, Edit, x310 y65 w300 h20, %aT%
-			  Gui, SyncAirtable:Add, Edit, x5 y85 w300 h100, %tD%
-			  Gui, SyncAirtable:Add, Edit, x310 y85 w300 h100, %aD%
-			  Gui, SyncAirtable:Add, Edit, x5 y185 w300 h100, %tN%
-			  Gui, SyncAirtable:Add, Edit, x310 y185 w300 h100, %aN%
-			  Gui, SyncAirtable:Add, Edit, x5 y285 w300 h20, %tR%
-			  Gui, SyncAirtable:Add, Edit, x310 y285 w300 h20, %aR%
-				Gui, SyncAirtable:Add, Button, xm section x5 w300 h20, Database to Airtable >>
-			  Gui, SyncAirtable:Add, Button, ys x310 w300 h20, << Airtable to Database
-			  Gui, SyncAirtable:Add, Button, xm section x5 w60 h20, Cancel
-			  Gui, SyncAirtable:Show, w620 h365, Sync Database and Airtable
-			  Gui, SyncAirtable:Default
-			  WinWaitClose, Sync Database and Airtable
+			  Gui, SyncJoplin:Add, Text, x5 y5 w300 h20, Database
+			  Gui, SyncJoplin:Add, Text, x310 y5 w300 h20, Joplin
+			  Gui, SyncJoplin:Add, Edit, x5 y25 w300 h20, %tZ%
+			  Gui, SyncJoplin:Add, Edit, x310 y25 w300 h20, %aZ%
+			  Gui, SyncJoplin:Add, Edit, x5 y45 w300 h20, %tS%
+			  Gui, SyncJoplin:Add, Edit, x310 y45 w300 h20, %aS%
+			  Gui, SyncJoplin:Add, Edit, x5 y65 w300 h20, %tT%
+			  Gui, SyncJoplin:Add, Edit, x310 y65 w300 h20, %aT%
+			  Gui, SyncJoplin:Add, Edit, x5 y85 w300 h100, %tD%
+			  Gui, SyncJoplin:Add, Edit, x310 y85 w300 h100, %aD%
+			  Gui, SyncJoplin:Add, Edit, x5 y185 w300 h100, %tN%
+			  Gui, SyncJoplin:Add, Edit, x310 y185 w300 h100, %aN%
+			  Gui, SyncJoplin:Add, Edit, x5 y285 w300 h20, %tR%
+			  Gui, SyncJoplin:Add, Edit, x310 y285 w300 h20, %aR%
+				Gui, SyncJoplin:Add, Button, xm section x5 w300 h20, Database to Joplin >>
+			  Gui, SyncJoplin:Add, Button, ys x310 w300 h20, << Joplin to Database
+			  Gui, SyncJoplin:Add, Button, xm section x5 w60 h20, Cancel
+			  Gui, SyncJoplin:Show, w620 h365, Sync Database and Joplin
+			  Gui, SyncJoplin:Default
+			  WinWaitClose, Sync Database and Joplin
 				Gui, 1:Default
       }
     }
@@ -852,26 +842,172 @@ ChurchesCompareAirtable() {
   SB_SetText("", 2)
 }
 
-SyncAirtableButtonDatabasetoAirtable>>:
-  uData := {}
-  uData["Details"] := tD
-  uData["Notes"]   := tN
-  uData["Status"]  := tS
-  uData["Date"]    := tT
-  jData := AirtableAPI.CreateJSONData(uData, tA)
-  AirtableAPI.Update("Churches", jData)
-	Gui, SyncAirtable:Destroy
+SyncJoplinButtonDatabasetoJoplin>>:
+  jD := ""
+  jD .= "- Status: " . tS . "`n"
+  jD .= "- Date: " . tT . "`n"
+  jD .= "- Need to Revisit: " . tR . "`n"
+  jD .= "- Area: " . tA . "`n"
+  jD .= "* * *`n"
+  jD .= "## Details`n`n"
+  jD .= tD . "`n"
+  jD .= "* * *`n"
+  jD .= "## Notes`n`n"
+  jD .= tN . "`n"
+  JoplinAPI.SaveChurch(tX, tY, jD)
+	Gui, SyncJoplin:Destroy
   Return
 
-SyncAirtableButton<<AirtabletoDatabase:
-	SQL := "UPDATE Churches SET Details = """ . aD . """, Notes = """ . aN . """, Status = """ . aS . """, Date = """ . aT . """ WHERE Place = """ . tX . """ AND Dedication = '" . tY . "';"
+SyncJoplinButton<<JoplintoDatabase:
+  if aR = No
+    aV := 0
+  else
+    aV := 1
+  SQL := "UPDATE Churches SET Details = """ . aD . """, Notes = """ . aN . """, Status = """ . aS . """, Date = """ . aT . """, NeedToRevisit = " . aV . " WHERE Place = """ . tX . """ AND Dedication = '" . tY . "';"
   DB.Exec(SQL)
-	Gui, SyncAirtable:Destroy
+	Gui, SyncJoplin:Destroy
   Return
 
-SyncAirtableButtonCancel:
-	Gui, SyncAirtable:Destroy
+SyncJoplinButtonCancel:
+	Gui, SyncJoplin:Destroy
   Return
+
+;ChurchesCompareAirtable() {
+;  global
+;  RecordSetC := ""
+;  SQL := "SELECT Place, Dedication, Date, Details, Notes, Status, NeedToRevisit, Area, AirtableID, lat, ;long FROM Churches c, GoogleMap g WHERE c.GoogleName = g.name;"
+;  DB.Query(SQL, RecordSetC)
+;  Loop {
+;    RCC := RecordSetC.Next(RowC)
+;    if (RCC > 0)
+;    {
+;      tZ := RowC[1] . " - " . RowC[2]
+;      tX := RowC[1]
+;      tY := RowC[2]
+;      SB_SetText(tZ, 2)
+;      tA := RowC[9]
+;      tT := RowC[3]
+;      tD := RowC[4]
+;      tN := RowC[5]
+;      tS := RowC[6]
+;      tR := RowC[7]
+;      if tR = 0
+;        tR := "false"
+;      if tR = 1
+;        tR := "true"
+;      aZ := ""
+;      aT := ""
+;      aD := ""
+;      aN := ""
+;      aS := ""
+;      aR := "false"
+;      Sleep, 250
+;      rJSON := AirtableAPI.Select("Churches", tA)
+;      JSONAPI.SetJSON(rJSON)
+;      i := JSONAPI.GetNextItem() ; {
+;      i := JSONAPI.GetNextItem() ; id
+;      i := JSONAPI.GetNextItem() ; :
+;      i := JSONAPI.GetNextItem() ; <id>
+;      i := JSONAPI.GetNextItem() ; ,
+;      i := JSONAPI.GetNextItem() ; fields
+;      i := JSONAPI.GetNextItem() ; :
+;      i := JSONAPI.GetNextItem() ; {
+;      while (i <> "#EndObject")
+;      {
+;        k := JSONAPI.GetNextItem()
+;        i := JSONAPI.GetNextItem()
+;        v := JSONAPI.GetNextItem()
+;        i := JSONAPI.GetNextItem()
+;        if k = Date
+;        {
+;          aT := v
+;        }
+;        if k = Details
+;        {
+;          aD := v
+;        }
+;        if k = Notes
+;        {
+;          aN := v
+;        }
+;        if k = Status
+;        {
+;          aS := v
+;        }
+;        if k = Need to Revisit
+;        {
+;          aR := v
+;        }
+;        if k = Place
+;        {
+;          aZ := v
+;        }
+;        if k = Dedication
+;        {
+;          aZ .= " - " . v
+;        }
+;      }
+;      diff := false
+;      if (tT <> aT)
+;        diff := true
+;      if (tD <> aD)
+;        diff := true
+;      if (tN <> aN)
+;        diff := true
+;      if (tS <> aS)
+;        diff := true
+;      if (tR <> aR)
+;        diff := true
+;      if (diff)
+;      {
+;			  Gui, SyncAirtable:Add, Text, x5 y5 w300 h20, Database
+;			  Gui, SyncAirtable:Add, Text, x310 y5 w300 h20, Airtable
+;			  Gui, SyncAirtable:Add, Edit, x5 y25 w300 h20, %tZ%
+;			  Gui, SyncAirtable:Add, Edit, x310 y25 w300 h20, %aZ%
+;			  Gui, SyncAirtable:Add, Edit, x5 y45 w300 h20, %tS%
+;			  Gui, SyncAirtable:Add, Edit, x310 y45 w300 h20, %aS%
+;			  Gui, SyncAirtable:Add, Edit, x5 y65 w300 h20, %tT%
+;			  Gui, SyncAirtable:Add, Edit, x310 y65 w300 h20, %aT%
+;			  Gui, SyncAirtable:Add, Edit, x5 y85 w300 h100, %tD%
+;			  Gui, SyncAirtable:Add, Edit, x310 y85 w300 h100, %aD%
+;			  Gui, SyncAirtable:Add, Edit, x5 y185 w300 h100, %tN%
+;			  Gui, SyncAirtable:Add, Edit, x310 y185 w300 h100, %aN%
+;			  Gui, SyncAirtable:Add, Edit, x5 y285 w300 h20, %tR%
+;			  Gui, SyncAirtable:Add, Edit, x310 y285 w300 h20, %aR%
+;				Gui, SyncAirtable:Add, Button, xm section x5 w300 h20, Database to Airtable >>
+;			  Gui, SyncAirtable:Add, Button, ys x310 w300 h20, << Airtable to Database
+;			  Gui, SyncAirtable:Add, Button, xm section x5 w60 h20, Cancel
+;			  Gui, SyncAirtable:Show, w620 h365, Sync Database and Airtable
+;			  Gui, SyncAirtable:Default
+;			  WinWaitClose, Sync Database and Airtable
+;				Gui, 1:Default
+;      }
+;    }
+;  } Until RCC < 1
+;  RecordSetC.Free()
+;  SB_SetText("", 2)
+;}
+
+;SyncAirtableButtonDatabasetoAirtable>>:
+;  uData := {}
+;  uData["Details"] := tD
+;  uData["Notes"]   := tN
+;  uData["Status"]  := tS
+;  uData["Date"]    := tT
+;  jData := AirtableAPI.CreateJSONData(uData, tA)
+;  AirtableAPI.Update("Churches", jData)
+;	Gui, SyncAirtable:Destroy
+;  Return
+
+;SyncAirtableButton<<AirtabletoDatabase:
+;	SQL := "UPDATE Churches SET Details = """ . aD . """, Notes = """ . aN . """, Status = """ . aS . """, ;Date = """ . aT . """ WHERE Place = """ . tX . """ AND Dedication = '" . tY . "';"
+;  DB.Exec(SQL)
+;	Gui, SyncAirtable:Destroy
+;  Return
+
+;SyncAirtableButtonCancel:
+;	Gui, SyncAirtable:Destroy
+;  Return
 
 ChurchesGenerateGPXFile() {
 	global
@@ -939,117 +1075,153 @@ ChurchesGenerateGPXFile() {
 	mapFileHndl.Close()
 }
 
-PlacesAirtableImport() {
+PlacesJoplinImport() {
   global
   SQL := "DELETE FROM Places;"
   DB.Exec(SQL)
-  off := ""
-  while (off <> "DONE") {
-    PlacesReloadSubset(off)
-    a := JSONAPI.GetNextItem()
-    if (a = "#EndObject")
-      off := "DONE"
-    else {
-      a := JSONAPI.GetNextItem() ; offset
-      a := JSONAPI.GetNextItem() ; :
-      off := JSONAPI.GetNextItem()
-    }
+  tList := JoplinAPI.ListPlaces()
+  for index, element in tList
+  {
+    tn := element
+    tData := JoplinAPI.SelectPlace(tn)
+    td := tData["Details"]
+    th := tData["HREF"]
+    tx := tData["lat"]
+    ty := tData["long"]
+    tm := 0
+    tz := tData["IsonMap"]
+    if tz = Yes
+      tm := 1
+    tt := 0
+    tz := tData["IsonTPE"]
+    if tz = Yes
+      tt := 1
+    tv := 0
+    tz := tData["Visited"]
+    if tz = Yes
+      tv := 1
+   	SQL := "INSERT INTO Places (Name, Details, HREF, lat, long, IsonMap, IsonTPE, Visited) VALUES (""" . tn . """, """ . td . """, """ . th . """, """ . tx . """, """ . ty . """, " . tm . ", " . tt . ", " . tv . ");"
+   	DB.Exec(SQL)
   }
   FormatTime, tDT, , yyyy-MMM-dd HH:mm:ss
   SQL := "UPDATE Config SET LastReload='" . tDT . "' WHERE ID='Places';"
   DB.Exec(SQL)
   GetLastReload()
-  MsgBox, Airtable data reloaded
+  MsgBox, Joplin data reloaded
   Reload
 }
 
-PlacesReloadSubset(pOffset) {
-  global
-  theJSON := AirtableAPI.List("Places", pOffset)
-  ti := ""
-  tn := ""
-  td := ""
-  th := ""
-  tx := ""
-  ty := ""
-  tm := 0
-  tt := 0
-  tv := 0
-  JSONAPI.SetJSON(theJSON)
-  a := JSONAPI.GetNextItem() ; {
-  a := JSONAPI.GetNextItem() ; records
-  a := JSONAPI.GetNextItem() ; :
-  a := JSONAPI.GetNextItem() ; [
-  while (a <> "#EndArray")
-  {
-    if a = id
-    {
-      a := JSONAPI.GetNextItem()
-      ti := JSONAPI.GetNextItem()
-    }
-    if a = Name
-    {
-      a := JSONAPI.GetNextItem()
-      tn := JSONAPI.GetNextItem()
-    }
-    if a = Details
-    {
-      a := JSONAPI.GetNextItem()
-      td := JSONAPI.GetNextItem()
-    }
-    if a = HREF
-    {
-      a := JSONAPI.GetNextItem()
-      th := JSONAPI.GetNextItem()
-    }
-    if a = lat
-    {
-      a := JSONAPI.GetNextItem()
-      tx := JSONAPI.GetNextItem()
-    }
-    if a = long
-    {
-      a := JSONAPI.GetNextItem()
-      ty := JSONAPI.GetNextItem()
-    }
-    if a = Is on Map
-    {
-      a := JSONAPI.GetNextItem()
-      a := JSONAPI.GetNextItem()
-      if a = true
-        tm := 1
-    }
-    if a = Is on TPE
-    {
-      a := JSONAPI.GetNextItem()
-      a := JSONAPI.GetNextItem()
-      if a = true
-        tt := 1
-    }
-    if a = Visited
-    {
-      a := JSONAPI.GetNextItem()
-      a := JSONAPI.GetNextItem()
-      if a = true
-        tv := 1
-    }
-    a := JSONAPI.GetNextItem()
-    if a = CreatedTime
-    {
-   		SQL := "INSERT INTO Places (Name, Details, HREF, lat, long, IsonMap, IsonTPE, Visited, AirtableID) VALUES (""" . tn . """, """ . td . """, """ . th . """, """ . tx . """, """ . ty . """, " . tm . ", " . tt . ", " . tv . ", """ . ti . """);"
-   		DB.Exec(SQL)
-      ti := ""
-      tn := ""
-      td := ""
-      th := ""
-      tx := ""
-      ty := ""
-      tm := 0
-      tt := 0
-      tv := 0
-    }
-  }
-}
+;PlacesAirtableImport() {
+;  global
+;  SQL := "DELETE FROM Places;"
+;  DB.Exec(SQL)
+;  off := ""
+;  while (off <> "DONE") {
+;    PlacesReloadSubset(off)
+;    a := JSONAPI.GetNextItem()
+;    if (a = "#EndObject")
+;      off := "DONE"
+;    else {
+;      a := JSONAPI.GetNextItem() ; offset
+;      a := JSONAPI.GetNextItem() ; :
+;      off := JSONAPI.GetNextItem()
+;    }
+;  }
+;  FormatTime, tDT, , yyyy-MMM-dd HH:mm:ss
+;  SQL := "UPDATE Config SET LastReload='" . tDT . "' WHERE ID='Places';"
+;  DB.Exec(SQL)
+;  GetLastReload()
+;  MsgBox, Airtable data reloaded
+;  Reload
+;}
+
+;PlacesReloadSubset(pOffset) {
+;  global
+;  theJSON := AirtableAPI.List("Places", pOffset)
+;  ti := ""
+;  tn := ""
+;  td := ""
+;  th := ""
+;  tx := ""
+;  ty := ""
+;  tm := 0
+;  tt := 0
+;  tv := 0
+;  JSONAPI.SetJSON(theJSON)
+;  a := JSONAPI.GetNextItem() ; {
+;  a := JSONAPI.GetNextItem() ; records
+;  a := JSONAPI.GetNextItem() ; :
+;  a := JSONAPI.GetNextItem() ; [
+;  while (a <> "#EndArray")
+;  {
+;    if a = id
+;    {
+;      a := JSONAPI.GetNextItem()
+;      ti := JSONAPI.GetNextItem()
+;    }
+;    if a = Name
+;    {
+;      a := JSONAPI.GetNextItem()
+;      tn := JSONAPI.GetNextItem()
+;    }
+;    if a = Details
+;    {
+;      a := JSONAPI.GetNextItem()
+;      td := JSONAPI.GetNextItem()
+;    }
+;    if a = HREF
+;    {
+;      a := JSONAPI.GetNextItem()
+;      th := JSONAPI.GetNextItem()
+;    }
+;    if a = lat
+;    {
+;      a := JSONAPI.GetNextItem()
+;      tx := JSONAPI.GetNextItem()
+;    }
+;    if a = long
+;    {
+;      a := JSONAPI.GetNextItem()
+;      ty := JSONAPI.GetNextItem()
+;    }
+;    if a = Is on Map
+;    {
+;      a := JSONAPI.GetNextItem()
+;      a := JSONAPI.GetNextItem()
+;      if a = true
+;        tm := 1
+;    }
+;    if a = Is on TPE
+;    {
+;      a := JSONAPI.GetNextItem()
+;      a := JSONAPI.GetNextItem()
+;      if a = true
+;        tt := 1
+;    }
+;    if a = Visited
+;    {
+;      a := JSONAPI.GetNextItem()
+;      a := JSONAPI.GetNextItem()
+;      if a = true
+;        tv := 1
+;    }
+;    a := JSONAPI.GetNextItem()
+;    if a = CreatedTime
+;    {
+;   		SQL := "INSERT INTO Places (Name, Details, HREF, lat, long, IsonMap, IsonTPE, Visited, AirtableID) VALUES (""" . tn . """, ;""" . td . """, """ . th . """, """ . tx . """, """ . ty . """, " . tm . ", " . tt . ", " . tv . ", """ . ti . """);"
+;   		DB.Exec(SQL)
+;      ti := ""
+;      tn := ""
+;      td := ""
+;      th := ""
+;      tx := ""
+;      ty := ""
+;      tm := 0
+;      tt := 0
+;      tv := 0
+;    }
+;  }
+;}
 
 PlacesGenerateGPXFile() {
 	global
@@ -1085,108 +1257,140 @@ PlacesGenerateGPXFile() {
   GetLastReload()
 }
 
-HillsAirtableImport() {
+HillsJoplinImport() {
   global
   SQL := "DELETE FROM Hills;"
   DB.Exec(SQL)
-  off := ""
-  while (off <> "DONE") {
-    HillsReloadSubset(off)
-    a := JSONAPI.GetNextItem()
-    if (a = "#EndObject")
-      off := "DONE"
-    else {
-      a := JSONAPI.GetNextItem() ; offset
-      a := JSONAPI.GetNextItem() ; :
-      off := JSONAPI.GetNextItem()
-    }
+  tList := JoplinAPI.ListHills()
+  for index, element in tList
+  {
+    tn := element
+    tData := JoplinAPI.SelectHill(tn)
+    th := tData["Height"]
+    td := tData["Details"]
+    tx := tData["lat"]
+    ty := tData["long"]
+    tm := 0
+    tv := tData["IsonMap"]
+    if tv = Yes
+      tm := 1
+    tt := 0
+    tv := tData["IsonTPE"]
+    if tv = Yes
+      tt := 1
+   	SQL := "INSERT INTO Hills (Name, Height, Details, lat, long, IsonMap, IsonTPE) VALUES (""" . tn . """, """ . th . """, """ . td . """, """ . tx . """, """ . ty . """, " . tm . ", " . tt . ");"
+   	DB.Exec(SQL)
   }
   FormatTime, tDT, , yyyy-MMM-dd HH:mm:ss
   SQL := "UPDATE Config SET LastReload='" . tDT . "' WHERE ID='Hills';"
   DB.Exec(SQL)
   GetLastReload()
-  MsgBox, Airtable data reloaded
+  MsgBox, Joplin data reloaded
   Reload
 }
 
-HillsReloadSubset(pOffset) {
-  global
-  theJSON := AirtableAPI.List("Hills", pOffset)
-  ti := ""
-  tn := ""
-  th := ""
-  td := ""
-  tx := ""
-  ty := ""
-  tm := 0
-  tt := 0
-  JSONAPI.SetJSON(theJSON)
-  a := JSONAPI.GetNextItem() ; {
-  a := JSONAPI.GetNextItem() ; records
-  a := JSONAPI.GetNextItem() ; :
-  a := JSONAPI.GetNextItem() ; [
-  while (a <> "#EndArray")
-  {
-    if a = id
-    {
-      a := JSONAPI.GetNextItem()
-      ti := JSONAPI.GetNextItem()
-    }
-    if a = Name
-    {
-      a := JSONAPI.GetNextItem()
-      tn := JSONAPI.GetNextItem()
-    }
-    if a = Height
-    {
-      a := JSONAPI.GetNextItem()
-      th := JSONAPI.GetNextItem()
-    }
-    if a = Details
-    {
-      a := JSONAPI.GetNextItem()
-      td := JSONAPI.GetNextItem()
-    }
-    if a = lat
-    {
-      a := JSONAPI.GetNextItem()
-      tx := JSONAPI.GetNextItem()
-    }
-    if a = long
-    {
-      a := JSONAPI.GetNextItem()
-      ty := JSONAPI.GetNextItem()
-    }
-    if a = Is on Map
-    {
-      a := JSONAPI.GetNextItem()
-      a := JSONAPI.GetNextItem()
-      if a = true
-        tm := 1
-    }
-    if a = Is on TPE
-    {
-      a := JSONAPI.GetNextItem()
-      a := JSONAPI.GetNextItem()
-      if a = true
-        tt := 1
-    }
-    a := JSONAPI.GetNextItem()
-    if a = CreatedTime
-    {
-   		SQL := "INSERT INTO Hills (Name, Height, Details, AirtableID, lat, long, IsonMap, IsonTPE) VALUES (""" . tn . """, """ . th . """, """ . td . """, """ . ti . """, """ . tx . """, """ . ty . """, " . tm . ", " . tt . ");"
-   		DB.Exec(SQL)
-      ti := ""
-      tn := ""
-      th := ""
-      td := ""
-      tx := ""
-      ty := ""
-      tm := 0
-      tt := 0
-    }
-  }
-}
+;HillsAirtableImport() {
+;  global
+;  SQL := "DELETE FROM Hills;"
+;  DB.Exec(SQL)
+;  off := ""
+;  while (off <> "DONE") {
+;    HillsReloadSubset(off)
+;    a := JSONAPI.GetNextItem()
+;    if (a = "#EndObject")
+;      off := "DONE"
+;    else {
+;      a := JSONAPI.GetNextItem() ; offset
+;      a := JSONAPI.GetNextItem() ; :
+;      off := JSONAPI.GetNextItem()
+;    }
+;  }
+;  FormatTime, tDT, , yyyy-MMM-dd HH:mm:ss
+;  SQL := "UPDATE Config SET LastReload='" . tDT . "' WHERE ID='Hills';"
+;  DB.Exec(SQL)
+;  GetLastReload()
+;  MsgBox, Airtable data reloaded
+;  Reload
+;}
+
+;HillsReloadSubset(pOffset) {
+;  global
+;  theJSON := AirtableAPI.List("Hills", pOffset)
+;  ti := ""
+;  tn := ""
+;  th := ""
+;  td := ""
+;  tx := ""
+;  ty := ""
+;  tm := 0
+;  tt := 0
+;  JSONAPI.SetJSON(theJSON)
+;  a := JSONAPI.GetNextItem() ; {
+;  a := JSONAPI.GetNextItem() ; records
+;  a := JSONAPI.GetNextItem() ; :
+;  a := JSONAPI.GetNextItem() ; [
+;  while (a <> "#EndArray")
+;  {
+;    if a = id
+;    {
+;      a := JSONAPI.GetNextItem()
+;      ti := JSONAPI.GetNextItem()
+;    }
+;    if a = Name
+;    {
+;      a := JSONAPI.GetNextItem()
+;      tn := JSONAPI.GetNextItem()
+;    }
+;    if a = Height
+;    {
+;      a := JSONAPI.GetNextItem()
+;      th := JSONAPI.GetNextItem()
+;    }
+;    if a = Details
+;    {
+;      a := JSONAPI.GetNextItem()
+;      td := JSONAPI.GetNextItem()
+;    }
+;    if a = lat
+;    {
+;      a := JSONAPI.GetNextItem()
+;      tx := JSONAPI.GetNextItem()
+;    }
+;    if a = long
+;    {
+;      a := JSONAPI.GetNextItem()
+;      ty := JSONAPI.GetNextItem()
+;    }
+;    if a = Is on Map
+;    {
+;      a := JSONAPI.GetNextItem()
+;      a := JSONAPI.GetNextItem()
+;      if a = true
+;        tm := 1
+;    }
+;    if a = Is on TPE
+;    {
+;      a := JSONAPI.GetNextItem()
+;      a := JSONAPI.GetNextItem()
+;      if a = true
+;        tt := 1
+;    }
+;    a := JSONAPI.GetNextItem()
+;    if a = CreatedTime
+;    {
+;   		SQL := "INSERT INTO Hills (Name, Height, Details, AirtableID, lat, long, IsonMap, IsonTPE) VALUES ;(""" . tn . """, """ . th . """, """ . td . """, """ . ti . """, """ . tx . """, """ . ty . """, " ;. tm . ", " . tt . ");"
+;   		DB.Exec(SQL)
+;      ti := ""
+;      tn := ""
+;      th := ""
+;      td := ""
+;      tx := ""
+;      ty := ""
+;      tm := 0
+;      tt := 0
+;    }
+;  }
+;}
 
 HillsGenerateGPXFile() {
 	global
@@ -1226,6 +1430,7 @@ DrawGUI() {
   	GuiControl, Text, ChurchDetails, % NData["Details"]
 	  GuiControl, Text, ChurchNotes, % NData["Notes"]
 	  GuiControl, Text, ChurchDates, % NData["Date"]
+	  GuiControl, Text, ChurchArea, % NData["Area"]
 	  GuiControl, ChooseString, ChurchStatus, % NData["Status"]
 	  GuiControl, , CBChurchReVisit, % NData["Need to Revisit"]
     GuiControl, Choose, ShropshireList, 1
@@ -1301,6 +1506,120 @@ GetNextFileID() {
   SQL := "UPDATE Config SET NextVersion = " . nxtVer . " WHERE ID = '" . currTab . "';"
   DB.Exec(SQL)
   Return SubStr(nextID, -3)
+}
+
+ChurchesBulkLoadJoplin() {
+  global
+  RecordSet := ""
+  SQL := "SELECT Place, Dedication, Date, Details, Notes, Status, NeedToRevisit, Area FROM Churches;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+      fn := tmpPath . "\Churches\" . Row[1] . " - " . Row[2] . ".md"
+      FileDelete, %fn%
+      v := Row[6]
+      FileAppend, - Status: %v%`n, %fn%
+      v := Row[3]
+      FileAppend, - Date: %v%`n, %fn%
+      v := Row[7]
+      if v = 0
+        v := "No"
+      else
+        v := "Yes"
+      FileAppend, - Need to Revisit: %v%`n, %fn%
+      v := Row[8]
+      FileAppend, - Area: %v%`n, %fn%
+      FileAppend, * * *`n, %fn%
+      FileAppend, ## Details`n, %fn%
+      FileAppend, `n, %fn%
+      v := Row[4]
+      FileAppend, %v%`n, %fn%
+      FileAppend, * * *`n, %fn%
+      FileAppend, ## Notes`n, %fn%
+      FileAppend, `n, %fn%
+      v := Row[5]
+      FileAppend, %v%`n, %fn%
+    }
+  } Until RC < 1
+  RecordSet.Free()
+}
+
+HillsBulkLoadJoplin() {
+  global
+  RecordSet := ""
+  SQL := "SELECT Name, Height, Details, lat, long, IsonMap, IsonTPE FROM Hills;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+      fn := tmpPath . "\Hills\" . Row[1] . ".md"
+      FileDelete, %fn%
+      v := Row[2]
+      FileAppend, - Height: %v%`n, %fn%
+      v := Row[4]
+      FileAppend, - Latitude: %v%`n, %fn%
+      v := Row[5]
+      FileAppend, - Longitude: %v%`n, %fn%
+      v := Row[6]
+      if v = 0
+        FileAppend, - Is on Map: No`n, %fn%
+      else
+        FileAppend, - Is on Map: Yes`n, %fn%
+      v := Row[7]
+      if v = 0
+        FileAppend, - Is on TPE: No`n, %fn%
+      else
+        FileAppend, - Is on TPE: Yes`n, %fn%
+      FileAppend, * * *`n, %fn%
+      FileAppend, ## Details`n, %fn%
+      FileAppend, `n, %fn%
+      v := Row[3]
+      FileAppend, %v%`n, %fn%
+    }
+  } Until RC < 1
+  RecordSet.Free()
+}
+
+PlacesBulkLoadJoplin() {
+  global
+  RecordSet := ""
+  SQL := "SELECT Name, Visited, HREF, Details, lat, long, IsonMap, IsonTPE FROM Places;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+      fn := tmpPath . "\Places\" . Row[1] . ".md"
+      FileDelete, %fn%
+      v := Row[2]
+      if v = 0
+        FileAppend, - Visited: No`n, %fn%
+      else
+        FileAppend, - Visited: Yes`n, %fn%
+      v := Row[5]
+      FileAppend, - Latitude: %v%`n, %fn%
+      v := Row[6]
+      FileAppend, - Longitude: %v%`n, %fn%
+      v := Row[7]
+      if v = 0
+        FileAppend, - Is on Map: No`n, %fn%
+      else
+        FileAppend, - Is on Map: Yes`n, %fn%
+      v := Row[8]
+      if v = 0
+        FileAppend, - Is on TPE: No`n, %fn%
+      else
+        FileAppend, - Is on TPE: Yes`n, %fn%
+      v := Row[3]
+      FileAppend, - HREF: %v%`n, %fn%
+      FileAppend, * * *`n, %fn%
+      FileAppend, ## Details`n, %fn%
+      FileAppend, `n, %fn%
+      v := Row[4]
+      FileAppend, %v%`n, %fn%
+    }
+  } Until RC < 1
+  RecordSet.Free()
 }
 
 ;ChurchesBulkLoadAirtable() {

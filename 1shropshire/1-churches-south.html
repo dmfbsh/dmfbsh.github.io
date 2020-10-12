@@ -1,0 +1,58 @@
+---
+layout: shropshire
+title: Churches of Shropshire - South
+---
+
+{% include 1-header.html %}
+
+{% assign numrecs = 0 %}
+
+{% for item in site.data.Shropshire_Notebook-Churches %}
+
+{% if item.Area == "South" %}
+
+{% assign numrecs = numrecs | plus: 1 %}
+
+{% if item.Type == "Item" %}
+
+{% if orientation == "right" %}
+  {% assign orientation = "left" %}
+{% else %}
+  {% assign orientation = "right" %}
+{% endif %}
+
+<div class="rowh">
+  <div class="columnhl">
+    <h2>{{ item.Date }}</h2>
+  </div>
+  <div class="columnhr">
+    <h3>{{ item.Name }}</h3>
+    <table><tr><td>
+{% if orientation == "right" %}
+    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" class="ml" align="right" style="max-width:100%">
+{% else %}
+    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" class="mr" align="left" style="max-width:100%">
+{% endif %}
+    {{ item.Description | markdownify }}
+  	{% for subimage in item.Sub-Images %}
+    	{% if forloop.first %}
+    </td></tr><tr><td><ul class="sc">
+      {% endif %}
+    <li class="sc"><a href="#"><img src="assets/images/churches-sub/{{ subimage.Sub-Image }}"/></a></li>
+    	{% if forloop.last %}
+    </ul>
+      {% endif %}
+    {% endfor %}
+    </td></tr></table>
+  </div>
+</div>
+
+{% endif %}
+
+{% endif %}
+
+{% endfor %}
+
+<p>Number of records: {{ numrecs }}</p>
+
+{% include 1-footer.html %}

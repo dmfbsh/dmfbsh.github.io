@@ -1,5 +1,6 @@
 - Type: Item
   Name: St Mary, Acton Burnell
+  Area: South
   Date: 1275 AD
   Description: |
     This church is considered to be the finest Early English (13th Century) church in Shropshire.  Unlike most English parish churches, Acton Burnell is built in a same style throughout.
@@ -11,6 +12,7 @@
 
 - Type: Item
   Name: St Margaret, Acton Scott
+  Area: South
   Date: 12th-14th Century AD
   Description: |
     This is a church that has suffered at the hands of 19th Century restorers.  Much of the masonry is medieval, but the windows were all renewed in the 19th Century.  The porch was added in 1722 and the north chapel in 1820.
@@ -25,6 +27,7 @@
 
 - Type: Item
   Name: St Peter, Adderley
+  Area: North
   Date: 1635-1636 AD
   Description: |
     The oldest existing part of the present church is the north transept, which was built in 1635ÔÇô36 as a burial chapel for the Needham family, the Viscounts Kilmorey of Shavington.  The other remaining part of the older church is the tower, built in 1712.  The rest of the church was built in 1801 by Richard Baker; it is the only known work by this architect.
@@ -42,6 +45,7 @@
 
 - Type: Item
   Name: St Michael and All Angels, Alberbury
+  Area: North
   Date: 1290 AD
   Description: |
     The church is thought to have been founded between the 7th and 10th Centuries.  It was originally a Minster Church (Minster was the Anglo-Saxon version of a monastery, and was originally applied to churches served by monks / clergy living a communal life and endowed by a charter with the obligation of maintaining the daily office of prayer, but was not the seat of a bishop and the church had no diocesan responsibilities).
@@ -63,6 +67,7 @@
 
 - Type: Item
   Name: St Eata, Atcham
+  Area: North
   Date: Before 1075 AD
   Description: |
     This is the only church in England dedicated to St Eata of Hexham.
@@ -83,6 +88,7 @@
 
 - Type: Item
   Name: All Saints, Baschurch
+  Area: North
   Date: 12th Century
   Description: |
     Some parts of the church are Norman (and date from the 12th Century).  The bottom four stages of the tower were constructed in the early 13th Century.  The top stage was added in circa 1400.
@@ -98,6 +104,7 @@
 
 - Type: Item
   Name: St Mary Magdalene, Battlefield
+  Area: North
   Date: 1406 AD
   Description: |
     The church was built just after the Battle of Shrewsbury as a chantry - a place of intercession and commemoration for those killed in the fighting.  The building is probably constructed over a mass burial pit as it is thought that some of the battle was fought at the place now known as Battlefield.
@@ -107,6 +114,7 @@
 
 - Type: Item
   Name: St Milburga, Beckbury
+  Area: North
   Date: 14th Century AD
   Description: |
     Beckbury was included in the Domesday Book and the name means Beocca's Fort or defended place (Beocca being a personal name).
@@ -126,6 +134,7 @@
 
 - Type: Item
   Name: St Bartholomew, Benthall
+  Area: South
   Date: 1667 AD
   Description: |
     At the time of the Domesday Book, the settlement was most likely part of the manor at Much Wenlock.  During the Middle Ages, there was a chapel at Benthall which was dedicated to St Brice, and which was dependent on Wenlock Priory.
@@ -145,6 +154,7 @@
 
 - Type: Item
   Name: St Margaret, Betton Strange
+  Area: South
   Date: 1858 AD
   Description: |
     A well-preserved memorial chapel built for the Scott family.
@@ -154,6 +164,7 @@
 
 - Type: Item
   Name: St John the Baptist, Bishop's Castle
+  Area: South
   Date: 13th Century AD
   Description: |
     Bishop's Castle is named from the castle built there by the Bishop of Hereford in circa 1127.
@@ -177,6 +188,7 @@
 
 - Type: Item
   Name: St Mary, Bitterley
+  Area: South
   Date: 13th Century AD
   Description: |
     The church dates mostly fron the Transitional period (when the Norman style was giving way to Early English style).
@@ -189,6 +201,7 @@
 
 - Type: Item
   Name: St Leonard, Bridgnorth
+  Area: South
   Date: 12th Century AD
   Description: |
     Although not mentioned in the Domesday book, there is Anglo-Saxon and Norman stonework in the fabric of the church and so it is likely that an earlier church stood on the site of the present church.
@@ -198,6 +211,7 @@
 
 - Type: Item
   Name: St Mary Magdalene, Bridgnorth
+  Area: South
   Date: 1792 - 1795 AD
   Description: |
     The church was designed by Thomas Telford.
@@ -207,6 +221,7 @@
 
 - Type: Item
   Name: All Saints, Broseley
+  Area: South
   Date: 1845 AD
   Description: |
     This church is considered to be the finest early Victorian church in the county, and is constructed throughout in an authentic Perpendicular style.  It is built of stone from Grinshill.
@@ -236,6 +251,7 @@
 
 - Type: Item
   Name: Holy Trinity, Buildwas
+  Area: North
   Date: 1720 AD
   Description: |
     The name Buildwas may derive its name from the Saxon words 'beild' or 'belde' (a shelter). and 'was' (water), surrounded as it is on three sides by hills and on the fourth by the river Severn.  Another view is that the name is from the Old English 'waesse' which means 'swamp' or 'marsh' and is usually translated as 'land by a meanering river which floods and drains quickly'.
@@ -249,6 +265,7 @@
 
 - Type: Item
   Name: St Mary, Burford
+  Area: South
   Date: 12th Century AD
   Description: |
     The church comprises a mixture of medieval and Victorian elements; the chancel is 12th Century the nave and tower are later and date from the 14th Century.  In 1889-90 the church was extensively restored by Aston Webb, an English architect who designed the principal facade of Buckingham Palace and the main building of the Victoria and Albert Museum.
@@ -258,6 +275,7 @@
 
 - Type: Item
   Name: St Michael, Cardeston
+  Area: North
   Date: 1276 AD
   Description: |
     The church is known to have existed prior to 1276, as there is one window in the chancel in the present building from before that date.  By the 18th Century, the medieval church was in a poor state of repair and it was replaced by a new building in 1749, the building was significantly remodelled in 1844.
@@ -267,6 +285,7 @@
 
 - Type: Item
   Name: St James, Cardington
+  Area: South
   Date: 12th Century AD
   Description: |
     The presence of a church on the site is recorded in the Domesday Book.  In 1167, the village, including the church, was given to the Knights Templar (and was known as Templars' Cardington, allowing the people to share the privileges of the Knights).  It remained in their possession until 1308 (when the order was supressed).  The Knights were responsible for starting the building of the present church in the later part of the 12th Century.  During the following century the chancel was rebuilt and extended, and the tower was added.  Further additions and alterations were made during the following three centuries, followed by the porch in 1639.
@@ -294,6 +313,7 @@
 
 - Type: Item
   Name: St Peter, Chelmarsh
+  Area: South
   Date: 14th Century AD
   Description: |
     The place name is thought to derive from the Old English Cegel, meaning pole, as it is believed that the marsh may have been marked out by posts.
@@ -305,6 +325,7 @@
 
 - Type: Item
   Name: St Michael the Archangel, Chirbury
+  Area: North
   Date: 12th Century AD
   Description: |
     An Anglo-Saxon church was founded circa 915 when a fort was built on the site.  The current building dates from the 12th Century.  The aisles and arcades were added in the 13th Century - the arcades noticeably lean outwards.  The tower was constructed around 1300 and the chancel was added in 1733.  The church was restored in 1871-72.  The tower and body of the church were constructed using limestone rubble with pink sandstone ashlar dressings and slate roofs.  The chancel is red brick with a tiled roof.
@@ -334,6 +355,7 @@
 
 - Type: Item
   Name: St Edith, Church Pulverbatch
+  Area: South
   Date: 1773 AD 
   Description: |
     The name Pulverbatch means the valley of the river Pulre.  The village of Church Pulverbatch is also known as Churton.  The manor is recorded in the Domesday book as Polrebec.
@@ -349,6 +371,7 @@
 
 - Type: Item
   Name: St Laurence, Church Stretton
+  Area: South
   Date: 12th Century AD
   Description: |
     The Domesday book makes reference to a church in the Manor existing before the Norman conquest, most likely a small wooden building.
@@ -373,6 +396,7 @@
 
 - Type: Item
   Name: All Saints, Claverley
+  Area: South
   Date: 12th Century AD
   Description: |
     The church can trace its origins back to the 7th Century (Saxon), however, the present church dates from the 12th Century.
@@ -388,6 +412,7 @@
 
 - Type: Item
   Name: St Margaret, Clee St Margaret
+  Area: South
   Date: Saxon / Norman
   Description: |
     The name of the village derives from the Old English 'cleo' (clee) meaning a ball, used in this case to mean a ball-shaped hill (referring to the distictive shape of the Clee Hills) and the saint to which the church is dedicated.
@@ -397,6 +422,7 @@
 
 - Type: Item
   Name: St Mary, Cleobury Mortimer
+  Area: South
   Date: 12th Century AD
   Description: |
     Cleobury passed to the Mortimer family (one of the great Marcher families) after the Norman conquest.
@@ -408,6 +434,7 @@
 
 - Type: Item
   Name: Holy Trinity, Coalbrookdale
+  Area: North
   Date: 1854 AD
   Description: |
     With the support of the Darbys a new church was planned for the village of Coalbrookdale.  The foundation stone was laid by Abraham's wife, Matilda Frances, on 11th December 1851 and the completed building was consecrated by the Bishop of Hereford on 25th July 1854.
@@ -419,6 +446,7 @@
 
 - Type: Item
   Name: St Simon and St Jude, Cockshutt
+  Area: North
   Date: 1777 AD
   Description: |
     A plain brick building constructed to replace the medieval church (dedicated to St Helena) which fell into dis-repair. The church clock (made in 1789) is thought to be the only collaborative piece between two well-known Shropshire clockmakers - Bullock and Davies.
@@ -428,6 +456,7 @@
 
 - Type: Item
   Name: St Peter, Cound
+  Area: South
   Date: 13th Century AD
   Description: |
     The church is dedicated to St Peter because of its medieval association with Shrewsbury Abbey, which is dedicated to Saints Peter and Paul.
@@ -469,6 +498,7 @@
 
 - Type: Item
   Name: Christ Church, Cressage
+  Area: South
   Date: 1841 AD
   Description: |
     The name Cressage means 'Christ's Oak', and so it is thought the village's location may be a very early Christian site (possibly an oak tree from where the gospel was preached).
@@ -480,6 +510,7 @@
 
 - Type: Item
   Name: St Mary, Crudgington
+  Area: North
   Date: 1863 AD
   Description: |
     Crudgington is mentioned in the Domesday Book, where it is called Crugetone.  The name derives from the old English of the village (tun) by the hill-hill, presumably referring to its proximity to the Wrekin.
@@ -487,6 +518,7 @@
 
 - Type: Item
   Name: St Peter, Diddlebury
+  Area: South
   Date: 11th Century (or earlier) AD
   Description: |
     One of only about 20 churches in Shropshire mentioned in the Domesday book (under the manor of Corfham) and therefore of known Saxon origin.
@@ -501,6 +533,7 @@
 
 - Type: Item
   Name: St Edward, Dorrington
+  Area: South
   Date: 1845 AD
   Description: |
     The church was paid for by J T Hope of Netley Hall.  In the 1840s the Early English style was dominant in Shropshire, and this church conforms to that style.  The church is built of ashlar.
@@ -515,6 +548,7 @@
 
 - Type: Item
   Name: St Mary, Ellesmere
+  Area: North
   Date: 1840s AD
   Description: |
     Originally a medieval church of the which the tower and chancel chapels, but little else, remain, as by the 1840s the church was in a poor state.  Sir George Gilbert Scott was asked to advise and recommended that the dilapidated nave be rebuilt completely - this advice was accepted the present chchuch is largely his work.
@@ -522,6 +556,7 @@
 
 - Type: Item
   Name: St Catherine, Eyton upon the Weald Moors
+  Area: North
   Date: 1743 AD
   Description: |
     The name Eyton upon the Weald Moors is derived from the Old English Eg-tun meaning settlement on an island or in land by a river, and Weald which means wild or waste moor.
@@ -531,6 +566,7 @@
 
 - Type: Item
   Name: St Thomas, Great Ryton
+  Area: North
   Date: 1896 AD
   Description: |
     A small red-brick 'Mission Church', the size of a chapel, which forms part of the Condover ecclesiastical parish.
@@ -538,6 +574,7 @@
 
 - Type: Item
   Name: St Mary Magdalene, Hadnall
+  Area: North
   Date: 1140 to 1150 AD
   Description: |
     The church was originally a chapel of ease (a church built within the bounds of a parish for those who could not easily attend the parish church), the Norman nave is thought to date from 1140 to 1150.  It is thought that the nave may have been rebuilt in the 14th Century.  The tower was added in the 1830s and the chancel was built in 1874.
@@ -564,6 +601,7 @@
 
 - Type: Item
   Name: St Thomas, Halford
+  Area: South
   Date: 12th Century AD
   Description: |
     The place name Halford means hawkersÔÇÖ ford (hawker meaning travelling seller) - the Ford is across the river Onny that runs very close to the church.
@@ -573,6 +611,7 @@
 
 - Type: Item
   Name: St Luke, Hodnet
+  Area: North
   Date: 12th Century AD
   Description: |
     Noted for its tower which is entirely octagonal from top to bottom and the only tower of this type in Shropshire.  In 2006 the church was damaged by people apparently seeking clues in a search for the Holy Grail.
@@ -584,6 +623,7 @@
 
 - Type: Item
   Name: St John the Baptist, Hope Bagot
+  Area: South
   Date: 12th Century AD
   Description: |
     A small church in a delightful spot, it has an impressive Norman chancel arch.
@@ -597,6 +637,7 @@
 
 - Type: Item
   Name: St Andrew, Hope Bowdler
+  Area: South
   Date: 1863 AD
   Description: |
     Hop(e) is the Middle English for valley.  The name Bowdler derives from the Norman name de Bulers.
@@ -608,6 +649,7 @@
 
 - Type: Item
   Name: St John the Baptist, Ightfield
+  Area: North
   Date: 1490 AD
   Description: |
     Mentioned in the Doomsday book as Istefelt, the name Ightfield may derive from the Old English 'Ihtfeld' (Iht means creature and Feld means field), referring to the fact that the area was rural and farming was prevalent.  Alternatively, it is thought it could dervice from Giht, an ancient British river name.
@@ -622,6 +664,7 @@
 
 - Type: Item
   Name: St Luke, Ironbridge
+  Area: North
   Date: 1837 AD
   Description: |
     The area was originally part of the parish of Madeley, but with the growth of the population due to the bridge, it was thought necessary for Ironbridge to have its own church.
@@ -631,6 +674,7 @@
 
 - Type: Item
   Name: St Mary, Jackfield
+  Area: North
   Date: 1863 AD
   Description: |
     The present church was build in 1863 to replace a chapel (dating from 1759).  The church was designed by Sir Arthur Blomfield and is considered to be the best of the four Shropshire churches he designed.  Blomfield was a prolific architect, and a leading figure in his profession.
@@ -640,6 +684,7 @@
 
 - Type: Item
   Name: St Mary, Kinnerley
+  Area: North
   Date: 15th Century AD
   Description: |
     The mother church of all churches south of Oswestry.
@@ -658,6 +703,7 @@
 
 - Type: Item
   Name: St Paul, Knowbury
+  Area: South
   Date: 1838-9 AD
   Description: |
     The original church was described as being a barn-like structure.  It was radically altered in 1884 to produce the current building mainly in the Decorated style.
@@ -667,6 +713,7 @@
 
 - Type: Item
   Name: St Chad, Kynnersley
+  Area: North
   Date: 13th Century
   Description: |
     The original parts of the church are medieval.  The tower was added in 1722-23.
@@ -676,6 +723,7 @@
 
 - Type: Item
   Name: Chapel, Langley
+  Area: South
   Date: 14th Century AD
   Description: |
     In 1313 the lords of the manor at Langley (the Burnell's of Actor Burnell) obtained permission to build a chapel at Langley.  The structure of the present building dates from this time.  The chapel was fitted out in about 1546 by the Lee family (to whom the manor of Langley had passed in the second half of the 14th Century).  The chapel was re-roofed in 1601 by the same family.
@@ -695,7 +743,21 @@
     - Sub-Image: 2020-09-11_17_13_35_DSC_8510_DxO.jpg
 
 - Type: Item
+  Name: St Peter, Lee Brockhurst
+  Area: North
+  Date: 12th Century AD
+  Description: |
+    The church essentially consists of a Norman nave and Victorian chancel (1884).  The bell openings and porch were also added in 1884.  The nail-studded door is either late medieval or 17th Century.
+
+    The name of the settlement means wood or clearing by the badgerÔÇÖs wooded hill (leah is the Old English for a forest, wood, glade or clearing and later a pasture or meadow and the Old English words brocc and hyrst are badger and wooded hill).
+  Thumbnail: 2020-10-09_15_52_26_DSC_8773_DxO.jpg
+  Sub-Images:
+    - Sub-Image: 2020-10-09_15_53_05_DSC_8774_DxO.jpg
+    - Sub-Image: 2020-10-09_15_58_45_DSC_8776_DxO.jpg
+
+- Type: Item
   Name: All Saints, Little Stretton
+  Area: South
   Date: 1903 AD
   Description: |
     The building is painted to look half-timbered.  However, the whole interior is wooden.
@@ -703,6 +765,7 @@
 
 - Type: Item
   Name: St Michael the Archangel, Llanyblodwel
+  Area: North
   Date: 1847-1853 AD
   Description: |
     The present church was the result of rebuilding the old medieval church in stages between 1847 and 1853 by the then vicar.  The almost detached steeple was designed and added in 1855-6 by the same vicar, he was convinced that the shape would be stronger than the usual hollow spire construction where the thickness of the straight sides diminishes towards the apex.  The height is 104 ft (tower 57 ft and spire 47 ft).
@@ -715,6 +778,7 @@
 
 - Type: Item
   Name: St Ruthen, Longden
+  Area: North
   Date: Pre-1569 AD
   Description: |
     The age of the church is unknown, but will have existed prior to 1569 as records from that year mention a chapel on the site.
@@ -728,6 +792,7 @@
 
 - Type: Item
   Name: St Bartholomew, Longdon on Tern
+  Area: North
   Date: 1742 AD
   Description: |
     The name Longdon is derived from two Old English words, lang and dun, meaning long hill.  The settlement is also situated on the river Tern, a tributary of the river Severn.
@@ -737,6 +802,7 @@
 
 - Type: Item
   Name: Talbot Chapel, Longford
+  Area: North
   Date: 1300 AD
   Description: |
     Originally a medieval church and now a chapel for the Talbot family.
@@ -757,6 +823,7 @@
 
 - Type: Item
   Name: St Mary, Longnor
+  Area: South
   Date: 1275 AD
   Description: |
     Since its construction, the building has hardly been altered.  The western bell turret is 19th Century.
@@ -794,6 +861,7 @@
 
 - Type: Item
   Name: St Laurence, Ludlow
+  Area: South
   Date: 12th Century AD
   Description: |
     One of the greatest parish churches in England.
@@ -812,6 +880,7 @@
 
 - Type: Item
   Name: St John, Ludlow
+  Area: South
   Date: 1881 AD
   Description: |
     A suburban church built by Sir Arthur Blomfield (English architect).
@@ -819,6 +888,7 @@
 
 - Type: Item
   Name: Holy Trinity, Lydham
+  Area: South
   Date: Circa 1200 AD
   Description: |
     There was probably a Saxon church here as Lidum is mentioned in the Doomsday book.  The present church is of medieval origin, but was substantially rebuilt in 1642.
@@ -836,6 +906,7 @@
 
 - Type: Item
   Name: St Peter, Melverley
+  Area: North
   Date: 12th Century AD
   Description: |
     Melverley means 'meadow by the mill-ford'.
@@ -852,6 +923,7 @@
 
 - Type: Item
   Name: St Bartholomew, Moreton Corbet
+  Area: North
   Date: 12th Century AD
   Description: |
     The Norman church was founded in about 1140 AD as a chapel attached to Shawbury.  Some parts of the Norman church remain, but the greater part of the church dates from the 14th Century.
@@ -861,6 +933,7 @@
 
 - Type: Item
   Name: St Gregory, Morville
+  Area: South
   Date: 1118 AD
   Description: |
     The church retains almost all of the original Norman features and was constructed within the precincts of a Priory establishment.  This was destroyed in 1540 leaving the church as the parish place of worship.
@@ -868,6 +941,7 @@
 
 - Type: Item
   Name: Holy Trinity Church, Much Wenlock
+  Area: South
   Date: 1150 AD
   Description: |
     Built by the Cluniac monks of Wenlock Priory.
@@ -875,6 +949,7 @@
 
 - Type: Item
   Name: St Michael, Munslow
+  Area: South
   Date: 12th Century AD
   Description: |
     The church has its origins in the 12th Century, but has grown and been modified over the years.
@@ -897,6 +972,7 @@
 
 - Type: Item
   Name: St John the Baptist, Myndtown
+  Area: South
   Date: 12th Century AD
   Description: |
     The church may even date back to before the 12th Century.  It is thought to be unique not just within Shropshire, but in the whole of England, in that it has not been the subject of Victorian restoration or alteration.  It is a simple and plain country church.
@@ -914,6 +990,7 @@
 
 - Type: Item
   Name: St Nicholas, Newport
+  Area: North
   Date: 12th Century AD
   Description: |
     Although the church dates back to the 12th Century, virtually nothing from this time survives.
@@ -922,7 +999,42 @@
   Thumbnail: 2019-12-07_13_49_02_DSC02370_DxO.jpg
 
 - Type: Item
+  Name: King Charles the Martyr, Newtown
+  Area: North
+  Date: 1869 AD
+  Description: |
+    After the civil war the villagers of Newtown and other nearby villages desired to have a chapel of ease as the parish church of Wem was too far away.  Initially a private house was used which was consecrated after the Restoration in 1665.  In 1836 this building was demolished and replaced with a brick church.  In 1861 the parish was formed and in 1869 the brick church was replaced with the present stone church.
+
+    The church has an unusual Carillon of 6 bells.
+
+    The pulpit is marble and dates from 1898.
+
+    The elegant wrought-iron screen dates from circa 1870.
+
+    The name of the village simply equates to the Old English new (niwe) and enclosure, farmstead or village (tun).
+  Thumbnail: 2020-10-09_17_07_48_DSC_8826_DxO.jpg
+  Sub-Images:
+    - Sub-Image: 2020-10-09_16_36_07_DSC_8781_DxO.jpg
+    - Sub-Image: 2020-10-09_16_36_50_DSC_8783_DxO.jpg
+    - Sub-Image: 2020-10-09_16_37_45_DSC_8785_DxO.jpg
+    - Sub-Image: 2020-10-09_16_39_15_DSC_8787_DxO.jpg
+    - Sub-Image: 2020-10-09_16_40_38_DSC_8789_DxO.jpg
+    - Sub-Image: 2020-10-09_16_42_58_DSC_8791_DxO.jpg
+    - Sub-Image: 2020-10-09_16_43_33_DSC_8792_DxO.jpg
+    - Sub-Image: 2020-10-09_16_44_26_DSC_8795_DxO.jpg
+    - Sub-Image: 2020-10-09_16_45_12_DSC_8796_DxO.jpg
+    - Sub-Image: 2020-10-09_16_47_58_DSC_8797_DxO.jpg
+    - Sub-Image: 2020-10-09_16_48_17_DSC_8798_DxO.jpg
+    - Sub-Image: 2020-10-09_16_48_46_DSC_8799_DxO.jpg
+    - Sub-Image: 2020-10-09_16_49_06_DSC_8800_DxO.jpg
+    - Sub-Image: 2020-10-09_16_49_49_DSC_8802_DxO.jpg
+    - Sub-Image: 2020-10-09_16_50_19_DSC_8803_DxO.jpg
+    - Sub-Image: 2020-10-09_16_59_39_DSC_8811_DxO.jpg
+    - Sub-Image: 2020-10-09_17_02_25_DSC_8813_DxO.jpg
+
+- Type: Item
   Name: All Saints, Norbury
+  Area: South
   Date: 13th Century
   Description: |
     The original church was built circa 1200, the tower dates from the late 13th Century / early 14th Century.  The church was substantially rebuilt from 1879 to 1893 (nave 1879-80, chancel 1892-3 and spire 1880).
@@ -938,6 +1050,7 @@
 
 - Type: Item
   Name: St Oswald, Oswestry
+  Area: North
   Date: 13th Century AD
   Description: |
     In 642 AD Oswald, the King of Northumbria who had previously converted to Christianity was killed by the pagan King Penda of Mercia in the Battle of Oswestry, as a result he rose to martyrdom.  He is thought to have been killed on the site of the church.
@@ -952,6 +1065,7 @@
 
 - Type: Item
   Name: St Raphael and St Isidore, Petton
+  Area: North
   Date: 1727 AD
   Description: |
     The present building was built in 1727 to replace the old medieval church.
@@ -976,6 +1090,7 @@
 
 - Type: Item
   Name: St Michael and All Angels, Pitchford
+  Area: South
   Date: 1220 AD
   Description: |
     The church founded and built by Ralph de Pitchford.
@@ -988,6 +1103,7 @@
 
 - Type: Item
   Name: St Chad, Prees
+  Area: North
   Date: 14th Century AD
   Description: |
     Prees is thought to be an ancient Celtic name meaning brushwood or grove.
@@ -999,6 +1115,7 @@
 
 - Type: Item
   Name: St Martin, Preston Gubbals
+  Area: North
   Date: 12th Century AD
   Description: |
     The church was originally built as a chapel of ease in the 12th Century, but later became a parish church. The date of the change to church is unknown, but is likely some time in the 14th or 15th Century.
@@ -1019,6 +1136,7 @@
 
 - Type: Item
   Name: St Laurence, Preston-upon-the-Weald Moors
+  Area: North
   Date: 1742 AD
   Description: |
     The current church was built between 1739 and 1742 to replace the former church.  The chancel and vestry were added in 1853.
@@ -1031,6 +1149,7 @@
 
 - Type: Item
   Name: St Margaret, Ratlinghope
+  Area: South
   Date: 1209 AD
   Description: |
     Ratlinghope is thought to mean 'the valley of Rotel's people' and is set in some of the finest scenery in the county.
@@ -1042,6 +1161,7 @@
 
 - Type: Item
   Name: St Mary, Selattyn
+  Area: North
   Date: 1291 AD 
   Description: |
     The village is close to Offa's Dyke and the dyke bounds the parish on the west, the name derives from sulh and tun which means in Old English a plough(-land) farm/settlement, or perhaps, a gully farm/settlement and has also been modified by Welsh influence.
@@ -1051,6 +1171,7 @@
 
 - Type: Item
   Name: St Peter and St Paul, Sheinton
+  Area: South
   Date: 1854 AD
   Description: |
     Although medieval in origin, the church was partly rebuilt in the 1660s and then nearly the whole church was rebuilt in 1854.  The church is noted for the half-timbered belfry which juts out above the west wall.
@@ -1060,6 +1181,7 @@
 
 - Type: Item
   Name: All Saints, Shelve
+  Area: North
   Date: 1839 AD
   Description: |
     The present church was built to replace a medieval structure and is built in the Early English style.  The church contains items from the former church, specifically the rood-beam above the sanctuary, the nine-sided font (which may be Norman) and some 17th Century panelling.
@@ -1076,6 +1198,7 @@
 
 - Type: Item
   Name: St James, Shipton
+  Area: South
   Date: 12th Century AD
   Description: |
     The nave and lower part of the tower date from the last 12th Century.  Noted for its Elizabethan chancel, as hardly any churches were built during the reign of Elizabeth I.
@@ -1087,6 +1210,7 @@
 
 - Type: Item
   Name: St Mary, Shrewsbury
+  Area: North
   Date: 12th Century AD
   Description: |
     This church dominates Shrewsbury as was built at the highest point in the town and has a spire which is 222ft (one of the tallest in the country).
@@ -1098,6 +1222,7 @@
 
 - Type: Item
   Name: St Chad (old), Shrewsbury
+  Area: North
   Date: 12th Century AD
   Description: |
     St Chad's may well be the oldest church in Shrewsbury, possibly originating in the 7th Century.
@@ -1107,6 +1232,7 @@
 
 - Type: Item
   Name: St Alkmund, Shrewsbury
+  Area: North
   Date: 1475 AD
   Description: |
     St Alkmund died circa 802 AD, he was the younger son of Alhred (king of Northumbria) at Lilleshall, his relics were removed to the collegiate church dedicated to him at Derby.  This church in Shrewsbury was also founded as a collegiate church in 912 AD by Aethelflaed, daughter of Alfred the Great, king of Mercia.  By the time of the Domesday survey, the church was substantially endowed.  However, when Lilleshall Abbey was established in 1148 AD, the church became an poor vicarage as property was transferred to Lilleshall.
@@ -1120,6 +1246,7 @@
 
 - Type: Item
   Name: St Chad (new), Shrewsbury
+  Area: North
   Date: 1792 AD
   Description: |
     St Chad was the first Bishop of Mercia, he was canonised in 779 AD.
@@ -1136,6 +1263,7 @@
 
 - Type: Item
   Name: St Julian, Shrewsbury
+  Area: North
   Date: 12th Century AD
   Description: |
     This church is one of the four Saxon foundations in Shrewsbury.  The tower dates from the 12th Century whereas the present nave was designed by Thomas Farnolls Pritchard who also designed the Iron Bridge at Telford.  Pritchard was born in Shrewsbury and baptised in St Julian's Church on 11 May 1723.
@@ -1143,6 +1271,7 @@
 
 - Type: Item
   Name: Congregational Church, Shrewsbury
+  Area: North
   Date: 1863 AD
   Description: |
     Originally known as the Abbey Foregate Congregational Church (a church in which each congregation independently and autonomously runs its own affairs).  The site was bought in 1872 and worship began, immediately.  Work on the building started at once and the foundation stone was laid in 1863.
@@ -1152,6 +1281,7 @@
 
 - Type: Item
   Name: St Michael & All Angels, Smethcott
+  Area: South
   Date: 12th Century AD
   Description: |
     Although not mentioned in any records before 1341, the building does retain some 12th Century features.  Over the years the church fell into disrepair and was rebuilt in 1850.
@@ -1163,6 +1293,7 @@
 
 - Type: Item
   Name: St Luke, Snailbeach
+  Area: North
   Date: 1872 AD
   Description: |
     A somewhat austere chapel.
@@ -1175,6 +1306,7 @@
 
 - Type: Item
   Name: St John the Baptist, Stapleton
+  Area: South
   Date: 12th Century AD
   Description: |
     Stapleton is an ancient manor recorded in the Domesday book as Hundeslit (from the personal name Hund and the Old English for hill-side.  The present name is derived from steep-place farm/settlement (stepel and tun).
@@ -1188,6 +1320,7 @@
 
 - Type: Item
   Name: St Peter, Stoke on Tern
+  Area: North
   Date: 1874-1875 AD
   Description: |
     The manor at Stoke on Tern was once very prosperous (being valued at 7 pounds at the time of the Domesday book, more than most Shropshire manors).
@@ -1199,6 +1332,7 @@
 
 - Type: Item
   Name: St Milburgh, Stoke St Milborough
+  Area: South
   Date: 13th Century
   Description: |
     The church dates back to the 13th Century, but likely has Saxon origins.  This is one of nine churches connected with Wenlock Abbey.  It is noted for its handsome ceiling and rare water leaf decoration.
@@ -1208,6 +1342,7 @@
 
 - Type: Item
   Name: St John the Baptist, Stokesay
+  Area: South
   Date: 1150 AD
   Description: |
     The original church was built around 1150 as a chapel to the nearby castle.  The original church was destroyed during the English Civil War; the current church is a rare example of a church extensively rebuilt during the Puritan period (1654) although some Norman features survive.
@@ -1222,6 +1357,7 @@
 
 - Type: Item
   Name: All Saints, Tibberton
+  Area: North
   Date: 1842 AD
   Description: |
     A small plain Early English style church built of sandstone ashlar.  The church was designed by J Baddeley.
@@ -1231,6 +1367,7 @@
 
 - Type: Item
   Name: St Bartholomew, Tong
+  Area: North
   Date: 1410 AD
   Description: |
     Sometimes referred to as the 'Westminster Abbey of the Midlands'; the church is noted for its architecture which includes a fan vaulted side chapel (which is rare in Shropshire) and its numerous tombs.
@@ -1248,6 +1385,7 @@
 
 - Type: Item
   Name: St Michael, Upton Cressett
+  Area: South
   Date: 12th Century AD
   Description: |
     The body of the church dates from the second half of the 12th Century.  The church is noted for the quality of the Norman arches.
@@ -1257,6 +1395,7 @@
 
 - Type: Item
   Name: St Lucy, Upton Magna
+  Area: North
   Date: 12th Century AD
   Description: |
     Magna is Latin, meaning 'great', so the translation of Upton Magna is 'Great Upton'.
@@ -1268,6 +1407,7 @@
 
 - Type: Item
   Name: All Saints, Wellington
+  Area: North
   Date: 1789-1790 AD
   Description: |
     The present church was built to replace a medieval one which was damaged during the Civil War.  The church was designed by George Steuart who was also responsible for St Chad's in Shrewsbury - All Saints being built a little earlier and is less impressive than St Chad's.  No extensions have been added, but the interior has been modified on a number of occasions.
@@ -1279,6 +1419,7 @@
 
 - Type: Item
   Name: Christ Church, Wellington
+  Area: North
   Date: 1839 AD
   Description: |
     The church was built in 1838 and was originally consecrated in the following year as a chapel of ease (as a daughter church to All Saints in the town centre).  The church was designed by Thomas Smith of Madeley and closely resembles his earlier church at Ironbridge.
@@ -1288,6 +1429,7 @@
 
 - Type: Item
   Name: St Michael and All Angels, Welshampton
+  Area: North
   Date: 1860s AD
   Description: |
     The present church was preceeded by a Saxon or Norman church, a medieval building dating from 1391 and church built in 1788 which became inadequate for the needs of the parish and fell into disrepair.  In 1861 a new building was commissioned from the leading architect of the day Sir George Gilbert Scott.  The walls are of yellow sandstone ashlar; the church has a slate roof which has a lozenge pattern over the nave and a zig-zag pattern over the chancel.
@@ -1299,6 +1441,7 @@
 
 - Type: Item
   Name: St Peter & St Paul, Wem
+  Area: North
   Date: 14th Century AD
   Description: |
     The church has been rebuilt at least three times - the 14th Century tower is probably the only structure that survived the great fire of Wem in 1677.
@@ -1308,6 +1451,7 @@
 
 - Type: Item
   Name: St Michael and All Angels, Wentnor
+  Area: South
   Date: Norman (1095 AD or earlier)
   Description: |
     The original church was Norman and there are a few surviving elements of this church in the present building.  The advowson (the right of presentation of a candidate to a benefice or church office) of the church was presented to the Abbey of Shrewsbury as early as 1095.  Much of the church was rebuilt in 1886.
@@ -1319,6 +1463,7 @@
 
 - Type: Item
   Name: St Mary, Westbury
+  Area: North
   Date: 13th or 14th Century
   Description: |
     The medieval chancel was pulled down in 1753 and rebuilt.  The tower was also rebuilt at this time as the previous tower collapsed in 1753.  The church is noted for its roof structure in the aisle and nave, said to be the oldest roof of its type in the country, dendrochronolgy dates the timbers to 1342.  It is the trussed rafters and the collar-beams on the arched braces that make this roof special.  A grant from English Heritage has paid for substantial repairs.
@@ -1328,6 +1473,7 @@
 
 - Type: Item
   Name: St Alkmund, Whitchurch
+  Area: North
   Date: 1712 AD
   Description: |
     Whitchurch is the oldest continually inhabited town in Shropshire.
@@ -1343,6 +1489,7 @@
 
 - Type: Item
   Name: St John the Baptist, Whittington
+  Area: North
   Date: 1747 AD
   Description: |
     The medieval church associated with the castle is long gone and was replaced in the 18th Century by the present building.  The tower was built in 1747 and the nave followed in 1804.  Further changes to the building were made in 1894.
@@ -1352,6 +1499,7 @@
 
 - Type: Item
   Name: St Peter, Wrockwardine
+  Area: North
   Date: 12th Century AD
   Description: |
     The church is mentioned in the Domesday book and so is thought to be of Saxon origin.  The current church is of Norman origin (with modifiications being made in the 14th Century).  The plan of the church forms a cruciform with the tower at the cross point, a less common layout (when compared with the more usual configuration of siting the tower at the east or west end of the building).
@@ -1361,6 +1509,7 @@
 
 - Type: Item
   Name: St Andrew, Wroxeter
+  Area: North
   Date: 12th Century AD
   Description: |
     This church is likely more steeped in history than any other in Shropshire.
@@ -1370,6 +1519,7 @@
 
 - Type: Item
   Name: Holy Trinity, Yockleton
+  Area: North
   Date: 1861 AD
   Description: |
     Yockleton became a parish in it's own right in the 19th Century, and those who lived in Yockleton and the surrounding areas decided to build their own Church.  The land on which the Church stands was donated by Col. Wingfield of Onslow, a local landowner.
