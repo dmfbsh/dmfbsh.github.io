@@ -1169,8 +1169,28 @@ A somewhat austere chapel.
 
 The word Beach is derived from the Old English Baece (stream) or Bache (a steep wooded narrow valley).
 ![](../1shropshire/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO_L.jpg)
-
 - Sub-Image: 2019-05-06_11_37_16_DSC_4154_DxO.jpg
+
+# Name: St Andrew, Stanton-upon-Hine Heath
+- Area: North
+- Date: 12th Century AD
+
+The original church is either late 11th Century or early 12th Century, there is Norman herring-bone masonry in one wall.  The south aisle was added to in the late 13th Century or 14th Century.  The tower is 13th Century with a late 14th Century belfry.  The porch is dated 1593.  The east end of the chancel was rebuilt in 1740 and the church was restored in 1891 - 1892.
+
+The church has very large stepped diagonal west buttresses, one has a datestone recording named churchwardens amongst other things.
+
+The churchyard is circular and notably raised above the surrounding area.  This is thought to be an early Irish / Welsh tradition which influenced churches in later centuries, there are a few other examples of this in Shropshire.
+
+The name Stanton means stone farm or settlement in Old English (stan is a stone or rock and tun is a farmstead or settlement).  The suffix means either servant's heath or monastic community's heath.
+![](../1shropshire/assets/images/churches/2020-10-16_12_02_06_DSC_8877_DxO_1.jpg)
+- Sub-Image: 2020-10-16_11_49_17_DSC_8866_DxO.jpg
+- Sub-Image: 2020-10-16_11_49_53_DSC_8867_DxO.jpg
+- Sub-Image: 2020-10-16_11_50_48_DSC_8868_DxO.jpg
+- Sub-Image: 2020-10-16_12_00_02_DSC_8874_DxO.jpg
+- Sub-Image: 2020-10-16_12_00_43_DSC_8875_DxO.jpg
+- Sub-Image: 2020-10-16_12_03_21_DSC_8879_DxO.jpg
+- Sub-Image: 2020-10-16_12_05_27_DSC_8881_DxO.jpg
+- Sub-Image: 2020-10-16_12_23_02_DSC_8883_DxO.jpg
 
 # Name: St John the Baptist, Stapleton
 - Area: South
