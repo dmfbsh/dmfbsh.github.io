@@ -1,7 +1,8 @@
-### 16 Oct 2020
+### 18 Oct 2020
 Added the following items:
 
 - Stanton upon Hine Heath Church
+- Condover Church
 
 ### 10 Oct 2020
 Added the following items:

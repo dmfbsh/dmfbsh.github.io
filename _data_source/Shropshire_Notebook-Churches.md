@@ -411,6 +411,46 @@ A plain brick building constructed to replace the medieval church (dedicated to 
 ![](../1shropshire/assets/images/churches/2019-09-18_14_53_43_DSC_5075_DxO_L.jpg)
 - Sub-Image: 2019-09-18_14_55_20_DSC_5076_DxO.jpg
 
+# Name: St Andrew and St Mary, Condover
+- Area: South
+- Date: 12th Century AD
+
+In Anglo-Saxon times, Condover was a minster church served by a college of priests and so was the centre of an extensive parish - there were a number of dependent chapelries in nearby settlements.  Before the Norman invasion the manor was held by Edward the Confessor.  The Domesday book mentions the presence of a priest, but all trace of the original building has been lost.
+
+It is thought that masonry from buildings at the Roman City at Wroxeter has been incorporated into the fabric of the church.
+
+The medieval church was substantially destroyed in 1660 when the tower collapsed.  The Norman north transcept and the Early English chancel were all that were left intact.  The church was rebuilt in 1662-64.  The chancel was then rebuilt again in 1867-68 by Reginald Cholmondeley, who was lord of the manor.  The hammer beam roof also dates from the 17th Century.
+
+The church is one largest country churches in Shropshire.  The church contains a notable collection of monuments.
+
+The churchyard contains one of the finest collections of church monuments in Shropshire, the earliest from the 16th century.  Most of these monuments and family tombs date from the 18th and 19th centuries.
+
+The name of the village means bank or ridge by the River Cound, the suffix 'ofer' is the Old English word meaning the tip of a promontory or a flat-topped ridge.
+
+In the Domesday book the name of the village is recorded as Conendovre.
+![](../1shropshire/assets/images/churches/2020-10-17_14_27_14_DSC_8903_DxO.jpg)
+- Sub-Image: 2020-10-17_14_16_54_DSC_8886_DxO.jpg
+- Sub-Image: 2020-10-17_14_19_38_DSC_8891_DxO.jpg
+- Sub-Image: 2020-10-17_14_21_54_DSC_8895_DxO.jpg
+- Sub-Image: 2020-10-17_14_22_33_DSC_8897_DxO.jpg
+- Sub-Image: 2020-10-17_14_23_41_DSC_8898_DxO.jpg
+- Sub-Image: 2020-10-17_14_28_01_DSC_8905_DxO.jpg
+- Sub-Image: 2020-10-17_14_29_47_DSC_8908_DxO.jpg
+- Sub-Image: 2020-10-17_14_33_42_DSC_8909_DxO.jpg
+- Sub-Image: 2020-10-17_14_33_55_DSC_8910_DxO.jpg
+- Sub-Image: 2020-10-17_14_34_12_DSC_8911_DxO.jpg
+- Sub-Image: 2020-10-17_14_34_25_DSC_8912_DxO.jpg
+- Sub-Image: 2020-10-17_14_36_09_DSC_8916_DxO.jpg
+- Sub-Image: 2020-10-17_14_39_40_DSC_8919_DxO.jpg
+- Sub-Image: 2020-10-17_14_40_29_DSC_8920_DxO.jpg
+- Sub-Image: 2020-10-17_14_42_18_DSC_8923_DxO.jpg
+- Sub-Image: 2020-10-17_14_43_37_DSC_8926_DxO.jpg
+- Sub-Image: 2020-10-17_14_44_19_DSC_8927_DxO.jpg
+- Sub-Image: 2020-10-17_14_46_06_DSC_8932_DxO.jpg
+- Sub-Image: 2020-10-17_14_49_35_DSC_8936_DxO.jpg
+- Sub-Image: 2020-10-17_14_51_27_DSC_8937_DxO.jpg
+- Sub-Image: 2020-10-17_14_57_41_DSC_8938_DxO.jpg
+
 # Name: St Peter, Cound
 - Area: South
 - Date: 13th Century AD
