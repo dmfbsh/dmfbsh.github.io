@@ -1480,7 +1480,7 @@ GetLastReload() {
       }
     }	Until RC < 1
     RecordSet.Free()
-    SB_SetText("Last Airtable Reload: " . tDT, 2)	
+    SB_SetText("Last Joplin Reload: " . tDT, 2)	
   }
   else
   {

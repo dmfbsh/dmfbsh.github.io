@@ -15,3 +15,4 @@ The Cloud Services are:
 - GitHub
 - Trello
 - Google Maps
+- Joplin

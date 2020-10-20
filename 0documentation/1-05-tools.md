@@ -17,6 +17,8 @@ The following tools are used by the project:
     - AutoHotKey
     - Git
     - DB Browser (SQLite)
+    - Joplin
+    - Trello
   - Photo Editors
     - XnViewMP
     - DxO PhotoLab
@@ -27,6 +29,7 @@ The following tools are used by the project:
 - iOS
   - Working Copy (GitHub client)
   - UK Map
+  - Joplin
   - Trello
 
 ## Installation and Configuration
@@ -54,13 +57,11 @@ Install the following:
 Install the following extensions:
 
 1. AutoHotKey Plus
-2. Code Runner
-3. Hex Editor
-4. Open in External App
-5. Power Tools
-6. Ruby
-7. SQLite
-8. VSCode Ruby
+2. Hex Editor
+3. Open in External App
+4. Power Tools
+5. Ruby
+6. VSCode Ruby
 
 ### Typora
 
@@ -79,6 +80,14 @@ Git is installed with no additional configuration.
 ### DB Browser (SQLite)
 
 DB Browser (SQLite) is installed with no additional configuration.
+
+### Joplin
+
+Joplin is installed with no additional configuration.
+
+### Trello
+
+Trello is installed with no additional configuration.
 
 ### XnViewMP
 

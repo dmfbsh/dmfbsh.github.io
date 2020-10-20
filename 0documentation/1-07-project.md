@@ -6,6 +6,8 @@ title: Project
 # Project
 {: .mt-4}
 
+## Status Database
+
 The status of the project is managed in an SQLite database which is accessed via an AutoHotKey application.
 
 To access SQLite, the AutoHotKey script requires the following:
@@ -15,6 +17,10 @@ To access SQLite, the AutoHotKey script requires the following:
 
 The application is shown below:
 
-<img src="images/screen24.jpg" width="600"/>
+<img src="images/screen04.jpg" width="600"/>
 
 The application is configured using a .ini file located in the same folder as the application.
+
+## Status Tasks
+
+Trello is used to manage the backlog and current tasks in progress.
