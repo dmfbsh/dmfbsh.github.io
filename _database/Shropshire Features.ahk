@@ -98,14 +98,16 @@ Gui, Add, Text, x230 y75 section w120 h20, Date:
 Gui, Add, Edit, ys vChurchDates w370 h20,
 Gui, Add, Text, x230 y100 section w120 h20, Need to Re-Visit?
 Gui, Add, CheckBox, ys vCBChurchReVisit gCBChurchRevisit,
-Gui, Add, Text, x230 y120 section w120 h20, Area:
+Gui, Add, Text, x230 y120 section w120 h20, Dates Visited:
+Gui, Add, Edit, ys vChurchDatesVisited w370 h18,
+Gui, Add, Text, x230 y140 section w120 h20, Area:
 Gui, Add, Edit, ys vChurchArea w370 h20,
-Gui, Add, Text, x230 y140 section w120 h20,
+Gui, Add, Text, x230 y160 section w120 h20,
 Gui, Add, Text, ys w370 h20, Avoid using ampersand and double quotes in the text below.
-Gui, Add, Text, x230 y160 section w120 h20, Notes:
+Gui, Add, Text, x230 y180 section w120 h20, Notes:
 Gui, Add, Edit, ys vChurchNotes +Wrap w370 h60,
-Gui, Add, Text, x230 y225 section w120 h20, Details:
-Gui, Add, Edit, ys vChurchDetails +Wrap w370 h145,
+Gui, Add, Text, x230 y245 section w120 h20, Details:
+Gui, Add, Edit, ys vChurchDetails +Wrap w370 h125,
 
 Gui, Tab, 2
 Gui, Add, ListBox, vPlaceList gPlaceList w200 h350, Empty|Null
@@ -164,9 +166,10 @@ GuiSize:
   GuiControl, Move, ShropshireList, % "w" . A_GuiWidth - 380
   GuiControl, Move, ChurchStatus, % "w" . A_GuiWidth - 380
   GuiControl, Move, ChurchDates, % "w" . A_GuiWidth - 380
+  GuiControl, Move, ChurchDatesVisited, % "w" . A_GuiWidth - 380
   GuiControl, Move, ChurchArea, % "w" . A_GuiWidth - 380
   GuiControl, Move, ChurchNotes, % "w" . A_GuiWidth - 380
-  GuiControl, Move, ChurchDetails, % "w" . A_GuiWidth - 380 "h" . A_GuiHeight - 265
+  GuiControl, Move, ChurchDetails, % "w" . A_GuiWidth - 380 "h" . A_GuiHeight - 285
   GuiControl, Move, PlaceList, % "h" . A_GuiHeight - 60
   GuiControl, Move, PlaceHREF, % "w" . A_GuiWidth - 380
   GuiControl, Move, PlaceDetails, % "w" . A_GuiWidth - 380 "h" . A_GuiHeight - 250
@@ -343,6 +346,9 @@ MenuReload:
     NData["Details"] := updChurch["Details"]
     NData["Notes"]   := updChurch["Notes"]
     NData["Status"]  := updChurch["Status"]
+    NData["Dates Visited"] := updChurch["Dates Visited"]
+    NData["Pictures"] := updChurch["Pictures"]
+    NData["Map"] := updChurch["Map"]
     v := updChurch["Revisit"]
     if v = No
       NData["Need to Revisit"] := 0
@@ -494,7 +500,10 @@ DefaultChurch() {
   NData["Status"]  := ""
   NData["Date"]    := ""
   NData["Need to Revisit"] := 0
+  NData["Dates Visited"] := ""
   NData["Shropshire"] := ""
+  NData["Pictures"] := ""
+  NData["Map"] := ""
 }
 
 LoadChurches() {
@@ -550,7 +559,7 @@ LoadChurch() {
   tW1 := tWhere[1]
   tW2 := tWhere[2]
   RecordSet := ""
-  SQL := "SELECT Place, Dedication, Date, Details, Notes, Status, NeedToRevisit, Area, AirtableID, lat, long, Link FROM Churches c, GoogleMap g WHERE c.GoogleName = g.name AND c.Place=""" . tW1 . """ AND c.Dedication = """ . tW2 . """;"
+  SQL := "SELECT Place, Dedication, Date, Details, Notes, Status, NeedToRevisit, Area, DatesVisited, lat, long, Link, NotesPictures, NotesMap FROM Churches c, GoogleMap g WHERE c.GoogleName = g.name AND c.Place=""" . tW1 . """ AND c.Dedication = """ . tW2 . """;"
   DB.Query(SQL, RecordSet)
   Loop {
     RC := RecordSet.Next(Row)
@@ -563,10 +572,13 @@ LoadChurch() {
       NData["Status"]          := Row[6]
       NData["Need to Revisit"] := Row[7]
       NData["Area"]            := Row[8]
+      NData["Dates Visited"]   := Row[9]
       NData["lat"]             := Row[10]
       NData["long"]            := Row[11]
       NData["Shropshire"]      := Row[12]
-      gAirtable := Row[9]
+      NData["Pictures"]        := Row[13]
+      NData["Map"]             := Row[14]
+;      gAirtable := Row[9]
     }
   } Until RC < 1
   RecordSet.Free()
@@ -582,6 +594,7 @@ SaveChurch() {
     jD .= "- Need to Revisit: No`n"
   else
     jD .= "- Need to Revisit: Yes`n"
+  jD .= "- Dates Visited: " . NData["Dates Visited"] . "`n"
   jD .= "- Area: " . NData["Area"] . "`n"
   jD .= "* * *`n"
   jD .= "## Details`n`n"
@@ -589,6 +602,12 @@ SaveChurch() {
   jD .= "* * *`n"
   jD .= "## Notes`n`n"
   jD .= NData["Notes"] . "`n"
+  jD .= "* * *`n"
+  jD .= "## Pictures`n`n"
+  jD .= NData["Pictures"] . "`n"
+  jD .= "* * *`n"
+  jD .= "## Map`n`n"
+  jD .= NData["Map"] . "`n"
   JoplinAPI.SaveChurch(NData["Place"], NData["Dedication"], jD)
 ;  uData := {}
 ;  uData["Details"] := NData["Details"]
@@ -614,10 +633,13 @@ UpdateChurch() {
   s := NData["Status"]
   t := NData["Date"]
   r := NData["Need to Revisit"]
+  v := NData["Dates Visited"]
   l := NData["Shropshire"]
+  p := NData["Pictures"]
+  m := NData["Map"]
 	td := StrReplace(d, """", """""")
 	tn := StrReplace(n, """", """""")
-	SQL := "UPDATE Churches SET Details = """ . td . """, Notes = """ . tn . """, Status = """ . s . """, Date = """ . t . """, NeedToRevisit =  " . r . ", Link = """ . l . """ WHERE Place = """ . a . """ AND Dedication = """ . b . """;"
+	SQL := "UPDATE Churches SET Details = """ . td . """, Notes = """ . tn . """, Status = """ . s . """, Date = """ . t . """, NeedToRevisit =  " . r . ", Link = """ . l . """, DatesVisited = """ . v . """, NotesPictures = """ . p . """, NotesMap = """ . m . """ WHERE Place = """ . a . """ AND Dedication = """ . b . """;"
 ;	DB.Exec(SQL)
 ;	SQL := "UPDATE Churches SET Notes = """ . tn . """ WHERE Place = """ . a . """ AND Dedication = '" . b . "';"
 ;	DB.Exec(SQL)
@@ -774,7 +796,7 @@ ChurchesImportKML() {
 ChurchesCompareJoplin() {
   global
   RecordSetC := ""
-  SQL := "SELECT Place, Dedication, Date, Details, Notes, Status, NeedToRevisit, Area FROM Churches ORDER BY Place;"
+  SQL := "SELECT Place, Dedication, Date, Details, Notes, Status, NeedToRevisit, Area, DatesVisited, NotesPictures, NotesMap FROM Churches ORDER BY Place;"
   DB.Query(SQL, RecordSetC)
   Loop {
     RCC := RecordSetC.Next(RowC)
@@ -790,6 +812,9 @@ ChurchesCompareJoplin() {
       tS := RowC[6]
       tR := RowC[7]
       tA := RowC[8]
+      tV := RowC[9]
+      tP := RowC[10]
+      tM := RowC[11]
       if tR = 0
         tR := "No"
       if tR = 1
@@ -801,6 +826,9 @@ ChurchesCompareJoplin() {
       aN := rJ["Notes"]
       aS := rJ["Status"]
       aR := rJ["Revisit"]
+      aV := rJ["Dates Visited"]
+      aP := rJ["Pictures"]
+      aM := rJ["Map"]
       diff := false
       if (tT <> aT)
         diff := true
@@ -812,26 +840,47 @@ ChurchesCompareJoplin() {
         diff := true
       if (tR <> aR)
         diff := true
+      if (tV <> aV)
+        diff := true
+      if (tP <> aP)
+        diff := true
+      if (tM <> aM)
+        diff := true
       if (diff)
       {
-			  Gui, SyncJoplin:Add, Text, x5 y5 w300 h20, Database
-			  Gui, SyncJoplin:Add, Text, x310 y5 w300 h20, Joplin
-			  Gui, SyncJoplin:Add, Edit, x5 y25 w300 h20, %tZ%
-			  Gui, SyncJoplin:Add, Edit, x310 y25 w300 h20, %aZ%
-			  Gui, SyncJoplin:Add, Edit, x5 y45 w300 h20, %tS%
-			  Gui, SyncJoplin:Add, Edit, x310 y45 w300 h20, %aS%
-			  Gui, SyncJoplin:Add, Edit, x5 y65 w300 h20, %tT%
-			  Gui, SyncJoplin:Add, Edit, x310 y65 w300 h20, %aT%
-			  Gui, SyncJoplin:Add, Edit, x5 y85 w300 h100, %tD%
-			  Gui, SyncJoplin:Add, Edit, x310 y85 w300 h100, %aD%
-			  Gui, SyncJoplin:Add, Edit, x5 y185 w300 h100, %tN%
-			  Gui, SyncJoplin:Add, Edit, x310 y185 w300 h100, %aN%
-			  Gui, SyncJoplin:Add, Edit, x5 y285 w300 h20, %tR%
-			  Gui, SyncJoplin:Add, Edit, x310 y285 w300 h20, %aR%
-				Gui, SyncJoplin:Add, Button, xm section x5 w300 h20, Database to Joplin >>
-			  Gui, SyncJoplin:Add, Button, ys x310 w300 h20, << Joplin to Database
-			  Gui, SyncJoplin:Add, Button, xm section x5 w60 h20, Cancel
-			  Gui, SyncJoplin:Show, w620 h365, Sync Database and Joplin
+			  Gui, SyncJoplin:Add, Text, x105 y5 w300 h20, Database
+			  Gui, SyncJoplin:Add, Text, x410 y5 w300 h20, Joplin
+			  Gui, SyncJoplin:Add, Text, x5 y25 w100 h20, Name:
+			  Gui, SyncJoplin:Add, Edit, x105 y25 w300 h20, %tZ%
+			  Gui, SyncJoplin:Add, Edit, x410 y25 w300 h20, %aZ%
+			  Gui, SyncJoplin:Add, Text, x5 y45 w100 h20, Status:
+			  Gui, SyncJoplin:Add, Edit, x105 y45 w300 h20, %tS%
+			  Gui, SyncJoplin:Add, Edit, x410 y45 w300 h20, %aS%
+			  Gui, SyncJoplin:Add, Text, x5 y65 w100 h20, Date:
+			  Gui, SyncJoplin:Add, Edit, x105 y65 w300 h20, %tT%
+			  Gui, SyncJoplin:Add, Edit, x410 y65 w300 h20, %aT%
+			  Gui, SyncJoplin:Add, Text, x5 y85 w100 h20, Dates Visited:
+			  Gui, SyncJoplin:Add, Edit, x105 y85 w300 h20, %tV%
+			  Gui, SyncJoplin:Add, Edit, x410 y85 w300 h20, %aV%
+			  Gui, SyncJoplin:Add, Text, x5 y105 w100 h20, Details:
+			  Gui, SyncJoplin:Add, Edit, x105 y105 w300 h100, %tD%
+			  Gui, SyncJoplin:Add, Edit, x410 y105 w300 h100, %aD%
+			  Gui, SyncJoplin:Add, Text, x5 y205 w100 h20, Notes:
+			  Gui, SyncJoplin:Add, Edit, x105 y205 w300 h100, %tN%
+			  Gui, SyncJoplin:Add, Edit, x410 y205 w300 h100, %aN%
+			  Gui, SyncJoplin:Add, Text, x5 y305 w100 h20, Need to Revisit:
+			  Gui, SyncJoplin:Add, Edit, x105 y305 w300 h20, %tR%
+			  Gui, SyncJoplin:Add, Edit, x410 y305 w300 h20, %aR%
+			  Gui, SyncJoplin:Add, Text, x5 y325 w100 h20, Pictures:
+			  Gui, SyncJoplin:Add, Edit, x105 y325 w300 h40, %tP%
+			  Gui, SyncJoplin:Add, Edit, x410 y325 w300 h40, %aP%
+			  Gui, SyncJoplin:Add, Text, x5 y365 w100 h20, Maps:
+			  Gui, SyncJoplin:Add, Edit, x105 y365 w300 h40, %tM%
+			  Gui, SyncJoplin:Add, Edit, x410 y365 w300 h40, %aM%
+				Gui, SyncJoplin:Add, Button, xm section x105 w300 h20, Database to Joplin >>
+			  Gui, SyncJoplin:Add, Button, ys x410 w300 h20, << Joplin to Database
+			  Gui, SyncJoplin:Add, Button, xm section x650 w60 h20, Cancel
+			  Gui, SyncJoplin:Show, w720 h465, Sync Database and Joplin
 			  Gui, SyncJoplin:Default
 			  WinWaitClose, Sync Database and Joplin
 				Gui, 1:Default
@@ -847,6 +896,7 @@ SyncJoplinButtonDatabasetoJoplin>>:
   jD .= "- Status: " . tS . "`n"
   jD .= "- Date: " . tT . "`n"
   jD .= "- Need to Revisit: " . tR . "`n"
+  jD .= "- Dates Visited: " . tV . "`n"
   jD .= "- Area: " . tA . "`n"
   jD .= "* * *`n"
   jD .= "## Details`n`n"
@@ -854,16 +904,22 @@ SyncJoplinButtonDatabasetoJoplin>>:
   jD .= "* * *`n"
   jD .= "## Notes`n`n"
   jD .= tN . "`n"
+  jD .= "* * *`n"
+  jD .= "## Pictures`n`n"
+  jD .= tP . "`n"
+  jD .= "* * *`n"
+  jD .= "## Map`n`n"
+  jD .= tM . "`n"
   JoplinAPI.SaveChurch(tX, tY, jD)
 	Gui, SyncJoplin:Destroy
   Return
 
 SyncJoplinButton<<JoplintoDatabase:
   if aR = No
-    aV := 0
+    aRV := 0
   else
-    aV := 1
-  SQL := "UPDATE Churches SET Details = """ . aD . """, Notes = """ . aN . """, Status = """ . aS . """, Date = """ . aT . """, NeedToRevisit = " . aV . " WHERE Place = """ . tX . """ AND Dedication = '" . tY . "';"
+    aRV := 1
+  SQL := "UPDATE Churches SET Details = """ . aD . """, Notes = """ . aN . """, Status = """ . aS . """, Date = """ . aT . """, NeedToRevisit = " . aRV . ", DatesVisited = """ . aV . """, NotesPictures = """ . aP . """, NotesMap = """ . aM . """ WHERE Place = """ . tX . """ AND Dedication = '" . tY . "';"
   DB.Exec(SQL)
 	Gui, SyncJoplin:Destroy
   Return
@@ -1020,7 +1076,7 @@ ChurchesGenerateGPXFile() {
   mapFileHndl.WriteLine("<metadata>")
   mapFileHndl.WriteLine("<name>Shropshire - Churches v" . n . "</name>")
   mapFileHndl.WriteLine("</metadata>")
-  SQL := "SELECT Place, Dedication, Date, Details, Notes, Status, NeedToRevisit, Area, AirtableID, lat, long FROM Churches c, GoogleMap g WHERE c.GoogleName = g.name;"
+  SQL := "SELECT Place, Dedication, Date, Details, Notes, Status, NeedToRevisit, Area, DatesVisited, lat, long FROM Churches c, GoogleMap g WHERE c.GoogleName = g.name;"
   DB.Query(SQL, RecordSet)
   Loop {
     RC := RecordSet.Next(Row)
@@ -1041,6 +1097,8 @@ ChurchesGenerateGPXFile() {
         {
           tD .= "`n======`n"
         }
+        tD .= "Dates Visited: " . row[9] . "`n"
+        tD .= "======`n"
         tD .= "Date: " . row[3] . "`n"
         tD .= row[4]
       }
@@ -1431,6 +1489,7 @@ DrawGUI() {
 	  GuiControl, Text, ChurchNotes, % NData["Notes"]
 	  GuiControl, Text, ChurchDates, % NData["Date"]
 	  GuiControl, Text, ChurchArea, % NData["Area"]
+    GuiControl, Text, ChurchDatesVisited, % NData["Dates Visited"]
 	  GuiControl, ChooseString, ChurchStatus, % NData["Status"]
 	  GuiControl, , CBChurchReVisit, % NData["Need to Revisit"]
     GuiControl, Choose, ShropshireList, 1
@@ -1461,6 +1520,7 @@ GUIValues() {
 	NData["Status"]  := ChurchStatus
 	NData["Date"]    := ChurchDates
   NData["Need to Revisit"] := CBChurchReVisit
+  NData["Dates Visited"] := ChurchDatesVisited
   if gShropshireLoaded
     NData["Shropshire"] := ShropshireList
 }

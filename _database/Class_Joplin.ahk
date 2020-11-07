@@ -28,8 +28,12 @@ SelectChurch(pPlace, pDedication) {
   ret := {}
   detl := ""
   note := ""
+  pics := ""
+  maps := ""
   dodetl := false
   donote := false
+  dopics := false
+  domaps := false
   Loop % vas.MaxIndex()
   {
     var := vas[A_Index]
@@ -40,23 +44,37 @@ SelectChurch(pPlace, pDedication) {
     else if A_Index = 3
         ret["Revisit"] := Trim(SubStr(var, 19))
     else if A_Index = 4
+        ret["Dates Visited"] := Trim(SubStr(var, 17))
+    else if A_Index = 5
         ret["Area"] := Trim(SubStr(var, 8))
     else if var = ## Details
       dodetl := true
     else if var = ## Notes
       donote := true
+    else if var = ## Pictures
+      dopics := true
+    else if var = ## Map
+      domaps := true
     else if var = * * *
     {
         dodetl := false
         donote := false
+        dopics := false
+        domaps := false
     }
     else if (dodetl)
       detl .= var . "`n"
     else if (donote)
       note .= var . "`n"
+    else if (dopics)
+      pics .= var . "`n"
+    else if (domaps)
+      maps .= var . "`n"
   }
   ret["Details"] := Trim(detl, OmitChars := "`n")
   ret["Notes"] := Trim(note, OmitChars := "`n")
+  ret["Pictures"] := Trim(pics, OmitChars := "`n")
+  ret["Map"] := Trim(maps, OmitChars := "`n")
   return %ret%
 }
 

@@ -730,6 +730,42 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Bomere Pool</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7419188,52.668023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Venus Pool</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6671654,52.6510868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longnor Weir</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7584696,52.6011635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longnor The Old Forge</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7603907,52.6080876,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>HHA - Aldenham Park</name>
