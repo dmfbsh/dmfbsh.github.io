@@ -21,8 +21,8 @@ cmd_settings
 _separator_
 _cmd_=Shropshire Photography;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/Shropshire Photography.exe;C:/Program Files/DB Browser for SQLite/DB Browser for SQLite.exe
 _cmd_=Shropshire Features;C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io/_database/Shropshire Features.exe;C:/Program Files/DB Browser for SQLite/DB Browser for SQLite.exe
-_cmd_=DxO.PhotoLab;C:/Program Files/DxO/DxO PhotoLab 3/DxO.PhotoLab.exe;C:/Program Files/DxO/DxO PhotoLab 4/DxO.PhotoLab.exe
-_cmd_=Affinity Photo;C:/Program Files/Affinity/Affinity Photo/Photo.exe;C:/Program Files/Affinity/Affinity Photo/Photo.exe
+_cmd_=DxO.PhotoLab;C:/Program Files/DxO/DxO PhotoLab 4/DxO.PhotoLab.exe;C:/Program Files/DxO/DxO PhotoLab 4/DxO.PhotoLab.exe
+_cmd_=Affinity Photo;C:/Program Files/Affinity/Photo/Photo.exe;C:/Program Files/Affinity/Photo/Photo.exe
 _cmd_=Luminar 4;C:/Program Files/Skylum/Luminar 4/Luminar 4.exe;C:/Program Files/Skylum/Luminar 4/Luminar 4.exe
 _cmd_=LandscapePro;C:/Program Files/LandscapePro 3/LandscapePro.exe;C:/Program Files/LandscapePro 3/LandscapePro.exe
 cmd_convert

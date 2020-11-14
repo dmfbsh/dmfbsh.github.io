@@ -1,5 +1,8 @@
 Class Joplin {
 
+
+_JoplinDB := "C:\Users\David\Documents\NoneDrive\joplin-desktop\database.sqlite"
+
 __New() {
 	
 }
@@ -11,7 +14,7 @@ __Delete() {
 SelectChurch(pPlace, pDedication) {
   ret := ""
   DBJ := new SQLiteDB
-  DBJ.OpenDB("C:\Users\David\Documents\OneDrive\Documents\My Documents\0. Admin\joplin-desktop\database.sqlite")
+  DBJ.OpenDB(This._JoplinDB)
   SQL := "SELECT body FROM notes WHERE title = """ . pPlace . " - " . pDedication . """;"
   DBJ.Query(SQL, RecordSet)
   Loop {
@@ -80,7 +83,7 @@ SelectChurch(pPlace, pDedication) {
 
 SaveChurch(pPlace, pDedication, pValues) {
   DBJ := new SQLiteDB
-  DBJ.OpenDB("C:\Users\David\Documents\OneDrive\Documents\My Documents\0. Admin\joplin-desktop\database.sqlite")
+  DBJ.OpenDB(This._JoplinDB)
   uT := This.GetUNIXEpoch()
   SQL := "UPDATE notes SET updated_time = " . uT . ", user_updated_time = " . uT . ", body = """ . pValues . """ WHERE title = """ . pPlace . " - " . pDedication . """;"
   DBJ.Exec(SQL)
@@ -91,7 +94,7 @@ ListHills() {
   idh := ""
   ret := []
   DBJ := new SQLiteDB
-  DBJ.OpenDB("C:\Users\David\Documents\OneDrive\Documents\My Documents\0. Admin\joplin-desktop\database.sqlite")
+  DBJ.OpenDB(This._JoplinDB)
   SQL := "SELECT id FROM folders WHERE title = 'Hills';"
   DBJ.Query(SQL, RecordSet)
   Loop {
@@ -117,7 +120,7 @@ ListHills() {
 SelectHill(pHill) {
   ret := ""
   DBJ := new SQLiteDB
-  DBJ.OpenDB("C:\Users\David\Documents\OneDrive\Documents\My Documents\0. Admin\joplin-desktop\database.sqlite")
+  DBJ.OpenDB(This._JoplinDB)
   SQL := "SELECT body FROM notes WHERE title = """ . pHill . """;"
   DBJ.Query(SQL, RecordSet)
   Loop {
@@ -162,7 +165,7 @@ ListPlaces() {
   idh := ""
   ret := []
   DBJ := new SQLiteDB
-  DBJ.OpenDB("C:\Users\David\Documents\OneDrive\Documents\My Documents\0. Admin\joplin-desktop\database.sqlite")
+  DBJ.OpenDB(This._JoplinDB)
   SQL := "SELECT id FROM folders WHERE title = 'Places';"
   DBJ.Query(SQL, RecordSet)
   Loop {
@@ -188,7 +191,7 @@ ListPlaces() {
 SelectPlace(pPlace) {
   ret := ""
   DBJ := new SQLiteDB
-  DBJ.OpenDB("C:\Users\David\Documents\OneDrive\Documents\My Documents\0. Admin\joplin-desktop\database.sqlite")
+  DBJ.OpenDB(This._JoplinDB)
   SQL := "SELECT body FROM notes WHERE title = """ . pPlace . """;"
   DBJ.Query(SQL, RecordSet)
   Loop {

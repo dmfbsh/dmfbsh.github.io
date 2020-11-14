@@ -1,3 +1,10 @@
+### 14 Nov 2020
+Added the following items:
+
+- Hospital of the Holy Cross, Shrewsbury
+- High Ercall Church
+- Bromfield Church
+
 ### 18 Oct 2020
 Added the following items:
 

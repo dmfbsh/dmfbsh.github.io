@@ -399,7 +399,7 @@ MenuImageSelect:
     MsgBox, 48, Error, No Place is Selected
 	  Return
 	}
-	FileSelectFile, sOrigName, 3, E:\My Pictures\Originals, Select Original File, Photographs (*.nef; *.jpg)
+	FileSelectFile, sOrigName, 3, D:\My Pictures\Originals, Select Original File, Photographs (*.nef; *.jpg)
 	if StrLen(sOrigName) <> 0
 	{
 		NOrigName := sOrigName

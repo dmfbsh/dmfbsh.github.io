@@ -592,6 +592,36 @@ The place name Halford means hawkers’ ford (hawker meaning travelling seller) 
 The church is of Norman origin, and was restored in 1848.  The chancel was totally rebuilt in 1887.
 ![](../1shropshire/assets/images/churches/2020-05-16_14_20_44_DSC_7073_DxO.jpg)
 
+# Name: St Michael, High Ercall
+- Area: North
+- Date: 12th Century
+
+At the time of the Domesday book, High Ercall was one of the most prosperous manors in the county.
+
+The present church replaced an earlier church built at the end of the 11th Century and probably dedicated to Edward the Confessor.
+
+The church was damaged in the Civil War; the extent of the damage is unclear as some accounts describe an almost total rebuild of the church between 1657 and 1662 whereas others suggest that the medieval church largely survived.
+
+The church was also restored in 1864 to 1865.
+
+The oldest part of the church is the Norman tympanum which has been dated to 1110-25 (and is now built into the north wall).  Also in the church is an effigy of a cross legged knight which is dated circa 1320.  On the external north wall of the tower is the fragment of an early carving depicting a crowned figure on horseback and inscribed St Edwardus.
+
+The name of the village derives from the Old English meaning a high place (heah) of gravel, mud or earth (ear) which is bare or lacking in vegetation (calu).
+![](../1shropshire/assets/images/churches/2020-11-07_14_27_52_DSC_8983_DxO_1.jpg)
+- Sub-Image: 2020-11-07_14_32_59_DSC_8989_DxO.jpg
+- Sub-Image: 2020-11-07_14_36_28_DSC_8996_DxO.jpg
+- Sub-Image: 2020-11-07_14_37_28_DSC_8998_DxO.jpg
+- Sub-Image: 2020-11-07_14_37_47_DSC_9000_DxO.jpg
+- Sub-Image: 2020-11-07_14_42_09_DSC_9007_DxO.jpg
+- Sub-Image: 2020-11-07_14_43_03_DSC_9009_DxO.jpg
+- Sub-Image: 2020-11-07_14_44_21_DSC_9010_DxO.jpg
+- Sub-Image: 2020-11-07_14_45_13_DSC_9013_DxO.jpg
+- Sub-Image: 2020-11-07_14_47_25_DSC_9016_DxO.jpg
+- Sub-Image: 2020-11-07_14_48_30_DSC_9018_DxO.jpg
+- Sub-Image: 2020-11-07_14_49_18_DSC_9020_DxO.jpg
+- Sub-Image: 2020-11-07_14_59_58_DSC_9030_DxO.jpg
+- Sub-Image: 2020-11-07_15_00_09_DSC_9031_DxO.jpg
+
 # Name: St Luke, Hodnet
 - Area: North
 - Date: 12th Century AD

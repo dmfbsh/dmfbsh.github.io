@@ -766,6 +766,14 @@ In 1875 he became the first recorded person to swim the English Channel without 
 Formerly known as Shrewsbury General, the station was built for the county's first railway, the Shrewsbury to Chester line.  The building style is imitation Tudor with carvings of Tudor style heads around the window frames - this was done to match the Tudor building of Shrewsbury School.
 ![](../1shropshire/assets/images/history/2016-04-30_13_36_26_DSC00338_DxO_bw.jpg)
 
+# Name: Hospital of the Holy Cross, Shrewsbury
+- Date: 1853 AD
+
+Built by Daniel Rowland using the designs of Samuel Pountney Smith of Shrewsbury (who was also responsible for the rebuilding of Battlefield church during the same period), these almshouses are of the domestic Gothic style.  The almshouses are for "...for the residence of poor women aged 55 years or over who profess the Christian faith in accordance with the principles of one of the Protestant denominations..." and are endowed with lands and money to provide £10 yearly for each occupant.
+
+Holy Cross is the name of the local parish, and Shrewsbury's Abbey church, which is just opposite these buildings and is the local parish church.
+![](../1shropshire/assets/images/history/2020-11-07_15_46_34_DSC_9037_DxO_1.jpg)
+
 # Name: Coalbrookdale Viaduct
 - Date: 1860s AD
 
@@ -797,9 +805,9 @@ The original timber framed manor house dates from some time before the late 16th
 # Name: Craven Dunhill & Co Ltd, Jackfield
 - Date: 1872 AD
 
-Craven Dunhill & Co Ltd was formed on 9th February 1872 at Jackfield.  The firm became one of Britain�s leading producers of ceramic tiles.
+Craven Dunhill & Co Ltd was formed on 9th February 1872 at Jackfield.  The firm became one of Britain's leading producers of ceramic tiles.
 
-The new purpose built factory site, known as the �Jackfield Works�, was used by the firm from 25th February 1874.  Jackfield Works was constructed in the Gothic Revival style with a characteristic 'long and thin' plan, enabling raw clay to enter at one end, and finished products to emerge at the other.  Production ceased at the Jackfield Works 1951.
+The new purpose built factory site, known as the 'Jackfield Works', was used by the firm from 25th February 1874.  Jackfield Works was constructed in the Gothic Revival style with a characteristic 'long and thin' plan, enabling raw clay to enter at one end, and finished products to emerge at the other.  Production ceased at the Jackfield Works 1951.
 ![](../1shropshire/assets/images/history/2020-07-31_06_49_24_DSC_7705_DxO_1.jpg)
 
 # Name: Stirchley Tower
