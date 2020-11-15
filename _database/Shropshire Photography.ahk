@@ -218,7 +218,7 @@ PlaceChooserButtonOK:
 
 PlaceChooserButtonNew:
 	Gui, PlaceChooser:Destroy
-	InputBox, NewPlacename, Place Name, Enter the name of the place:, , 240, 100
+	InputBox, NewPlacename, Place Name, Enter the name of the place:, , 240, 120
   if !ErrorLevel
   {
   	if NewPlacename <>
