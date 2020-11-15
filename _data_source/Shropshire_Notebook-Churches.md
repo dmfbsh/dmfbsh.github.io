@@ -197,6 +197,47 @@ The church was designed by Thomas Telford.
 It is aligned north-south, rather than the more usual west-east.
 ![](../1shropshire/assets/images/churches/2019-09-21_15_16_30_DSC_5116_DxO.jpg)
 
+# Name: St Mary the Virgin, Bromfield
+- Area: South
+- Date: Anglo- Saxon / Norman
+
+In Anglo-Saxon times Bromfield was an important collegiate church with 12 canons.  In circa 1060 Edward the Confessor issued a writ to the canons granting extensive liberties.  It was described as being a wealthy minster of royal foundation.  
+
+The church is mentioned in the Domesday book and Bromfield is described as a holding of St Mary's, Shrewsbury.
+
+During the early 12th Century the canons were gradually replaced by monks and a Benedictine priory was established in 1155 AD (Henry II granted the charter); the priory was subject to the abbey in Gloucester.
+
+The priory took over part of the existing parish church, which had been rebuilt in the 12th Century with a cruciform plan, possibly with a tower at the crossing.  At some point the tower and the north transept disappeared, possibly following the fall of the tower.  The present tower is 13th Century.
+
+The priory was dissolved in 1540 AD and the buildings were taken over by Charles Foxe - he incorporated the present chancel (the former crossing) into his residence and it was divided into two stories.  The south transept was converted to form the rest of the house.  There are still parts of the Tudor residence in the grounds of the present church.
+
+In the 17th Century the house was damaged by fire and the occupants moved away.  The church was restored for worship in 1658 AD.
+
+The church was further restored in 1889-90 by Hodgson Fowler (a prolific ecclesiastical architect of the Victorian era) who also designed the triptych behind the altar.
+
+The oldest feature in the church is the Norman chancel arch.
+
+The chancel has a Baroque painted ceiling by Cheshire artist Thomas Francis (1672).  On the south wall of the nave is the Royal Coat of Arms of Charles II - one the largest in existence.  Most of the stained glass is by Kempe (a renowned designer and manufacturer of stained glass in the Victorian era).  The Saints featured in the west window are all female, which in unusual.
+
+The name of the settlement means 'broomy' open land (brom is the Old English for Broom (a thorny bush or shrub) and feld is the Old English open country or unencumbered ground.
+![](../1shropshire/assets/images/churches/2020-11-14_14_38_42_DSC_9041_DxO.jpg)
+- Sub-Image: 2020-11-14_14_57_31_DSC_9044_DxO.jpg
+- Sub-Image: 2020-11-14_14_58_02_DSC_9045_DxO.jpg
+- Sub-Image: 2020-11-14_14_58_24_DSC_9046_DxO.jpg
+- Sub-Image: 2020-11-14_14_58_33_DSC_9047_DxO.jpg
+- Sub-Image: 2020-11-14_15_00_16_DSC_9050_DxO.jpg
+- Sub-Image: 2020-11-14_15_01_27_DSC_9053_DxO.jpg
+- Sub-Image: 2020-11-14_15_02_02_DSC_9055_DxO.jpg
+- Sub-Image: 2020-11-14_15_02_23_DSC_9056_DxO.jpg
+- Sub-Image: 2020-11-14_15_03_20_DSC_9058_DxO.jpg
+- Sub-Image: 2020-11-14_15_03_47_DSC_9059_DxO.jpg
+- Sub-Image: 2020-11-14_15_05_20_DSC_9060_DxO.jpg
+- Sub-Image: 2020-11-14_15_06_01_DSC_9062_DxO.jpg
+- Sub-Image: 2020-11-14_15_08_42_DSC_9064_DxO.jpg
+- Sub-Image: 2020-11-14_15_10_28_DSC_9066_DxO.jpg
+- Sub-Image: 2020-11-14_15_19_26_DSC_9068_DxO.jpg
+- Sub-Image: 2020-11-14_15_20_08_DSC_9069_DxO.jpg
+
 # Name: All Saints, Broseley
 - Area: South
 - Date: 1845 AD
