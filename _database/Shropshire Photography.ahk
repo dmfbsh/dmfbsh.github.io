@@ -37,6 +37,7 @@ filterCat1  := "%"
 filterCat2  := "%"
 
 IniRead, BasePath, %A_ScriptDir%\Shropshire Photography.ini, Paths, BasePath
+IniRead, TempPics, %A_ScriptDir%\Shropshire Photography.ini, Paths, TempPics
 
 gDxOPresets        := ""
 gSilverEfexPresets := ""
@@ -426,7 +427,7 @@ MenuImageMove:
     MsgBox, 48, Error, No Place is Selected
 	  Return
 	}
-	TmpPath := BasePath . "\*"
+	TmpPath := TempPics . "\*"
 	ListOfImages := ""
 	FirstPlace := True
 	Loop, Files, %TmpPath%, F
@@ -459,7 +460,7 @@ MenuImageMove:
 ImageChooserButtonOK:
 	Gui, ImageChooser:Submit, NoHide
 	tDstFolder := BasePath . "\" . argPlace . "\"
-	tMoveName := BasePath . "\" . ImageChosen
+	tMoveName := TempPics . "\" . ImageChosen
   FileMove, %tMoveName%, %tDstFolder%, 1
   Gui, ImageChooser:Destroy
   MsgBox, 0, Information, File for Item Moved
