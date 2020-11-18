@@ -16,36 +16,6 @@
 		"user": {},
 		"buttons": [
             {
-                "text": "Build Site 1",
-                "tooltip": "Build Site 1",
-                "action": {
-					"type": "shell",
-					"cwd": "C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io",
-					"command": "start _build1.bat",
-					"silent": false
-                }
-            },
-            {
-                "text": "Build Site 2",
-                "tooltip": "Build Site 2",
-                "action": {
-					"type": "shell",
-					"cwd": "C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io",
-					"command": "start _build2.bat",
-					"silent": false
-                }
-            },
-            {
-                "text": "Build Site 0",
-                "tooltip": "Build Site 0",
-                "action": {
-					"type": "shell",
-					"cwd": "C:/Users/David/Documents/OneDrive/Documents/My Documents/GitHub/dmfbsh.github.io",
-					"command": "start _build0.bat",
-					"silent": false
-                }
-            },
-            {
                 "text": "Site 1",
                 "tooltip": "Site 1",
                 "action": {
@@ -60,7 +30,7 @@
 					"type": "shell",
 					"command": "\"C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe\" --profile-directory=\"Profile 1\" \"C:/Users/David/Documents/NoneDrive/GitHub Pages/_site2/2f1stamps/2-index.html\""
                 }
-            }
+            },
             {
                 "text": "Site 0-1",
                 "tooltip": "Site 0-1",
@@ -68,7 +38,7 @@
 					"type": "shell",
 					"command": "\"C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe\" --profile-directory=\"Profile 1\" \"C:/Users/David/Documents/NoneDrive/GitHub Pages/_site0/0documentation/1-01-introduction.html\""
                 }
-            }
+            },
             {
                 "text": "Site 0-2",
                 "tooltip": "Site 0-2",
@@ -78,5 +48,8 @@
                 }
             }
         ]
-	}
+    },
+    "favorites.resources": [
+        "uction.html"
+    ]
 }
