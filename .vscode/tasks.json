@@ -46,6 +46,34 @@
                 "panel": "new"
             },
             "problemMatcher": []
+        },
+        {
+            "label": "Generate Recents",
+            "type": "shell",
+            "command": "ruby generate_recents.rb",
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "options": {
+                "cwd": "_ruby"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Convert MD to YML",
+            "type": "shell",
+            "command": "ruby convert_md_to_yml.rb",
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "options": {
+                "cwd": "_ruby"
+            },
+            "problemMatcher": []
         }
     ]
 }

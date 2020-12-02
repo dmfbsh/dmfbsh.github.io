@@ -1,3 +1,11 @@
+### 02 Dec 2020
+Added the following items:
+
+- Stanton Lacy Church
+- Onibury Church
+- Ludford Water Mill, Ludlow
+- Horseshow Weir, Ludlow
+
 ### 14 Nov 2020
 Added the following items:
 

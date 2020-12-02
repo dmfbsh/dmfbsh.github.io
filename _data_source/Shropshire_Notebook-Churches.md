@@ -1057,6 +1057,39 @@ The yew tree in the churchyard is believed to be circa 2,700 years old, the tree
 The name of the village derives from the Old English for northern (nord) and fortified place (burh).  There are hill fort defences near the church.
 ![](../1shropshire/assets/images/churches/2020-09-19_14_39_21_DSC_8644_DxO.jpg)
 
+# Name: St Michael, Onibury
+- Area: South
+- Date: 12th Century
+
+The presence of a priest at this place is recorded in the Domesday book, suggesting that there was a pre-Norman church here, althoigh no trace of this remains.
+
+The earliest feature of the present church is the Norman chancel arch.  The tower is likely to be 14th Century.
+
+The church was sympathetically restored in 1902 by Detmar Blow with Arts and Crafts fittings.
+
+There are fragments of medieval wall paintings in the church.
+
+The Perpendicular (16th Century) pulpit with Jacobean additions is the oldest in Shropshire.
+
+In the Chancel, there are two 17th Century (1666 and 1673) cast iron grave slabs.
+
+The name of the settlement means River Onny Fortification (burh is the Old English for a fortified place).  The origin of the name of the river is unknown.
+![](../1shropshire/assets/images/churches/2020-11-29_14_43_07_DSC_9145_DxO_2.jpg)
+- Sub-Image: 2020-11-29_14_45_58_DSC_9149_DxO.jpg
+- Sub-Image: 2020-11-29_14_48_37_DSC_9150_DxO.jpg
+- Sub-Image: 2020-11-29_14_52_26_DSC_9153_DxO.jpg
+- Sub-Image: 2020-11-29_14_53_42_DSC_9157_DxO.jpg
+- Sub-Image: 2020-11-29_14_54_18_DSC_9158_DxO.jpg
+- Sub-Image: 2020-11-29_14_56_05_DSC_9159_DxO.jpg
+- Sub-Image: 2020-11-29_14_58_25_DSC_9161_DxO.jpg
+- Sub-Image: 2020-11-29_15_02_26_DSC_9167_DxO.jpg
+- Sub-Image: 2020-11-29_15_03_10_DSC_9168_DxO.jpg
+- Sub-Image: 2020-11-29_15_03_40_DSC_9170_DxO.jpg
+- Sub-Image: 2020-11-29_15_05_05_DSC_9174_DxO.jpg
+- Sub-Image: 2020-11-29_15_06_38_DSC_9178_DxO.jpg
+- Sub-Image: 2020-11-29_15_07_25_DSC_9180_DxO.jpg
+- Sub-Image: 2020-11-29_15_10_03_DSC_9182_DxO.jpg
+
 # Name: St Oswald, Oswestry
 - Area: North
 - Date: 13th Century AD
@@ -1281,6 +1314,49 @@ A somewhat austere chapel.
 The word Beach is derived from the Old English Baece (stream) or Bache (a steep wooded narrow valley).
 ![](../1shropshire/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO_L.jpg)
 - Sub-Image: 2019-05-06_11_37_16_DSC_4154_DxO.jpg
+
+# Name: St Peter, Stanton Lacy
+- Area: South
+- Date: Circa 1050 AD
+
+The church is one the few mentioned in the Domesday book.
+
+The settlement, known as Stantone at the time of Domesday book, was a prosperous place.  It was part Robert de Lacy’s land and was held by Siward (an important Earl of northern England in the 11th Century).  Consequently, Stantone had a substantial Saxon church.
+
+The present building retains some elements of the original Saxon church, and the church was added to in the 13th Century (when the chancel was enlarged) and the 14th Century (when the tower and south transept and aisle were added).
+
+On the exterior walls are thin pilaster strips (also known as leseners), these are typical of Anglo- Saxon work - the walls between these strips were originally covered by a layer of plaster, but this had been deliberately removed by 1846.  The original Saxon doorway is still present in the north wall.  There are also two sets of canopied tomb recesses in the exterior walls.
+
+The font dates from the 14th Century.  The stained glass is Victorian.  The organ was installed in 1854 and the pulpit was installed in 1849.
+
+The Altar and Reredos were installed in 1849, and were originally unpainted.  They are of Caen stone (from north-western France) and were painted in 1930.  The Sanctuary floor is tiled with Ironbridge (Jackfield?) encaustic tiles, with designs by Minton.
+
+There is an odd feature in the north wall of the nave, its exact purpose is unknown but it was thought to be an Aumbry (a cupboard in the wall, usually in the Sanctuary for holding the Sacraments).  The carved oak is a recent addition (a similar serpent design can be found in Worcester Cathedral).
+
+The name Stanton means stone farm/settlement (stan is the Old English for a stone or rock) and tun is the Old English for an enclosure, a farmstead, a village or an estate.  Lacy is a family name.
+![](../1shropshire/assets/images/churches/2020-11-21_15_24_10_DSC_9087_DxO_1.jpg)
+- Sub-Image: 2020-11-21_15_15_50_DSC_9076_DxO.jpg
+- Sub-Image: 2020-11-21_15_16_32_DSC_9078_DxO.jpg
+- Sub-Image: 2020-11-21_15_31_23_DSC_9095_DxO.jpg
+- Sub-Image: 2020-11-21_15_37_21_DSC_9099_DxO.jpg
+- Sub-Image: 2020-11-21_15_38_06_DSC_9101_DxO.jpg
+- Sub-Image: 2020-11-21_15_41_19_DSC_9109_DxO.jpg
+- Sub-Image: 2020-11-21_15_42_13_DSC_9111_DxO.jpg
+- Sub-Image: 2020-11-21_15_43_34_DSC_9114_DxO.jpg
+- Sub-Image: 2020-11-21_15_46_07_DSC_9118_DxO.jpg
+- Sub-Image: 2020-11-21_15_46_48_DSC_9119_DxO.jpg
+- Sub-Image: 2020-11-21_15_47_19_DSC_9120_DxO.jpg
+- Sub-Image: 2020-11-21_15_48_15_DSC_9122_DxO.jpg
+- Sub-Image: 2020-11-21_15_50_20_DSC_9125_DxO.jpg
+- Sub-Image: 2020-11-21_15_52_35_DSC_9128_DxO.jpg
+- Sub-Image: 2020-11-21_15_53_01_DSC_9129_DxO.jpg
+- Sub-Image: 2020-11-21_15_53_18_DSC_9130_DxO.jpg
+- Sub-Image: 2020-11-21_15_57_35_DSC_9133_DxO.jpg
+- Sub-Image: 2020-11-21_15_58_03_DSC_9134_DxO.jpg
+- Sub-Image: 2020-11-21_15_59_11_DSC_9135_DxO.jpg
+- Sub-Image: 2020-11-21_16_02_27_DSC_9138_DxO.jpg
+- Sub-Image: 2020-11-21_16_07_55_DSC_9142_DxO.jpg
+- Sub-Image: 2020-11-21_16_13_37_DSC_9144_DxO.jpg
 
 # Name: St Andrew, Stanton-upon-Hine Heath
 - Area: North

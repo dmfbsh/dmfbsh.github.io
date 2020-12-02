@@ -121,6 +121,8 @@ Menu, PlaceMenu, Add
 Menu, PlaceMenu, Add, Goto Published Folder, MenuGotoPublished
 Menu, PlaceMenu, Add
 Menu, PlaceMenu, Add, Edit Notes, MenuEditNotes
+Menu, PlaceMenu, Add
+Menu, PlaceMenu, Add, Sub-Images, MenuSubImages
 ;Menu, PlaceMenu, Add, Update Existing Post, MenuUpdateExistingPost
 Menu, FilterMenu, Add, Clear Filter, MenuClearFilter
 Menu, FilterMenu, Add
@@ -190,6 +192,8 @@ Gui, Show, w750 h410, Shropshire Photography
 
 SB_SetParts(200)
 SB_SetText("Number of Places: " . gNumPlaces, 1)
+
+Menu, PlaceMenu, Disable, Sub-Images
 
 if argPlace <>
 {
@@ -807,30 +811,85 @@ WriteTemplate(pImgFile) {
 ;   Run, "%TxtEditor%" "%TempPath%"
 }
 
-MenuCreateNewPost:
-	TempPath = %A_ScriptDir%
-	TempPath := StrReplace(TempPath, "_database", "_posts")
-	FormatTime, TempFile, , yyyy-MM-dd
-	TempFile := TempFile . "-Updates.md"
-	FileAppend, Added the following items:`r`n`r`n1. , %TempPath%\%TempFile%
+;MenuCreateNewPost:
+;	TempPath = %A_ScriptDir%
+;	TempPath := StrReplace(TempPath, "_database", "_posts")
+;	FormatTime, TempFile, , yyyy-MM-dd
+;	TempFile := TempFile . "-Updates.md"
+;	FileAppend, Added the following items:`r`n`r`n1. , %TempPath%\%TempFile%
 ;  IniRead, TxtEditor, %A_ScriptDir%\Shropshire Photography.ini, Programs, TextEditor
 ;  Run, "%TxtEditor%" "%TempPath%\%TempFile%"
+;  Return
+
+;MenuUpdateExistingPost:
+;	TempPath = %A_ScriptDir%
+;	TempPath := StrReplace(TempPath, "_database", "_posts")
+;  Loop, %TempPath%\*
+;  {
+;    FileGetTime, Time, %A_LoopFileFullPath%, C
+;    If (Time > Time_Orig)
+;    {
+;      Time_Orig := Time
+;      TempFile  := A_LoopFileName
+;     }
+;  }
+;  IniRead, TxtEditor, %A_ScriptDir%\Shropshire Photography.ini, Programs, TextEditor
+;  Run, "%TxtEditor%" "%TempPath%\%TempFile%"
+;  Return
+
+MenuSubImages:
+  Gui, SubImages:Add, Text, w380 h20, %argPlace%
+  Gui, SubImages:Add, ListView, r21 w580, Image
+  Gui, SubImages:Add, Button, xm section w50 h20, OK
+  Gui, SubImages:Add, Button, ys w50 h20, Delete
+  Gui, SubImages:Add, Button, ys w50 h20, Cancel
+  Gui, SubImages:Show, w600 h400, Sub-Images
+  Gui, SubImages:Default
+  SQL := "SELECT Image FROM SubImage WHERE Place =""" . argPlace . """;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+      LV_Add("", Row[1])
+    }
+  } Until RC < 1
+  RecordSet.Free()
   Return
 
-MenuUpdateExistingPost:
-	TempPath = %A_ScriptDir%
-	TempPath := StrReplace(TempPath, "_database", "_posts")
-  Loop, %TempPath%\*
+SubImagesButtonOK:
+  SQL := "DELETE FROM SubImage WHERE Place = """ . argPlace . """;"
+  DB.Exec(SQL)
+  Loop % LV_GetCount()
   {
-    FileGetTime, Time, %A_LoopFileFullPath%, C
-    If (Time > Time_Orig)
-    {
-      Time_Orig := Time
-      TempFile  := A_LoopFileName
-     }
+    LV_GetText(SubImage, A_Index)
+    SQL := "INSERT INTO SubImage (Place, Image) VALUES (""" . argPlace . """, """ . SubImage . """);"
+    DB.Exec(SQL)
   }
-  IniRead, TxtEditor, %A_ScriptDir%\Shropshire Photography.ini, Programs, TextEditor
-  Run, "%TxtEditor%" "%TempPath%\%TempFile%"
+  Gui, SubImages:Destroy
+  Return
+
+SubImagesButtonDelete:
+  SubIdx := 0
+  Loop
+  {
+    SubIdx := LV_GetNext(SubIdx)
+    if not SubIdx
+        break
+    LV_Delete(SubIdx)
+  }
+  Return
+
+SubImagesButtonCancel:
+  Gui, SubImages:Destroy
+  Return
+
+SubImagesGuiDropFiles:
+  FileList := A_GuiEvent
+  Sort, FileList
+  Loop, Parse, FileList, `n
+  {
+    LV_Add("", A_LoopField)
+  }
   Return
 
 ;=====================================================================
@@ -934,7 +993,7 @@ MenuProjectXnViewMPSearch:
   tmpFile := FileOpen("C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\dmfbsh.github.io\_database\XnView\search.ini", "w", "UTF-8")
 
   tmpFile.WriteLine("Castles=filename *_DxO.jpg")
-  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("pathname D:/My Pictures/Published/Shropshire")
   tmpFile.WriteLine("recurse 1")
   tmpFile.WriteLine("regexp 0")
   tmpFile.WriteLine("all 0")
@@ -951,7 +1010,7 @@ MenuProjectXnViewMPSearch:
   RecordSet.Free()
 
   tmpFile.WriteLine("Churches=filename *_DxO.jpg")
-  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("pathname D:/My Pictures/Published/Shropshire")
   tmpFile.WriteLine("recurse 1")
   tmpFile.WriteLine("regexp 0")
   tmpFile.WriteLine("all 0")
@@ -968,7 +1027,7 @@ MenuProjectXnViewMPSearch:
   RecordSet.Free()
 
   tmpFile.WriteLine("Folklore=filename *_DxO.jpg")
-  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("pathname D:/My Pictures/Published/Shropshire")
   tmpFile.WriteLine("recurse 1")
   tmpFile.WriteLine("regexp 0")
   tmpFile.WriteLine("all 0")
@@ -985,7 +1044,7 @@ MenuProjectXnViewMPSearch:
   RecordSet.Free()
 
   tmpFile.WriteLine("Gardens=filename *_DxO.jpg")
-  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("pathname D:/My Pictures/Published/Shropshire")
   tmpFile.WriteLine("recurse 1")
   tmpFile.WriteLine("regexp 0")
   tmpFile.WriteLine("all 0")
@@ -1002,7 +1061,7 @@ MenuProjectXnViewMPSearch:
   RecordSet.Free()
 
   tmpFile.WriteLine("History=filename *_DxO.jpg")
-  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("pathname D:/My Pictures/Published/Shropshire")
   tmpFile.WriteLine("recurse 1")
   tmpFile.WriteLine("regexp 0")
   tmpFile.WriteLine("all 0")
@@ -1019,7 +1078,7 @@ MenuProjectXnViewMPSearch:
   RecordSet.Free()
 
   tmpFile.WriteLine("Houses=filename *_DxO.jpg")
-  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("pathname D:/My Pictures/Published/Shropshire")
   tmpFile.WriteLine("recurse 1")
   tmpFile.WriteLine("regexp 0")
   tmpFile.WriteLine("all 0")
@@ -1036,7 +1095,7 @@ MenuProjectXnViewMPSearch:
   RecordSet.Free()
 
   tmpFile.WriteLine("Landscape=filename *_DxO.jpg")
-  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("pathname D:/My Pictures/Published/Shropshire")
   tmpFile.WriteLine("recurse 1")
   tmpFile.WriteLine("regexp 0")
   tmpFile.WriteLine("all 0")
@@ -1053,7 +1112,7 @@ MenuProjectXnViewMPSearch:
   RecordSet.Free()
 
   tmpFile.WriteLine("Other=filename *_DxO.jpg")
-  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("pathname D:/My Pictures/Published/Shropshire")
   tmpFile.WriteLine("recurse 1")
   tmpFile.WriteLine("regexp 0")
   tmpFile.WriteLine("all 0")
@@ -1070,7 +1129,7 @@ MenuProjectXnViewMPSearch:
   RecordSet.Free()
 
   tmpFile.WriteLine("People=filename *_DxO.jpg")
-  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("pathname D:/My Pictures/Published/Shropshire")
   tmpFile.WriteLine("recurse 1")
   tmpFile.WriteLine("regexp 0")
   tmpFile.WriteLine("all 0")
@@ -1087,7 +1146,7 @@ MenuProjectXnViewMPSearch:
   RecordSet.Free()
 
   tmpFile.WriteLine("Places=filename *_DxO.jpg")
-  tmpFile.WriteLine("pathname E:/My Pictures/Published/Shropshire")
+  tmpFile.WriteLine("pathname D:/My Pictures/Published/Shropshire")
   tmpFile.WriteLine("recurse 1")
   tmpFile.WriteLine("regexp 0")
   tmpFile.WriteLine("all 0")
@@ -1481,6 +1540,14 @@ DrawGUI()
 	GuiControl, ChooseString, DxOSEPreset, %NDxOSEPreset%
 	GuiControl, Text, SilverEfexNotes, %NSilverEfexNotes%
 	GuiControl, Text, Overview, %NOverview%
+  if NCategory1 = Church
+  {
+    Menu, PlaceMenu, Enable, Sub-Images
+    SB_SetText("Number of Sub-Images: " . NSubImages, 2)
+  } else {
+    Menu, PlaceMenu, Disable, Sub-Images
+    SB_SetText("", 2)
+  }
 }
 
 ;=====================================================================
@@ -1516,6 +1583,7 @@ DefaultPlace() {
 	NDxOSEPreset := "DxO Silver Efex Not Used"
 	NSilverEfexNotes := ""
 	NOverview := ""
+  NSubImages := 0
 }
 
 ;=====================================================================
@@ -1625,6 +1693,15 @@ LoadPlace() {
 			NDxOSEPreset := Row[7]
 			NSilverEfexNotes := StringFromDB(Row[8])
 			NOverview := StringFromDB(Row[9])
+    }
+  } Until RC < 1
+  NSubImages := 0
+  SQL := "SELECT Count(*) FROM SubImage WHERE Place=""" . argPlace . """;"
+  DB.Query(SQL, RecordSet)
+  Loop {
+    RC := RecordSet.Next(Row)
+    if (RC > 0) {
+      NSubImages := Row[1]
     }
   } Until RC < 1
   RecordSet.Free()

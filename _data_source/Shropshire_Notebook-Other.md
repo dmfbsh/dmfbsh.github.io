@@ -207,6 +207,22 @@ Edwards did this from 1773 to her death in 1815.
 Lucien Boneparte (brother of Napoleon) was held as a prisoner of war at Dinham House for a few months in 1811 while the war between Britain and France was ongoing.
 ![](../1shropshire/assets/images/other/2020-01-04_13_59_49_DSC_6082_DxO_bw.jpg)
 
+# Name: Ludford Water Mill, Ludlow
+
+Ludford Mill is a 16th Century Water Mill (and now a private dwelling).
+
+In front of Ludford Mill is a stepped structure.  This houses the Ludlow Hydro Co-Operative's Archimedes Screw installation.  It was completed in 2016 at a cost of £400,000 (financed by a community body supported by 170 local people and others committed to eco-friendly electricity production).  The Screw harnesses the power of the millrace to generate electricity, enough to light a bulb in every house in Ludlow and Ludford year round.
+
+Whenever the river level is high enough, water is channelled into the top of the Screw, most of the generated electricity is fed into the National Grid.  The Screw design was chosen as it is the most wildlife friendly design.
+![](../1shropshire/assets/images/other/2020-11-29_15_43_22_DSC_9189_DxO_1.jpg)
+
+# Name: Horseshoe Weir, Ludlow
+
+The medieval weir at Ludford Mill (River Teme, Ludlow) is Grade II listed.  There is evidence suggesting that the weir had been built by 1241 AD.  It was built to steady the flow of water to Ludford Mill.  The weir was restored in 2002.
+
+The name Ludlow means, in Old English, loud or noisy (hlud) - referring to the River Teme - and tumulus or hill (hlaw).
+![](../1shropshire/assets/images/other/2020-11-29_15_43_40_DSC_9190_DxO_1.jpg)
+
 # Name: Yew Tree, Norbury
 
 This yew tree is said to be one of the largest and one of the oldest in the UK, it has a girth of about 10m / 33ft and is estimated to be 2,700 years old.

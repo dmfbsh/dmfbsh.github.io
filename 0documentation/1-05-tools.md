@@ -16,6 +16,7 @@ The following tools are used by the project:
     - Typora
     - AutoHotKey
     - Git
+    - JRE and Ant
     - DB Browser (SQLite)
     - Joplin
     - Trello
@@ -59,9 +60,8 @@ Install the following extensions:
 1. AutoHotKey Plus
 2. Hex Editor
 3. Open in External App
-4. Power Tools
-5. Ruby
-6. VSCode Ruby
+4. Ruby
+5. VSCode Ruby
 
 ### Typora
 
@@ -76,6 +76,12 @@ Note that the 64-bit version must be installed.
 ### Git
 
 Git is installed with no additional configuration.
+
+### JRE and Ant
+
+JRE 64-bit is installed.
+
+Ant is installed with no additional configuration (ANT_HOME is set and the bin folder is added to the path).
 
 ### DB Browser (SQLite)
 
