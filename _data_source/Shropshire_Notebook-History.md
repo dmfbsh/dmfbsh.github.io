@@ -337,9 +337,9 @@ A remarkably complete and significant surviving example of a late medieval town 
 ![](../1shropshire/assets/images/history/2018-07-14_12_57_54_DSC_2798_DxO.jpg)
 
 # Name: Llwyd Mansion, Oswestry
-- Date: 1604 AD
+- Date: Mid- to late 15th Century AD
 
-The mansion was built in 1604 for John Lloyd (or Llwyd in Welsh) as a home and shop area at the bottom.
+The mansion was built in the mid- to late 15th Century AD, and remodelled in circa 1604 AD for John Lloyd (or Llwyd in Welsh) as a home and shop area at the bottom.
 ![](../1shropshire/assets/images/history/2019-06-01_14_45_04_DSC_4508_DxO.jpg)
 
 # Header: The Tudor Age - 1485 AD
@@ -354,7 +354,7 @@ Start of the English Renaissance
 
 During the 16th Century the turbulence in the Marches was gradually suppressed and ended in 1536 with the statute incorporating Wales and England.  The lands of the Marcher lordships were brought under the jurisdiction of the county authorities.
 
-## Header: Church of England - 1534 AD
+# Header: Church of England - 1534 AD
 
 The Church of England is established.
 
