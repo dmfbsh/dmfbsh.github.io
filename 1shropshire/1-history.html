@@ -13,6 +13,18 @@ title: History of Shropshire
 
 {% if item.Type == "Header" %}
 <div class="rowh">
+  <div class="columnal">
+  <h2>{{ item.Date }}</h2>
+  <div class="columnar">
+    {{ item.Description | markdownify }}
+  </div>
+</div>
+</div>
+{% endif %}
+
+{% comment %}
+{% if item.Type == "Header" %}
+<div class="rowh">
   <div class="columnhl">
   <h2>{{ item.Date }}</h2>
   </div>
@@ -21,6 +33,7 @@ title: History of Shropshire
   </div>
 </div>
 {% endif %}
+{% endcomment %}
 
 {% if item.Type == "Item" %}
 {% if orientation == "right" %}

@@ -4,11 +4,11 @@
     Britain is cut off from continental Europe by the English Channel.
 
 - Type: Header
-  Date: c. 2500 BC to 800 BC - Bronze Age
+  Date: Bronze Age - c. 2500 BC to 800 BC
   Description: |
     Remains of Bronze Age settlements are not common in Britain and none have been recorded in Shropshire so far.  It is believed that many tribes led a nomadic lifestyle based on cattle and agriculture so did not build structures to last (communities were often based near rivers for transport).  There is evidence, however, of tree clearing at this time to make space for crops.
 
-    Tumuli (burial mounds) were built during this time on areas of high ground.  As well as providing a place to inter the cremated remains of their dead, the tumuli may also be where a tribe gathered at certain times of the year for religious purposes.  The stone circles at Mitchell's Fold, Hoarstones and Whetstones (now destroyed) date from this time.
+    Tumuli (burial mounds) were built during this time on areas of high ground.  As well as providing a place to inter the cremated remains of their dead, the tumuli may also be where a tribe gathered at certain times of the year for religious purposes.  There are three known stone circles in Shropshire that date from this time at: Mitchell's Fold, Hoarstones and Whetstones (now destroyed).
 
 - Type: Item
   Name: Mitchell's Fold
@@ -18,7 +18,7 @@
   Thumbnail: 2018-02-24_14_57_22_DSC_2137_DxO.jpg
 
 - Type: Header
-  Date: c. 800 BC to the Roman invasion of Britain in 43 AD - Iron Age
+  Date: Iron Age - c. 800 BC to 43 AD
   Description: |
     c. 500 BC - Celts inhabit much of Europe, and begin to colonize the British Isles.
 
@@ -36,40 +36,51 @@
   Thumbnail: 2019-02-16_12_25_24_DSC_3317_DxO.jpg
 
 - Type: Header
-  Date: 43 AD
+  Date: Roman Invasion of Britain Begins - 43 AD
   Description: |
-    During the Roman occupation the tribe was reorganised as a Roman civitas and the capital was relocated to Viroconium.
+    During the Roman occupation the tribe was reorganised as a Roman civitas (a social body of the cives, or citizens, united by law) and the capital was relocated to Viroconium.
 
 - Type: Item
   Name: Viroconium Cornoviorum
   Date: 55 AD
   Description: |
-    The site was first established in about AD 55 as a frontier post as it was strategically located near the end of the primary Watling Street Roman trunk road which ran across England from Dubris (Dover).
+    The site was first established in about AD 55 as a frontier post as it was strategically located near the end of the Watling Street Roman trunk road which ran across England from Dubris (Dover).  It was the fourth largest city in Roman Britain.
 
-    The site was abandoned around 88 AD as a fortress and was taken over as a civilian settlement.
+    The site was abandoned around 88 AD as a fortress and was taken over as a civilian settlement and continued to be inhabited until the 7th century.
 
     The ruin is noted for the 'the Old Work' (an archway, part of the baths' frigidarium and the largest free-standing Roman ruin in Britain).
   Thumbnail: 2019-02-03_13_49_48_DSC_3240_DxO.jpg
 
 - Type: Header
-  Date: 410 - 436 AD
+  Date: Post-Roman Britain - 410 to c. 450 AD
   Description: |
-    Romans withdraw from Britain.
+    In 407 the Roman troops in Britain are sent across the Channel into Gaul to defend that part of the Empire against the threats from the east.  This left Britain without any protection, the Saxons took advantage and raided in 408 and 409 AD.  Requests for aid were rejected by the Emporer in Rome, and so the Romano-Britains expelled the Roman officials.
+
+    Roman civic life continued, but declined (as the cities had lost their central function as centres for taxation and administration) and by about 450 AD the Roman econmic system had broken down.
 
 - Type: Header
-  Date: c. 450 AD
+  Date: Anglo-Saxon settlement of Britain Begins - c. 450 AD
   Description: |
-    Anglo-Saxon settlement (Angles, Frisians, Saxons, Jutes) of Britain begins.
+    England is subject to successive invasions of Germanic tribesmen (Angles, Saxons and Jutes).  Originally settling in eastern England, they moved progressively west as more arrived.
 
     Following the collapse of the Romano-British administration, the Cornovii territory may have become part of the Kingdom of Powys, but little is known about this period in respect of the area now known as Shropshire.
 
-    The boarder country between England and Wales was much fought over - the Kingdom of Powys and Anglian-Mercia both vying for territory.  It is possible that Shrewsbury was established at this time due to the king of Powys moving court to resist the encroaching Anglian advances.
+    It is possible that the area of Shrewsbury was first settled in the 5th Century by refugees from Wroxeter.  Also, it is possible that the king of Powys moved his court to the same area to resist the encroaching Anglian advances.
+
+- Type: Header
+  Date: Battle of Chester - 616 AD
+  Description: |
+    The Battle of Chester was fought between the Northumbrians and the kingdoms of Northern Wales.  Although the Welsh were victorious, the prince of eastern Powys was killed soon after the battle and his sones fled to Powys, consequently Shropshire came under the control of the Saxon Mercian kingdom.
+
+    The name "Mercia" is Old English for "boundary folk".
 
     It is likely that the Cornovii territory was partitioned and ruled by different princes, probably perpetuated in the ancient boundaries between the dioceses of Lichfield and Hereford.
 
     Eventually, the northern part of Shropshire was part of the Anglo-Saxon territory of Wreocensaete (sometimes anglicised to Wrekinsets, the name approximates to Wrekin-dwellers) and the southern part of Shropshire probably belonged to the Magonsaete (a minor sub-kingdom of the greater Anglo-Saxon kingdom of Mercia).
 
     The northern and southern parts of Shropshire were absorbed into the Saxon kingdom of Mercia by King Offa (Offa ruled Mercia from 757 to 796).
+
+    Shrewsbury was probably founded as a town in the 8th Century by the Saxon rulers of Mercia, who needed a fortified burh to control the Severn river-crossing on the road between the burhs of Hereford and Chester.
 
 - Type: Item
   Name: St Oswald's Well, Oswestry
@@ -78,11 +89,24 @@
     The Battle of Maserfield (or Maserfeld, "marsh (border) field"; Welsh: Maes Cogwy), was fought on 5 August 641 or 642, between the Anglo-Saxon kings Oswald of Northumbria and Penda of Mercia, ending in Oswald's defeat, death, and dismemberment.
   Thumbnail: 2019-06-01_13_37_32_DSC_4458_DxO.jpg
 
+- Type: Header
+  Date: Mercia Converts to Christianity - Latter Part of the 7th Century
+  Description: |
+    The first kings of Mercia were pagans, and they resisted the encroachment of Christianity longer than other kingdoms in the Anglo-Saxon Heptarchy.
+
+    Mercian rulers remained resolutely pagan until the reign of Peada in 656. The first appearance of Christianity in Mercia, however, had come at least thirty years earlier, following the Battle of Cirencester of 628, when Penda incorporated the formerly West Saxon territories of Hwicce into his kingdom, but Penda remained Pagan until his death.  Penda respected the Christians and even allowed them to operate more widely in Mercia.  However, not much progress was made in converting the nobles and people of Mercia.
+
+    The diocese of Mercia was founded 656 by Diuma (the first Bishop of Mercia).
+
+    In 669 AD, the King of Mercia, Wulfhere, had requested a new bishop, as Mercia was without one following the death of the previous incumbent, Chad was dispatched by the Archbishop.  And so, after an inconclusive start, decisive steps to Christianise Mercia were being taken; Chad was the fifth bishop to minister to the Mercians and is credited with introducing Christianity to the Mercian kingdom.  Wulfhere gave Chad land to build a monasterary at Lichfield.
+
+    However, Mercia did not survive long as an ecclesiastical entity.  From 676 AD the Archbishop adopted a policy of appointing bishops to much smaller tribal groups within the kingdoms, thus covering smaller areas—closer in size to those found in other West European countries.  Hence, a bishopric (diocese) was established at Hereford for the Magonsæte sub-kingdom (and the existing Lichfield diocese covered Wreocansaete).
+
 - Type: Item
   Name: Wenlock Priory
   Date: c. 680 AD
   Description: |
-    The original Anglo-Saxon monastery was founded by the then King of Magonsaete (king Merewalh), his daughter quickly became its abbess (she was later canonised).
+    The original Anglo-Saxon monastery was founded by the then King of Magonsaete (king Merewalh), his daughter quickly became its abbess (she was later canonised).  Wenlock Priory was the first monastery to be founded in Shropshire.
 
     After Milburga's death circa 727 little is known of the monastery until the Norman conquest.
   Thumbnail: 2009-08-15 12-53-13_00007766_DxO.jpg
@@ -100,21 +124,18 @@
   Thumbnail: 2019-03-23_15_23_57_DSC_3583_DxO.jpg
 
 - Type: Header
-  Date: 792 AD
+  Date: Danelaw is Established - 878 AD
   Description: |
-    Viking raids of Britain begin.
+    The Vikings had been raiding Britain since 792 AD, but being so far west, this had little impact on Shropshire until Danelaw was established.
+
+    Danelaw is established in 878 AD which divides Britain into the Anglo-Saxon south and the Danish north.
+
+    Although not part of the Danelaw, the area that is now known as Shropshire was regularly overrun by Danish raiders, as the eastern part of Mercia had been seized by the Danes.
+
+    The final Mercian king died in 879.  From about 883 to 911 AD Mercia was ruled by a Mercian Lord under the overlorship of Wessex.  Thus, the Kingdom of Mercia appears to have lost its political independence and was ruled by the kings of Wessex.  The last reference to Mercia by name is in the annal for 1017 AD, when Eadric Streona was awarded the government of Mercia by Cnut.  The Mercians as a people are last mentioned in the annal for 1049 AD.
 
 - Type: Header
-  Date: 878 AD
-  Description: |
-    Danelaw is established, dividing Britain into Anglo-Saxon south and Danish north.
-
-    Although not part of the Danelaw, the area that is now known as Shropshire was regularly overrun by Danish raiders.
-
-    The final Mercian king died in 879; the kingdom thereby appears to have lost its political independence and was ruled by the kings of Wessex.
-
-- Type: Header
-  Date: 1066 AD
+  Date: Norman Conquest - 1066 AD
   Description: |
     The Norman conquest of Britain and start of Early Middle Ages (Medieval England).
 
@@ -171,7 +192,7 @@
   Thumbnail: 2019-02-16_13_23_41_DSC_3368_DxO_1.jpg
 
 - Type: Header
-  Date: 1086 AD
+  Date: Domesday Book - 1086 AD
   Description: |
     The Domesday book is completed.  The Domesday book is a manuscript record of the "Great Survey" of much of England and parts of Wales, which was undertaken by order of King William the Conqueror.
 
@@ -183,9 +204,11 @@
   Thumbnail: 2009-08-15 12-53-13_00007766_DxO.jpg
 
 - Type: Header
-  Date: 11th & 12th Century AD
+  Date: The Church - 11th & 12th Century AD
   Description: |
-    Many churches are built in the 11th and 12th Centuries - the church was massively endowed and its role all pervasive in medieval society.  Churches are listed on a separate page.
+    Many churches are built in the 11th and 12th Centuries - the church was massively endowed and its role all pervasive in medieval society.
+
+    Churches are listed on a separate page.
 
 - Type: Item
   Name: Bridgnorth Castle
@@ -232,7 +255,7 @@
   Thumbnail: photo-needed.jpg
 
 - Type: Header
-  Date: 12th Century AD
+  Date: The Marcher Lordships Emerge - 12th Century AD
   Description: |
     During the 12th Century the Marcher lordships emerged as almost independent states between the Welsh and English authorities.  The Marcher families were granted privileges by the English Crown which led to the exclusion of the judicial authority of the monarch and the Sheriff from their domains.
 
@@ -318,7 +341,7 @@
   Thumbnail: 2019-08-23_12_51_08_DSC_4719_DxO.jpg
 
 - Type: Header
-  Date: 1290 AD
+  Date: The Later Middle Ages - 1290 AD
   Description: |
     Start of the Later Middle Ages
 
@@ -364,27 +387,27 @@
   Thumbnail: 2019-06-01_14_45_04_DSC_4508_DxO.jpg
 
 - Type: Header
-  Date: 1485 AD
+  Date: The Tudor Age - 1485 AD
   Description: |
     Start of the Tudor Age (and end of the Middle Ages / Medieval England)
 
 - Type: Header
-  Date: c. 1500 AD
+  Date: The English Renaissance - c. 1500 AD
   Description: |
     Start of the English Renaissance
 
 - Type: Header
-  Date: 16th Century AD
+  Date: English Reformation - 16th Century AD
   Description: |
-    English Reformation
-
     During the 16th Century the turbulence in the Marches was gradually suppressed and ended in 1536 with the statute incorporating Wales and England.  The lands of the Marcher lordships were brought under the jurisdiction of the county authorities.
 
-- Type: Header
-  Date: 1536 AD - 1541 AD
-  Description: |
-    Dissolution of the Monasteries.
+    ## Header: Church of England - 1534 AD
 
+    The Church of England is established.
+
+- Type: Header
+  Date: Dissolution of the Monasteries - 1536 AD to 1541 AD
+  Description: |
     Large areas of land came into new hands.  Schools were built to replace the educational function previously provided by the monasteries.  And many of Shropshire's most distinguished country houses were built in the late 16th Century and early 17th Century.
 
 - Type: Item
@@ -459,7 +482,7 @@
   Thumbnail: 2018-09-29_15_15_33_DSC_2896_DxO.jpg
 
 - Type: Header
-  Date: 1603 AD
+  Date: The Stuart Age - 1603 AD
   Description: |
     Start of the Stuart age
 
@@ -480,10 +503,8 @@
   Thumbnail: 2019-07-13_13_31_26_DSC_4637_DxO.jpg
 
 - Type: Header
-  Date: 1642 AD - 1651 AD 
+  Date: The English Civil War - 1642 AD to 1651 AD 
   Description: |
-    English Civil War
-
     The predominant opinion in the county of Shropshire was for the king.  Most towns in Shropshire were royalist; the main parliamentary centre was Wem.
 
     Ludlow was the last royalist stronghold to fall in May 1646.
@@ -549,7 +570,7 @@
   Thumbnail: 2015-07-25_14_57_18_DSC_0036_DxO.jpg
 
 - Type: Header
-  Date: 1714 AD
+  Date: The Georgian Period - 1714 AD
   Description: |
     Start of the Georgian Period
 
@@ -596,7 +617,7 @@
   Thumbnail: 2020-07-31_05_26_59_DSC_7620_DxO.jpg
 
 - Type: Header
-  Date: 1760 AD - 1840 AD
+  Date: The Industrial Revolution - 1760 AD to 1840 AD
   Description: |
     Industrial Revolution
 
@@ -811,7 +832,7 @@
   Thumbnail: 2016-08-12_13_02_04_DSC00989_DxO.jpg
 
 - Type: Header
-  Date: 1837 AD
+  Date: The Victorian Age - 1837 AD
   Description: |
     Start of the Victorian age
 
@@ -967,7 +988,7 @@
   Thumbnail: photo-needed.jpg
 
 - Type: Header
-  Date: 1889 AD
+  Date: Salop County Council - 1889 AD
   Description: |
     Salop County Council is set up following the Local Government Act 1888.
 
@@ -1029,7 +1050,7 @@
   Thumbnail: 2018-06-11_11_46_52_DSC_2591_DxO.jpg
 
 - Type: Header
-  Date: 20th Century
+  Date: Modern Britain - 20th Century
   Description: |
     Modern Britain
 
@@ -1163,7 +1184,7 @@
   Thumbnail: photo-needed.jpg
 
 - Type: Header
-  Date: 1980 AD
+  Date: Shropshire - 1980 AD
   Description: |
     On the 1st April 1980 the name change to Shropshire comes into effect.
 

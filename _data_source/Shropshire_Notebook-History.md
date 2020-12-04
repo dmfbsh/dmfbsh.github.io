@@ -2,11 +2,11 @@
 
 Britain is cut off from continental Europe by the English Channel.
 
-# Header: c. 2500 BC to 800 BC - Bronze Age
+# Header: Bronze Age - c. 2500 BC to 800 BC
 
 Remains of Bronze Age settlements are not common in Britain and none have been recorded in Shropshire so far.  It is believed that many tribes led a nomadic lifestyle based on cattle and agriculture so did not build structures to last (communities were often based near rivers for transport).  There is evidence, however, of tree clearing at this time to make space for crops.
 
-Tumuli (burial mounds) were built during this time on areas of high ground.  As well as providing a place to inter the cremated remains of their dead, the tumuli may also be where a tribe gathered at certain times of the year for religious purposes.  The stone circles at Mitchell's Fold, Hoarstones and Whetstones (now destroyed) date from this time.
+Tumuli (burial mounds) were built during this time on areas of high ground.  As well as providing a place to inter the cremated remains of their dead, the tumuli may also be where a tribe gathered at certain times of the year for religious purposes.  There are three known stone circles in Shropshire that date from this time at: Mitchell's Fold, Hoarstones and Whetstones (now destroyed).
 
 # Name: Mitchell's Fold
 - Date: Bronze Age
@@ -14,7 +14,7 @@ Tumuli (burial mounds) were built during this time on areas of high ground.  As 
 Sometimes called Medgel's Fold or Madges Pinfold, Mitchell's Fold is a Bronze Age stone circle.  Its true history is unknown.  This is one of three known stone circles in Shropshire.
 ![](../1shropshire/assets/images/history/2018-02-24_14_57_22_DSC_2137_DxO.jpg)
 
-# Header: c. 800 BC to the Roman invasion of Britain in 43 AD - Iron Age
+# Header: Iron Age - c. 800 BC to 43 AD
 
 c. 500 BC - Celts inhabit much of Europe, and begin to colonize the British Isles.
 
@@ -30,31 +30,39 @@ One of Britain's most spectacular and impressive early Iron Age hill forts.
 The complexity of the defences suggests several phases of development.  After the hill fort was abandoned it was incorporated into Wat's Dyke (built by the king of Mercia in the early 8th Century, it preceded the better-known Offa's Dyke).
 ![](../1shropshire/assets/images/history/2019-02-16_12_25_24_DSC_3317_DxO.jpg)
 
-# Header: 43 AD
+# Header: Roman Invasion of Britain Begins - 43 AD
 
-During the Roman occupation the tribe was reorganised as a Roman civitas and the capital was relocated to Viroconium.
+During the Roman occupation the tribe was reorganised as a Roman civitas (a social body of the cives, or citizens, united by law) and the capital was relocated to Viroconium.
 
 # Name: Viroconium Cornoviorum
 - Date: 55 AD
 
-The site was first established in about AD 55 as a frontier post as it was strategically located near the end of the primary Watling Street Roman trunk road which ran across England from Dubris (Dover).
+The site was first established in about AD 55 as a frontier post as it was strategically located near the end of the Watling Street Roman trunk road which ran across England from Dubris (Dover).  It was the fourth largest city in Roman Britain.
 
-The site was abandoned around 88 AD as a fortress and was taken over as a civilian settlement.
+The site was abandoned around 88 AD as a fortress and was taken over as a civilian settlement and continued to be inhabited until the 7th century.
 
 The ruin is noted for the 'the Old Work' (an archway, part of the baths' frigidarium and the largest free-standing Roman ruin in Britain).
 ![](../1shropshire/assets/images/history/2019-02-03_13_49_48_DSC_3240_DxO.jpg)
 
-# Header: 410 - 436 AD
+# Header: Post-Roman Britain - 410 to c. 450 AD
 
-Romans withdraw from Britain.
+In 407 the Roman troops in Britain are sent across the Channel into Gaul to defend that part of the Empire against the threats from the east.  This left Britain without any protection, the Saxons took advantage and raided in 408 and 409 AD.  Requests for aid were rejected by the Emporer in Rome, and so the Romano-Britains expelled the Roman officials.
 
-# Header: c. 450 AD
+Roman civic life continued, but declined (as the cities had lost their central function as centres for taxation and administration) and by about 450 AD the Roman econmic system had broken down.
 
-Anglo-Saxon settlement (Angles, Frisians, Saxons, Jutes) of Britain begins.
+# Header: Anglo-Saxon settlement of Britain Begins - c. 450 AD
+
+England is subject to successive invasions of Germanic tribesmen (Angles, Saxons and Jutes).  Originally settling in eastern England, they moved progressively west as more arrived.
 
 Following the collapse of the Romano-British administration, the Cornovii territory may have become part of the Kingdom of Powys, but little is known about this period in respect of the area now known as Shropshire.
 
-The boarder country between England and Wales was much fought over - the Kingdom of Powys and Anglian-Mercia both vying for territory.  It is possible that Shrewsbury was established at this time due to the king of Powys moving court to resist the encroaching Anglian advances.
+It is possible that the area of Shrewsbury was first settled in the 5th Century by refugees from Wroxeter.  Also, it is possible that the king of Powys moved his court to the same area to resist the encroaching Anglian advances.
+
+# Header: Battle of Chester - 616 AD
+
+The Battle of Chester was fought between the Northumbrians and the kingdoms of Northern Wales.  Although the Welsh were victorious, the prince of eastern Powys was killed soon after the battle and his sones fled to Powys, consequently Shropshire came under the control of the Saxon Mercian kingdom.
+
+The name "Mercia" is Old English for "boundary folk".
 
 It is likely that the Cornovii territory was partitioned and ruled by different princes, probably perpetuated in the ancient boundaries between the dioceses of Lichfield and Hereford.
 
@@ -62,16 +70,30 @@ Eventually, the northern part of Shropshire was part of the Anglo-Saxon territor
 
 The northern and southern parts of Shropshire were absorbed into the Saxon kingdom of Mercia by King Offa (Offa ruled Mercia from 757 to 796).
 
+Shrewsbury was probably founded as a town in the 8th Century by the Saxon rulers of Mercia, who needed a fortified burh to control the Severn river-crossing on the road between the burhs of Hereford and Chester.
+
 # Name: St Oswald's Well, Oswestry
 - Date: 641 AD or 642 AD
 
 The Battle of Maserfield (or Maserfeld, "marsh (border) field"; Welsh: Maes Cogwy), was fought on 5 August 641 or 642, between the Anglo-Saxon kings Oswald of Northumbria and Penda of Mercia, ending in Oswald's defeat, death, and dismemberment.
 ![](../1shropshire/assets/images/history/2019-06-01_13_37_32_DSC_4458_DxO.jpg)
 
+# Header: Mercia Converts to Christianity - Latter Part of the 7th Century
+
+The first kings of Mercia were pagans, and they resisted the encroachment of Christianity longer than other kingdoms in the Anglo-Saxon Heptarchy.
+
+Mercian rulers remained resolutely pagan until the reign of Peada in 656. The first appearance of Christianity in Mercia, however, had come at least thirty years earlier, following the Battle of Cirencester of 628, when Penda incorporated the formerly West Saxon territories of Hwicce into his kingdom, but Penda remained Pagan until his death.  Penda respected the Christians and even allowed them to operate more widely in Mercia.  However, not much progress was made in converting the nobles and people of Mercia.
+
+The diocese of Mercia was founded 656 by Diuma (the first Bishop of Mercia).
+
+In 669 AD, the King of Mercia, Wulfhere, had requested a new bishop, as Mercia was without one following the death of the previous incumbent, Chad was dispatched by the Archbishop.  And so, after an inconclusive start, decisive steps to Christianise Mercia were being taken; Chad was the fifth bishop to minister to the Mercians and is credited with introducing Christianity to the Mercian kingdom.  Wulfhere gave Chad land to build a monasterary at Lichfield.
+
+However, Mercia did not survive long as an ecclesiastical entity.  From 676 AD the Archbishop adopted a policy of appointing bishops to much smaller tribal groups within the kingdoms, thus covering smaller areas—closer in size to those found in other West European countries.  Hence, a bishopric (diocese) was established at Hereford for the Magonsæte sub-kingdom (and the existing Lichfield diocese covered Wreocansaete).
+
 # Name: Wenlock Priory
 - Date: c. 680 AD
 
-The original Anglo-Saxon monastery was founded by the then King of Magonsaete (king Merewalh), his daughter quickly became its abbess (she was later canonised).
+The original Anglo-Saxon monastery was founded by the then King of Magonsaete (king Merewalh), his daughter quickly became its abbess (she was later canonised).  Wenlock Priory was the first monastery to be founded in Shropshire.
 
 After Milburga's death circa 727 little is known of the monastery until the Norman conquest.
 ![](../1shropshire/assets/images/history/2009-08-15 12-53-13_00007766_DxO.jpg)
@@ -86,19 +108,17 @@ Shropshire's county day is the 23rd February which is the feast day of St Milbur
 In the late 8th Century, Offa's Dyke is constructed to delineate the border between Anglian Mercia and the Welsh Kingdom of Powys (it did not represent a mutually agreed boundary, rather it is believed to be a defensive earthwork or was built to demonstrate the power and intent of the Mercians).
 ![](../1shropshire/assets/images/history/2019-03-23_15_23_57_DSC_3583_DxO.jpg)
 
-# Header: 792 AD
+# Header: Danelaw is Established - 878 AD
 
-Viking raids of Britain begin.
+The Vikings had been raiding Britain since 792 AD, but being so far west, this had little impact on Shropshire until Danelaw was established.
 
-# Header: 878 AD
+Danelaw is established in 878 AD which divides Britain into the Anglo-Saxon south and the Danish north.
 
-Danelaw is established, dividing Britain into Anglo-Saxon south and Danish north.
+Although not part of the Danelaw, the area that is now known as Shropshire was regularly overrun by Danish raiders, as the eastern part of Mercia had been seized by the Danes.
 
-Although not part of the Danelaw, the area that is now known as Shropshire was regularly overrun by Danish raiders.
+The final Mercian king died in 879.  From about 883 to 911 AD Mercia was ruled by a Mercian Lord under the overlorship of Wessex.  Thus, the Kingdom of Mercia appears to have lost its political independence and was ruled by the kings of Wessex.  The last reference to Mercia by name is in the annal for 1017 AD, when Eadric Streona was awarded the government of Mercia by Cnut.  The Mercians as a people are last mentioned in the annal for 1049 AD.
 
-The final Mercian king died in 879; the kingdom thereby appears to have lost its political independence and was ruled by the kings of Wessex.
-
-# Header: 1066 AD
+# Header: Norman Conquest - 1066 AD
 
 The Norman conquest of Britain and start of Early Middle Ages (Medieval England).
 
@@ -150,7 +170,7 @@ The castle was the scene of a parliament held by Richard II in 1398.
 The castle was captured by Oliver Cromwell's troops in 1644, and by 1650 it had largely been demolished by the Roundheads.
 ![](../1shropshire/assets/images/history/2019-02-16_13_23_41_DSC_3368_DxO_1.jpg)
 
-# Header: 1086 AD
+# Header: Domesday Book - 1086 AD
 
 The Domesday book is completed.  The Domesday book is a manuscript record of the "Great Survey" of much of England and parts of Wales, which was undertaken by order of King William the Conqueror.
 
@@ -160,9 +180,11 @@ The Domesday book is completed.  The Domesday book is a manuscript record of the
 Wenlock was re-founded by the Normans as a priory of Cluniac monks in the late 11th Century by Roger de Montgomery. In 1101 it is reputed that Milburga's relics were discovered, attracting pilgrims and prosperity to the the priory allowing the impressive medieval priory to be built (which reflects the Cluniac love of elaborate decoration).
 ![](../1shropshire/assets/images/history/2009-08-15 12-53-13_00007766_DxO.jpg)
 
-# Header: 11th & 12th Century AD
+# Header: The Church - 11th & 12th Century AD
 
-Many churches are built in the 11th and 12th Centuries - the church was massively endowed and its role all pervasive in medieval society.  Churches are listed on a separate page.
+Many churches are built in the 11th and 12th Centuries - the church was massively endowed and its role all pervasive in medieval society.
+
+Churches are listed on a separate page.
 
 # Name: Bridgnorth Castle
 - Date: 1101 AD
@@ -204,7 +226,7 @@ Unusually for a monastic site, the buildings appear to be largely unaltered from
 It was one of the first religious houses to be suppressed in 1535, after which most of the buildings were taken down and the site passed through various owners.
 ![](../1shropshire/assets/images/history/photo-needed.jpg)
 
-# Header: 12th Century AD
+# Header: The Marcher Lordships Emerge - 12th Century AD
 
 During the 12th Century the Marcher lordships emerged as almost independent states between the Welsh and English authorities.  The Marcher families were granted privileges by the English Crown which led to the exclusion of the judicial authority of the monarch and the Sheriff from their domains.
 
@@ -280,7 +302,7 @@ One of the first fortified manor houses in England, Stokesay Castle was built by
 The gatehouse was added in 1640-1641, just before the English Civil War.  At that time Stokesay was owned by William Craven, the first Earl of Craven and supporter of the king.  The Royalist war effort collapsed in 1645, the castle was besieged and the Royalist garrison was forced to surrender.  The castle was ordered to be slighted by Parliament, but only minor damage was done allowing it to continue as a residence.
 ![](../1shropshire/assets/images/history/2019-08-23_12_51_08_DSC_4719_DxO.jpg)
 
-# Header: 1290 AD
+# Header: The Later Middle Ages - 1290 AD
 
 Start of the Later Middle Ages
 
@@ -320,23 +342,23 @@ A remarkably complete and significant surviving example of a late medieval town 
 The mansion was built in 1604 for John Lloyd (or Llwyd in Welsh) as a home and shop area at the bottom.
 ![](../1shropshire/assets/images/history/2019-06-01_14_45_04_DSC_4508_DxO.jpg)
 
-# Header: 1485 AD
+# Header: The Tudor Age - 1485 AD
 
 Start of the Tudor Age (and end of the Middle Ages / Medieval England)
 
-# Header: c. 1500 AD
+# Header: The English Renaissance - c. 1500 AD
 
 Start of the English Renaissance
 
-# Header: 16th Century AD
-
-English Reformation
+# Header: English Reformation - 16th Century AD
 
 During the 16th Century the turbulence in the Marches was gradually suppressed and ended in 1536 with the statute incorporating Wales and England.  The lands of the Marcher lordships were brought under the jurisdiction of the county authorities.
 
-# Header: 1536 AD - 1541 AD
+## Header: Church of England - 1534 AD
 
-Dissolution of the Monasteries.
+The Church of England is established.
+
+# Header: Dissolution of the Monasteries - 1536 AD to 1541 AD
 
 Large areas of land came into new hands.  Schools were built to replace the educational function previously provided by the monasteries.  And many of Shropshire's most distinguished country houses were built in the late 16th Century and early 17th Century.
 
@@ -402,7 +424,7 @@ Rowley's House was built by Roger Rowley - a wool merchant.  The house was built
 The build of the Moreton Corbet manor was influenced by the classical architecture overseas as Robert Corbet, who started the build, spent time abroad in his role as a diplomat.  Robert Corbet died of the plague before the mansion was completed, his two brothers completed the building and left the remains of the original fortification as they were.
 ![](../1shropshire/assets/images/history/2018-09-29_15_15_33_DSC_2896_DxO.jpg)
 
-# Header: 1603 AD
+# Header: The Stuart Age - 1603 AD
 
 Start of the Stuart age
 
@@ -420,9 +442,7 @@ Built by Rees Jones, a successful attorney in the town, who had frequently appea
 The facade is decorated with Ostrich feathers which represented the Royalist support of the town for the Prince of Wales (who later became Charles I).  During the English Civil War the town remained loyal to the King and it is thought that Royalist Soldiers lodged at The Feathers during this time.
 ![](../1shropshire/assets/images/history/2019-07-13_13_31_26_DSC_4637_DxO.jpg)
 
-# Header: 1642 AD - 1651 AD 
-
-English Civil War
+# Header: The English Civil War - 1642 AD to 1651 AD 
 
 The predominant opinion in the county of Shropshire was for the king.  Most towns in Shropshire were royalist; the main parliamentary centre was Wem.
 
@@ -482,7 +502,7 @@ Now a museum, little is actually known of the origin and history of the building
 Abraham Darby I successfully produces pig iron in a blast furnace fuelled by coke rather than charcoal.
 ![](../1shropshire/assets/images/history/2015-07-25_14_57_18_DSC_0036_DxO.jpg)
 
-# Header: 1714 AD
+# Header: The Georgian Period - 1714 AD
 
 Start of the Georgian Period
 
@@ -522,7 +542,7 @@ Considered to be the centre of Ludlow (and the highest point) and once the site 
 The Bedlam Furnaces were built by the Madeley Wood Furnace Company between 1757 and 1759 - they are the most complete set of furnaces from this period in the country.  They were used to transform iron ore into molten iron, and were among the first to use coke as a fuel instead of charcoal.  The Bedlam Furnaces ceased operation in 1843 when the company moved production to the larger furnaces at Blists Hill.
 ![](../1shropshire/assets/images/history/2020-07-31_05_26_59_DSC_7620_DxO.jpg)
 
-# Header: 1760 AD - 1840 AD
+# Header: The Industrial Revolution - 1760 AD to 1840 AD
 
 Industrial Revolution
 
@@ -712,7 +732,7 @@ In 1886 the site was leased to Thomas Groom who installed the Wrekin Chemical Wo
 Three blast furnaces built by the Madeley Wood Company in 1832, 1840 and 1840 - they remained in use until 1912.  The furnaces replaced the two Bedlam blast furnaces - the completion of the Shropshire Canal and the building of the Hay Inclined Plane in the early 1790s provided a means of bringing in the raw materials and taking away the finished goods.
 ![](../1shropshire/assets/images/history/2016-08-12_13_02_04_DSC00989_DxO.jpg)
 
-# Header: 1837 AD
+# Header: The Victorian Age - 1837 AD
 
 Start of the Victorian age
 
@@ -848,7 +868,7 @@ A local builder, Rowland Smitheman, took over a row of cottages which he then co
 Henry Eckford was a Scottish horticulturist and reputedly the most famous breeder of sweet peas.  In 1888 he moved to Wem and it was in Wem that he perfected the breeding of his Grandiflora sweet peas.  He is buried at the Whitchurch Road Cemetery in Wem.
 ![](../1shropshire/assets/images/history/photo-needed.jpg)
 
-# Header: 1889 AD
+# Header: Salop County Council - 1889 AD
 
 Salop County Council is set up following the Local Government Act 1888.
 
@@ -902,7 +922,7 @@ Most of the present buildings were constructed in the period 1830 to 1880, when 
 Mining ceased in 1955.
 ![](../1shropshire/assets/images/history/2018-06-11_11_46_52_DSC_2591_DxO.jpg)
 
-# Header: 20th Century
+# Header: Modern Britain - 20th Century
 
 Modern Britain
 
@@ -1021,7 +1041,7 @@ Originally a storage facility for the RAF museum at Hendon, the Cosford site was
 In 2002 the RAF Museum Conservation Centre was relocated to Cosford.  The site now houses many very rare aircraft.
 ![](../1shropshire/assets/images/history/photo-needed.jpg)
 
-# Header: 1980 AD
+# Header: Shropshire - 1980 AD
 
 On the 1st April 1980 the name change to Shropshire comes into effect.
 
