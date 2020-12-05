@@ -58,17 +58,15 @@ Following the collapse of the Romano-British administration, the Cornovii territ
 
 It is possible that the area of Shrewsbury was first settled in the 5th Century by refugees from Wroxeter.  Also, it is possible that the king of Powys moved his court to the same area to resist the encroaching Anglian advances.
 
-# Header: Battle of Chester - 616 AD
-
-The Battle of Chester was fought between the Northumbrians and the kingdoms of Northern Wales.  Although the Welsh were victorious, the prince of eastern Powys was killed soon after the battle and his sones fled to Powys, consequently Shropshire came under the control of the Saxon Mercian kingdom.
-
-The name "Mercia" is Old English for "boundary folk".
+# Header: Integration with Mercia
 
 It is likely that the Cornovii territory was partitioned and ruled by different princes, probably perpetuated in the ancient boundaries between the dioceses of Lichfield and Hereford.
 
 Eventually, the northern part of Shropshire was part of the Anglo-Saxon territory of Wreocensaete (sometimes anglicised to Wrekinsets, the name approximates to Wrekin-dwellers) and the southern part of Shropshire probably belonged to the Magonsaete (a minor sub-kingdom of the greater Anglo-Saxon kingdom of Mercia).
 
-The northern and southern parts of Shropshire were absorbed into the Saxon kingdom of Mercia by King Offa (Offa ruled Mercia from 757 to 796).
+The northern and southern parts of Shropshire were absorbed into the Saxon kingdom of Mercia by King Offa (Offa ruled Mercia from 757 to 796).  In 765 AD he constructed Watt's Dyke to defend his territory against the Welsh, and in 779 AD, having pushed across the River Severn, drove the Welsh King of Powys from Shrewsbury, he secured his conquests by a second defensive earthwork known as Offa's Dyke.
+
+The name "Mercia" is Old English for "boundary folk".
 
 Shrewsbury was probably founded as a town in the 8th Century by the Saxon rulers of Mercia, who needed a fortified burh to control the Severn river-crossing on the road between the burhs of Hereford and Chester.
 

@@ -146,6 +146,17 @@ A well-preserved memorial chapel built for the Scott family.
 ![](../1shropshire/assets/images/churches/2019-09-21_12_02_47_DSC_5090_DxO.jpg)
 - Sub-Image: 2019-09-21_11_41_02_DSC_5080_DxO.jpg
 
+# Name: Holy Trinity, Bicton
+- Area: North
+- Date: 1885 AD
+
+At the time of the Domesday Book, Bicton was part of the holding of St Chad's church and the original church here was a chapel of ease for St Chad's.
+
+The original church was replaced in 1885 by the present one.  Designed by Lloyd-Oswell, tt is considered to the best of his Shropshire churches.  It is constructed of local stone.
+
+The place name in Old English means 'Beak Hill' (bic is a point or bees nest and dun is a hill in Old English), referring to the shape of the hill that the town is situated on
+![](../1shropshire/assets/images/churches/2020-12-05_14_57_07_DSC_9194_DxO_1.jpg)
+
 # Name: St John the Baptist, Bishop's Castle
 - Area: South
 - Date: 13th Century AD
