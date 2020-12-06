@@ -60,6 +60,8 @@ It is possible that the area of Shrewsbury was first settled in the 5th Century 
 
 # Header: Integration with Mercia
 
+Pengwern - Citation needed
+
 It is likely that the Cornovii territory was partitioned and ruled by different princes, probably perpetuated in the ancient boundaries between the dioceses of Lichfield and Hereford.
 
 Eventually, the northern part of Shropshire was part of the Anglo-Saxon territory of Wreocensaete (sometimes anglicised to Wrekinsets, the name approximates to Wrekin-dwellers) and the southern part of Shropshire probably belonged to the Magonsaete (a minor sub-kingdom of the greater Anglo-Saxon kingdom of Mercia).
