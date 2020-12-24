@@ -1,3 +1,8 @@
+### 24 Dec 2020
+Added the following item:
+
+- Kenley Church
+
 ### 05 Dec 2020
 Added the following items:
 
