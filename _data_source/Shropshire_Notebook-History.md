@@ -56,7 +56,9 @@ England is subject to successive invasions of Germanic tribesmen (Angles, Saxons
 
 The Cornovian tribal area is under the rule of the Kingdom of Pengwern (little is known about Pengwern and how it came about, although according to Welsh tradition it was part of the Welsh kingdom of Powys). Early Powys, much larger in extent than the later medieval kingdom, is thought to have roughly coincided with the territory of the Cornovii tribe whose civitas capital or administrative centre was Viroconium Cornoviorum.
 
-It is possible that the area of Shrewsbury was first settled in the 5th Century by refugees from Wroxeter. Also, at this time the king of Powys may have moved his court to the same area to resist the encroaching Anglian advances. Wroxeter’s abandonment as a settlement cannot be precisely dated, however, but may have occurred in the mid sixth century, when a 'Great Plague' is known to have swept through Britain, or possibly in the seventh century, when the Anglo-Saxons took control of the region.
+It is possible that the area of Shrewsbury was first settled in the 5th Century by refugees from Wroxeter. Also, at this time the king of Powys may have moved his court to the same area to resist the encroaching Anglian advances.
+
+Wroxeter’s abandonment as a settlement cannot be precisely dated, however, but may have occurred in the mid sixth century, when a 'Great Plague' is known to have swept through Britain, or possibly in the seventh century, when the Anglo-Saxons took control of the region.
 
 # Name: Battle of Maserfield, Oswestry
 - Date: 641 AD or 642 AD
