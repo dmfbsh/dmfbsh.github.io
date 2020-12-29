@@ -92,7 +92,7 @@ The first kings of Mercia were pagans, and they resisted the encroachment of Chr
 
 Mercian rulers remained resolutely pagan until the reign of Peada in 656. The first appearance of Christianity in Mercia, however, had come at least thirty years earlier, following the Battle of Cirencester of 628, when Penda incorporated the formerly West Saxon territories of Hwicce into his kingdom, but Penda remained Pagan until his death.  Penda respected the Christians and even allowed them to operate more widely in Mercia.  However, not much progress was made in converting the nobles and people of Mercia.
 
-The diocese of Mercia was founded 656 by Diuma (the first Bishop of Mercia).
+The diocese of Mercia was founded in 656 by Diuma (the first Bishop of Mercia).
 
 In 669 AD, the King of Mercia, Wulfhere, had requested a new bishop, as Mercia was without one following the death of the previous incumbent, Chad was dispatched by the Archbishop.  And so, after an inconclusive start, decisive steps to Christianise Mercia were being taken; Chad was the fifth bishop to minister to the Mercians and is credited with introducing Christianity to the Mercian kingdom.  Wulfhere gave Chad land to build a monasterary at Lichfield.
 

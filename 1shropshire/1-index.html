@@ -37,50 +37,12 @@ The Normans, however, found the name difficult to pronounce and so softened the 
 <p style="color:#DDDDDD;"><b><a href="1-references.html">Useful References</a></b></p>
 </div>
 <div class="columntr">
-<div id="slideshow">
-{% for image in site.static_files %}
-    {% if image.path contains 'castles/' %}
-    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
-        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
-    {% endunless %}
-    {% endif %}
-    {% if image.path contains 'churches/' %}
-    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
-        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
-    {% endunless %}
-    {% endif %}
-    {% if image.path contains 'gardens/' %}
-    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
-        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
-    {% endunless %}
-    {% endif %}
-    {% if image.path contains 'history/' %}
-    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
-        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
-    {% endunless %}
-    {% endif %}
-    {% if image.path contains 'houses/' %}
-    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
-        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
-    {% endunless %}
-    {% endif %}
-    {% if image.path contains 'landscape/' %}
-    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
-        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
-    {% endunless %}
-    {% endif %}
-    {% if image.path contains 'miscellaneous/' %}
-    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
-        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
-    {% endunless %}
-    {% endif %}
-    {% if image.path contains 'places/' %}
-    {% unless image.path contains 'photo-needed.jpg' or image.path contains 'flag.png' %}
-        <div><img src="{{ image.path | remove: "/1shropshire/" }}" alt="image" style="max-width:400px;max-height:400px"/></div>
-    {% endunless %}
-    {% endif %}
-{% endfor %}
-</div>
+<div><img src="assets/images/Map1.jpg" alt="image" style="max-width:400px;max-height:400px"/></div>
+<p style="color:#DDDDDD; font-size: 10px;"><i>Speed, 1611</i></p>
+<div><img src="assets/images/Map2.jpg" alt="image" style="max-width:400px;max-height:400px"/></div>
+<p style="color:#DDDDDD; font-size: 10px;"><i>Saxton/Hole 1627</i></p>
+<div><img src="assets/images/Map3.jpg" alt="image" style="max-width:400px;max-height:400px"/></div>
+<p style="color:#DDDDDD; font-size: 10px;"><i>Morden, 1695</i></p>
 </div>
 </div>
 

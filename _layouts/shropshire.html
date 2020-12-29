@@ -39,25 +39,6 @@ li.tb a:hover {
 }
 </style>
 
-<!-- Style used by the slideshoow -->
-<style>
-#slideshow { 
-   margin: 50px auto; 
-   position: relative; 
-   width: 440px; 
-   height: 440px; 
-   padding: 10px; 
-   box-shadow: 0 0 20px rgba(0,0,0,0.4); 
-}
-#slideshow > div { 
-   position: absolute; 
-   top: 10px; 
-   left: 10px; 
-   right: 10px; 
-   bottom: 10px; 
-}
-</style>
-
 <!-- Style used by the timeline -->
 <style>
 * {
@@ -228,15 +209,5 @@ position:absolute;
 
 {{ content }}
 
-<!-- Script used by slideshow -->
-<script src="assets/js/jquery.min.js"></script>
-<script>
-$("#slideshow > div:gt(0)").hide();
-setInterval(function() {
-	var rand = Math.floor(Math.random() * ($('#slideshow').children().length-1));
-	$('#slideshow > :first-child').appendTo('#slideshow').fadeOut(1000);
-	$('#slideshow > *').eq(rand).prependTo('#slideshow').fadeIn(1000);
-},  3000);
-</script>
 </body>
 </html>
