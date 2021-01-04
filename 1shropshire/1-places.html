@@ -1,121 +1,182 @@
 ---
-layout: shropshire
+layout: shropshire-bs
 title: Towns of Shropshire
-imagefolder: places
 ---
 
-{% include 1-header.html %}
+{% include 1-header-bs.html %}
 
+{% assign numrecs = 0 %}
+
+<div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
 <hr>
 <h2>Bridgnorth</h2>
+</div>
+</div>
+</div>
+</div>
 
+<div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
 <hr>
 <h2>Ludlow</h2>
+</div>
+</div>
+</div>
+</div>
 
 {% for item in site.data.Shropshire_Notebook-Ludlow %}
-
-{% if item.Type == "Item" %}
-
-{% if orientation == "left" %}
-  {% assign orientation = "right" %}
-  <div class="columnpr">
-  <h3>{{ item.Name }}</h3>
-  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="" class="mc" style="max-width:100%">
-  {{ item.Description | markdownify }}
-  </div>
-  </div>
-{% else %}
-  {% assign orientation = "left" %}
-  <div class="rowh">
-  <div class="columnpl">
-  <h3>{{ item.Name }}</h3>
-  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="" class="mc" style="max-width:100%">
-  {{ item.Description | markdownify }}
-  </div>
-{% endif %}
-
-{% endif %}
-
+  {% assign numrecs = numrecs | plus: 1 %}
+  {% if item.Type == "Item" %}
+    {% if orientation == "left" %}
+      {% assign orientation = "right" %}
+<div class="col-md-6">
+<h3>{{ item.Name }}</h3>
+<img class="imgc" src="assets/images/places/{{ item.Thumbnail }}">
+<p>&nbsp;</p>{{ item.Description | markdownify }}
+</div>
+</div>
+</div>
+</div>
+    {% else %}
+      {% assign orientation = "left" %}
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>{{ item.Name }}</h3>
+<img class="imgc" src="assets/images/places/{{ item.Thumbnail }}">
+<p>&nbsp;</p>{{ item.Description | markdownify }}
+</div>
+    {% endif %}
+  {% endif %}
 {% endfor %}
-
 {% if orientation == "left" %}
+<div class="col-md-6">
+</div>
+</div>
+</div>
 </div>
 {% endif %}
 
+<div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
 <hr>
 <h2>Oswestry</h2>
+</div>
+</div>
+</div>
+</div>
 
+<div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
 <hr>
 <h2>Shrewsbury</h2>
-
+</div>
+</div>
+</div>
+</div>
+  
 {% assign orientation = "unknown" %}
 
 {% for item in site.data.Shropshire_Notebook-Shrewsbury %}
-
-{% if item.Type == "Item" %}
-
-{% if orientation == "left" %}
-  {% assign orientation = "right" %}
-  <div class="columnpr">
-  <h3>{{ item.Name }}</h3>
-  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="" class="mc" style="max-width:100%">
-  {{ item.Description | markdownify }}
-  </div>
-  </div>
-{% else %}
-  {% assign orientation = "left" %}
-  <div class="rowh">
-  <div class="columnpl">
-  <h3>{{ item.Name }}</h3>
-  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="" class="mc" style="max-width:100%">
-  {{ item.Description | markdownify }}
-  </div>
-{% endif %}
-
-{% endif %}
-
+  {% assign numrecs = numrecs | plus: 1 %}
+  {% if item.Type == "Item" %}
+    {% if orientation == "left" %}
+      {% assign orientation = "right" %}
+<div class="col-md-6">
+<h3>{{ item.Name }}</h3>
+<img class="imgc" src="assets/images/places/{{ item.Thumbnail }}">
+<p>&nbsp;</p>{{ item.Description | markdownify }}
+</div>
+</div>
+</div>
+</div>
+    {% else %}
+      {% assign orientation = "left" %}
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>{{ item.Name }}</h3>
+<img class="imgc" src="assets/images/places/{{ item.Thumbnail }}">
+<p>&nbsp;</p>{{ item.Description | markdownify }}
+</div>
+    {% endif %}
+  {% endif %}
 {% endfor %}
-
 {% if orientation == "left" %}
+<div class="col-md-6">
+</div>
+</div>
+</div>
 </div>
 {% endif %}
 
+<div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
 <hr>
 <h2>Telford</h2>
+</div>
+</div>
+</div>
+</div>
 
+<div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
 <hr>
 <h2>Whitchurch</h2>
+</div>
+</div>
+</div>
+</div>
 
 {% assign orientation = "unknown" %}
 
 {% for item in site.data.Shropshire_Notebook-Whitchurch %}
-
-{% if item.Type == "Item" %}
-
-{% if orientation == "left" %}
-  {% assign orientation = "right" %}
-  <div class="columnpr">
-  <h3>{{ item.Name }}</h3>
-  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="" class="mc" style="max-width:100%">
-  {{ item.Description | markdownify }}
-  </div>
-  </div>
-{% else %}
-  {% assign orientation = "left" %}
-  <div class="rowh">
-  <div class="columnpl">
-  <h3>{{ item.Name }}</h3>
-  <img src="assets/images/{{ page.imagefolder }}/{{ item.Thumbnail }}" alt="" class="mc" style="max-width:100%">
-  {{ item.Description | markdownify }}
-  </div>
-{% endif %}
-
-{% endif %}
-
+  {% assign numrecs = numrecs | plus: 1 %}
+  {% if item.Type == "Item" %}
+    {% if orientation == "left" %}
+      {% assign orientation = "right" %}
+<div class="col-md-6">
+<h3>{{ item.Name }}</h3>
+<img class="imgc" src="assets/images/places/{{ item.Thumbnail }}">
+<p>&nbsp;</p>{{ item.Description | markdownify }}
+</div>
+</div>
+</div>
+</div>
+    {% else %}
+      {% assign orientation = "left" %}
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>{{ item.Name }}</h3>
+<img class="imgc" src="assets/images/places/{{ item.Thumbnail }}">
+<p>&nbsp;</p>{{ item.Description | markdownify }}
+</div>
+    {% endif %}
+  {% endif %}
 {% endfor %}
-
 {% if orientation == "left" %}
+<div class="col-md-6">
+</div>
+</div>
+</div>
 </div>
 {% endif %}
 
-{% include 1-footer.html %}
+{% include 1-footer-bs.html %}

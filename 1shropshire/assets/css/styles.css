@@ -1,0 +1,73 @@
+img.imgl {
+  padding: 10px;
+  margin: 0px 0px 0px 10px;
+  border: 1px solid #f2f2f2;
+  max-width: 100%;
+}
+
+img.imgr {
+  padding: 10px;
+  margin: 0px 10px 0px 0px;
+  border: 1px solid #f2f2f2;
+  max-width: 100%;
+}
+
+img.imgc {
+  padding: 10px;
+  margin: 0px 0px 0px 0px;
+  border: 1px solid #f2f2f2;
+  max-width: 100%;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link:hover {
+  background-color: #f2f2f2;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #8caeca !important;
+}
+
+p {
+  color: var(--light) !important;
+}
+
+.h1, h1 {
+  color: var(--light);
+}
+
+.h2, h2 {
+  color: var(--light);
+}
+
+.h3, h3 {
+  color: var(--light);
+}
+
+.li, li {
+  color: var(--light);
+}
+
+/* Style used by churches sub-images */
+ul.sc {
+	padding: 0;
+	margin: 0px 0px;
+	list-style-type: none;
+}
+li.sc {
+	margin: 5px;
+	display: inline-block;
+}
+li.sc a {
+  padding: 5px;
+  display: inline-block;
+  border: 1px solid #f2f2f2;
+}
+li.sc a img {
+  width: auto;
+  height: 100px;
+  display: block;
+}
+li.sc a:hover img {
+  transform: scale(2.6);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

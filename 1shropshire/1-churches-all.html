@@ -1,34 +1,31 @@
 ---
-layout: shropshire
+layout: shropshire-bs
 title: Churches of Shropshire - Summary
 ---
 
-{% include 1-header.html %}
+{% include 1-header-bs.html %}
 
 {% assign numrecs = 0 %}
 
 {% for item in site.data.Shropshire_Notebook-Churches %}
-
-{% assign numrecs = numrecs | plus: 1 %}
-
-{% if item.Type == "Item" %}
-
-<div class="rowh">
-  <div class="columnhl">
-    <img src="assets/images/churches/{{ item.Thumbnail }}" alt="" class="ml" align="right" style="max-width:100%">
-  </div>
-  <div class="columnhr">
-    <h3>{{ item.Name }}</h3>
-    <p><b>Location: {{ item.Area }}</b></p>
-    <p><b>Date: {{ item.Date }}</b></p>
-    <p>{{ item.Description | markdownify }}</p>
-  </div>
+  {% assign numrecs = numrecs | plus: 1 %}
+  {% if item.Type == "Item" %}
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6 col-lg-3">
+<img src="assets/images/churches/{{ item.Thumbnail }}" alt="" class="imgl" align="right">
 </div>
-
-{% endif %}
-
+<div class="col-md-6 col-lg-9">
+<h3>{{ item.Name }}</h3>
+<p><b>Location: {{ item.Area }}</b></p>
+<p><b>Date: {{ item.Date }}</b></p>
+{{ item.Description | markdownify }}
+</div>
+</div>
+</div>
+</div>
+  {% endif %}
 {% endfor %}
 
-<p>Number of records: {{ numrecs }}</p>
-
-{% include 1-footer.html %}
+{% include 1-footer-bs.html %}

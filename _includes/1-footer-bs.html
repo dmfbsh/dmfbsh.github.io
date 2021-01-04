@@ -1,0 +1,17 @@
+<div class="footer-basic" style="background: var(--gray-dark);">
+    {% if numrecs %}
+    <p style="text-align: center;color: rgb(170,170,170);">Number of Items: {{ numrecs }}</p>
+    {% endif %}
+    <footer>
+        <ul class="list-inline">
+            <li class="list-inline-item"><a href="../index.html" style="color: rgb(170,170,170);">Home</a></li>
+            {% if page.maplink %}
+            <li class="list-inline-item"><a href="{{ page.maplink }}" style="color: rgb(170,170,170);" target="_blank">Map</a></li>
+            {% endif %}
+            <li class="list-inline-item"><a href="1-references.html" style="color: rgb(170,170,170);">References</a></li>
+            <li class="list-inline-item"><a href="1-updates.html" style="color: rgb(170,170,170);">Updates</a></li>
+            <li class="list-inline-item"><a href="1-about.html" style="color: rgb(170,170,170);">About</a></li>
+        </ul>
+        <p class="copyright">Generated: {{ "now" | date: "%Y-%m-%d %H:%M" }}</p>
+    </footer>
+</div>

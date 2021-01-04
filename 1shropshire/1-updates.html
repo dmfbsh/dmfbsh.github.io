@@ -1,0 +1,19 @@
+---
+layout: shropshire-bs
+title: Update History
+---
+
+{% include 1-header-bs.html %}
+
+<div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+{% capture my_include %}{% include_relative 1-updates.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>
+</div>
+</div>
+</div>
+
+{% include 1-footer-bs.html %}
