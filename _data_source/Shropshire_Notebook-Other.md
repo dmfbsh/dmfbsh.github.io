@@ -153,6 +153,11 @@ An ancient yew tree, thought to be between 1000 and 2000 years old.
 A preaching cross in the churchyard - the present shaft and cross is probably Victorian (most likley installed when the church's chancel was rebuilt in 1865).  The base most likely dates from Saxon times.
 ![](../1shropshire/assets/images/other/2019-12-21_14_47_24_DSC_6020_DxO_bw.jpg)
 
+# Name: The Ironbridge at Christmas, Ironbridge
+
+TBD
+![](../1shropshire/assets/images/other/2020-12-26_16_18_07_IMG_6387_DxO.jpg)
+
 # Name: War Memorial, Ironbridge
 
 TBD

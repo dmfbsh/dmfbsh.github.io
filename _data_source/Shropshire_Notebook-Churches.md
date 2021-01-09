@@ -133,7 +133,7 @@ There is a vertical sun dial on the church with an eye constructed of glass tess
 St Bartholomew was the patron saint of bees.  At one time a bee hive was kept in the church, the honey was sold or given away to help the poor of the community.  The bees used to access the hive through the mouth of the lion's head carving which is just beneath the sun dial.
 
 The place-name means 'nook of land where the bent-grass grows', this derives from the Old English 'beonet' whicn means bent-grass and 'halh' (Anglian) which means a nook of land, a small valley, dry ground in marsh, or a piece of land projecting from, or detached from, the main area of its administrative unit.
-![](../1shropshire/assets/images/churches/2020-09-20_16_45_54_DSC_8701_DxO_1_bw.jpg)
+![](../1shropshire/assets/images/churches/2020-12-31_13_15_37_DSC_9209_DxO.jpg)
 - Sub-Image: 2020-09-20_16_32_27_DSC_8690_DxO.jpg
 - Sub-Image: 2020-09-20_16_40_31_DSC_8694_DxO.jpg
 - Sub-Image: 2020-09-20_16_42_41_DSC_8695_DxO.jpg
@@ -974,6 +974,19 @@ It is noted for being one of just a small number of half timbered churches in th
 ![](../1shropshire/assets/images/churches/2019-06-01_11_14_24_DSC_4420_DxO_L.jpg)
 - Sub-Image: 2019-06-01_11_16_57_DSC_4422_DxO.jpg
 - Sub-Image: 2019-06-01_11_20_14_DSC_4424_DxO.jpg
+
+# Name: Holy Trinity, Meole Brace
+- Area: North
+- Date: 1867 to 1868 AD
+
+The present building is Victorian, it replaces an 18th Century brick church which itself replaced a medieval church.
+
+The church is considered to be the best Edward Haycock junior designed church in Shropshire (he is responsible for six other churches in the county).
+
+The church is noted as it houses one of the best sets of stained glass by Morris and Co in the country.  There are windows by Burne-Jones, Maddox Brown and Morris.  There are also two windows in a different style by Kempe.
+
+Meole Brace was originally a separate village, the manor of Meole is recorded in the Domesday book.  Meole is the name of the river and Brace is derived from Aldolf de Bracy who held the manor in 1206.
+![](../1shropshire/assets/images/churches/2021-01-02_15_31_04_DSC_9214_DxO.jpg)
 
 # Name: St Bartholomew, Moreton Corbet
 - Area: North

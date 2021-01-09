@@ -1,6 +1,12 @@
 ### 03 Jan 2021
 Re-engineer the site to use the BootStrap framework.
 
+Added the following item:
+
+- Meole Brace Church
+- The Iron Bridge at Christmas
+- Billy Wright (to people only)
+
 ### 24 Dec 2020
 Added the following item:
 

@@ -70,6 +70,14 @@ He was one of the leading poets of the First World War.
 Richard Munslow is believed to be the last known 'sin-eater' in England.
 ![](../1shropshire/assets/images/people/2019-05-06_15_36_39_DSC_4221_DxO.jpg)
 
+# Name: Billy Wright Born
+- Date: 1924 AD
+
+William (Billy) Wright was born at 33 Belmont Road, Ironbridge.
+
+Wright spent his entire club career at Wolverhampton Wanderers.  He is the first footballer in the world to earn 100 international caps, Wright also holds the record for longest unbroken run in competitive international football.  He also made a total of 105 appearances for England, captaining them a record 90 times.
+![](../1shropshire/assets/images/people/2020-12-26_16_20_47_IMG_6390_DxO.jpg)
+
 # Name: Percy Thrower Moves to Shrewsbury
 - Date: 1946 AD
 
