@@ -728,7 +728,7 @@ The church has 15th Century origins and was partly rebuilt in the 19th Century (
 The area was originally part of the parish of Madeley, but with the growth of the population due to the bridge, it was thought necessary for Ironbridge to have its own church.
 
 The position of Ironbridge church is the reverse of the majority of churches, the sanctuary is at the west end and the tower at the east end.  This is because the land at the west end would not bear the weight of a tower.
-![](../1shropshire/assets/images/churches/2020-01-12_12_15_40_DSC_6177_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2020-01-12_12_15_40_DSC_6177_DxO_1.jpg)
 
 # Name: St Mary, Jackfield
 - Area: North

@@ -36,7 +36,7 @@ TBD
 # Name: Stone Cross, Bitterley
 
 Dating from the 14th Century, a stone cross in the churchyard of St Mary's church at Bitterley.  This one is thought to be the finest surviving stone cross in the county.
-![](../1shropshire/assets/images/other/2019-08-26_14_13_36_DSC_4874_DxO_L.jpg)
+![](../1shropshire/assets/images/other/2019-08-26_14_13_36_DSC_4874_DxO_1.jpg)
 
 # Name: Blakemoorgate Cottages
 
