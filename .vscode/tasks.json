@@ -4,46 +4,31 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Deploy AHK Scripts",
-            "type": "shell",
-            "command": "ant -buildfile ahkbuild.xml",
+            "label": "1. Build Shropshire Site",
             "group": "build",
-            "presentation": {
-                "reveal": "always",
-                "panel": "new"
-            },
+            "dependsOrder": "sequence",
+            "dependsOn": ["Convert MD to YML", "Generate Recents", "Jekyll Shropshire Site"],
             "problemMatcher": []
         },
         {
-            "label": "Build Documentation Site",
-            "type": "shell",
-            "command": "jekyll build --verbose --config _config0.yml",
-            "group": "build",
-            "presentation": {
-                "reveal": "always",
-                "panel": "new"
-            },
-            "problemMatcher": []
-        },
-        {
-            "label": "Build Shropshire Site",
+            "label": "Jekyll Shropshire Site",
             "type": "shell",
             "command": "jekyll build --verbose --config _config1.yml",
             "group": "build",
             "presentation": {
                 "reveal": "always",
-                "panel": "new"
+                "panel": "shared"
             },
             "problemMatcher": []
         },
         {
-            "label": "Build F1 Stamps Site",
+            "label": "4. Jekyll F1 Stamps Site",
             "type": "shell",
             "command": "jekyll build --verbose --config _config2.yml",
             "group": "build",
             "presentation": {
                 "reveal": "always",
-                "panel": "new"
+                "panel": "shared"
             },
             "problemMatcher": []
         },
@@ -54,7 +39,7 @@
             "group": "build",
             "presentation": {
                 "reveal": "always",
-                "panel": "new"
+                "panel": "shared"
             },
             "options": {
                 "cwd": "_ruby"
@@ -68,10 +53,90 @@
             "group": "build",
             "presentation": {
                 "reveal": "always",
-                "panel": "new"
+                "panel": "shared"
             },
             "options": {
                 "cwd": "_ruby"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Deploy - INI File",
+            "type": "shell",
+            "command": "COPY /Y \"Shropshire Photography.ini\" \"${config:DB_dest}\"",
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "options": {
+                "cwd": "_database"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Deploy - sqlite3.dll File",
+            "type": "shell",
+            "command": "COPY /Y \"sqlite3.dll\" \"${config:DB_dest}\"",
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "options": {
+                "cwd": "_database"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Deploy - Shropshire Photography.ahk",
+            "type": "shell",
+            "command": "${config:vscode-ahk-plus.compilePath}",
+            "args": ["/in", "Shropshire Photography.ahk", "/out", "${config:DB_dest}\\Shropshire Photography.exe"],
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "options": {
+                "cwd": "_database"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Deploy - Shropshire Features.ahk",
+            "type": "shell",
+            "command": "${config:vscode-ahk-plus.compilePath}",
+            "args": ["/in", "Shropshire Features.ahk", "/out", "${config:DB_dest}\\Shropshire Features.exe"],
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "options": {
+                "cwd": "_database"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "2. Deploy AHK",
+            "group": "build",
+            "dependsOrder": "sequence",
+            "dependsOn": ["Deploy - INI File", "Deploy - sqlite3.dll File", "Deploy - Shropshire Photography.ahk", "Deploy - Shropshire Features.ahk"],
+            "problemMatcher": []
+        },
+        {
+            "label": "3. Deploy - Church Subimages.ahk",
+            "type": "shell",
+            "command": "${config:vscode-ahk-plus.compilePath}",
+            "args": ["/in", "Church Subimages.ahk", "/out", "${config:DB_dest}\\Church Subimages.exe"],
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "options": {
+                "cwd": "_database"
             },
             "problemMatcher": []
         }

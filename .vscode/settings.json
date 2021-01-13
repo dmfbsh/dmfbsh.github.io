@@ -10,5 +10,7 @@
 			"extensionName": "db",
 			"apps": [{"title" : "DB Browser for SQLite", "openCommand" : "C:/Program Files/DB Browser for SQLite/DB Browser for SQLite.exe"}]
 		}
-	]
+	],
+	"terminal.integrated.shell.windows": "cmd.exe",
+	"DB_dest": "C:\\Users\\David\\Documents\\OneDrive\\Documents\\My Documents\\3. Shropshire\\Web Site"
 }
