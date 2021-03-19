@@ -1,12 +1,13 @@
+# Popup for: Ferrari D50
 - Popup: Ferrari D50
   Stamps:
-  - Image: stamp0361.jpg
+  - Image: stamp0046cc.jpg
+    Width: 200
+  - Image: stamp0231cc.jpg
+    Width: 200
+  - Image: stamp0316.jpg
     Width: 400
   - Image: stamp0342.jpg
     Width: 400
-  - Image: stamp0316.jpg
+  - Image: stamp0361.jpg
     Width: 400
-  - Image: stamp0231cc.jpg
-    Width: 200
-  - Image: stamp0046cc.jpg
-    Width: 200

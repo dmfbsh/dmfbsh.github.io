@@ -1,17 +1,18 @@
+# List of Drivers by Season in a Decade
 - Year: 1980
   Drivers:
   - Name: Alain Prost
-    Count: 27
+    Count: 31
     Images:
-      - Image: stamp0708ad.jpg
-      - Image: stamp0626.jpg
-      - Image: stamp0611dd.jpg
-      - Image: stamp0141bd.jpg
+      - Image: stamp0256.jpg
+      - Image: stamp0291ed.jpg
+      - Image: stamp0409bd.jpg
+      - Image: stamp0388hd.jpg
   - Name: Alan Jones
     Count: 2
     Images:
-      - Image: stamp0620.jpg
       - Image: stamp0216bd.jpg
+      - Image: stamp0620.jpg
   - Name: Andrea de Cesaris
     Count: 1
     Images:
@@ -19,14 +20,14 @@
   - Name: Carlos Reutemann
     Count: 3
     Images:
-      - Image: stamp0621.jpg
       - Image: stamp0323bd.jpg
+      - Image: stamp0621.jpg
       - Image: stamp0363ad.jpg
   - Name: Clay Regazzoni
     Count: 4
     Images:
-      - Image: stamp0010bd.jpg
       - Image: stamp0004bd.jpg
+      - Image: stamp0010bd.jpg
       - Image: stamp0088ed.jpg
       - Image: stamp0603cd.jpg
   - Name: Didier Pironi
@@ -37,58 +38,58 @@
     Count: 4
     Images:
       - Image: stamp0561ed.jpg
+      - Image: stamp0201ad.jpg
       - Image: stamp0203.jpg
       - Image: stamp0388fd.jpg
-      - Image: stamp0201ad.jpg
   - Name: Emerson Fittipaldi
     Count: 11
     Images:
+      - Image: stamp0201cd.jpg
       - Image: stamp0088fd.jpg
-      - Image: stamp0114bd.jpg
-      - Image: stamp0010hd.jpg
+      - Image: stamp0416.jpg
       - Image: stamp0362.jpg
   - Name: Gilles Villeneuve
     Count: 8
     Images:
+      - Image: stamp0168ad.jpg
       - Image: stamp0027.jpg
-      - Image: stamp0014bd.jpg
-      - Image: stamp0653bd.jpg
-      - Image: stamp0603fd.jpg
+      - Image: stamp0491.jpg
+      - Image: stamp0364ad.jpg
   - Name: Jody Scheckter
     Count: 7
     Images:
       - Image: stamp0139gd.jpg
-      - Image: stamp0302.jpg
       - Image: stamp0603dd.jpg
       - Image: stamp0170ad.jpg
+      - Image: stamp0099ad.jpg
   - Name: Keke Rosberg
     Count: 5
     Images:
+      - Image: stamp0505.jpg
+      - Image: stamp0622.jpg
       - Image: stamp0216dd.jpg
       - Image: stamp0074dd.jpg
-      - Image: stamp0622.jpg
-      - Image: stamp0505.jpg
   - Name: Mario Andretti
     Count: 7
     Images:
-      - Image: stamp0074fd.jpg
       - Image: stamp0357.jpg
-      - Image: stamp0009gd.jpg
-      - Image: stamp0388dd.jpg
+      - Image: stamp0074fd.jpg
+      - Image: stamp0478.jpg
+      - Image: stamp0477.jpg
   - Name: Nelson Piquet
     Count: 12
     Images:
       - Image: stamp0506.jpg
       - Image: stamp0190dd.jpg
-      - Image: stamp0621.jpg
-      - Image: stamp0216cd.jpg
+      - Image: stamp0074gd.jpg
+      - Image: stamp0578.jpg
   - Name: Nigel Mansell
-    Count: 26
+    Count: 41
     Images:
-      - Image: stamp0601bd.jpg
       - Image: stamp0479fd.jpg
-      - Image: stamp0084cd.jpg
-      - Image: stamp0479ed.jpg
+      - Image: stamp0578.jpg
+      - Image: stamp0479ad.jpg
+      - Image: stamp0626.jpg
   - Name: Rene Arnoux
     Count: 3
     Images:
@@ -98,17 +99,17 @@
   - Name: Riccardo Patrese
     Count: 2
     Images:
-      - Image: stamp0181.jpg
       - Image: stamp0561cd.jpg
+      - Image: stamp0181.jpg
 - Year: 1981
   Drivers:
   - Name: Alain Prost
-    Count: 27
+    Count: 31
     Images:
-      - Image: stamp0409cd.jpg
-      - Image: stamp0291ed.jpg
-      - Image: stamp0409bd.jpg
-      - Image: stamp0633.jpg
+      - Image: stamp0388hd.jpg
+      - Image: stamp0729.jpg
+      - Image: stamp0728.jpg
+      - Image: stamp0579.jpg
   - Name: Alan Jones
     Count: 2
     Images:
@@ -131,58 +132,58 @@
   - Name: Elio de Angelis
     Count: 4
     Images:
-      - Image: stamp0561ed.jpg
+      - Image: stamp0388fd.jpg
       - Image: stamp0201ad.jpg
       - Image: stamp0203.jpg
-      - Image: stamp0388fd.jpg
+      - Image: stamp0561ed.jpg
   - Name: Gilles Villeneuve
     Count: 8
     Images:
-      - Image: stamp0364ad.jpg
-      - Image: stamp0168ad.jpg
-      - Image: stamp0027.jpg
+      - Image: stamp0603fd.jpg
       - Image: stamp0653bd.jpg
+      - Image: stamp0491.jpg
+      - Image: stamp0014bd.jpg
   - Name: Keke Rosberg
     Count: 5
     Images:
-      - Image: stamp0216dd.jpg
       - Image: stamp0622.jpg
-      - Image: stamp0603gd.jpg
+      - Image: stamp0074dd.jpg
+      - Image: stamp0216dd.jpg
       - Image: stamp0505.jpg
   - Name: Mario Andretti
     Count: 7
     Images:
-      - Image: stamp0009gd.jpg
       - Image: stamp0357.jpg
-      - Image: stamp0477.jpg
       - Image: stamp0099cd.jpg
+      - Image: stamp0478.jpg
+      - Image: stamp0009gd.jpg
   - Name: Michele Alboreto
     Count: 5
     Images:
-      - Image: stamp0504.jpg
-      - Image: stamp0561dd.jpg
-      - Image: stamp0557.jpg
       - Image: stamp0603hd.jpg
+      - Image: stamp0561dd.jpg
+      - Image: stamp0205.jpg
+      - Image: stamp0504.jpg
   - Name: Nelson Piquet
     Count: 12
     Images:
-      - Image: stamp0623.jpg
-      - Image: stamp0190dd.jpg
+      - Image: stamp0074gd.jpg
       - Image: stamp0216cd.jpg
-      - Image: stamp0578.jpg
+      - Image: stamp0627.jpg
+      - Image: stamp0189ed.jpg
   - Name: Nigel Mansell
-    Count: 26
+    Count: 41
     Images:
-      - Image: stamp0479ed.jpg
-      - Image: stamp0037fd.jpg
-      - Image: stamp0074hd.jpg
-      - Image: stamp0092.jpg
+      - Image: stamp0626.jpg
+      - Image: stamp0045gd.jpg
+      - Image: stamp0479fd.jpg
+      - Image: stamp0370gd.jpg
   - Name: Rene Arnoux
     Count: 3
     Images:
-      - Image: stamp0507.jpg
       - Image: stamp0653cd.jpg
       - Image: stamp0623.jpg
+      - Image: stamp0507.jpg
   - Name: Riccardo Patrese
     Count: 2
     Images:
@@ -191,17 +192,17 @@
 - Year: 1982
   Drivers:
   - Name: Alain Prost
-    Count: 27
+    Count: 31
     Images:
-      - Image: stamp0009hd.jpg
-      - Image: stamp0658ad.jpg
-      - Image: stamp0152.jpg
       - Image: stamp0391.jpg
+      - Image: stamp0578.jpg
+      - Image: stamp0367.jpg
+      - Image: stamp0409ad.jpg
   - Name: Alan Jones
     Count: 2
     Images:
-      - Image: stamp0620.jpg
       - Image: stamp0216bd.jpg
+      - Image: stamp0620.jpg
   - Name: Andrea de Cesaris
     Count: 1
     Images:
@@ -209,8 +210,8 @@
   - Name: Carlos Reutemann
     Count: 3
     Images:
-      - Image: stamp0323bd.jpg
       - Image: stamp0363ad.jpg
+      - Image: stamp0323bd.jpg
       - Image: stamp0621.jpg
   - Name: Didier Pironi
     Count: 1
@@ -219,79 +220,79 @@
   - Name: Elio de Angelis
     Count: 4
     Images:
-      - Image: stamp0388fd.jpg
       - Image: stamp0201ad.jpg
-      - Image: stamp0203.jpg
       - Image: stamp0561ed.jpg
+      - Image: stamp0388fd.jpg
+      - Image: stamp0203.jpg
   - Name: Gilles Villeneuve
     Count: 8
     Images:
-      - Image: stamp0603fd.jpg
+      - Image: stamp0014bd.jpg
+      - Image: stamp0491.jpg
+      - Image: stamp0667bd.jpg
       - Image: stamp0168ad.jpg
-      - Image: stamp0653bd.jpg
-      - Image: stamp0364ad.jpg
   - Name: Keke Rosberg
     Count: 5
     Images:
-      - Image: stamp0603gd.jpg
-      - Image: stamp0505.jpg
       - Image: stamp0622.jpg
       - Image: stamp0216dd.jpg
+      - Image: stamp0603gd.jpg
+      - Image: stamp0074dd.jpg
   - Name: Mario Andretti
     Count: 7
     Images:
-      - Image: stamp0477.jpg
-      - Image: stamp0099cd.jpg
       - Image: stamp0009gd.jpg
-      - Image: stamp0074fd.jpg
+      - Image: stamp0477.jpg
+      - Image: stamp0357.jpg
+      - Image: stamp0478.jpg
   - Name: Michele Alboreto
     Count: 5
     Images:
-      - Image: stamp0603hd.jpg
       - Image: stamp0561dd.jpg
-      - Image: stamp0504.jpg
       - Image: stamp0205.jpg
+      - Image: stamp0603hd.jpg
+      - Image: stamp0557.jpg
   - Name: Nelson Piquet
     Count: 12
     Images:
-      - Image: stamp0074gd.jpg
+      - Image: stamp0621.jpg
       - Image: stamp0114cd.jpg
-      - Image: stamp0190dd.jpg
-      - Image: stamp0216cd.jpg
+      - Image: stamp0019.jpg
+      - Image: stamp0506.jpg
   - Name: Nigel Mansell
-    Count: 26
+    Count: 41
     Images:
-      - Image: stamp0176cd.jpg
-      - Image: stamp0171bd.jpg
-      - Image: stamp0070gd.jpg
-      - Image: stamp0091.jpg
+      - Image: stamp0092.jpg
+      - Image: stamp0189fd.jpg
+      - Image: stamp0632.jpg
+      - Image: stamp0509.jpg
   - Name: Niki Lauda
     Count: 25
     Images:
-      - Image: stamp0139fd.jpg
+      - Image: stamp0508.jpg
+      - Image: stamp0189hd.jpg
+      - Image: stamp0171ad.jpg
       - Image: stamp0355.jpg
-      - Image: stamp0568bd.jpg
-      - Image: stamp0721.jpg
   - Name: Rene Arnoux
     Count: 3
     Images:
-      - Image: stamp0623.jpg
-      - Image: stamp0507.jpg
       - Image: stamp0653cd.jpg
+      - Image: stamp0507.jpg
+      - Image: stamp0623.jpg
   - Name: Riccardo Patrese
     Count: 2
     Images:
-      - Image: stamp0181.jpg
       - Image: stamp0561cd.jpg
+      - Image: stamp0181.jpg
 - Year: 1983
   Drivers:
   - Name: Alain Prost
-    Count: 27
+    Count: 31
     Images:
-      - Image: stamp0367.jpg
-      - Image: stamp0323dd.jpg
+      - Image: stamp0658ad.jpg
+      - Image: stamp0189cd.jpg
       - Image: stamp0009hd.jpg
-      - Image: stamp0391.jpg
+      - Image: stamp0728.jpg
   - Name: Alan Jones
     Count: 2
     Images:
@@ -304,51 +305,51 @@
   - Name: Elio de Angelis
     Count: 4
     Images:
-      - Image: stamp0561ed.jpg
-      - Image: stamp0203.jpg
-      - Image: stamp0201ad.jpg
       - Image: stamp0388fd.jpg
+      - Image: stamp0203.jpg
+      - Image: stamp0561ed.jpg
+      - Image: stamp0201ad.jpg
   - Name: Keke Rosberg
     Count: 5
     Images:
-      - Image: stamp0505.jpg
       - Image: stamp0622.jpg
       - Image: stamp0603gd.jpg
       - Image: stamp0216dd.jpg
+      - Image: stamp0505.jpg
   - Name: Michele Alboreto
     Count: 5
     Images:
       - Image: stamp0603hd.jpg
-      - Image: stamp0205.jpg
-      - Image: stamp0557.jpg
       - Image: stamp0561dd.jpg
+      - Image: stamp0557.jpg
+      - Image: stamp0504.jpg
   - Name: Nelson Piquet
     Count: 12
     Images:
       - Image: stamp0114cd.jpg
-      - Image: stamp0621.jpg
+      - Image: stamp0627.jpg
       - Image: stamp0216cd.jpg
-      - Image: stamp0074gd.jpg
+      - Image: stamp0506.jpg
   - Name: Nigel Mansell
-    Count: 26
+    Count: 41
     Images:
-      - Image: stamp0091.jpg
-      - Image: stamp0176cd.jpg
-      - Image: stamp0189fd.jpg
-      - Image: stamp0479ed.jpg
+      - Image: stamp0479ad.jpg
+      - Image: stamp0045gd.jpg
+      - Image: stamp0479dd.jpg
+      - Image: stamp0479cd.jpg
   - Name: Niki Lauda
     Count: 25
     Images:
       - Image: stamp0716.jpg
-      - Image: stamp0722ad.jpg
-      - Image: stamp0727.jpg
-      - Image: stamp0715.jpg
+      - Image: stamp0121bd.jpg
+      - Image: stamp0099dd.jpg
+      - Image: stamp0603bd.jpg
   - Name: Rene Arnoux
     Count: 3
     Images:
-      - Image: stamp0507.jpg
-      - Image: stamp0653cd.jpg
       - Image: stamp0623.jpg
+      - Image: stamp0653cd.jpg
+      - Image: stamp0507.jpg
   - Name: Riccardo Patrese
     Count: 2
     Images:
@@ -357,12 +358,12 @@
 - Year: 1984
   Drivers:
   - Name: Alain Prost
-    Count: 27
+    Count: 31
     Images:
-      - Image: stamp0626.jpg
-      - Image: stamp0658ad.jpg
-      - Image: stamp0409bd.jpg
-      - Image: stamp0189cd.jpg
+      - Image: stamp0641bd.jpg
+      - Image: stamp0708ad.jpg
+      - Image: stamp0141bd.jpg
+      - Image: stamp0611dd.jpg
   - Name: Alan Jones
     Count: 2
     Images:
@@ -373,72 +374,72 @@
     Images:
       - Image: stamp0561fd.jpg
   - Name: Ayrton Senna
-    Count: 83
+    Count: 86
     Images:
-      - Image: stamp0144dd.jpg
-      - Image: stamp0707ad.jpg
-      - Image: stamp0253.jpg
-      - Image: stamp0407.jpg
+      - Image: stamp0189ad.jpg
+      - Image: stamp0640.jpg
+      - Image: stamp0539.jpg
+      - Image: stamp0174.jpg
   - Name: Elio de Angelis
     Count: 4
     Images:
+      - Image: stamp0561ed.jpg
       - Image: stamp0203.jpg
       - Image: stamp0388fd.jpg
-      - Image: stamp0561ed.jpg
       - Image: stamp0201ad.jpg
   - Name: Gerhard Berger
     Count: 7
     Images:
+      - Image: stamp0169ad.jpg
       - Image: stamp0010cd.jpg
+      - Image: stamp0601ad.jpg
       - Image: stamp0168bd.jpg
-      - Image: stamp0579.jpg
-      - Image: stamp0173ad.jpg
   - Name: Keke Rosberg
     Count: 5
     Images:
-      - Image: stamp0603gd.jpg
       - Image: stamp0216dd.jpg
-      - Image: stamp0505.jpg
+      - Image: stamp0622.jpg
       - Image: stamp0074dd.jpg
+      - Image: stamp0603gd.jpg
   - Name: Michele Alboreto
     Count: 5
     Images:
-      - Image: stamp0557.jpg
+      - Image: stamp0603hd.jpg
+      - Image: stamp0504.jpg
       - Image: stamp0205.jpg
       - Image: stamp0561dd.jpg
-      - Image: stamp0504.jpg
   - Name: Nelson Piquet
     Count: 12
     Images:
-      - Image: stamp0627.jpg
+      - Image: stamp0190dd.jpg
+      - Image: stamp0578.jpg
       - Image: stamp0216cd.jpg
-      - Image: stamp0074gd.jpg
-      - Image: stamp0621.jpg
+      - Image: stamp0019.jpg
   - Name: Nigel Mansell
-    Count: 26
+    Count: 41
     Images:
-      - Image: stamp0632.jpg
-      - Image: stamp0176cd.jpg
-      - Image: stamp0084cd.jpg
-      - Image: stamp0070gd.jpg
+      - Image: stamp0479fd.jpg
+      - Image: stamp0038fd.jpg
+      - Image: stamp0045gd.jpg
+      - Image: stamp0479bd.jpg
   - Name: Niki Lauda
     Count: 25
     Images:
-      - Image: stamp0177bd.jpg
+      - Image: stamp0356.jpg
+      - Image: stamp0189hd.jpg
       - Image: stamp0658cd.jpg
-      - Image: stamp0114dd.jpg
-      - Image: stamp0370hd.jpg
+      - Image: stamp0135.jpg
   - Name: Rene Arnoux
     Count: 3
     Images:
       - Image: stamp0623.jpg
-      - Image: stamp0653cd.jpg
       - Image: stamp0507.jpg
+      - Image: stamp0653cd.jpg
   - Name: Riccardo Patrese
     Count: 2
     Images:
-      - Image: stamp0181.jpg
       - Image: stamp0561cd.jpg
+      - Image: stamp0181.jpg
   - Name: Stefan Bellof
     Count: 1
     Images:
@@ -446,12 +447,12 @@
 - Year: 1985
   Drivers:
   - Name: Alain Prost
-    Count: 27
+    Count: 31
     Images:
-      - Image: stamp0578.jpg
-      - Image: stamp0388hd.jpg
-      - Image: stamp0256.jpg
-      - Image: stamp0176ad.jpg
+      - Image: stamp0626.jpg
+      - Image: stamp0409ad.jpg
+      - Image: stamp0152.jpg
+      - Image: stamp0708ad.jpg
   - Name: Alan Jones
     Count: 2
     Images:
@@ -462,72 +463,72 @@
     Images:
       - Image: stamp0561fd.jpg
   - Name: Ayrton Senna
-    Count: 83
+    Count: 86
     Images:
-      - Image: stamp0497.jpg
-      - Image: stamp0375.jpg
-      - Image: stamp0062.jpg
-      - Image: stamp0553.jpg
+      - Image: stamp0211ad.jpg
+      - Image: stamp0554.jpg
+      - Image: stamp0058.jpg
+      - Image: stamp0730.jpg
   - Name: Elio de Angelis
     Count: 4
     Images:
       - Image: stamp0203.jpg
-      - Image: stamp0388fd.jpg
-      - Image: stamp0561ed.jpg
       - Image: stamp0201ad.jpg
+      - Image: stamp0561ed.jpg
+      - Image: stamp0388fd.jpg
   - Name: Gerhard Berger
     Count: 7
     Images:
-      - Image: stamp0407.jpg
-      - Image: stamp0579.jpg
-      - Image: stamp0601ad.jpg
       - Image: stamp0173ad.jpg
+      - Image: stamp0579.jpg
+      - Image: stamp0407.jpg
+      - Image: stamp0168bd.jpg
   - Name: Keke Rosberg
     Count: 5
     Images:
-      - Image: stamp0074dd.jpg
       - Image: stamp0603gd.jpg
-      - Image: stamp0622.jpg
       - Image: stamp0505.jpg
+      - Image: stamp0622.jpg
+      - Image: stamp0216dd.jpg
   - Name: Michele Alboreto
     Count: 5
     Images:
       - Image: stamp0205.jpg
       - Image: stamp0603hd.jpg
       - Image: stamp0504.jpg
-      - Image: stamp0557.jpg
+      - Image: stamp0561dd.jpg
   - Name: Nelson Piquet
     Count: 12
     Images:
       - Image: stamp0623.jpg
-      - Image: stamp0216cd.jpg
-      - Image: stamp0506.jpg
-      - Image: stamp0019.jpg
+      - Image: stamp0243.jpg
+      - Image: stamp0578.jpg
+      - Image: stamp0190dd.jpg
   - Name: Nigel Mansell
-    Count: 26
+    Count: 41
     Images:
-      - Image: stamp0479bd.jpg
-      - Image: stamp0189fd.jpg
+      - Image: stamp0479ed.jpg
+      - Image: stamp0176cd.jpg
+      - Image: stamp0074hd.jpg
       - Image: stamp0479dd.jpg
-      - Image: stamp0626.jpg
   - Name: Niki Lauda
     Count: 25
     Images:
-      - Image: stamp0721.jpg
-      - Image: stamp0114dd.jpg
-      - Image: stamp0171ad.jpg
-      - Image: stamp0177bd.jpg
+      - Image: stamp0099dd.jpg
+      - Image: stamp0508.jpg
+      - Image: stamp0716.jpg
+      - Image: stamp0136.jpg
   - Name: Rene Arnoux
     Count: 3
     Images:
-      - Image: stamp0623.jpg
-      - Image: stamp0507.jpg
       - Image: stamp0653cd.jpg
+      - Image: stamp0507.jpg
+      - Image: stamp0623.jpg
   - Name: Riccardo Patrese
     Count: 2
     Images:
-      - Image: stamp0181.jpg
       - Image: stamp0561cd.jpg
+      - Image: stamp0181.jpg
   - Name: Stefan Bellof
     Count: 1
     Images:
@@ -535,129 +536,188 @@
 - Year: 1986
   Drivers:
   - Name: Alain Prost
-    Count: 27
+    Count: 31
     Images:
-      - Image: stamp0256.jpg
+      - Image: stamp0409ad.jpg
+      - Image: stamp0409cd.jpg
       - Image: stamp0098ad.jpg
-      - Image: stamp0388hd.jpg
-      - Image: stamp0579.jpg
+      - Image: stamp0578.jpg
   - Name: Alan Jones
     Count: 2
     Images:
-      - Image: stamp0620.jpg
       - Image: stamp0216bd.jpg
+      - Image: stamp0620.jpg
   - Name: Andrea de Cesaris
     Count: 1
     Images:
       - Image: stamp0561fd.jpg
   - Name: Ayrton Senna
-    Count: 83
+    Count: 86
     Images:
-      - Image: stamp0554.jpg
-      - Image: stamp0640.jpg
-      - Image: stamp0098bd.jpg
-      - Image: stamp0072.jpg
+      - Image: stamp0631.jpg
+      - Image: stamp0253.jpg
+      - Image: stamp0565.jpg
+      - Image: stamp0277.jpg
   - Name: Elio de Angelis
     Count: 4
     Images:
-      - Image: stamp0561ed.jpg
-      - Image: stamp0203.jpg
       - Image: stamp0201ad.jpg
       - Image: stamp0388fd.jpg
+      - Image: stamp0203.jpg
+      - Image: stamp0561ed.jpg
   - Name: Gerhard Berger
     Count: 7
     Images:
-      - Image: stamp0407.jpg
+      - Image: stamp0168bd.jpg
       - Image: stamp0579.jpg
-      - Image: stamp0169ad.jpg
-      - Image: stamp0010cd.jpg
+      - Image: stamp0601ad.jpg
+      - Image: stamp0407.jpg
   - Name: Keke Rosberg
     Count: 5
     Images:
+      - Image: stamp0622.jpg
+      - Image: stamp0505.jpg
       - Image: stamp0216dd.jpg
       - Image: stamp0074dd.jpg
-      - Image: stamp0603gd.jpg
-      - Image: stamp0505.jpg
+  - Name: Michele Alboreto
+    Count: 5
+    Images:
+      - Image: stamp0557.jpg
+      - Image: stamp0603hd.jpg
+      - Image: stamp0504.jpg
+      - Image: stamp0561dd.jpg
+  - Name: Nelson Piquet
+    Count: 12
+    Images:
+      - Image: stamp0216cd.jpg
+      - Image: stamp0074gd.jpg
+      - Image: stamp0114cd.jpg
+      - Image: stamp0578.jpg
+  - Name: Nigel Mansell
+    Count: 41
+    Images:
+      - Image: stamp0479fd.jpg
+      - Image: stamp0479dd.jpg
+      - Image: stamp0084cd.jpg
+      - Image: stamp0479ad.jpg
+  - Name: Rene Arnoux
+    Count: 3
+    Images:
+      - Image: stamp0623.jpg
+      - Image: stamp0653cd.jpg
+      - Image: stamp0507.jpg
+  - Name: Riccardo Patrese
+    Count: 2
+    Images:
+      - Image: stamp0181.jpg
+      - Image: stamp0561cd.jpg
+- Year: 1987
+  Drivers:
+  - Name: Alain Prost
+    Count: 31
+    Images:
+      - Image: stamp0141bd.jpg
+      - Image: stamp0098ad.jpg
+      - Image: stamp0291ed.jpg
+      - Image: stamp0409cd.jpg
+  - Name: Andrea de Cesaris
+    Count: 1
+    Images:
+      - Image: stamp0561fd.jpg
+  - Name: Ayrton Senna
+    Count: 86
+    Images:
+      - Image: stamp0157ad.jpg
+      - Image: stamp0543.jpg
+      - Image: stamp0631.jpg
+      - Image: stamp0015.jpg
+  - Name: Gerhard Berger
+    Count: 7
+    Images:
+      - Image: stamp0579.jpg
+      - Image: stamp0173ad.jpg
+      - Image: stamp0601ad.jpg
+      - Image: stamp0168bd.jpg
   - Name: Michele Alboreto
     Count: 5
     Images:
       - Image: stamp0603hd.jpg
+      - Image: stamp0504.jpg
       - Image: stamp0557.jpg
       - Image: stamp0205.jpg
+  - Name: Nelson Piquet
+    Count: 12
+    Images:
+      - Image: stamp0074gd.jpg
+      - Image: stamp0578.jpg
+      - Image: stamp0216cd.jpg
+      - Image: stamp0114cd.jpg
+  - Name: Nigel Mansell
+    Count: 41
+    Images:
+      - Image: stamp0479ad.jpg
+      - Image: stamp0092.jpg
+      - Image: stamp0479ad.jpg
+      - Image: stamp0038fd.jpg
+  - Name: Rene Arnoux
+    Count: 3
+    Images:
+      - Image: stamp0507.jpg
+      - Image: stamp0653cd.jpg
+      - Image: stamp0623.jpg
+  - Name: Riccardo Patrese
+    Count: 2
+    Images:
+      - Image: stamp0181.jpg
+      - Image: stamp0561cd.jpg
+- Year: 1988
+  Drivers:
+  - Name: Alain Prost
+    Count: 31
+    Images:
+      - Image: stamp0370ed.jpg
+      - Image: stamp0247.jpg
+      - Image: stamp0728.jpg
+      - Image: stamp0409cd.jpg
+  - Name: Andrea de Cesaris
+    Count: 1
+    Images:
+      - Image: stamp0561fd.jpg
+  - Name: Ayrton Senna
+    Count: 86
+    Images:
+      - Image: stamp0553.jpg
+      - Image: stamp0021.jpg
+      - Image: stamp0631.jpg
+      - Image: stamp0630.jpg
+  - Name: Gerhard Berger
+    Count: 7
+    Images:
+      - Image: stamp0407.jpg
+      - Image: stamp0601ad.jpg
+      - Image: stamp0010cd.jpg
+      - Image: stamp0173ad.jpg
+  - Name: Michele Alboreto
+    Count: 5
+    Images:
+      - Image: stamp0557.jpg
+      - Image: stamp0603hd.jpg
       - Image: stamp0561dd.jpg
+      - Image: stamp0205.jpg
   - Name: Nelson Piquet
     Count: 12
     Images:
       - Image: stamp0627.jpg
-      - Image: stamp0019.jpg
-      - Image: stamp0216cd.jpg
-      - Image: stamp0506.jpg
-  - Name: Nigel Mansell
-    Count: 26
-    Images:
-      - Image: stamp0091.jpg
-      - Image: stamp0092.jpg
-      - Image: stamp0409cd.jpg
-      - Image: stamp0189fd.jpg
-  - Name: Rene Arnoux
-    Count: 3
-    Images:
-      - Image: stamp0653cd.jpg
-      - Image: stamp0507.jpg
-      - Image: stamp0623.jpg
-  - Name: Riccardo Patrese
-    Count: 2
-    Images:
-      - Image: stamp0561cd.jpg
-      - Image: stamp0181.jpg
-- Year: 1987
-  Drivers:
-  - Name: Alain Prost
-    Count: 27
-    Images:
-      - Image: stamp0409ad.jpg
-      - Image: stamp0658ad.jpg
-      - Image: stamp0152.jpg
-      - Image: stamp0370ed.jpg
-  - Name: Andrea de Cesaris
-    Count: 1
-    Images:
-      - Image: stamp0561fd.jpg
-  - Name: Ayrton Senna
-    Count: 83
-    Images:
-      - Image: stamp0611cd.jpg
-      - Image: stamp0372.jpg
-      - Image: stamp0643.jpg
-      - Image: stamp0211ad.jpg
-  - Name: Gerhard Berger
-    Count: 7
-    Images:
-      - Image: stamp0010cd.jpg
-      - Image: stamp0407.jpg
-      - Image: stamp0168bd.jpg
-      - Image: stamp0173ad.jpg
-  - Name: Michele Alboreto
-    Count: 5
-    Images:
-      - Image: stamp0205.jpg
-      - Image: stamp0557.jpg
-      - Image: stamp0603hd.jpg
-      - Image: stamp0504.jpg
-  - Name: Nelson Piquet
-    Count: 12
-    Images:
-      - Image: stamp0190dd.jpg
-      - Image: stamp0019.jpg
-      - Image: stamp0506.jpg
+      - Image: stamp0243.jpg
       - Image: stamp0578.jpg
+      - Image: stamp0190dd.jpg
   - Name: Nigel Mansell
-    Count: 26
+    Count: 41
     Images:
       - Image: stamp0479fd.jpg
       - Image: stamp0479dd.jpg
+      - Image: stamp0578.jpg
       - Image: stamp0479ad.jpg
-      - Image: stamp0441.jpg
   - Name: Rene Arnoux
     Count: 3
     Images:
@@ -669,133 +729,74 @@
     Images:
       - Image: stamp0561cd.jpg
       - Image: stamp0181.jpg
-- Year: 1988
-  Drivers:
-  - Name: Alain Prost
-    Count: 27
-    Images:
-      - Image: stamp0367.jpg
-      - Image: stamp0009hd.jpg
-      - Image: stamp0658ad.jpg
-      - Image: stamp0633.jpg
-  - Name: Andrea de Cesaris
-    Count: 1
-    Images:
-      - Image: stamp0561fd.jpg
-  - Name: Ayrton Senna
-    Count: 83
-    Images:
-      - Image: stamp0538.jpg
-      - Image: stamp0207ad.jpg
-      - Image: stamp0496.jpg
-      - Image: stamp0448.jpg
-  - Name: Gerhard Berger
-    Count: 7
-    Images:
-      - Image: stamp0169ad.jpg
-      - Image: stamp0168bd.jpg
-      - Image: stamp0601ad.jpg
-      - Image: stamp0173ad.jpg
-  - Name: Michele Alboreto
-    Count: 5
-    Images:
-      - Image: stamp0561dd.jpg
-      - Image: stamp0603hd.jpg
-      - Image: stamp0205.jpg
-      - Image: stamp0557.jpg
-  - Name: Nelson Piquet
-    Count: 12
-    Images:
-      - Image: stamp0189ed.jpg
-      - Image: stamp0074gd.jpg
-      - Image: stamp0621.jpg
-      - Image: stamp0243.jpg
-  - Name: Nigel Mansell
-    Count: 26
-    Images:
-      - Image: stamp0441.jpg
-      - Image: stamp0590.jpg
-      - Image: stamp0479cd.jpg
-      - Image: stamp0632.jpg
-  - Name: Rene Arnoux
-    Count: 3
-    Images:
-      - Image: stamp0507.jpg
-      - Image: stamp0653cd.jpg
-      - Image: stamp0623.jpg
-  - Name: Riccardo Patrese
-    Count: 2
-    Images:
-      - Image: stamp0181.jpg
-      - Image: stamp0561cd.jpg
 - Year: 1989
   Drivers:
   - Name: Alain Prost
-    Count: 27
+    Count: 31
     Images:
-      - Image: stamp0629.jpg
-      - Image: stamp0009hd.jpg
       - Image: stamp0247.jpg
-      - Image: stamp0367.jpg
+      - Image: stamp0625.jpg
+      - Image: stamp0098ad.jpg
+      - Image: stamp0323dd.jpg
   - Name: Andrea de Cesaris
     Count: 1
     Images:
       - Image: stamp0561fd.jpg
   - Name: Ayrton Senna
-    Count: 83
+    Count: 86
     Images:
-      - Image: stamp0565.jpg
-      - Image: stamp0372.jpg
-      - Image: stamp0717ad.jpg
-      - Image: stamp0601dd.jpg
+      - Image: stamp0021.jpg
+      - Image: stamp0539.jpg
+      - Image: stamp0277.jpg
+      - Image: stamp0360.jpg
   - Name: Gerhard Berger
     Count: 7
     Images:
-      - Image: stamp0407.jpg
       - Image: stamp0601ad.jpg
-      - Image: stamp0169ad.jpg
+      - Image: stamp0173ad.jpg
       - Image: stamp0010cd.jpg
+      - Image: stamp0168bd.jpg
   - Name: Jean Alesi
     Count: 8
     Images:
-      - Image: stamp0601cd.jpg
-      - Image: stamp0388cd.jpg
+      - Image: stamp0170bd.jpg
       - Image: stamp0239ed.jpg
-      - Image: stamp0238ed.jpg
+      - Image: stamp0388cd.jpg
+      - Image: stamp0173bd.jpg
   - Name: Johnny Herbert
     Count: 5
     Images:
-      - Image: stamp0110ad.jpg
-      - Image: stamp0029ad.jpg
       - Image: stamp0239ed.jpg
+      - Image: stamp0240dd.jpg
+      - Image: stamp0029ad.jpg
       - Image: stamp0182.jpg
   - Name: Michele Alboreto
     Count: 5
     Images:
-      - Image: stamp0557.jpg
-      - Image: stamp0504.jpg
-      - Image: stamp0603hd.jpg
       - Image: stamp0205.jpg
+      - Image: stamp0603hd.jpg
+      - Image: stamp0504.jpg
+      - Image: stamp0561dd.jpg
   - Name: Nelson Piquet
     Count: 12
     Images:
-      - Image: stamp0190dd.jpg
-      - Image: stamp0019.jpg
-      - Image: stamp0216cd.jpg
+      - Image: stamp0506.jpg
       - Image: stamp0074gd.jpg
+      - Image: stamp0578.jpg
+      - Image: stamp0114cd.jpg
   - Name: Nigel Mansell
-    Count: 26
+    Count: 41
     Images:
-      - Image: stamp0601bd.jpg
-      - Image: stamp0479dd.jpg
-      - Image: stamp0074hd.jpg
-      - Image: stamp0407.jpg
+      - Image: stamp0039fd.jpg
+      - Image: stamp0045gd.jpg
+      - Image: stamp0479bd.jpg
+      - Image: stamp0479ad.jpg
   - Name: Rene Arnoux
     Count: 3
     Images:
       - Image: stamp0653cd.jpg
-      - Image: stamp0623.jpg
       - Image: stamp0507.jpg
+      - Image: stamp0623.jpg
   - Name: Riccardo Patrese
     Count: 2
     Images:

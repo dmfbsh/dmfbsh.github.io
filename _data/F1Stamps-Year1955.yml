@@ -1,79 +1,80 @@
+# List of Cars and Drivers for the Year
 - Year: 1955
   Cars:
   - Car: Ferrari 625 F1
     Count: 5
     Images:
-    - Image: stamp0305.jpg
     - Image: stamp0241bc.jpg
-    - Image: stamp0279dc.jpg
     - Image: stamp0104bc.jpg
+    - Image: stamp0017ac.jpg
+    - Image: stamp0305.jpg
   - Car: Ferrari D50
     Count: 5
     Images:
-    - Image: stamp0231cc.jpg
-    - Image: stamp0046cc.jpg
-    - Image: stamp0361.jpg
     - Image: stamp0342.jpg
+    - Image: stamp0361.jpg
+    - Image: stamp0046cc.jpg
+    - Image: stamp0231cc.jpg
   - Car: Ferrari Tipo 500 F2
-    Count: 8
+    Count: 9
     Images:
-    - Image: stamp0056ac.jpg
-    - Image: stamp0053ac.jpg
+    - Image: stamp0344.jpg
     - Image: stamp0024ac.jpg
     - Image: stamp0025ac.jpg
+    - Image: stamp0371.jpg
   - Car: Maserati 250F
     Count: 14
     Images:
-    - Image: stamp0323cc.jpg
-    - Image: stamp0175bc.jpg
+    - Image: stamp0361.jpg
     - Image: stamp0613ac.jpg
-    - Image: stamp0276ac.jpg
+    - Image: stamp0536.jpg
+    - Image: stamp0641cc.jpg
   - Car: Mercedes-Benz W196
     Count: 17
     Images:
-    - Image: stamp0363.jpg
-    - Image: stamp0343.jpg
-    - Image: stamp0210.jpg
-    - Image: stamp0301dc.jpg
+    - Image: stamp0372.jpg
+    - Image: stamp0291ac.jpg
+    - Image: stamp0007.jpg
+    - Image: stamp0114ac.jpg
   Drivers:
   - Driver: Alberto Ascari
     Count: 10
     Images:
+    - Image: stamp0561ad.jpg
     - Image: stamp0659ad.jpg
-    - Image: stamp0139ad.jpg
+    - Image: stamp0414.jpg
     - Image: stamp0121ed.jpg
-    - Image: stamp0344.jpg
   - Driver: Eugenio Castellotti
     Count: 1
     Images:
     - Image: stamp0602cd.jpg
   - Driver: Giuseppe Farina
-    Count: 8
+    Count: 13
     Images:
-    - Image: stamp0615.jpg
     - Image: stamp0569.jpg
-    - Image: stamp0335.jpg
-    - Image: stamp0301ad.jpg
+    - Image: stamp0737.jpg
+    - Image: stamp0735cd.jpg
+    - Image: stamp0642ad.jpg
   - Driver: Jack Brabham
     Count: 11
     Images:
-    - Image: stamp0336.jpg
-    - Image: stamp0009dd.jpg
     - Image: stamp0089dd.jpg
+    - Image: stamp0642cd.jpg
+    - Image: stamp0427.jpg
     - Image: stamp0004cd.jpg
   - Driver: Jose Froilan Gonzalez
     Count: 3
     Images:
     - Image: stamp0204.jpg
-    - Image: stamp0602ad.jpg
     - Image: stamp0068.jpg
+    - Image: stamp0602ad.jpg
   - Driver: Juan Manuel Fangio
-    Count: 43
+    Count: 46
     Images:
-    - Image: stamp0380.jpg
-    - Image: stamp0642bd.jpg
-    - Image: stamp0007.jpg
-    - Image: stamp0010dd.jpg
+    - Image: stamp0457.jpg
+    - Image: stamp0610.jpg
+    - Image: stamp0361.jpg
+    - Image: stamp0597ad.jpg
   - Driver: Louis Chiron
     Count: 1
     Images:
@@ -85,10 +86,10 @@
   - Driver: Mike Hawthorn
     Count: 8
     Images:
-    - Image: stamp0139cd.jpg
-    - Image: stamp0341.jpg
     - Image: stamp0288bd.jpg
-    - Image: stamp0045ad.jpg
+    - Image: stamp0139cd.jpg
+    - Image: stamp0653ad.jpg
+    - Image: stamp0417.jpg
   - Driver: Olivier Gendebien
     Count: 1
     Images:
@@ -101,7 +102,7 @@
   - Driver: Stirling Moss
     Count: 15
     Images:
-    - Image: stamp0210.jpg
-    - Image: stamp0291ad.jpg
-    - Image: stamp0009cd.jpg
+    - Image: stamp0114ad.jpg
+    - Image: stamp0501ad.jpg
     - Image: stamp0276ad.jpg
+    - Image: stamp0213.jpg

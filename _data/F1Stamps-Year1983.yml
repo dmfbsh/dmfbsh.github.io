@@ -1,3 +1,4 @@
+# List of Cars and Drivers for the Year
 - Year: 1983
   Cars:
   - Car: Brabham BT52
@@ -11,22 +12,22 @@
   - Car: Ferrari 126 C2
     Count: 4
     Images:
-    - Image: stamp0046ec.jpg
-    - Image: stamp0191bc.jpg
     - Image: stamp0113ec.jpg
+    - Image: stamp0191bc.jpg
+    - Image: stamp0046ec.jpg
     - Image: stamp0622.jpg
   - Car: Ferrari 126 C3
     Count: 4
     Images:
-    - Image: stamp0191cc.jpg
-    - Image: stamp0623.jpg
     - Image: stamp0017dc.jpg
+    - Image: stamp0623.jpg
+    - Image: stamp0191cc.jpg
     - Image: stamp0366.jpg
   - Car: McLaren MP4/1
     Count: 3
     Images:
-    - Image: stamp0716ac.jpg
     - Image: stamp0715ac.jpg
+    - Image: stamp0716ac.jpg
     - Image: stamp0721ac.jpg
   - Car: Renault RE40
     Count: 2
@@ -43,12 +44,12 @@
     - Image: stamp0505.jpg
   Drivers:
   - Driver: Alain Prost
-    Count: 27
+    Count: 31
     Images:
-    - Image: stamp0409bd.jpg
-    - Image: stamp0367.jpg
-    - Image: stamp0207bd.jpg
-    - Image: stamp0152.jpg
+    - Image: stamp0409ad.jpg
+    - Image: stamp0189cd.jpg
+    - Image: stamp0611dd.jpg
+    - Image: stamp0247.jpg
   - Driver: Alan Jones
     Count: 2
     Images:
@@ -61,45 +62,45 @@
   - Driver: Elio de Angelis
     Count: 4
     Images:
-    - Image: stamp0201ad.jpg
-    - Image: stamp0388fd.jpg
-    - Image: stamp0561ed.jpg
     - Image: stamp0203.jpg
+    - Image: stamp0201ad.jpg
+    - Image: stamp0561ed.jpg
+    - Image: stamp0388fd.jpg
   - Driver: Keke Rosberg
     Count: 5
     Images:
     - Image: stamp0603gd.jpg
-    - Image: stamp0216dd.jpg
     - Image: stamp0622.jpg
+    - Image: stamp0216dd.jpg
     - Image: stamp0074dd.jpg
   - Driver: Michele Alboreto
     Count: 5
     Images:
-    - Image: stamp0557.jpg
     - Image: stamp0504.jpg
+    - Image: stamp0561dd.jpg
     - Image: stamp0603hd.jpg
     - Image: stamp0205.jpg
   - Driver: Nelson Piquet
     Count: 12
     Images:
-    - Image: stamp0074gd.jpg
-    - Image: stamp0019.jpg
+    - Image: stamp0114cd.jpg
     - Image: stamp0621.jpg
-    - Image: stamp0216cd.jpg
+    - Image: stamp0627.jpg
+    - Image: stamp0019.jpg
   - Driver: Nigel Mansell
-    Count: 26
+    Count: 41
     Images:
-    - Image: stamp0092.jpg
-    - Image: stamp0479dd.jpg
-    - Image: stamp0037fd.jpg
-    - Image: stamp0176cd.jpg
+    - Image: stamp0479cd.jpg
+    - Image: stamp0509.jpg
+    - Image: stamp0207cd.jpg
+    - Image: stamp0091.jpg
   - Driver: Niki Lauda
     Count: 25
     Images:
-    - Image: stamp0114dd.jpg
-    - Image: stamp0721.jpg
-    - Image: stamp0074ad.jpg
-    - Image: stamp0614bd.jpg
+    - Image: stamp0121bd.jpg
+    - Image: stamp0136.jpg
+    - Image: stamp0135.jpg
+    - Image: stamp0177bd.jpg
   - Driver: Rene Arnoux
     Count: 3
     Images:
@@ -109,5 +110,5 @@
   - Driver: Riccardo Patrese
     Count: 2
     Images:
-    - Image: stamp0561cd.jpg
     - Image: stamp0181.jpg
+    - Image: stamp0561cd.jpg

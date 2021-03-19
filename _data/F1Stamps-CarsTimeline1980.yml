@@ -1,10 +1,11 @@
+# List of Cars by Season in a Decade
 - Year: 1980
   Cars:
   - Name: Ferrari 312 T5
     Count: 2
     Images:
-      - Image: stamp0170ac.jpg
       - Image: stamp0165dc.jpg
+      - Image: stamp0170ac.jpg
   - Name: Ligier JS 11
     Count: 1
     Images:
@@ -16,8 +17,8 @@
   - Name: Williams FW07
     Count: 3
     Images:
-      - Image: stamp0008cc.jpg
       - Image: stamp0197ac.jpg
+      - Image: stamp0008cc.jpg
       - Image: stamp0327.jpg
   - Name: Williams FW07B
     Count: 1
@@ -38,15 +39,15 @@
   - Name: McLaren MP4/1
     Count: 3
     Images:
+      - Image: stamp0716ac.jpg
       - Image: stamp0715ac.jpg
       - Image: stamp0721ac.jpg
-      - Image: stamp0716ac.jpg
   - Name: Williams FW07
     Count: 3
     Images:
+      - Image: stamp0327.jpg
       - Image: stamp0197ac.jpg
       - Image: stamp0008cc.jpg
-      - Image: stamp0327.jpg
   - Name: Williams FW07C
     Count: 1
     Images:
@@ -60,16 +61,16 @@
   - Name: Brabham BT50
     Count: 3
     Images:
-      - Image: stamp0209.jpg
-      - Image: stamp0113ac.jpg
       - Image: stamp0197bc.jpg
+      - Image: stamp0113ac.jpg
+      - Image: stamp0209.jpg
   - Name: Ferrari 126 C2
     Count: 4
     Images:
-      - Image: stamp0046ec.jpg
-      - Image: stamp0622.jpg
       - Image: stamp0191bc.jpg
       - Image: stamp0113ec.jpg
+      - Image: stamp0046ec.jpg
+      - Image: stamp0622.jpg
   - Name: Ligier JS 19
     Count: 1
     Images:
@@ -77,14 +78,18 @@
   - Name: McLaren MP4/1
     Count: 3
     Images:
+      - Image: stamp0715ac.jpg
       - Image: stamp0721ac.jpg
       - Image: stamp0716ac.jpg
-      - Image: stamp0715ac.jpg
   - Name: Renault RE30 B
     Count: 2
     Images:
-      - Image: stamp0197hc.jpg
       - Image: stamp0113bc.jpg
+      - Image: stamp0197hc.jpg
+  - Name: Tyrrell 012
+    Count: 1
+    Images:
+      - Image: stamp0507.jpg
   - Name: Williams FW07
     Count: 3
     Images:
@@ -108,16 +113,16 @@
   - Name: Ferrari 126 C2
     Count: 4
     Images:
-      - Image: stamp0046ec.jpg
-      - Image: stamp0191bc.jpg
       - Image: stamp0622.jpg
+      - Image: stamp0191bc.jpg
+      - Image: stamp0046ec.jpg
       - Image: stamp0113ec.jpg
   - Name: Ferrari 126 C3
     Count: 4
     Images:
       - Image: stamp0366.jpg
-      - Image: stamp0623.jpg
       - Image: stamp0017dc.jpg
+      - Image: stamp0623.jpg
       - Image: stamp0191cc.jpg
   - Name: McLaren MP4/1
     Count: 3
@@ -151,21 +156,23 @@
   - Name: Ferrari 126 C4
     Count: 6
     Images:
-      - Image: stamp0507.jpg
+      - Image: stamp0312.jpg
+      - Image: stamp0193bc.jpg
       - Image: stamp0504.jpg
-      - Image: stamp0279bc.jpg
-      - Image: stamp0048dc.jpg
+      - Image: stamp0507.jpg
   - Name: Lotus 95T
     Count: 3
     Images:
       - Image: stamp0479ac.jpg
+      - Image: stamp0479ac.jpg
+      - Image: stamp0479ac.jpg
   - Name: McLaren MP4/2
     Count: 4
     Images:
-      - Image: stamp0508.jpg
+      - Image: stamp0624.jpg
       - Image: stamp0261.jpg
       - Image: stamp0125.jpg
-      - Image: stamp0624.jpg
+      - Image: stamp0508.jpg
   - Name: Tyrrell 012
     Count: 1
     Images:
@@ -183,8 +190,8 @@
   - Name: Ferrari 156/85
     Count: 3
     Images:
-      - Image: stamp0165ec.jpg
       - Image: stamp0056ic.jpg
+      - Image: stamp0165ec.jpg
       - Image: stamp0369bc.jpg
   - Name: Lotus 97T
     Count: 1
@@ -205,6 +212,8 @@
     Count: 3
     Images:
       - Image: stamp0479bc.jpg
+      - Image: stamp0479bc.jpg
+      - Image: stamp0479bc.jpg
 - Year: 1986
   Cars:
   - Name: Ferrari F1/86
@@ -218,30 +227,30 @@
   - Name: McLaren MP4/2
     Count: 4
     Images:
-      - Image: stamp0508.jpg
+      - Image: stamp0624.jpg
       - Image: stamp0125.jpg
       - Image: stamp0261.jpg
-      - Image: stamp0624.jpg
+      - Image: stamp0508.jpg
   - Name: McLaren MP4/2C
     Count: 3
     Images:
-      - Image: stamp0626.jpg
       - Image: stamp0024cc.jpg
+      - Image: stamp0626.jpg
       - Image: stamp0625.jpg
   - Name: Williams FW11
     Count: 7
     Images:
-      - Image: stamp0626.jpg
-      - Image: stamp0091.jpg
+      - Image: stamp0038fc.jpg
       - Image: stamp0037fc.jpg
+      - Image: stamp0091.jpg
       - Image: stamp0197cc.jpg
 - Year: 1987
   Cars:
   - Name: Ferrari F1/87
     Count: 2
     Images:
-      - Image: stamp0228.jpg
       - Image: stamp0165fc.jpg
+      - Image: stamp0228.jpg
   - Name: Lotus 99T
     Count: 1
     Images:
@@ -249,9 +258,9 @@
   - Name: Williams FW11B
     Count: 3
     Images:
+      - Image: stamp0019.jpg
       - Image: stamp0130.jpg
       - Image: stamp0627.jpg
-      - Image: stamp0019.jpg
 - Year: 1988
   Cars:
   - Name: Benetton B188
@@ -261,16 +270,16 @@
   - Name: Ferrari F1/87/88C
     Count: 4
     Images:
-      - Image: stamp0583ac.jpg
       - Image: stamp0169ac.jpg
-      - Image: stamp0048ac.jpg
       - Image: stamp0601ac.jpg
+      - Image: stamp0583ac.jpg
+      - Image: stamp0048ac.jpg
   - Name: McLaren MP4/4
     Count: 3
     Images:
-      - Image: stamp0599.jpg
       - Image: stamp0020.jpg
       - Image: stamp0628.jpg
+      - Image: stamp0599.jpg
 - Year: 1989
   Cars:
   - Name: Benetton B188
@@ -284,12 +293,12 @@
   - Name: Ferrari F1/89 (640)
     Count: 9
     Images:
+      - Image: stamp0242bc.jpg
+      - Image: stamp0279ac.jpg
       - Image: stamp0479cc.jpg
       - Image: stamp0056jc.jpg
-      - Image: stamp0311.jpg
-      - Image: stamp0208.jpg
   - Name: McLaren MP4/5
     Count: 2
     Images:
-      - Image: stamp0717cc.jpg
       - Image: stamp0629.jpg
+      - Image: stamp0717cc.jpg

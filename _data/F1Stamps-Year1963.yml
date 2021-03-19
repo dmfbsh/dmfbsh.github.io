@@ -1,3 +1,4 @@
+# List of Cars and Drivers for the Year
 - Year: 1963
   Cars:
   - Car: BRM P61
@@ -7,24 +8,24 @@
   - Car: Ferrari 156
     Count: 8
     Images:
-    - Image: stamp0314.jpg
-    - Image: stamp0056dc.jpg
+    - Image: stamp0262.jpg
+    - Image: stamp0699ac.jpg
     - Image: stamp0369bc.jpg
-    - Image: stamp0334.jpg
+    - Image: stamp0662.jpg
   - Car: Lotus 18
     Count: 4
     Images:
-    - Image: stamp0600ac.jpg
-    - Image: stamp0133.jpg
     - Image: stamp0104ec.jpg
     - Image: stamp0613cc.jpg
+    - Image: stamp0600ac.jpg
+    - Image: stamp0133.jpg
   - Car: Lotus 25
     Count: 11
     Images:
-    - Image: stamp0200bc.jpg
+    - Image: stamp0288dc.jpg
+    - Image: stamp0600cc.jpg
+    - Image: stamp0037cc.jpg
     - Image: stamp0129.jpg
-    - Image: stamp0045cc.jpg
-    - Image: stamp0514.jpg
   - Car: Porsche 718
     Count: 1
     Images:
@@ -33,8 +34,8 @@
   - Driver: Bruce McLaren
     Count: 3
     Images:
-    - Image: stamp0009bd.jpg
     - Image: stamp0005bd.jpg
+    - Image: stamp0009bd.jpg
     - Image: stamp0112bd.jpg
   - Driver: Dan Gurney
     Count: 1
@@ -47,24 +48,24 @@
   - Driver: Graham Hill
     Count: 15
     Images:
-    - Image: stamp0436.jpg
+    - Image: stamp0039bd.jpg
+    - Image: stamp0348.jpg
+    - Image: stamp0501bd.jpg
     - Image: stamp0434.jpg
-    - Image: stamp0558.jpg
-    - Image: stamp0011.jpg
   - Driver: Jack Brabham
     Count: 11
     Images:
+    - Image: stamp0336.jpg
     - Image: stamp0004cd.jpg
-    - Image: stamp0427.jpg
-    - Image: stamp0642cd.jpg
+    - Image: stamp0600ed.jpg
     - Image: stamp0337.jpg
   - Driver: Jim Clark
-    Count: 22
+    Count: 23
     Images:
-    - Image: stamp0708dd.jpg
+    - Image: stamp0038cd.jpg
+    - Image: stamp0345.jpg
     - Image: stamp0686.jpg
-    - Image: stamp0439.jpg
-    - Image: stamp0346.jpg
+    - Image: stamp0037cd.jpg
   - Driver: Joakim Bonnier
     Count: 1
     Images:
@@ -72,9 +73,9 @@
   - Driver: John Surtees
     Count: 10
     Images:
+    - Image: stamp0137.jpg
+    - Image: stamp0121cd.jpg
     - Image: stamp0303.jpg
-    - Image: stamp0221ad.jpg
-    - Image: stamp0010ed.jpg
     - Image: stamp0423.jpg
   - Driver: Ludovico Scarfiotti
     Count: 1
@@ -88,7 +89,7 @@
   - Driver: Phil Hill
     Count: 9
     Images:
-    - Image: stamp0421.jpg
-    - Image: stamp0139dd.jpg
     - Image: stamp0010ad.jpg
+    - Image: stamp0334.jpg
     - Image: stamp0138.jpg
+    - Image: stamp0186ad.jpg

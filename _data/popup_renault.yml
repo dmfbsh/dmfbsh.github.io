@@ -1,7 +1,8 @@
+# Popup for: Renault
 - Popup: Renault
   Stamps:
-  - Image: stamp0386.jpg
-    Width: 200
+  - Image: stamp0155.jpg
+    Width: 400
   - Image: stamp0516.jpg
     Width: 200
   - Image: stamp0177.jpg
@@ -16,12 +17,12 @@
     Width: 400
   - Image: stamp0282.jpg
     Width: 200
-  - Image: stamp0155.jpg
+  - Image: stamp0291.jpg
     Width: 400
   - Image: stamp0385.jpg
     Width: 200
-  - Image: stamp0692.jpg
-    Width: 400
+  - Image: stamp0386.jpg
+    Width: 200
   - Image: stamp0390.jpg
     Width: 400
   - Image: stamp0397.jpg
@@ -36,5 +37,5 @@
     Width: 400
   - Image: stamp0574.jpg
     Width: 400
-  - Image: stamp0291.jpg
+  - Image: stamp0692.jpg
     Width: 400

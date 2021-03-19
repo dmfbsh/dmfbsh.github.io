@@ -1,3 +1,4 @@
+# List of Cars and Drivers for the Year
 - Year: 1990
   Cars:
   - Car: Ferrari 641
@@ -15,67 +16,67 @@
     - Image: stamp0601cc.jpg
   Drivers:
   - Driver: Alain Prost
-    Count: 27
+    Count: 31
     Images:
-    - Image: stamp0626.jpg
-    - Image: stamp0579.jpg
-    - Image: stamp0062.jpg
-    - Image: stamp0578.jpg
+    - Image: stamp0189cd.jpg
+    - Image: stamp0391.jpg
+    - Image: stamp0629.jpg
+    - Image: stamp0388hd.jpg
   - Driver: Andrea de Cesaris
     Count: 1
     Images:
     - Image: stamp0561fd.jpg
   - Driver: Ayrton Senna
-    Count: 83
+    Count: 86
     Images:
-    - Image: stamp0539.jpg
-    - Image: stamp0211ad.jpg
-    - Image: stamp0370ad.jpg
-    - Image: stamp0144dd.jpg
+    - Image: stamp0253.jpg
+    - Image: stamp0492.jpg
+    - Image: stamp0520.jpg
+    - Image: stamp0601dd.jpg
   - Driver: Gerhard Berger
     Count: 7
     Images:
     - Image: stamp0010cd.jpg
-    - Image: stamp0173ad.jpg
-    - Image: stamp0169ad.jpg
+    - Image: stamp0407.jpg
     - Image: stamp0579.jpg
+    - Image: stamp0168bd.jpg
   - Driver: Jean Alesi
     Count: 8
     Images:
-    - Image: stamp0239ed.jpg
-    - Image: stamp0173bd.jpg
-    - Image: stamp0170bd.jpg
+    - Image: stamp0029ad.jpg
     - Image: stamp0407.jpg
+    - Image: stamp0238ed.jpg
+    - Image: stamp0601cd.jpg
   - Driver: Johnny Herbert
     Count: 5
     Images:
-    - Image: stamp0110ad.jpg
-    - Image: stamp0240dd.jpg
     - Image: stamp0239ed.jpg
     - Image: stamp0182.jpg
+    - Image: stamp0029ad.jpg
+    - Image: stamp0110ad.jpg
   - Driver: Michele Alboreto
     Count: 5
     Images:
-    - Image: stamp0504.jpg
     - Image: stamp0603hd.jpg
+    - Image: stamp0504.jpg
     - Image: stamp0557.jpg
-    - Image: stamp0205.jpg
+    - Image: stamp0561dd.jpg
   - Driver: Nelson Piquet
     Count: 12
     Images:
-    - Image: stamp0623.jpg
-    - Image: stamp0627.jpg
-    - Image: stamp0506.jpg
     - Image: stamp0019.jpg
+    - Image: stamp0216cd.jpg
+    - Image: stamp0627.jpg
+    - Image: stamp0621.jpg
   - Driver: Nigel Mansell
-    Count: 26
+    Count: 41
     Images:
-    - Image: stamp0189fd.jpg
-    - Image: stamp0479cd.jpg
-    - Image: stamp0578.jpg
-    - Image: stamp0626.jpg
+    - Image: stamp0479bd.jpg
+    - Image: stamp0509.jpg
+    - Image: stamp0479ed.jpg
+    - Image: stamp0171bd.jpg
   - Driver: Riccardo Patrese
     Count: 2
     Images:
-    - Image: stamp0561cd.jpg
     - Image: stamp0181.jpg
+    - Image: stamp0561cd.jpg

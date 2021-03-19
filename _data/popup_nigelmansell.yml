@@ -1,7 +1,10 @@
+# Popup for: Nigel Mansell
 - Popup: Nigel Mansell
   Stamps:
-  - Image: stamp0409cd.jpg
+  - Image: stamp0037fd.jpg
     Width: 200
+  - Image: stamp0509.jpg
+    Width: 400
   - Image: stamp0070gd.jpg
     Width: 200
   - Image: stamp0045gd.jpg
@@ -20,25 +23,29 @@
     Width: 200
   - Image: stamp0084cd.jpg
     Width: 400
+  - Image: stamp0038fd.jpg
+    Width: 200
+  - Image: stamp0039fd.jpg
+    Width: 200
   - Image: stamp0207cd.jpg
     Width: 200
-  - Image: stamp0037fd.jpg
+  - Image: stamp0370gd.jpg
     Width: 200
   - Image: stamp0407.jpg
     Width: 400
-  - Image: stamp0632.jpg
+  - Image: stamp0409cd.jpg
     Width: 200
   - Image: stamp0441.jpg
     Width: 400
-  - Image: stamp0479ed.jpg
-    Width: 200
   - Image: stamp0479ad.jpg
     Width: 200
   - Image: stamp0479bd.jpg
     Width: 200
+  - Image: stamp0479cd.jpg
+    Width: 200
   - Image: stamp0479dd.jpg
     Width: 200
-  - Image: stamp0479cd.jpg
+  - Image: stamp0479ed.jpg
     Width: 200
   - Image: stamp0479fd.jpg
     Width: 200
@@ -50,5 +57,5 @@
     Width: 200
   - Image: stamp0626.jpg
     Width: 200
-  - Image: stamp0370gd.jpg
+  - Image: stamp0632.jpg
     Width: 200

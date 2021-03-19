@@ -1,19 +1,20 @@
+# List of Cars and Drivers for the Year
 - Year: 1964
   Cars:
   - Car: Ferrari 156
     Count: 8
     Images:
-    - Image: stamp0699ac.jpg
-    - Image: stamp0519.jpg
-    - Image: stamp0369bc.jpg
+    - Image: stamp0056dc.jpg
     - Image: stamp0334.jpg
+    - Image: stamp0662.jpg
+    - Image: stamp0369bc.jpg
   - Car: Ferrari 158
     Count: 5
     Images:
-    - Image: stamp0045dc.jpg
+    - Image: stamp0056ec.jpg
     - Image: stamp0303.jpg
+    - Image: stamp0045dc.jpg
     - Image: stamp0263.jpg
-    - Image: stamp0461ac.jpg
   - Car: Ferrari 512 F1
     Count: 1
     Images:
@@ -21,10 +22,10 @@
   - Car: Lotus 25
     Count: 11
     Images:
+    - Image: stamp0037cc.jpg
     - Image: stamp0514.jpg
-    - Image: stamp0045cc.jpg
-    - Image: stamp0175ac.jpg
-    - Image: stamp0288dc.jpg
+    - Image: stamp0129.jpg
+    - Image: stamp0600cc.jpg
   - Car: Porsche 718
     Count: 1
     Images:
@@ -33,8 +34,8 @@
   - Driver: Bruce McLaren
     Count: 3
     Images:
-    - Image: stamp0009bd.jpg
     - Image: stamp0112bd.jpg
+    - Image: stamp0009bd.jpg
     - Image: stamp0005bd.jpg
   - Driver: Dan Gurney
     Count: 1
@@ -47,24 +48,24 @@
   - Driver: Graham Hill
     Count: 15
     Images:
-    - Image: stamp0070bd.jpg
-    - Image: stamp0558.jpg
     - Image: stamp0435.jpg
-    - Image: stamp0434.jpg
+    - Image: stamp0039bd.jpg
+    - Image: stamp0501bd.jpg
+    - Image: stamp0339.jpg
   - Driver: Jack Brabham
     Count: 11
     Images:
-    - Image: stamp0602hd.jpg
-    - Image: stamp0337.jpg
+    - Image: stamp0427.jpg
+    - Image: stamp0089dd.jpg
     - Image: stamp0009dd.jpg
-    - Image: stamp0600ed.jpg
+    - Image: stamp0642cd.jpg
   - Driver: Jim Clark
-    Count: 22
+    Count: 23
     Images:
-    - Image: stamp0323ad.jpg
-    - Image: stamp0370cd.jpg
-    - Image: stamp0005ad.jpg
-    - Image: stamp0642dd.jpg
+    - Image: stamp0038cd.jpg
+    - Image: stamp0346.jpg
+    - Image: stamp0009ad.jpg
+    - Image: stamp0039cd.jpg
   - Driver: Joakim Bonnier
     Count: 1
     Images:
@@ -72,16 +73,16 @@
   - Driver: Jochen Rindt
     Count: 10
     Images:
-    - Image: stamp0454.jpg
     - Image: stamp0221cd.jpg
     - Image: stamp0229.jpg
-    - Image: stamp0456.jpg
+    - Image: stamp0089ed.jpg
+    - Image: stamp0455.jpg
   - Driver: John Surtees
     Count: 10
     Images:
     - Image: stamp0121cd.jpg
-    - Image: stamp0045dd.jpg
-    - Image: stamp0070dd.jpg
+    - Image: stamp0423.jpg
+    - Image: stamp0303.jpg
     - Image: stamp0221ad.jpg
   - Driver: Ludovico Scarfiotti
     Count: 1
@@ -100,6 +101,6 @@
     Count: 9
     Images:
     - Image: stamp0186ad.jpg
-    - Image: stamp0445.jpg
+    - Image: stamp0421.jpg
     - Image: stamp0010ad.jpg
-    - Image: stamp0334.jpg
+    - Image: stamp0139dd.jpg

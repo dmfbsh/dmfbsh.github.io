@@ -1,3 +1,4 @@
+# List of Cars and Drivers for the Year
 - Year: 1987
   Cars:
   - Car: Ferrari F1/87
@@ -13,61 +14,61 @@
     Count: 3
     Images:
     - Image: stamp0627.jpg
-    - Image: stamp0130.jpg
     - Image: stamp0019.jpg
+    - Image: stamp0130.jpg
   Drivers:
   - Driver: Alain Prost
-    Count: 27
+    Count: 31
     Images:
-    - Image: stamp0207bd.jpg
+    - Image: stamp0578.jpg
     - Image: stamp0098ad.jpg
-    - Image: stamp0641bd.jpg
-    - Image: stamp0009hd.jpg
+    - Image: stamp0388hd.jpg
+    - Image: stamp0323dd.jpg
   - Driver: Andrea de Cesaris
     Count: 1
     Images:
     - Image: stamp0561fd.jpg
   - Driver: Ayrton Senna
-    Count: 83
+    Count: 86
     Images:
-    - Image: stamp0372.jpg
-    - Image: stamp0554.jpg
-    - Image: stamp0601ed.jpg
-    - Image: stamp0062.jpg
+    - Image: stamp0447.jpg
+    - Image: stamp0176bd.jpg
+    - Image: stamp0614ad.jpg
+    - Image: stamp0150.jpg
   - Driver: Gerhard Berger
     Count: 7
     Images:
-    - Image: stamp0010cd.jpg
-    - Image: stamp0579.jpg
     - Image: stamp0601ad.jpg
-    - Image: stamp0407.jpg
+    - Image: stamp0579.jpg
+    - Image: stamp0168bd.jpg
+    - Image: stamp0169ad.jpg
   - Driver: Michele Alboreto
     Count: 5
     Images:
+    - Image: stamp0557.jpg
+    - Image: stamp0561dd.jpg
     - Image: stamp0504.jpg
     - Image: stamp0603hd.jpg
-    - Image: stamp0205.jpg
-    - Image: stamp0561dd.jpg
   - Driver: Nelson Piquet
     Count: 12
     Images:
     - Image: stamp0114cd.jpg
-    - Image: stamp0578.jpg
     - Image: stamp0190dd.jpg
-    - Image: stamp0623.jpg
+    - Image: stamp0621.jpg
+    - Image: stamp0216cd.jpg
   - Driver: Nigel Mansell
-    Count: 26
+    Count: 41
     Images:
-    - Image: stamp0092.jpg
-    - Image: stamp0626.jpg
-    - Image: stamp0479ad.jpg
-    - Image: stamp0441.jpg
+    - Image: stamp0070gd.jpg
+    - Image: stamp0091.jpg
+    - Image: stamp0479dd.jpg
+    - Image: stamp0037fd.jpg
   - Driver: Rene Arnoux
     Count: 3
     Images:
+    - Image: stamp0507.jpg
     - Image: stamp0653cd.jpg
     - Image: stamp0623.jpg
-    - Image: stamp0507.jpg
   - Driver: Riccardo Patrese
     Count: 2
     Images:

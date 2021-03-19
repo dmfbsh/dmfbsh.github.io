@@ -1,18 +1,19 @@
+# Popup for: Honda
 - Popup: Honda
   Stamps:
-  - Image: stamp0400.jpg
-    Width: 400
-  - Image: stamp0269.jpg
-    Width: 400
-  - Image: stamp0200.jpg
-    Width: 400
-  - Image: stamp0087.jpg
-    Width: 400
-  - Image: stamp0076.jpg
-    Width: 400
-  - Image: stamp0184.jpg
+  - Image: stamp0026.jpg
     Width: 400
   - Image: stamp0029.jpg
     Width: 400
-  - Image: stamp0026.jpg
+  - Image: stamp0184.jpg
+    Width: 400
+  - Image: stamp0076.jpg
+    Width: 400
+  - Image: stamp0087.jpg
+    Width: 400
+  - Image: stamp0200.jpg
+    Width: 400
+  - Image: stamp0269.jpg
+    Width: 400
+  - Image: stamp0400.jpg
     Width: 400

@@ -1,7 +1,6 @@
+# Popup for: Niki Lauda
 - Popup: Niki Lauda
   Stamps:
-  - Image: stamp0355.jpg
-    Width: 400
   - Image: stamp0136.jpg
     Width: 400
   - Image: stamp0135.jpg
@@ -22,12 +21,12 @@
     Width: 200
   - Image: stamp0121bd.jpg
     Width: 200
-  - Image: stamp0727.jpg
-    Width: 400
+  - Image: stamp0074ad.jpg
+    Width: 200
   - Image: stamp0354.jpg
     Width: 400
-  - Image: stamp0722ad.jpg
-    Width: 200
+  - Image: stamp0355.jpg
+    Width: 400
   - Image: stamp0356.jpg
     Width: 400
   - Image: stamp0370hd.jpg
@@ -48,5 +47,7 @@
     Width: 400
   - Image: stamp0721.jpg
     Width: 400
-  - Image: stamp0074ad.jpg
+  - Image: stamp0722ad.jpg
     Width: 200
+  - Image: stamp0727.jpg
+    Width: 400

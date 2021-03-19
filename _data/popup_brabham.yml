@@ -1,7 +1,8 @@
+# Popup for: Brabham
 - Popup: Brabham
   Stamps:
-  - Image: stamp0291.jpg
-    Width: 400
+  - Image: stamp0008.jpg
+    Width: 200
   - Image: stamp0009.jpg
     Width: 400
   - Image: stamp0506.jpg
@@ -14,12 +15,12 @@
     Width: 400
   - Image: stamp0126.jpg
     Width: 400
-  - Image: stamp0008.jpg
+  - Image: stamp0209.jpg
     Width: 200
   - Image: stamp0197.jpg
     Width: 400
-  - Image: stamp0623.jpg
-    Width: 200
+  - Image: stamp0291.jpg
+    Width: 400
   - Image: stamp0318.jpg
     Width: 400
   - Image: stamp0323.jpg
@@ -32,5 +33,5 @@
     Width: 200
   - Image: stamp0621.jpg
     Width: 200
-  - Image: stamp0209.jpg
+  - Image: stamp0623.jpg
     Width: 200

@@ -1,11 +1,12 @@
+# List of Cars and Drivers for the Year
 - Year: 2018
   Cars:
   - Car: Ferrari SF71H
-    Count: 3
+    Count: 4
     Images:
-    - Image: stamp0714bc.jpg
     - Image: stamp0693.jpg
     - Image: stamp0694cc.jpg
+    - Image: stamp0714bc.jpg
     - Image: stamp0714dc.jpg
   - Car: Force India VJM11
     Count: 1
@@ -28,10 +29,10 @@
   - Car: Red Bull RB14
     Count: 4
     Images:
-    - Image: stamp0723ac.jpg
-    - Image: stamp0714cc.jpg
     - Image: stamp0694ac.jpg
+    - Image: stamp0714cc.jpg
     - Image: stamp0693.jpg
+    - Image: stamp0723ac.jpg
   - Car: Renault R.S.18
     Count: 1
     Images:
@@ -49,40 +50,40 @@
   - Driver: Daniel Ricciardo
     Count: 4
     Images:
-    - Image: stamp0680cd.jpg
-    - Image: stamp0693.jpg
-    - Image: stamp0617bd.jpg
     - Image: stamp0694ad.jpg
+    - Image: stamp0617bd.jpg
+    - Image: stamp0693.jpg
+    - Image: stamp0680cd.jpg
   - Driver: Fernando Alonso
     Count: 25
     Images:
-    - Image: stamp0390.jpg
+    - Image: stamp0527.jpg
+    - Image: stamp0560bd.jpg
+    - Image: stamp0485.jpg
     - Image: stamp0682dd.jpg
-    - Image: stamp0284.jpg
-    - Image: stamp0524ed.jpg
   - Driver: Kevin Magnussen
     Count: 1
     Images:
     - Image: stamp0693ad.jpg
   - Driver: Kimi Raikkonen
-    Count: 17
+    Count: 18
     Images:
-    - Image: stamp0382.jpg
-    - Image: stamp0541dd.jpg
+    - Image: stamp0399ad.jpg
     - Image: stamp0164bd.jpg
-    - Image: stamp0560cd.jpg
+    - Image: stamp0382.jpg
+    - Image: stamp0184bd.jpg
   - Driver: Lewis Hamilton
-    Count: 42
+    Count: 43
     Images:
-    - Image: stamp0694bd.jpg
-    - Image: stamp0560ad.jpg
-    - Image: stamp0713ad.jpg
-    - Image: stamp0286.jpg
+    - Image: stamp0144ad.jpg
+    - Image: stamp0615.jpg
+    - Image: stamp0540dd.jpg
+    - Image: stamp0530.jpg
   - Driver: Max Verstappen
     Count: 3
     Images:
-    - Image: stamp0719ad.jpg
     - Image: stamp0723ad.jpg
+    - Image: stamp0719ad.jpg
     - Image: stamp0714cd.jpg
   - Driver: Nico Hulkenberg
     Count: 1
@@ -95,13 +96,13 @@
   - Driver: Sebastian Vettel
     Count: 37
     Images:
-    - Image: stamp0682ad.jpg
-    - Image: stamp0643.jpg
-    - Image: stamp0681.jpg
-    - Image: stamp0617dd.jpg
+    - Image: stamp0693.jpg
+    - Image: stamp0700bd.jpg
+    - Image: stamp0486.jpg
+    - Image: stamp0528.jpg
   - Driver: Valtteri Bottas
     Count: 3
     Images:
-    - Image: stamp0720dd.jpg
     - Image: stamp0680ad.jpg
     - Image: stamp0724ad.jpg
+    - Image: stamp0720dd.jpg

@@ -1,26 +1,34 @@
+# List of Cars and Drivers for the Year
 - Year: 1975
   Cars:
   - Car: Ferrari 312 B3
     Count: 5
     Images:
-    - Image: stamp0193ac.jpg
-    - Image: stamp0047ac.jpg
-    - Image: stamp0715.jpg
     - Image: stamp0227.jpg
+    - Image: stamp0193ac.jpg
+    - Image: stamp0264.jpg
+    - Image: stamp0047ac.jpg
   - Car: Ferrari 312 T
     Count: 8
     Images:
-    - Image: stamp0721.jpg
     - Image: stamp0265.jpg
+    - Image: stamp0721.jpg
     - Image: stamp0329.jpg
-    - Image: stamp0354.jpg
+    - Image: stamp0696bc.jpg
+  - Car: Lotus 72
+    Count: 5
+    Images:
+    - Image: stamp0338.jpg
+    - Image: stamp0351.jpg
+    - Image: stamp0362.jpg
+    - Image: stamp0291dc.jpg
   - Car: McLaren M23
     Count: 9
     Images:
+    - Image: stamp0726.jpg
+    - Image: stamp0038ec.jpg
     - Image: stamp0353.jpg
     - Image: stamp0355.jpg
-    - Image: stamp0362.jpg
-    - Image: stamp0109ac.jpg
   Drivers:
   - Driver: Alan Jones
     Count: 2
@@ -30,51 +38,51 @@
   - Driver: Carlos Reutemann
     Count: 3
     Images:
-    - Image: stamp0363ad.jpg
     - Image: stamp0323bd.jpg
     - Image: stamp0621.jpg
+    - Image: stamp0363ad.jpg
   - Driver: Clay Regazzoni
     Count: 4
     Images:
     - Image: stamp0088ed.jpg
     - Image: stamp0603cd.jpg
-    - Image: stamp0010bd.jpg
     - Image: stamp0004bd.jpg
+    - Image: stamp0010bd.jpg
   - Driver: Emerson Fittipaldi
     Count: 11
     Images:
-    - Image: stamp0416.jpg
-    - Image: stamp0353.jpg
+    - Image: stamp0018.jpg
+    - Image: stamp0362.jpg
     - Image: stamp0352.jpg
-    - Image: stamp0114bd.jpg
+    - Image: stamp0074id.jpg
   - Driver: Graham Hill
     Count: 15
     Images:
-    - Image: stamp0436.jpg
-    - Image: stamp0339.jpg
-    - Image: stamp0070bd.jpg
+    - Image: stamp0420.jpg
     - Image: stamp0010gd.jpg
+    - Image: stamp0501bd.jpg
+    - Image: stamp0045bd.jpg
   - Driver: Jacky Ickx
     Count: 4
     Images:
-    - Image: stamp0088bd.jpg
+    - Image: stamp0004ad.jpg
     - Image: stamp0089cd.jpg
     - Image: stamp0009ed.jpg
-    - Image: stamp0004ad.jpg
+    - Image: stamp0088bd.jpg
   - Driver: James Hunt
     Count: 8
     Images:
+    - Image: stamp0038ed.jpg
     - Image: stamp0014cd.jpg
-    - Image: stamp0070fd.jpg
     - Image: stamp0037ed.jpg
-    - Image: stamp0355.jpg
+    - Image: stamp0039ed.jpg
   - Driver: Jody Scheckter
     Count: 7
     Images:
+    - Image: stamp0134.jpg
     - Image: stamp0216ad.jpg
     - Image: stamp0139gd.jpg
-    - Image: stamp0134.jpg
-    - Image: stamp0099ad.jpg
+    - Image: stamp0302.jpg
   - Driver: Lella Lombardi
     Count: 1
     Images:
@@ -82,17 +90,17 @@
   - Driver: Mario Andretti
     Count: 7
     Images:
-    - Image: stamp0477.jpg
-    - Image: stamp0357.jpg
     - Image: stamp0099cd.jpg
+    - Image: stamp0009gd.jpg
     - Image: stamp0478.jpg
+    - Image: stamp0074fd.jpg
   - Driver: Niki Lauda
     Count: 25
     Images:
     - Image: stamp0370hd.jpg
-    - Image: stamp0658cd.jpg
-    - Image: stamp0355.jpg
-    - Image: stamp0354.jpg
+    - Image: stamp0114dd.jpg
+    - Image: stamp0356.jpg
+    - Image: stamp0074ad.jpg
   - Driver: Rolf Stommelen
     Count: 1
     Images:

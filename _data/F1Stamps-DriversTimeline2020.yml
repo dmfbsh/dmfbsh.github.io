@@ -1,3 +1,4 @@
+# List of Drivers by Season in a Decade
 - Year: 2020
   Drivers:
   - Name: Charles LeClerc
@@ -8,28 +9,28 @@
   - Name: Daniel Ricciardo
     Count: 4
     Images:
-      - Image: stamp0694ad.jpg
-      - Image: stamp0680cd.jpg
       - Image: stamp0617bd.jpg
       - Image: stamp0693.jpg
+      - Image: stamp0694ad.jpg
+      - Image: stamp0680cd.jpg
   - Name: Kevin Magnussen
     Count: 1
     Images:
       - Image: stamp0693ad.jpg
   - Name: Kimi Raikkonen
-    Count: 17
+    Count: 18
     Images:
-      - Image: stamp0388gd.jpg
-      - Image: stamp0031.jpg
-      - Image: stamp0524cd.jpg
-      - Image: stamp0164bd.jpg
+      - Image: stamp0560cd.jpg
+      - Image: stamp0571dd.jpg
+      - Image: stamp0382.jpg
+      - Image: stamp0680dd.jpg
   - Name: Lewis Hamilton
-    Count: 42
+    Count: 43
     Images:
-      - Image: stamp0144ad.jpg
-      - Image: stamp0718ad.jpg
-      - Image: stamp0580.jpg
-      - Image: stamp0286.jpg
+      - Image: stamp0140.jpg
+      - Image: stamp0616bd.jpg
+      - Image: stamp0694bd.jpg
+      - Image: stamp0614dd.jpg
   - Name: Max Verstappen
     Count: 3
     Images:
@@ -43,6 +44,8 @@
   - Name: Valtteri Bottas
     Count: 3
     Images:
-      - Image: stamp0720dd.jpg
-      - Image: stamp0680ad.jpg
       - Image: stamp0724ad.jpg
+      - Image: stamp0680ad.jpg
+      - Image: stamp0720dd.jpg
+- Year: 2021
+  Drivers:

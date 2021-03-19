@@ -1,3 +1,4 @@
+# List of Cars and Drivers for the Year
 - Year: 1957
   Cars:
   - Car: Cooper T43
@@ -7,29 +8,36 @@
   - Car: Ferrari 801 F1
     Count: 2
     Images:
-    - Image: stamp0006ac.jpg
     - Image: stamp0056bc.jpg
+    - Image: stamp0006ac.jpg
   - Car: Ferrari D50
     Count: 5
     Images:
     - Image: stamp0046cc.jpg
     - Image: stamp0231cc.jpg
-    - Image: stamp0361.jpg
     - Image: stamp0316.jpg
+    - Image: stamp0361.jpg
+  - Car: Ferrari Tipo 500 F2
+    Count: 9
+    Images:
+    - Image: stamp0331.jpg
+    - Image: stamp0371.jpg
+    - Image: stamp0095ac.jpg
+    - Image: stamp0053bc.jpg
   - Car: Maserati 250F
     Count: 14
     Images:
-    - Image: stamp0425.jpg
     - Image: stamp0213.jpg
-    - Image: stamp0361.jpg
+    - Image: stamp0104cc.jpg
+    - Image: stamp0323cc.jpg
     - Image: stamp0536.jpg
   - Car: Vanwall VW5
     Count: 7
     Images:
-    - Image: stamp0341.jpg
-    - Image: stamp0512.jpg
+    - Image: stamp0038ac.jpg
     - Image: stamp0037ac.jpg
-    - Image: stamp0288cc.jpg
+    - Image: stamp0512.jpg
+    - Image: stamp0341.jpg
   Drivers:
   - Driver: Eugenio Castellotti
     Count: 1
@@ -39,8 +47,8 @@
     Count: 11
     Images:
     - Image: stamp0642cd.jpg
-    - Image: stamp0009dd.jpg
-    - Image: stamp0089dd.jpg
+    - Image: stamp0337.jpg
+    - Image: stamp0336.jpg
     - Image: stamp0427.jpg
   - Driver: Joakim Bonnier
     Count: 1
@@ -50,15 +58,15 @@
     Count: 3
     Images:
     - Image: stamp0068.jpg
-    - Image: stamp0602ad.jpg
     - Image: stamp0204.jpg
+    - Image: stamp0602ad.jpg
   - Driver: Juan Manuel Fangio
-    Count: 43
+    Count: 46
     Images:
-    - Image: stamp0597ad.jpg
-    - Image: stamp0218.jpg
-    - Image: stamp0144ed.jpg
-    - Image: stamp0708cd.jpg
+    - Image: stamp0099bd.jpg
+    - Image: stamp0121ad.jpg
+    - Image: stamp0364bd.jpg
+    - Image: stamp0332.jpg
   - Driver: Luigi Musso
     Count: 1
     Images:
@@ -66,10 +74,10 @@
   - Driver: Mike Hawthorn
     Count: 8
     Images:
-    - Image: stamp0653ad.jpg
-    - Image: stamp0288bd.jpg
     - Image: stamp0602ed.jpg
-    - Image: stamp0070ad.jpg
+    - Image: stamp0341.jpg
+    - Image: stamp0653ad.jpg
+    - Image: stamp0417.jpg
   - Driver: Peter Collins
     Count: 2
     Images:
@@ -78,15 +86,15 @@
   - Driver: Stirling Moss
     Count: 15
     Images:
-    - Image: stamp0600ad.jpg
-    - Image: stamp0037ad.jpg
-    - Image: stamp0379.jpg
-    - Image: stamp0276ad.jpg
+    - Image: stamp0291ad.jpg
+    - Image: stamp0009cd.jpg
+    - Image: stamp0213.jpg
+    - Image: stamp0039ad.jpg
   - Driver: Tony Brooks
     Count: 2
     Images:
-    - Image: stamp0288cd.jpg
     - Image: stamp0602gd.jpg
+    - Image: stamp0288cd.jpg
   - Driver: Wolfgang von Trips
     Count: 3
     Images:

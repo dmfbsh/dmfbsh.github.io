@@ -1,11 +1,12 @@
+# List of Cars by Season in a Decade
 - Year: 2010
   Cars:
   - Name: Ferrari F10
     Count: 3
     Images:
+      - Image: stamp0299bc.jpg
       - Image: stamp0540ac.jpg
       - Image: stamp0296.jpg
-      - Image: stamp0299bc.jpg
   - Name: McLaren MP4/25
     Count: 2
     Images:
@@ -24,19 +25,19 @@
 - Year: 2011
   Cars:
   - Name: Ferrari 150 Italia
-    Count: 3
+    Count: 4
     Images:
       - Image: stamp0299ac.jpg
-      - Image: stamp0384.jpg
-      - Image: stamp0717bc.jpg
       - Image: stamp0717ac.jpg
+      - Image: stamp0717bc.jpg
+      - Image: stamp0384.jpg
   - Name: McLaren MP4/26
     Count: 5
     Images:
-      - Image: stamp0540dc.jpg
       - Image: stamp0545.jpg
       - Image: stamp0546.jpg
-      - Image: stamp0544.jpg
+      - Image: stamp0287.jpg
+      - Image: stamp0540dc.jpg
   - Name: Mercedes MGP W02
     Count: 1
     Images:
@@ -82,14 +83,14 @@
   - Name: Mercedes F1 W03
     Count: 3
     Images:
-      - Image: stamp0650ac.jpg
       - Image: stamp0301cc.jpg
       - Image: stamp0541ac.jpg
+      - Image: stamp0650ac.jpg
   - Name: Red Bull RB8
     Count: 2
     Images:
-      - Image: stamp0648bc.jpg
       - Image: stamp0541bc.jpg
+      - Image: stamp0648bc.jpg
   - Name: Sauber C31
     Count: 1
     Images:
@@ -107,8 +108,8 @@
   - Name: Ferrari F138
     Count: 2
     Images:
-      - Image: stamp0700ac.jpg
       - Image: stamp0699.jpg
+      - Image: stamp0700ac.jpg
   - Name: Force India VJM06
     Count: 1
     Images:
@@ -143,8 +144,8 @@
   - Name: Mercedes F1 W05 Hybrid
     Count: 3
     Images:
-      - Image: stamp0616ac.jpg
       - Image: stamp0598bc.jpg
+      - Image: stamp0616ac.jpg
       - Image: stamp0678ac.jpg
   - Name: Red Bull RB10
     Count: 2
@@ -160,10 +161,10 @@
   - Name: Ferrari SF15-T
     Count: 5
     Images:
-      - Image: stamp0581.jpg
+      - Image: stamp0582cc.jpg
       - Image: stamp0695ac.jpg
       - Image: stamp0594.jpg
-      - Image: stamp0582cc.jpg
+      - Image: stamp0581.jpg
   - Name: Lotus E23
     Count: 1
     Images:
@@ -175,14 +176,15 @@
   - Name: Mercedes F1 W06
     Count: 3
     Images:
-      - Image: stamp0582bc.jpg
-      - Image: stamp0595.jpg
       - Image: stamp0675ac.jpg
+      - Image: stamp0595.jpg
+      - Image: stamp0582bc.jpg
   - Name: Red Bull RB11
     Count: 3
     Images:
-      - Image: stamp0581.jpg
       - Image: stamp0593.jpg
+      - Image: stamp0596.jpg
+      - Image: stamp0581.jpg
   - Name: Sauber C34
     Count: 1
     Images:
@@ -196,15 +198,16 @@
     Images:
       - Image: stamp0582ac.jpg
       - Image: stamp0592.jpg
+      - Image: stamp0596.jpg
 - Year: 2016
   Cars:
   - Name: Ferrari SF16-H
     Count: 5
     Images:
+      - Image: stamp0669cc.jpg
+      - Image: stamp0656ac.jpg
       - Image: stamp0644bc.jpg
       - Image: stamp0660ac.jpg
-      - Image: stamp0617dc.jpg
-      - Image: stamp0656ac.jpg
   - Name: Force India VJM09
     Count: 1
     Images:
@@ -221,23 +224,23 @@
   - Name: McLaren MP4/31
     Count: 3
     Images:
-      - Image: stamp0617ac.jpg
       - Image: stamp0644ec.jpg
+      - Image: stamp0617ac.jpg
       - Image: stamp0660bc.jpg
   - Name: Mercedes F1 W07 Hybrid
+    Count: 7
+    Images:
+      - Image: stamp0617cc.jpg
+      - Image: stamp0644ac.jpg
+      - Image: stamp0660cc.jpg
+      - Image: stamp0660ec.jpg
+  - Name: Red Bull RB12
     Count: 6
     Images:
-      - Image: stamp0660cc.jpg
-      - Image: stamp0672ac.jpg
-      - Image: stamp0644ac.jpg
-      - Image: stamp0669ac.jpg
-  - Name: Red Bull RB12
-    Count: 5
-    Images:
-      - Image: stamp0660fc.jpg
+      - Image: stamp0644cc.jpg
       - Image: stamp0668ac.jpg
+      - Image: stamp0660dc.jpg
       - Image: stamp0653dc.jpg
-      - Image: stamp0617bc.jpg
   - Name: Renault R.S.16
     Count: 2
     Images:
@@ -250,8 +253,8 @@
   - Name: Williams FW38
     Count: 2
     Images:
-      - Image: stamp0668.jpg
       - Image: stamp0644dc.jpg
+      - Image: stamp0668.jpg
 - Year: 2017
   Cars:
   - Name: Ferrari SF70H
@@ -268,17 +271,17 @@
   - Name: McLaren MCL32
     Count: 5
     Images:
-      - Image: stamp0674.jpg
-      - Image: stamp0698ac.jpg
       - Image: stamp0675ec.jpg
-      - Image: stamp0672.jpg
+      - Image: stamp0698ac.jpg
+      - Image: stamp0691ac.jpg
+      - Image: stamp0674.jpg
   - Name: Mercedes AMG F1 W08 EQ Powerplus
     Count: 4
     Images:
+      - Image: stamp0671bc.jpg
+      - Image: stamp0674.jpg
       - Image: stamp0692.jpg
       - Image: stamp0673ac.jpg
-      - Image: stamp0674.jpg
-      - Image: stamp0671bc.jpg
   - Name: Red Bull RB13
     Count: 1
     Images:
@@ -286,10 +289,10 @@
   - Name: Renault R.S.17
     Count: 4
     Images:
-      - Image: stamp0697ac.jpg
-      - Image: stamp0675hc.jpg
-      - Image: stamp0692ac.jpg
       - Image: stamp0673cc.jpg
+      - Image: stamp0692ac.jpg
+      - Image: stamp0675hc.jpg
+      - Image: stamp0697ac.jpg
   - Name: Sauber C36
     Count: 3
     Images:
@@ -299,17 +302,17 @@
   - Name: Williams FW40
     Count: 2
     Images:
-      - Image: stamp0692.jpg
       - Image: stamp0674.jpg
+      - Image: stamp0692.jpg
 - Year: 2018
   Cars:
   - Name: Ferrari SF71H
-    Count: 3
+    Count: 4
     Images:
-      - Image: stamp0714bc.jpg
-      - Image: stamp0694cc.jpg
       - Image: stamp0714dc.jpg
+      - Image: stamp0694cc.jpg
       - Image: stamp0693.jpg
+      - Image: stamp0714bc.jpg
   - Name: Force India VJM11
     Count: 1
     Images:
@@ -321,20 +324,20 @@
   - Name: McLaren MCL33
     Count: 2
     Images:
-      - Image: stamp0694dc.jpg
       - Image: stamp0693.jpg
+      - Image: stamp0694dc.jpg
   - Name: Mercedes AMG F1 W09 EQ Powerplus
     Count: 2
     Images:
-      - Image: stamp0694bc.jpg
       - Image: stamp0713ac.jpg
+      - Image: stamp0694bc.jpg
   - Name: Red Bull RB14
     Count: 4
     Images:
-      - Image: stamp0714cc.jpg
       - Image: stamp0723ac.jpg
-      - Image: stamp0694ac.jpg
+      - Image: stamp0714cc.jpg
       - Image: stamp0693.jpg
+      - Image: stamp0694ac.jpg
   - Name: Renault R.S.18
     Count: 1
     Images:
@@ -346,19 +349,19 @@
 - Year: 2019
   Cars:
   - Name: Ferrari SF90
-    Count: 3
+    Count: 5
     Images:
-      - Image: stamp0724cc.jpg
-      - Image: stamp0720bc.jpg
       - Image: stamp0724bc.jpg
+      - Image: stamp0724cc.jpg
       - Image: stamp0719.jpg
+      - Image: stamp0720ac.jpg
   - Name: Mercedes AMG F1 W10 EQ Powerplus
-    Count: 4
+    Count: 6
     Images:
-      - Image: stamp0724ac.jpg
-      - Image: stamp0723.jpg
-      - Image: stamp0724dc.jpg
       - Image: stamp0720cc.jpg
+      - Image: stamp0724dc.jpg
+      - Image: stamp0719.jpg
+      - Image: stamp0723.jpg
   - Name: Red Bull RB15
     Count: 1
     Images:

@@ -1,12 +1,13 @@
+# List of Cars and Drivers for the Year
 - Year: 1966
   Cars:
   - Car: Brabham BT19
     Count: 7
     Images:
-    - Image: stamp0600ec.jpg
-    - Image: stamp0008ac.jpg
     - Image: stamp0510.jpg
+    - Image: stamp0126.jpg
     - Image: stamp0655dc.jpg
+    - Image: stamp0600ec.jpg
   - Car: Brabham BT20
     Count: 1
     Images:
@@ -18,16 +19,16 @@
   - Car: Ferrari 312
     Count: 6
     Images:
-    - Image: stamp0165bc.jpg
-    - Image: stamp0308.jpg
     - Image: stamp0695.jpg
+    - Image: stamp0308.jpg
+    - Image: stamp0165bc.jpg
     - Image: stamp0006dc.jpg
   - Car: Ferrari 312 F1
     Count: 3
     Images:
+    - Image: stamp0006fc.jpg
     - Image: stamp0461bc.jpg
     - Image: stamp0313.jpg
-    - Image: stamp0006fc.jpg
   - Car: Honda RA273
     Count: 1
     Images:
@@ -35,10 +36,10 @@
   - Car: Lotus 25
     Count: 11
     Images:
+    - Image: stamp0039cc.jpg
     - Image: stamp0045cc.jpg
-    - Image: stamp0288dc.jpg
-    - Image: stamp0129.jpg
-    - Image: stamp0514.jpg
+    - Image: stamp0175ac.jpg
+    - Image: stamp0346.jpg
   - Car: Lotus 43
     Count: 1
     Images:
@@ -47,9 +48,9 @@
   - Driver: Bruce McLaren
     Count: 3
     Images:
+    - Image: stamp0112bd.jpg
     - Image: stamp0009bd.jpg
     - Image: stamp0005bd.jpg
-    - Image: stamp0112bd.jpg
   - Driver: Dan Gurney
     Count: 1
     Images:
@@ -57,42 +58,42 @@
   - Driver: Denis Hulme
     Count: 4
     Images:
+    - Image: stamp0349.jpg
     - Image: stamp0088ad.jpg
     - Image: stamp0221bd.jpg
-    - Image: stamp0349.jpg
     - Image: stamp0112ad.jpg
   - Driver: Graham Hill
     Count: 15
     Images:
-    - Image: stamp0558.jpg
-    - Image: stamp0420.jpg
-    - Image: stamp0011.jpg
+    - Image: stamp0435.jpg
     - Image: stamp0045bd.jpg
+    - Image: stamp0434.jpg
+    - Image: stamp0348.jpg
   - Driver: Jack Brabham
     Count: 11
     Images:
-    - Image: stamp0642cd.jpg
-    - Image: stamp0336.jpg
+    - Image: stamp0600ed.jpg
+    - Image: stamp0427.jpg
     - Image: stamp0602hd.jpg
-    - Image: stamp0340.jpg
+    - Image: stamp0004cd.jpg
   - Driver: Jackie Stewart
     Count: 24
     Images:
-    - Image: stamp0189dd.jpg
-    - Image: stamp0338.jpg
-    - Image: stamp0350.jpg
-    - Image: stamp0221dd.jpg
+    - Image: stamp0045ed.jpg
+    - Image: stamp0070ed.jpg
+    - Image: stamp0088cd.jpg
+    - Image: stamp0667ad.jpg
   - Driver: Jean-Pierre Beltoise
     Count: 1
     Images:
     - Image: stamp0600hd.jpg
   - Driver: Jim Clark
-    Count: 22
+    Count: 23
     Images:
-    - Image: stamp0176ed.jpg
-    - Image: stamp0345.jpg
+    - Image: stamp0045cd.jpg
     - Image: stamp0438.jpg
-    - Image: stamp0418.jpg
+    - Image: stamp0038cd.jpg
+    - Image: stamp0370cd.jpg
   - Driver: Joakim Bonnier
     Count: 1
     Images:
@@ -100,17 +101,17 @@
   - Driver: Jochen Rindt
     Count: 10
     Images:
-    - Image: stamp0454.jpg
-    - Image: stamp0089ed.jpg
-    - Image: stamp0323cd.jpg
+    - Image: stamp0419.jpg
+    - Image: stamp0221cd.jpg
     - Image: stamp0351.jpg
+    - Image: stamp0455.jpg
   - Driver: John Surtees
     Count: 10
     Images:
-    - Image: stamp0010ed.jpg
-    - Image: stamp0070dd.jpg
+    - Image: stamp0045dd.jpg
     - Image: stamp0221ad.jpg
-    - Image: stamp0121cd.jpg
+    - Image: stamp0137.jpg
+    - Image: stamp0423.jpg
   - Driver: Ludovico Scarfiotti
     Count: 1
     Images:
@@ -118,7 +119,7 @@
   - Driver: Phil Hill
     Count: 9
     Images:
-    - Image: stamp0138.jpg
-    - Image: stamp0334.jpg
     - Image: stamp0421.jpg
-    - Image: stamp0139dd.jpg
+    - Image: stamp0334.jpg
+    - Image: stamp0445.jpg
+    - Image: stamp0291bd.jpg

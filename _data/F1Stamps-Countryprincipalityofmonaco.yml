@@ -1,35 +1,7 @@
+# List of Stamps for Country
 - Country: Principality of Monaco
   Flag: MONA0001.jpg
   Stamps:
-  - Picture: stamp0727.jpg
-    Width: 400
-    IssueDate: 27th March 2020
-    Description: |
-      A single stamp featuring Niki Lauda, 22nd February 1949 to 20th May 2019.<br>
-      <br>
-      Lauda is a three-time Drivers' Champion, winning in 1975, 1977 and 1984.  He is the only driver in F1 history to have been champion for both Ferrari and McLaren, the sport's two most successful constructors.  He is widely considered one of the greatest F1 drivers of all time.<br>
-      <br>
-      Lauda was seriously injured in a crash at the 1976 German Grand Prix at the Nurburgring during which his Ferrari 312T2 burst into flames, and he came close to death after inhaling hot toxic fumes and suffering severe burns.  He raced again just six weeks later at the Italian Grand Prix.<br>
-      <br>
-      In September 2012 he was appointed non-executive chairman of the Mercedes F1 Team.  He took part in negotiations to sign Lewis Hamilton to a three-year deal with Mercedes.
-  - Picture: stamp0725.jpg
-    Width: 400
-    IssueDate: 4th March 2020
-    Description: |
-      A single stamp featuring the Cooper T53.<br>
-      <br>
-      The "lowline" Cooper T53 dominated the 1960 season with works drivers Jack Brabham and Bruce McLaren finishing first and second in the championship.
-  - Picture: stamp0726.jpg
-    Width: 400
-    IssueDate: 4th March 2020
-    Description: |
-      A single stamp featuring the McLaren M23.<br>
-      <br>
-      The M23 was introduced for the 1973 season and was used by McLaren up to and including the 1977 season.  With this car, McLaren achieved three third places, one second place and one first place in the Constructors' Championship.<br>
-      <br>
-      A total of 13 chassis were built, with serial numbers 1 to 12 and 14.  No number 13 chassis was built, as it was deemed to be unlucky.<br>
-      <br>
-      The M23 was never the most technically advanced F1 car, but sound preparation and continual development helped it win 16 Grands Prix, two Drivers' and one Constructors' Championships in its lifetime.
   - Picture: stamp0105.jpg
     Width: 400
     IssueDate: 10th April 2004
@@ -193,7 +165,6 @@
     IssueDate: 1st March 2016
     Description: |
       The 711 was the car entered by March Engineering for the 1971 season.  The aerodynamics were designed by Frank Costin and featured an ovoid front wing described either as the Spitfire (for its shape) or the Tea Tray (for its elevation from the car).  The car took no wins, but Ronnie Peterson finished second on four occasions, ending as runner-up in the World Championship.<br>
-      <br>
       In 1972 Frank Williams ran a 711 chassis fitted with the Ford Cosworth DFV 3.0 in the Belgian Grand Prix, it was driven to fifth place by Carlos Pace.
   - Picture: stamp0591.jpg
     Width: 200
@@ -202,31 +173,6 @@
       The Association Internationale des Automobile Clubs Reconnus was founded in Paris on 20 June 1904, as an association of national motor clubs.  The association was designed to represent the interests of motor car users, as well as to oversee the burgeoning international motor sport scene.  In 1922, the AIACR delegated the organisation of automobile racing to the Commission Sportive Internationale (CSI), which would set the regulations for international Grand Prix motor racing.<br>
       <br>
       Upon the resumption of motor racing after the Second World War, the AIACR was renamed as the Ferderation Internationale de l'Automobile.  The FIA established a number of new racing categories, among them Formulas One and Two, and created the first World Championship, the Formula One World Drivers' Championship, in 1950.
-  - Picture: stamp0684.jpg
-    Width: 400
-    IssueDate: 19th February 2018
-    Description: |
-      A single stamp featuring the Lotus 49.<br>
-      <br>
-      The Lotus 49 was a F1 racing car designed by Colin Chapman and Maurice Philippe for the 1967 F1 season.  It was designed around the Cosworth DFV engine that would power most of the grid through the 1970s.  It was one of the first F1 cars to use a stressed-member drivetrain to reduce weight, and the first to be widely copied by other teams.<br>
-      <br>
-      Jim Clark won on the car's debut, in 1967, and it would also provide him with the last win of his career, in 1968.  Graham Hill went on to win that year's title and the car continued winning races until 1970.
-  - Picture: stamp0685.jpg
-    Width: 400
-    IssueDate: 19th February 2018
-    Description: |
-      A single stamp featuring the Mercedes W196.<br>
-      <br>
-      The Mercedes-Benz W196 was a F1 racing car produced by Mercedes-Benz for the 1954 and 1955 F1 seasons.  Successor to the W194, in the hands of Juan Manuel Fangio and Stirling Moss it won 9 of 12 races entered and captured the only two world championships in which it competed.<br>
-      <br>
-      Firsts included the use of desmodromic valves and Daimler-Benz developed mechanical direct fuel injection adapted from the DB 601 high-performance V12 used on the Messerschmitt Bf 109E fighter during World War II.
-  - Picture: stamp0686.jpg
-    Width: 400
-    IssueDate: 19th February 2018
-    Description: |
-      A single stamp featuring Jim Clark.<br>
-      <br>
-      Jim Clark achieved 33 pole positions and won 25 races from his 72 Grands Prix starts in championship races.  He is remembered for his ability to drive and win in all types of cars and series.
   - Picture: stamp0662.jpg
     Width: 400
     IssueDate: 8th March 2017
@@ -257,6 +203,31 @@
       Although the 75th time that the Monaco Grand Prix had been held, this was actually the 64th time it has been a round of the F1 World Championship.<br>
       <br>
       Sebastian Vettel won the race, the first Ferrari win in Monaco since 2001.  Kimi Raikkonen finished second as this was the first Ferrari 1-2 finish since the 2010 German Grand Prix.
+  - Picture: stamp0684.jpg
+    Width: 400
+    IssueDate: 19th February 2018
+    Description: |
+      A single stamp featuring the Lotus 49.<br>
+      <br>
+      The Lotus 49 was a F1 racing car designed by Colin Chapman and Maurice Philippe for the 1967 F1 season.  It was designed around the Cosworth DFV engine that would power most of the grid through the 1970s.  It was one of the first F1 cars to use a stressed-member drivetrain to reduce weight, and the first to be widely copied by other teams.<br>
+      <br>
+      Jim Clark won on the car's debut, in 1967, and it would also provide him with the last win of his career, in 1968.  Graham Hill went on to win that year's title and the car continued winning races until 1970.
+  - Picture: stamp0685.jpg
+    Width: 400
+    IssueDate: 19th February 2018
+    Description: |
+      A single stamp featuring the Mercedes W196.<br>
+      <br>
+      The Mercedes-Benz W196 was a F1 racing car produced by Mercedes-Benz for the 1954 and 1955 F1 seasons.  Successor to the W194, in the hands of Juan Manuel Fangio and Stirling Moss it won 9 of 12 races entered and captured the only two world championships in which it competed.<br>
+      <br>
+      Firsts included the use of desmodromic valves and Daimler-Benz developed mechanical direct fuel injection adapted from the DB 601 high-performance V12 used on the Messerschmitt Bf 109E fighter during World War II.
+  - Picture: stamp0686.jpg
+    Width: 400
+    IssueDate: 19th February 2018
+    Description: |
+      A single stamp featuring Jim Clark.<br>
+      <br>
+      Jim Clark achieved 33 pole positions and won 25 races from his 72 Grands Prix starts in championship races.  He is remembered for his ability to drive and win in all types of cars and series.
   - Picture: stamp0701.jpg
     Width: 400
     IssueDate: 5th February 2019
@@ -293,3 +264,32 @@
       The first race, held on the 14th April 1929, was organised by Antony Noghes and was won by William Grover-Williams driving a works Bugatti Type 35B.<br>
       <br>
       The 2019 race, held on the 26th May 2019, was won by Lewis Hamilton driving a works Mercedes AMG F1 W10 EQ Power+.
+  - Picture: stamp0727.jpg
+    Width: 400
+    IssueDate: 27th March 2020
+    Description: |
+      A single stamp featuring Niki Lauda, 22nd February 1949 to 20th May 2019.<br>
+      <br>
+      Lauda is a three-time Drivers' Champion, winning in 1975, 1977 and 1984.  He is the only driver in F1 history to have been champion for both Ferrari and McLaren, the sport's two most successful constructors.  He is widely considered one of the greatest F1 drivers of all time.<br>
+      <br>
+      Lauda was seriously injured in a crash at the 1976 German Grand Prix at the Nurburgring during which his Ferrari 312T2 burst into flames, and he came close to death after inhaling hot toxic fumes and suffering severe burns.  He raced again just six weeks later at the Italian Grand Prix.<br>
+      <br>
+      In September 2012 he was appointed non-executive chairman of the Mercedes F1 Team.  He took part in negotiations to sign Lewis Hamilton to a three-year deal with Mercedes.
+  - Picture: stamp0725.jpg
+    Width: 400
+    IssueDate: 4th March 2020
+    Description: |
+      A single stamp featuring the Cooper T53.<br>
+      <br>
+      The "lowline" Cooper T53 dominated the 1960 season with works drivers Jack Brabham and Bruce McLaren finishing first and second in the championship.
+  - Picture: stamp0726.jpg
+    Width: 400
+    IssueDate: 4th March 2020
+    Description: |
+      A single stamp featuring the McLaren M23.<br>
+      <br>
+      The M23 was introduced for the 1973 season and was used by McLaren up to and including the 1977 season.  With this car, McLaren achieved three third places, one second place and one first place in the Constructors' Championship.<br>
+      <br>
+      A total of 13 chassis were built, with serial numbers 1 to 12 and 14.  No number 13 chassis was built, as it was deemed to be unlucky.<br>
+      <br>
+      The M23 was never the most technically advanced F1 car, but sound preparation and continual development helped it win 16 Grands Prix, two Drivers' and one Constructors' Championships in its lifetime.
