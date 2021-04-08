@@ -54,7 +54,7 @@ Webb was born in Leighton in 1881.
 - Date: 1888 AD
 
 Henry Eckford was a Scottish horticulturist and reputedly the most famous breeder of sweet peas.  In 1888 he moved to Wem and it was in Wem that he perfected the breeding of his Grandiflora sweet peas.  He is buried at the Whitchurch Road Cemetery in Wem.
-![](../1shropshire/assets/images/people/photo-needed.jpg)
+![](../1shropshire/assets/images/people/2021-03-06_14_44_27_IMG_6424.jpg)
 
 # Name: Wilfred Owen Born
 - Date: 1893 AD

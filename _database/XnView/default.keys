@@ -24,6 +24,7 @@ cmd_cutFile Ctrl+X
 cmd_deleteFile 
 cmd_editGPS 
 cmd_editIPTC Ctrl+I
+cmd_editXMP 
 cmd_email 
 cmd_emptyImage 
 cmd_exifThumb90L 
@@ -115,6 +116,7 @@ cmd_rotate270
 cmd_rotate90 
 cmd_search Ctrl+F
 cmd_selectAll Ctrl+A
+cmd_selectAllFiles 
 cmd_selectAllImages 
 cmd_selectNone 
 cmd_selectTagged 
@@ -188,6 +190,7 @@ cmd_deleteFile
 cmd_desaturate 
 cmd_editCmap 
 cmd_editIPTC Ctrl+I
+cmd_editXMP 
 cmd_emptyImage 
 cmd_enhance Shift+E
 cmd_equalize 
@@ -196,6 +199,7 @@ cmd_fileFirst Home
 cmd_fileLast End
 cmd_fileNext PgDown
 cmd_filePrevious PgUp
+cmd_fileRandom 
 cmd_film 
 cmd_filter 
 cmd_fitAll /
@@ -278,11 +282,13 @@ cmd_reload Ctrl+R
 cmd_removeAlpha 
 cmd_renameFile F2
 cmd_resize Shift+S
+cmd_riot 
 cmd_rotate 
 cmd_rotate180 
 cmd_rotate270 Shift+L
 cmd_rotate90 Shift+R
 cmd_save Ctrl+S
+cmd_saveAll 
 cmd_saveSelection 
 cmd_saveas Ctrl+Shift+S
 cmd_selectAll Ctrl+A
@@ -303,21 +309,25 @@ cmd_showGrid
 cmd_showHisto H
 cmd_showInfo I
 cmd_showRed 
+cmd_showRegion 
 cmd_snapshot 
 cmd_solarize 
 cmd_spotlight 
 cmd_tag Ctrl+T
+cmd_text 
 cmd_twainScan Ctrl+Alt+A
 cmd_twainSource 
 cmd_undo Ctrl+Z
 cmd_untag 
 cmd_useAlpha Ctrl+H
+cmd_useSmooth 
 cmd_useStatusbar Ctrl+Shift+B
 cmd_useToolbar Ctrl+Shift+T
 cmd_useTranspIndex Ctrl+Alt+H
 cmd_userFilter 
 cmd_vignetting 
 cmd_wallpaper 
+cmd_watermark 
 cmd_zoom100 *
 cmd_zoomIn +
 cmd_zoomOut -

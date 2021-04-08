@@ -7,7 +7,11 @@
             "label": "1. Build Shropshire Site",
             "group": "build",
             "dependsOrder": "sequence",
-            "dependsOn": ["Convert MD to YML", "Generate Recents", "Jekyll Shropshire Site"],
+            "dependsOn": [
+                "Convert MD to YML",
+                "Generate Recents",
+                "Jekyll Shropshire Site"
+            ],
             "problemMatcher": []
         },
         {
@@ -22,7 +26,7 @@
             "problemMatcher": []
         },
         {
-            "label": "4. Jekyll F1 Stamps Site",
+            "label": "2. Jekyll F1 Stamps Site",
             "type": "shell",
             "command": "jekyll build --verbose --config _config2.yml",
             "group": "build",

@@ -1,7 +1,19 @@
+### 06 Apr 2021
+Replace photo of Shelve church.
+
+Replace photo of Cressage church.
+
+Add photo for Henry Eckford.
+
+Added the following items:
+
+- Edgmond Church
+- Eaton Constantine Church
+
 ### 03 Jan 2021
 Re-engineer the site to use the BootStrap framework.
 
-Added the following item:
+Added the following items:
 
 - Meole Brace Church
 - The Iron Bridge at Christmas

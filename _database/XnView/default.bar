@@ -17,17 +17,13 @@ cmd_ratingAndLabel
 cmd_category
 cmd_showRecursive
 _separator_
-cmd_settings
-_separator_
-_cmd_=Shropshire Photography;C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/Web Site/Shropshire Photography.exe;C:/Program Files/DB Browser for SQLite/DB Browser for SQLite.exe
-_cmd_=Shropshire Features;C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/Web Site/Shropshire Features.exe;C:/Program Files/DB Browser for SQLite/DB Browser for SQLite.exe
+_cmd_=Shropshire Database;C:/Users/David/Documents/OneDrive/Documents/My Documents/Java/Shropshire Database.exe;C:/Users/David/Documents/OneDrive/Documents/My Documents/Java/Shropshire Database.exe
+cmd_convert
 _cmd_=DxO.PhotoLab;C:/Program Files/DxO/DxO PhotoLab 4/DxO.PhotoLab.exe;C:/Program Files/DxO/DxO PhotoLab 4/DxO.PhotoLab.exe
 _cmd_=Affinity Photo;C:/Program Files/Affinity/Photo/Photo.exe;C:/Program Files/Affinity/Photo/Photo.exe
-_cmd_=Luminar 4;C:/Program Files/Skylum/Luminar 4/Luminar 4.exe;C:/Program Files/Skylum/Luminar 4/Luminar 4.exe
-_cmd_=LandscapePro;C:/Program Files/LandscapePro 3/LandscapePro.exe;C:/Program Files/LandscapePro 3/LandscapePro.exe
-cmd_convert
-_cmd_=Church Subimages;C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/Web Site/Church Subimages.exe;C:/Program Files/AutoHotkey/AutoHotkey.exe
-_cmd_=Code;C:/Program Files/Microsoft VS Code/Code.exe;C:/Program Files/Microsoft VS Code/Code.exe
+_cmd_=Luminar AI;C:/Program Files/Skylum/Luminar AI/Luminar AI.exe;C:/Program Files/Skylum/Luminar AI/Luminar AI.exe
+_separator_
+cmd_settings
 
 [View]
 cmd_browse

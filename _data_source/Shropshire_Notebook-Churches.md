@@ -552,7 +552,7 @@ The name Cressage means 'Christ's Oak', and so it is thought the village's locat
 There was a medieval church at Cressage, but it suffered repeated flooding from the nearby river Severn and so the current church was built on higher ground.  The rather austere church was architected by Edward Haycock snr (Haycock was responsible for 14 churches in Shropshire, other work by him includes Millichope Park and the Lord Hill monument in Shrewsbury).
 
 The octagonal pulpit is made of panelling from St Samson's church (the old medieval church).
-![](../1shropshire/assets/images/churches/2020-03-01_14_31_17_DSC_6656_DxO.jpg)
+![](../1shropshire/assets/images/churches/2021-04-05_15_23_06_DSC_9290_DxO.jpg)
 
 # Name: St Mary, Crudgington
 - Area: North
@@ -586,6 +586,56 @@ The name Dorrington derives from the Old English Deoringtun meaning 'settlement 
 - Sub-Image: 2020-08-01_16_12_10_DSC_7782_DxO.jpg
 - Sub-Image: 2020-08-01_16_12_23_DSC_7785_DxO.jpg
 - Sub-Image: 2020-08-01_16_13_53_DSC_7787_DxO.jpg
+
+# Name: St Mary, Eaton Constantine
+- Area: North
+- Date: 1841 AD
+
+Eaton Constantine was originally a dependent chapelry of Leighton but became a separate parish in the later Middle Ages.  The original church was replaced in 1841 by the present building.
+
+The only item remaining from the old church is the Norman font.
+
+The name Eaton Constantine is derived from the old English words for river and farm/settlement (ea and tun respectively).  The settlement was held by Thomas de Constentin family in 1242.
+![](../1shropshire/assets/images/churches/2021-04-05_16_14_43_DSC_9314_DxO.jpg)
+
+# Name: St Peter, Edgmond
+- Area: North
+- Date: 1080 AD
+
+The original Norman church was enlarged in the 13th Century, when the tower, porch and aisle were added.  It was then and almost completely rebuilt during the following two centuries, re-using some of the 13th Century material.  The church was further restored in 1877–78 by G E Street (best known as the designer of the Royal Courts of Justice).
+
+Inside, the stone reredos dates from 1899 and was designed by Bodley and Garner, it depicts the Crucifixion and saints.  The window in the south wall of the chancel is by William Morris (1876), it depicts the Virgin Mary and Mary Magdalene.  The west window beyond the bell ringing chamber was created by Hardman in the nineteenth century, it shows St. Francis at the centre and the wonders of creation. The font is early Norman.
+
+The painted sundial on the exterior is 18th Century.
+
+The name Edgmond means 'Ecgmund's hill' - the settlement is situated at the summit of a hill 200-250 ft above sea level.
+
+![](../1shropshire/assets/images/churches/2021-04-06_14_05_31_DSC_9377_DxO.jpg)
+- Sub-Image: 2021-04-06_13_29_37_DSC_9323_DxO.jpg
+- Sub-Image: 2021-04-06_13_29_44_DSC_9324_DxO.jpg
+- Sub-Image: 2021-04-06_13_30_36_DSC_9325_DxO.jpg
+- Sub-Image: 2021-04-06_13_30_58_DSC_9326_DxO.jpg
+- Sub-Image: 2021-04-06_13_31_32_DSC_9328_DxO.jpg
+- Sub-Image: 2021-04-06_13_32_02_DSC_9329_DxO.jpg
+- Sub-Image: 2021-04-06_13_32_54_DSC_9330_DxO.jpg
+- Sub-Image: 2021-04-06_13_35_43_DSC_9335_DxO.jpg
+- Sub-Image: 2021-04-06_13_36_04_DSC_9336_DxO.jpg
+- Sub-Image: 2021-04-06_13_36_21_DSC_9337_DxO.jpg
+- Sub-Image: 2021-04-06_13_36_42_DSC_9338_DxO.jpg
+- Sub-Image: 2021-04-06_13_37_11_DSC_9339_DxO.jpg
+- Sub-Image: 2021-04-06_13_39_41_DSC_9340_DxO.jpg
+- Sub-Image: 2021-04-06_13_40_01_DSC_9341_DxO.jpg
+- Sub-Image: 2021-04-06_13_40_32_DSC_9343_DxO.jpg
+- Sub-Image: 2021-04-06_13_41_01_DSC_9344_DxO.jpg
+- Sub-Image: 2021-04-06_13_43_10_DSC_9346_DxO.jpg
+- Sub-Image: 2021-04-06_13_44_25_DSC_9350_DxO.jpg
+- Sub-Image: 2021-04-06_13_44_57_DSC_9352_DxO.jpg
+- Sub-Image: 2021-04-06_13_46_43_DSC_9353_DxO.jpg
+- Sub-Image: 2021-04-06_13_49_01_DSC_9354_DxO.jpg
+- Sub-Image: 2021-04-06_14_02_39_DSC_9372_DxO.jpg
+- Sub-Image: 2021-04-06_14_02_52_DSC_9373_DxO.jpg
+- Sub-Image: 2021-04-06_14_07_29_DSC_9387_DxO.jpg
+- Sub-Image: 2021-04-06_13_58_23_DSC_9370_DxO.jpg
 
 # Name: St Mary, Ellesmere
 - Area: North
@@ -1261,7 +1311,7 @@ The present church was built to replace a medieval structure and is built in the
 This church is one of the highest in the county at 1,150 feet above sea level.
 
 The place name likely derives from the fact it is situated on an area of relatively flat ground in an otherwise undulating terrain, as in 'shelf' of level ground.
-![](../1shropshire/assets/images/churches/2020-03-21_11_21_07_DSC_6856_DxO.jpg)
+![](../1shropshire/assets/images/churches/2021-03-29_13_32_55_DSC_9236_DxO.jpg)
 - Sub-Image: 2020-03-21_11_07_03_DSC_6846_DxO.jpg
 - Sub-Image: 2020-03-21_11_09_12_DSC_6847_DxO.jpg
 - Sub-Image: 2020-03-21_11_10_09_DSC_6848_DxO.jpg
