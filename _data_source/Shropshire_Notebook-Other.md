@@ -188,6 +188,11 @@ TBD
 TBD
 ![](../1shropshire/assets/images/other/2020-01-12_12_20_18_DSC_6179_DxO.jpg)
 
+# Name: Ironbridge
+
+TBD
+![](../1shropshire/assets/images/other/2021-03-29_15_57_33_DSC_9277_DxO.jpg)
+
 # Name: The Boat Inn, Jackfield
 
 The Boat Inn in Jackfield keeps a record of flood levels on its door.  The highest record was set at 19 feet and six inches (5.97m) on 1st November 2000.  Other records have been set at 19 feet and five inches (5.95m) on 10th February 1946 and at 19 feet and one inch (5.8m) on 21st March 2020 and due to the Covid-19 epidemic, the inn is still undergoing repairs in August 2020, serving food and drink from a caravan.

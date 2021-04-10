@@ -1,3 +1,4 @@
+puts "Starting: convert_md_to_yml"
 
 Dir.glob("../_data_source/*.md") do |srcfn|
 

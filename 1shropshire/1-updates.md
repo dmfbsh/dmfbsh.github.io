@@ -5,6 +5,10 @@ Replace photo of Cressage church.
 
 Add photo for Henry Eckford.
 
+Add photo of Ironbridge.
+
+Add three photos of the Long Mynd.
+
 Added the following items:
 
 - Edgmond Church

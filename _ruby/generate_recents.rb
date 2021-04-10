@@ -1,3 +1,4 @@
+puts "Starting: generate_recents"
 
 clp = Dir.glob("../1shropshire/assets/images/churches/20*.jpg")
 hlp = Dir.glob("../1shropshire/assets/images/history/20*.jpg")
@@ -23,6 +24,7 @@ dsth = File.open(dstf, "w")
 cnt = 0
 
 gl.each { |mi|
+  puts "Including: " + mi[0..mi.index("#")-1]
   mf = mi[mi.index("#")+1, 100] + "/" + mi[0..mi.index("#")-1]
   if cnt < 80
     dsth.write("- Type: Item\n")
