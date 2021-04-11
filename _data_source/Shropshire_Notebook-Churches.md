@@ -1284,6 +1284,18 @@ It is likely that most of the building is 17th Century as there are few traces o
 ![](../1shropshire/assets/images/churches/2019-05-06_15_49_10_DSC_4232_DxO.jpg)
 - Sub-Image: 2019-05-06_15_41_00_DSC_4228_DxO.jpg
 
+# Name: St George, Rodington
+- Area: North
+- Date: 1851 AD
+
+The domesday book mentions the presence of both a priest and a church at this place.  The medieval church is long gone however, a Georgian church built at this site in 1751 and this was in turn replaced with the present Victorian church.
+
+In 1929, a section of wall of the medieval church was discovered.
+
+The place name Rodington is derived from name of the river (Roden), the origin of which is unknown, and the Old English 'tun' meaning farm or settlement.
+
+![](../1shropshire/assets/images/churches/2021-04-10_15_27_07_DSC_9411_DxO_1.jpg)
+
 # Name: St Mary, Selattyn
 - Area: North
 - Date: 1291 AD 
@@ -1649,6 +1661,24 @@ The medieval church associated with the castle is long gone and was replaced in 
 
 Whittington was once a place of some importance.  The Welsh form of the place name is Drefwen, which means white homestead.  The English form of the name, Wittone, also means white homestead.
 ![](../1shropshire/assets/images/churches/2020-06-20_13_20_00_DSC_7266_DxO_L.jpg)
+
+# Name: St John the Baptist, Withington
+- Area: North
+- Date: 1874 AD
+
+The church was completely rebuilt in 1874 by G E Street, the present building replacing one that had been in existence since at least medieval times.  The earlier church was built as a chapel to the nearby church at Upton Magna.
+
+A branch of the Shropshire Union canal ran along the south of the site, this was de-watered in the 1960’s.
+
+The tower houses two bells from the 13th and 14th Centuries in a frame of circa 1800.  Some internal elements of the original church survive - the stone reredos depicting the crucifixion, the stone font, stone pulpit, chancel wall and the eagle lectern.
+
+The church is noted for its 16th Century brasses.
+
+The chancel has a trussed rafter roof with a collar beam added and the nave has a collar roof over.
+
+The place name derives from the Old English word for growing with willows / made of withies (widigen) and farm or settlement (tun).
+![](../1shropshire/assets/images/churches/2021-04-10_15_00_07_DSC_9399_DxO_1.jpg)
+
 
 # Name: St Peter, Wrockwardine
 - Area: North

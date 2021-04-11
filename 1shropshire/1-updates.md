@@ -1,3 +1,9 @@
+### 10 Apr 2021
+Added the following items:
+
+- Withington Church
+- Rodington Church
+
 ### 06 Apr 2021
 Replace photo of Shelve church.
 
