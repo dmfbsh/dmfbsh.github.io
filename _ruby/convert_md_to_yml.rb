@@ -52,7 +52,7 @@ Dir.glob("../_data_source/*.md") do |srcfn|
       tmp = "  " + line[2..-1]
       dsth.write(tmp) unless dsth.nil?
       simage = "no"
-    elsif line.start_with?("- Area:")
+    elsif line.start_with?("- Diocese:")
       tmp = "  " + line[2..-1]
       dsth.write(tmp) unless dsth.nil?
     elsif line.start_with?("- Date:")

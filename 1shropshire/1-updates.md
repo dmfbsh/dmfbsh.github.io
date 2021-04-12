@@ -1,3 +1,6 @@
+### 12 Apr 2021
+Changed churches to be organised by Diocese.
+
 ### 10 Apr 2021
 Added the following items:
 

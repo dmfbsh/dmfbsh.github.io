@@ -1,6 +1,6 @@
 ---
 layout: shropshire-bs
-title: Churches of Shropshire - North
+title: Churches of Shropshire - Hereford Diocese
 ---
 
 {% include 1-header-bs.html %}
@@ -8,7 +8,7 @@ title: Churches of Shropshire - North
 {% assign numrecs = 0 %}
 
 {% for item in site.data.Shropshire_Notebook-Churches %}
-  {% if item.Area == "North" %}
+  {% if item.Diocese == "Hereford" %}
     {% assign numrecs = numrecs | plus: 1 %}
     {% if item.Type == "Item" %}
       {% if orientation == "right" %}
