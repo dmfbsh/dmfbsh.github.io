@@ -183,6 +183,13 @@
     Many new towns are established in the period from the Norman Conquest to the mid-13th Century and are a result of deliberate plantation.
 
 - Type: Item
+  Name: Great Wollaston Castle
+  Date: Norman
+  Description: |
+    Great Wollaston castle is a Norman motte castle (also known as Beacon Hill), it is a well preserved example of a motte castle lying at the heart of an existing village.
+  Thumbnail: 2021-04-17_13_55_52_DSC_9418_DxO.jpg
+
+- Type: Item
   Name: Shrewsbury Castle
   Date: 1070 AD
   Description: |
@@ -334,6 +341,17 @@
   Thumbnail: 2018-09-29_15_27_31_DSC_2907_DxO.jpg
 
 - Type: Item
+  Name: Alberbury Castle
+  Date: 13th Century AD
+  Description: |
+    The origins of the castle are uncertain but it was probably built in the 13th century by Fulk FitzWarin (a prominent representative of a marcher family associated especially with estates in Shropshire) during the reign of Richard I.
+
+    The main purpose of its construction appears to have been as a barrier to stop the Welsh onslaught and to retain control of the passes along the river Severn.
+
+    It is thought that the castle was razed by Llewellyn the Great in 1223, only to be rebuilt three years later in 1226, this time with a stone wall surrounding the bailey. A few years later the Sheriff of Shropshire ejected Fulk FitzWarin from the castle and took over his lands citing FitzWarin's utterances he made as a renunciation of fealty. However, Fitzwarin was able to retake his lands and his manor through the law. The FitzWarin family retained possession of the castle, although they moved their seat of power to Whittington after they secured it as a stronghold, until the mid fourteenth century, when it may have been abandoned.
+  Thumbnail: 2021-04-17_15_00_45_DSC_9443_DxO.jpg
+
+- Type: Item
   Name: Whittington Castle
   Date: 13th Century AD
   Description: |
@@ -421,6 +439,19 @@
   Description: |
     A remarkably complete and significant surviving example of a late medieval town house.  It was built by the Abbot of Lilleshall as an investment for his abbey.  The trees used for the wooden frame were cut down in 1457-8.  Town bailiffs and the abbot's carpenter are mentioned in records as attending a frame raising ceremony in 1459. The ground floor was all shops.  The upper floors were tenements for people to live in.
   Thumbnail: 2018-07-14_12_57_54_DSC_2798_DxO.jpg
+
+- Type: Item
+  Name: Thomas 'Old Tom' Parr Born
+  Date: 1483 AD
+  Description: |
+    Thomas Parr was born at the Glyn in the township of Winnington within the chapelry of Great Wollaston (in the parish of Alberbury) in 1483.
+
+    According to the plaque he lived in the reigns of ten Kings and Queens of England and died on the 13th November 1635, aged 152 years and 9 months.  He is buried in Westminster Abbey.
+
+    A modern interpretation of the results of the autopsy suggests that Parr was probably less than 70 years of age.  It is possible that Parr's records were confused with those of his grandfather.
+
+    The brass plaque is in the church at Great Wollaston.
+  Thumbnail: 2021-04-17_14_08_58_DSC_9422_DxO.jpg
 
 - Type: Item
   Name: Llwyd Mansion, Oswestry

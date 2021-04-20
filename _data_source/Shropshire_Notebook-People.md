@@ -1,3 +1,15 @@
+# Name: Thomas 'Old Tom' Parr Born
+- Date: 1483 AD
+
+Thomas Parr was born at the Glyn in the township of Winnington within the chapelry of Great Wollaston (in the parish of Alberbury) in 1483.
+
+According to the plaque he lived in the reigns of ten Kings and Queens of England and died on the 13th November 1635, aged 152 years and 9 months.  He is buried in Westminster Abbey.
+
+A modern interpretation of the results of the autopsy suggests that Parr was probably less than 70 years of age.  It is possible that Parr's records were confused with those of his grandfather.
+
+The brass plaque is in the church at Great Wollaston.
+![](../1shropshire/assets/images/people/2021-04-17_14_08_58_DSC_9422_DxO.jpg)
+
 # Name: Clive of India Born
 - Date: 1725 AD
 

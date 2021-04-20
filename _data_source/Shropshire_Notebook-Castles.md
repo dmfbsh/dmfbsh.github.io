@@ -1,3 +1,9 @@
+# Name: Great Wollaston Castle
+- Date: Norman
+
+Great Wollaston castle is a Norman motte castle (also known as Beacon Hill), it is a well preserved example of a motte castle lying at the heart of an existing village.
+![](../1shropshire/assets/images/castles/2021-04-17_13_55_52_DSC_9418_DxO.jpg)
+
 # Name: Shrewsbury Castle
 - Date: 1070 AD
 
@@ -57,6 +63,17 @@ Originally known as Moreton Toret Castle, the stone structure was constructed to
 
 The castle saw action in the English Civil War when it is known to have changed hands at least four times.
 ![](../1shropshire/assets/images/castles/2018-09-29_15_27_31_DSC_2907_DxO.jpg)
+
+# Name: Alberbury Castle
+- Date: 13th Century AD
+
+The origins of the castle are uncertain but it was probably built in the 13th century by Fulk FitzWarin (a prominent representative of a marcher family associated especially with estates in Shropshire) during the reign of Richard I.
+
+The main purpose of its construction appears to have been as a barrier to stop the Welsh onslaught and to retain control of the passes along the river Severn.
+
+It is thought that the castle was razed by Llewellyn the Great in 1223, only to be rebuilt three years later in 1226, this time with a stone wall surrounding the bailey. A few years later the Sheriff of Shropshire ejected Fulk FitzWarin from the castle and took over his lands citing FitzWarin's utterances he made as a renunciation of fealty. However, Fitzwarin was able to retake his lands and his manor through the law. The FitzWarin family retained possession of the castle, although they moved their seat of power to Whittington after they secured it as a stronghold, until the mid fourteenth century, when it may have been abandoned.
+![](../1shropshire/assets/images/castles/2021-04-17_15_00_45_DSC_9443_DxO.jpg)
+
 
 # Name: Whittington Castle
 - Date: 13th Century AD

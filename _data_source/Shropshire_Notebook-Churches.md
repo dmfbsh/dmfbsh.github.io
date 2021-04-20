@@ -57,7 +57,7 @@ The Loton Chapel was added in 1320, and contains a pre-Raphaelite window by Burn
 There are two wall-monuments to Sir Richard Lyster, who was MP for Shrewsbury in the 18th Century, the imagery on one refers to a scene in the House of Commons when he protested against a decision of the House.
 
 The place name derives from the Old English 'burh' (a fortified place) and the personal name Aluburg or Ealhburg.
-![](../1shropshire/assets/images/churches/2020-07-24_15_40_42_DSC_7527_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2021-04-17_14_50_05_DSC_9432_DxO.jpg)
 
 # Name: St Eata, Atcham
 - Diocese: Lichfield
@@ -659,6 +659,20 @@ The church is built of red brick.  The apse was added in 1850 in the same style.
 
 A small red-brick 'Mission Church', the size of a chapel, which forms part of the Condover ecclesiastical parish.
 ![](../1shropshire/assets/images/churches/2020-09-13_15_22_48_DSC_8513_DxO.jpg)
+
+# Name: St John, Great Wollaston
+- Diocese: Hereford
+- Date: 1788 AD
+
+The present church was built in 1788. It replaced a former chapel dating from 1300 AD and was constructed using rubble from the old chapel. From 1864 to 1871 this was the parish church of Great Wollaston. In 1871 the church at Middletown became the parish church because there was no land available in Great Wollaston for a burial ground.
+
+The church was considerably restored in 1855.
+
+The name of the village derives from a personal name (perhaps ‘Wiglaf’) and the old English for a farmstead or settlement (tun).
+![](../1shropshire/assets/images/churches/2021-04-17_13_51_07_DSC_9415_DxO.jpg)
+- Sub-Image: 2021-04-17_13_54_10_DSC_9416_DxO.jpg
+- Sub-Image: 2021-04-17_14_09_20_DSC_9423_DxO.jpg
+- Sub-Image: 2021-04-17_14_16_29_DSC_9425_DxO.jpg
 
 # Name: St Mary Magdalene, Hadnall
 - Diocese: Lichfield
@@ -1500,6 +1514,25 @@ The tower was added in 1832, it is unknown when the two storey were converted in
 
 The church organ is among the top six hundred in the country and there is a small tapestry piece in the nave said to have been worked by Mary, Queen of Scots.
 ![](../1shropshire/assets/images/churches/2020-06-27_13_14_46_DSC_7327_DxO.jpg)
+
+# Name: St Chad, Stockton
+- Diocese: Lichfield
+- Date: 12th Century
+
+This church has 12th Century origins.  The lower part of the tower is Perpendicular (perhaps 14th Century) and the upper part dates from early 17th Century.  The church was heavily restored in 1858-8 at the expense of TC Whitmore of Apley Park, when th eold walls of the nave and chancel were refaced both on the inside and the outside.  Internally, the roofs are notable, there is a wagon-roof in the nave (which may include some Jacobean timbers) and a panelled oak ceiling in the chancel.
+
+The place name probably derives from the old English for 'farm/settlement associated with an outlying farm/settlement', as 'stoc' is the old English for a place or secondary settlement and 'tun' is the old English for a farmstead or settlement.
+![](../1shropshire/assets/images/churches/2021-04-18_15_35_41_DSC02491_DxO.jpg)
+- Sub-Image: 2021-04-18_15_38_49_DSC02495_DxO.jpg
+- Sub-Image: 2021-04-18_15_39_37_DSC02496_DxO.jpg
+- Sub-Image: 2021-04-18_15_44_29_DSC02500_DxO.jpg
+- Sub-Image: 2021-04-18_15_45_15_DSC02502_DxO.jpg
+- Sub-Image: 2021-04-18_15_45_31_DSC02503_DxO.jpg
+- Sub-Image: 2021-04-18_15_46_09_DSC02504_DxO.jpg
+- Sub-Image: 2021-04-18_15_46_40_DSC02505_DxO.jpg
+- Sub-Image: 2021-04-18_15_50_31_DSC02509_DxO.jpg
+- Sub-Image: 2021-04-18_15_50_45_DSC02510_DxO.jpg
+- Sub-Image: 2021-04-18_15_51_22_DSC02511_DxO.jpg
 
 # Name: St Peter, Stoke on Tern
 - Diocese: Lichfield

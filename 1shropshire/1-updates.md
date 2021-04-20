@@ -1,3 +1,14 @@
+### 18 Apr 2021
+Added the following items:
+
+- Alberbury Castle
+- Great Wollaston Castle
+- 'Old Tom' Parr
+- Great Wollaston Church
+- Stockton Church
+
+Replace photo of Alberbury church.
+
 ### 12 Apr 2021
 Changed churches to be organised by Diocese.
 
