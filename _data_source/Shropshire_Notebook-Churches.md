@@ -1642,12 +1642,30 @@ The name is derived from the old English meaning higher farm or settlement (Upto
 - Diocese: Lichfield
 - Date: 12th Century AD
 
-Magna is Latin, meaning 'great', so the translation of Upton Magna is 'Great Upton'.
+Magna is Latin, meaning 'great', so the translation of Upton Magna is 'Great Upton'.  Upton derives from the old English for a settlement on higher ground.
 
-The nave and chancel are originally Norman, as is the south doorway of the Nave.  Some original masonry survives in the chancel but the church was substantially rebuilt and enriched by the architect G E Street (best known as the designer of the Royal Courts of Justice) in the 1850s and 1860s.  The tower is Perpendicular (he final phase of Gothic architecture, which spanned the late 14th Century to the early 16th Century).
+The nave and chancel are originally Norman, as is the south doorway of the Nave.  Some original masonry survives in the chancel but the church was substantially rebuilt and enriched by the architect G E Street (best known as the designer of the Royal Courts of Justice) in the 1850s and 1860s.  The tower is Perpendicular (the final phase of Gothic architecture, which spanned the late 14th Century to the early 16th Century).
+
+Inside the church are several medieval wall paintings.
+
+One of the bells in notable as it is quite rare, it is one of only 37 (approx.)cast at a foundry in Exeter in circa 1475 to 1499.
 
 This church is the only one in Shropshire dedicated to St Lucy (a Christian martyr who died during the Diocletianic Persecution - the last and most severe persecution of Christians in the Roman Empire).
 ![](../1shropshire/assets/images/churches/2020-03-01_15_22_17_DSC_6668_DxO.jpg)
+- Sub-Image: 2021-05-08_11_32_48_DSC02514_DxO.jpg
+- Sub-Image: 2021-05-08_11_44_01_DSC02515_DxO.jpg
+- Sub-Image: 2021-05-08_11_48_25_DSC02521_DxO.jpg
+- Sub-Image: 2021-05-08_11_53_52_DSC02523_DxO.jpg
+- Sub-Image: 2021-05-08_11_54_21_DSC02524_DxO.jpg
+- Sub-Image: 2021-05-08_11_54_52_DSC02526_DxO.jpg
+- Sub-Image: 2021-05-08_11_55_34_DSC02527_DxO.jpg
+- Sub-Image: 2021-05-08_11_56_37_DSC02530_DxO.jpg
+- Sub-Image: 2021-05-08_11_57_07_DSC02531_DxO.jpg
+- Sub-Image: 2021-05-08_11_58_25_DSC02534_DxO.jpg
+- Sub-Image: 2021-05-08_12_04_55_DSC02542_DxO.jpg
+- Sub-Image: 2021-05-08_12_05_34_DSC02544_DxO.jpg
+- Sub-Image: 2021-05-08_12_06_54_DSC02547_DxO.jpg
+- Sub-Image: 2021-05-08_12_07_44_DSC02548_DxO.jpg
 
 # Name: All Saints, Wellington
 - Diocese: Lichfield
