@@ -1,6 +1,9 @@
 ---
 ---
 
+### 16 May 2021
+Update pictures and information for Adderley church.
+
 ### 13 May 2021
 Additional pictures and text for Upton Magna church.
 

@@ -26,17 +26,41 @@ The settlement was registered as Actune in the Domesday Book.
 - Diocese: Lichfield
 - Date: 1635-1636 AD
 
-The oldest existing part of the present church is the north transept, which was built in 1635–36 as a burial chapel for the Needham family, the Viscounts Kilmorey of Shavington.  The other remaining part of the older church is the tower, built in 1712.  The rest of the church was built in 1801 by Richard Baker; it is the only known work by this architect.
+The oldest existing part of the present church is the north transept, which was built in 1635-36 as a burial chapel for the Needham family, the Viscounts Kilmorey of Shavington.  Sir Robert Needham was appointed a Justice of the Peace for Shropshire by 1596, a deputy lieutenant of the county in 1600 and High Sheriff of Shropshire for 1606–07.  He was a member of the Council in the Marches of Wales in 1609 and vice-president of the council in 1614.  He was a Member of the Parliament of England for Shropshire in 1593 and 1604 and was created Viscount Kilmorey in 1625.
 
-The cast iron window frames were made locally at Coalbrookdale.
+The other remaining part of the older church is the tower, built in 1712.  The rest of the church was built in 1801 by Richard Baker; it is the only known work by this architect.  The chancel was restored in 1822.  The interior of the church was separated into two parts in circa 1970 (although the church records show this as having taken place in 1956) so that the nave could continue as the parish church and rest preserved by the Churches Conservation Trust.
+
+The church is constructed in yellow-grey sandstone, with some red sandstone in the tower.
+
+The cast iron window frames were made locally at Coalbrookdale, and for this reason the church is Grade I listed.
+
+At the entrance to the north transept the carved wooden screen dates from circa 1637.  The font is Norman and is thought it may be a piece of stone taken from Wroxeter (upside column?).  The hexagonal pulpit dates from 1801.  The stained glass consists of 12 heraldic panels containing the Needham family arms.  The brass in the floor dates from circa 1390, it is thought that the head was removed in the Civil War.  The other brass commemorates Sir Robert Needham who died in 1556 and his wife who died in 1560.  This brass was lifted in circa 1970 and was found to be a ‘palimpsest’, i.e. an earlier brass (probably 14th Century and Flemish in origin), which had been cut up and reused.
+
+The mounting block of four sandstone steps dates from 1774.
 
 The name of the village derives from the Old English meaning 'Ealdthryth's wood/clearing', a leah (Old English) is a forest, wood, glade or clearing; (later) a pasture or a meadow.
-![](../1shropshire/assets/images/churches/2020-08-29_15_07_12_DSC_8199_DxO_bw.jpg)
+![](../1shropshire/assets/images/churches/2021-05-16_12_16_30_DSC_9494_DxO.jpg)
 - Sub-Image: 2020-08-29_14_54_19_DSC_8186_DxO.jpg
 - Sub-Image: 2020-08-29_15_03_12_DSC_8194_DxO.jpg
 - Sub-Image: 2020-08-29_15_03_41_DSC_8195_DxO.jpg
 - Sub-Image: 2020-08-29_15_12_55_DSC_8211_DxO.jpg
 - Sub-Image: 2020-08-29_15_14_04_DSC_8213_DxO.jpg
+- Sub-Image: 2021-05-16_13_15_36_DSC02552_DxO.jpg
+- Sub-Image: 2021-05-16_13_29_26_DSC02556_DxO.jpg
+- Sub-Image: 2021-05-16_13_32_54_DSC02560_DxO.jpg
+- Sub-Image: 2021-05-16_13_58_31_DSC02567_DxO.jpg
+- Sub-Image: 2021-05-16_13_58_45_DSC02568_DxO.jpg
+- Sub-Image: 2021-05-16_14_00_58_DSC02570_DxO.jpg
+- Sub-Image: 2021-05-16_14_02_09_DSC02571_DxO.jpg
+- Sub-Image: 2021-05-16_14_03_39_DSC02574_DxO.jpg
+- Sub-Image: 2021-05-16_14_04_49_DSC02576_DxO.jpg
+- Sub-Image: 2021-05-16_14_06_02_DSC02579_DxO.jpg
+- Sub-Image: 2021-05-16_14_06_26_DSC02580_DxO.jpg
+- Sub-Image: 2021-05-16_14_09_18_DSC02583_DxO.jpg
+- Sub-Image: 2021-05-16_14_09_30_DSC02584_DxO.jpg
+- Sub-Image: 2021-05-16_14_10_02_DSC02585_DxO.jpg
+- Sub-Image: 2021-05-16_14_12_20_DSC02587_DxO.jpg
+- Sub-Image: 2021-05-16_12_43_14_DSC_9497_DxO.jpg
 
 # Name: St Michael and All Angels, Alberbury
 - Diocese: Hereford
