@@ -328,6 +328,14 @@ The original castle was captured and destroyed by the King of Gwynedd in 1223 - 
 The infirmary was constructed by the then owner of Tong castle as part remedy for a fine imposed on his father who rebelled against King John.  When the church and college was built in the 15th Century, the infirmary was incorporated into the college and enabled 13 alms people to be housed and looked after by the college priests.  After the Dissolution the infirmary remained as an Alms House, they were later demolished in 1764.
 ![](../1shropshire/assets/images/history/2019-09-01_13_35_07_DSC_4992_DxO_bw.jpg)
 
+# Name: Ashfield Hall, Much Wenlock
+- Date: 13th Century
+
+Ashfield Hall is an historic house, consisting of two distinct portions. The left-hand side is the original 15th Century structure of coursed stone rubble with stone dressings, and the right-hand of timber frame and plaster was added late in the 16th Century.
+
+The site was originally the site of St John's hospital, founded in the 13th Century for 'lost and naked beggars'.  The building was occupied in the 15th Century as the private house of the Ashfield family.  Later it was called the Blue Bridge Inn from the bridge over a stream that ran in front.  Charles I is believed to have stayed here in 1642 on his way from Shrewsbury to Oxford.
+![](../1shropshire/assets/images/history/2021-06-05_15_22_55_DSC_9570_DxO.jpg)
+
 # Name: Hopton Castle
 - Date: 1260s AD
 

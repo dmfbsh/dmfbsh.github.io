@@ -1,6 +1,20 @@
 ---
 ---
 
+### 25 Jun 2021
+Added the following items:
+
+- Astley Church
+- Ashfield Hall, Much Wenlock
+- Yew Tree, Church Preen
+- Church Preen Church
+- Hughley Church
+- Pontesbury Church
+- Church Aston Church
+- Norton-in-Hales Church
+
+Update picture for Sheinton church.
+
 ### 16 May 2021
 Update pictures and information for Adderley church.
 

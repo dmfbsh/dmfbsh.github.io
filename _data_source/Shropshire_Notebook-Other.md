@@ -65,6 +65,11 @@ A free house since circa the 15th Century, the Royal Oak is reputed to be the ol
 The old telephone box has been adopted by the village and now contains information panels about the history of the Shropshire and the village itself.
 ![](../1shropshire/assets/images/other/2020-02-08_12_45_11_DSC_6395_DxO.jpg)
 
+# Name: Yew Tree, Church Preen
+
+The sign by this tree reads "This Yew is believed to have been planted approx 457AD and thought to be the oldest tree in Europe".
+![](../1shropshire/assets/images/other/2021-06-05_14_01_54_DSC_9552_DxO.jpg)
+
 # Name: Claverley
 
 The village of Claverley near Bridgnorth.

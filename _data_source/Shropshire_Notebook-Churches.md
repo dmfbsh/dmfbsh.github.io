@@ -83,6 +83,31 @@ There are two wall-monuments to Sir Richard Lyster, who was MP for Shrewsbury in
 The place name derives from the Old English 'burh' (a fortified place) and the personal name Aluburg or Ealhburg.
 ![](../1shropshire/assets/images/churches/2021-04-17_14_50_05_DSC_9432_DxO.jpg)
 
+# Name: St Mary, Astley
+- Diocese: Lichfield
+- Date: 12th Century AD
+
+From the time of the Anglo-Saxons until 1860 the Church was a chapel to the Collegiate Church of St Mary in Shrewsbury.  At the time of the Domesday survey a priest is mentioned, indicating the existence of a church building.  The earliest part of the present building dates from about 100 years after the Domesday survey.
+
+The tower was built in 1837.
+
+The church was restored in 1883.
+
+The rood screen, altar and reredos date from the 1930s when the chancel was re-organised.
+
+The church is notable as it has a bell dating from 1270, which is thought to have been cast in the churchyard by a travelling founder.  The bell was rehung in 2012 after being restored.  It is thought to be one of, if not the, oldest bells in the county and the diocese.
+
+The name of the village in old English means 'east wood or clearing' (east and leah) and this is in relation to Albrighton.
+![](../1shropshire/assets/images/churches/2021-05-29_13_16_03_DSC_9536_DxO.jpg)
+- Sub-Image: 2021-05-29_14_09_03_DSC02634_DxO.jpg
+- Sub-Image: 2021-05-29_14_09_48_DSC02636_DxO.jpg
+- Sub-Image: 2021-05-29_14_10_17_DSC02637_DxO.jpg
+- Sub-Image: 2021-05-29_14_10_42_DSC02638_DxO.jpg
+- Sub-Image: 2021-05-29_14_11_04_DSC02639_DxO.jpg
+- Sub-Image: 2021-05-29_14_12_44_DSC02640_DxO.jpg
+- Sub-Image: 2021-05-29_14_12_57_DSC02641_DxO.jpg
+- Sub-Image: 2021-05-29_13_13_14_DSC_9531_DxO.jpg
+
 # Name: St Eata, Atcham
 - Diocese: Lichfield
 - Date: Before 1075 AD
@@ -395,6 +420,42 @@ The church was reformed into the church of the Augustinian Priory at Chirbury wh
 - Sub-Image: 2020-03-14_14_41_05_DSC_6815_DxO.jpg
 - Sub-Image: 2020-03-14_14_41_31_DSC_6818_DxO.jpg
 - Sub-Image: 2020-03-14_14_46_07_DSC_6820_DxO.jpg
+
+# Name: St Andrew, Church Aston
+- Diocese: Lichfield
+- Date: 1867 AD
+
+In medieval times Church Aston was a chapelry in the parish of Edgmond.
+
+The old chapel was demolished in 1803 and replaced by a brick structure.  That building was in turn replaced by the current building in 1867, it was designed by G E Street.
+
+The church is noted for its stained glass, one of the south windows was designed by Burne-Jones.
+
+The name of the village derives from the Old English for east and a farm or settlement and now distinguished by ‘church’.
+![](../1shropshire/assets/images/churches/2021-06-20_15_40_50_DSC02777_DxO.jpg)
+
+# Name: St John the Baptist, Church Preen
+- Diocese: Hereford
+- Date: 13th Century
+
+The church was built in the 13th Century and is 70 feet long by 13foot wide. It was originally a monastic church, which explains the appearance. The church was founded as a cell of Wenlock Priory in 1163 when the manor was granted to the priory.  The monastic cell survived as a priory until 1534.  The church was probably built circa 1200 AD.
+
+The west wall collapsed during restoration in 1866, the bell-turret and roof date from this time.
+
+The pulpit is Jacobean.
+
+Although the priory buildimgs survived until the 18th Century, they were demolished and replaced by the present Preen Manor in 1870.
+
+In the churchyard is one of the oldest and largest yew trees in the country.
+
+The name of the village is thought to be derived from the Old English 'preon' meaning pin or brooch which describes the shape of the nearest hill.
+![](../1shropshire/assets/images/churches/2021-06-05_15_03_17_DSC02655_DxO.jpg)
+- Sub-Image: 2021-06-05_14_52_31_DSC02646_DxO.jpg
+- Sub-Image: 2021-06-05_14_53_57_DSC02648_DxO.jpg
+- Sub-Image: 2021-06-05_14_54_07_DSC02649_DxO.jpg
+- Sub-Image: 2021-06-05_14_56_35_DSC02651_DxO.jpg
+- Sub-Image: 2021-06-05_14_56_48_DSC02652_DxO.jpg
+- Sub-Image: 2021-06-05_14_57_36_DSC02654_DxO.jpg
 
 # Name: St Edith, Church Pulverbatch
 - Diocese: Hereford
@@ -833,6 +894,47 @@ Hope Bowdler is recorded in the Domesday book as Fordritishope.
 There was a medieval church on the site, this was replaced in 1863 by the present building.  The church is built of Soudley banded sandstone.  It was designed by Shrewsbury architect Samuel Pountney Smith.
 ![](../1shropshire/assets/images/churches/2020-05-16_15_58_18_DSC_7086_DxO_L4.jpg)
 
+# Name: St John the Baptist, Hughley
+- Diocese: Hereford
+- Date: 13th Century
+
+The church was rebuilt in circa 1360, with only the north wall of the 13th Century nave retained from the previous building.
+
+The bell tower dates from 1701 and the porch is sometime before that.  The church was restored in 1871-2.
+
+The church has what is considered to be the finest rood screen in Shropshire, which dates from the end of the 15th Century.  It is believed to have been moved to the church from Buildwas Abbey following the dissolution of the monasteries under Henry VIII.  It is thought to have been made in Ludlow.
+
+There are traces of medieval stained glass in the north and east chancel windows (late 14th Century).
+
+The oak parish chest is likely medieval.
+
+To the right of the altar is a corbel, which has the form of a lady’s head. In the south wall is a pillar piscina, something which is not normally seen in Anglican churches. In the floor of the chancel are medieval tiles.  The roof is of note, put in the 1870s the roof is a boarded trussed-rafter roof with bosses.
+
+The pulpit is Jacobean.
+
+The church is mentioned in Housman’s A Shropshire Lad.
+
+The original building was an ancient chapelry of Much Wenlock, and was founded before 1176. It was rebuilt during the 13th and 14th centuries out of limestone rubble and sandstone ashlar dressing, becoming a parish church in its own right during the 16th century.
+
+Hughley is not mentioned in the Domesday book, but the settlement was held by Wenlock Priory in the hundred of Condover. This original manor was known as Legh or Leye, the name Hugh comes from Sir Hugh de Lega (likely a knight who received land grants) who was first mentioned in circa 1170.
+![](../1shropshire/assets/images/churches/2021-06-05_14_46_03_DSC_9568_DxO.jpg)
+- Sub-Image: 2021-06-05_15_27_35_DSC02667_DxO.jpg
+- Sub-Image: 2021-06-05_15_27_45_DSC02668_DxO.jpg
+- Sub-Image: 2021-06-05_15_28_52_DSC02671_DxO.jpg
+- Sub-Image: 2021-06-05_15_29_22_DSC02672_DxO.jpg
+- Sub-Image: 2021-06-05_15_30_14_DSC02673_DxO.jpg
+- Sub-Image: 2021-06-05_15_32_51_DSC02678_DxO.jpg
+- Sub-Image: 2021-06-05_15_33_47_DSC02680_DxO.jpg
+- Sub-Image: 2021-06-05_15_34_17_DSC02681_DxO.jpg
+- Sub-Image: 2021-06-05_15_37_29_DSC02684_DxO.jpg
+- Sub-Image: 2021-06-05_15_37_53_DSC02685_DxO.jpg
+- Sub-Image: 2021-06-05_15_38_06_DSC02686_DxO.jpg
+- Sub-Image: 2021-06-05_15_38_27_DSC02687_DxO.jpg
+- Sub-Image: 2021-06-05_15_38_48_DSC02688_DxO.jpg
+- Sub-Image: 2021-06-05_15_40_06_DSC02689_DxO.jpg
+- Sub-Image: 2021-06-05_15_41_27_DSC02692_DxO.jpg
+- Sub-Image: 2021-06-05_15_42_33_DSC02693_DxO.jpg
+
 # Name: St John the Baptist, Ightfield
 - Diocese: Lichfield
 - Date: 1490 AD
@@ -1229,6 +1331,49 @@ The yew tree in the churchyard is believed to be circa 2,700 years old, the tree
 The name of the village derives from the Old English for northern (nord) and fortified place (burh).  There are hill fort defences near the church.
 ![](../1shropshire/assets/images/churches/2020-09-19_14_39_21_DSC_8644_DxO.jpg)
 
+# Name: St Chad, Norton-in-Hales
+- Diocese: Lichfield
+- Date: 13th Century AD
+
+There was an earlier church on the site, but nothing of this building remains.  Of the present church, the chancel was built in the 13th Century and the tower in the 14th Century.  The church was restored in the 19th Century, re-opening in 1865.
+
+Outside the church is the older font dating from the 12th or 13th Century.
+
+The arch once connected the church to the rectory, the figure in the niche at the apex  is St Chad in his episcopal cope and mitre.
+
+The church has an octagonal baptistery (a baptistery is commonly octagonal in plan, a visual metaphor for the number eight, which symbolised a new beginning in Christian numerology).
+
+The church is notable as it has one of the earliest known commissions by Inigo Jones.  Dating from 1606 and made from Derbyshire alabaster, the commission is a monument to Frances Cotton who died in childbirth.  The monument was later amended to incorporate Sir Rowland Cotton himself who died in 1635. Cotton had various appointments in Shropshire including High Sheriff, member of the Council of the Marches and MP.
+
+In 1553 the church had three great bells and one Sanctus bell.  Today the church has eight bells.
+
+The nave is paved of white marble.  The chancel has some Jacobean (1567 to 1625) carving and panelling.  The pulpit is Caen stone and is supported by 16 marble pillars.
+
+The name Norton in Old English is North farm/settlement.  Hales, in Old English halh meaning 'nooks of land', is an old district name which refers to land on both sides of the Shropshire-Staffordshire border.
+![](../1shropshire/assets/images/churches/2021-06-12_10_41_58_DSC_9623_DxO.jpg)
+- Sub-Image: 2021-06-12_10_46_48_DSC02698_DxO.jpg
+- Sub-Image: 2021-06-12_10_52_21_DSC02699_DxO.jpg
+- Sub-Image: 2021-06-12_10_54_02_DSC02700_DxO.jpg
+- Sub-Image: 2021-06-12_10_54_58_DSC02703_DxO.jpg
+- Sub-Image: 2021-06-12_10_55_34_DSC02704_DxO.jpg
+- Sub-Image: 2021-06-12_10_55_58_DSC02705_DxO.jpg
+- Sub-Image: 2021-06-12_10_57_04_DSC02709_DxO.jpg
+- Sub-Image: 2021-06-12_10_58_44_DSC02711_DxO.jpg
+- Sub-Image: 2021-06-12_10_59_05_DSC02712_DxO.jpg
+- Sub-Image: 2021-06-12_10_59_23_DSC02713_DxO.jpg
+- Sub-Image: 2021-06-12_11_01_10_DSC02714_DxO.jpg
+- Sub-Image: 2021-06-12_11_05_05_DSC02720_DxO.jpg
+- Sub-Image: 2021-06-12_11_07_59_DSC02724_DxO.jpg
+- Sub-Image: 2021-06-12_11_11_26_DSC02731_DxO.jpg
+- Sub-Image: 2021-06-12_11_19_21_DSC02739_DxO.jpg
+- Sub-Image: 2021-06-12_11_19_32_DSC02740_DxO.jpg
+- Sub-Image: 2021-06-12_11_23_35_DSC02743_DxO.jpg
+- Sub-Image: 2021-06-12_11_24_46_DSC02745_DxO.jpg
+- Sub-Image: 2021-06-12_11_28_49_DSC02748_DxO.jpg
+- Sub-Image: 2021-06-12_10_32_25_DSC_9592_DxO.jpg
+- Sub-Image: 2021-06-12_10_36_08_DSC_9598_DxO.jpg
+- Sub-Image: 2021-06-12_10_37_05_DSC_9600_DxO.jpg
+
 # Name: St Michael, Onibury
 - Diocese: Hereford
 - Date: 12th Century
@@ -1309,6 +1454,55 @@ Noted for a solid oak carved tomb effigy (one of only three in the country) of a
 - Sub-Image: 2019-06-19_15_56_04_DSC_4539_DxO.jpg
 - Sub-Image: 2019-06-19_15_58_52_DSC_4540_DxO.jpg
 
+# Name: St George, Pontesbury
+- Diocese: Hereford
+- Date: 13th Century
+
+The church was first recorded in 1254, but it is likely the tower is older as pictures of the original tower show distinct Norman features.  During the middles ages, the church was a collegiate church serving the surrounding area.  Unusually the church was staffed by three portioners, one was a dean, the first was responsible for the first 26 services in the year and the other two the next two lots of 13 each.  This arrangement persisted until 1909.
+
+Before 1825 the medieval Church consisted of a chancel, nave, north and south aisles and a northern tower.  In 1772 concerns were raised over the stability of the church and in 1810-11 local architects examined the church.  Soon after this the tower collapsed and in 1825 what remained of the nave and aisles were taken down.  The new rebuilt church was opened in 1829, retaining the medieval chancel.
+
+In 1897 the body of the church was restored.
+
+The churchyard is circular which usually indicates a very ancient site and there are several large yew trees.
+
+The font is Norman.  Also of interest is the aumbry door which is dated 1652.
+
+There was known to be a clock in the tower in 1788.  The present clock was made in Whitchurch by J B Joyce, and was installed in 1858.
+
+The name of the settlement means 'Pant's fortification' (an old English personal name and burh) but may be, 'River Pant fortification', an old name for the tributary of the River Rea that passes nearby.
+![](../1shropshire/assets/images/churches/2021-05-28_15_00_13_DSC_9522_DxO.jpg)
+- Sub-Image: 2021-05-28_15_14_44_DSC02591_DxO.jpg
+- Sub-Image: 2021-05-28_15_15_09_DSC02592_DxO.jpg
+- Sub-Image: 2021-05-28_15_16_16_DSC02593_DxO.jpg
+- Sub-Image: 2021-05-28_15_17_04_DSC02594_DxO.jpg
+- Sub-Image: 2021-05-28_15_17_26_DSC02595_DxO.jpg
+- Sub-Image: 2021-05-28_15_17_56_DSC02596_DxO.jpg
+- Sub-Image: 2021-05-28_15_18_23_DSC02597_DxO.jpg
+- Sub-Image: 2021-05-28_15_18_52_DSC02599_DxO.jpg
+- Sub-Image: 2021-05-28_15_19_25_DSC02601_DxO.jpg
+- Sub-Image: 2021-05-28_15_19_45_DSC02602_DxO.jpg
+- Sub-Image: 2021-05-28_15_20_04_DSC02603_DxO.jpg
+- Sub-Image: 2021-05-28_15_20_23_DSC02604_DxO.jpg
+- Sub-Image: 2021-05-28_15_20_37_DSC02605_DxO.jpg
+- Sub-Image: 2021-05-28_15_20_53_DSC02606_DxO.jpg
+- Sub-Image: 2021-05-28_15_21_10_DSC02607_DxO.jpg
+- Sub-Image: 2021-05-28_15_21_45_DSC02609_DxO.jpg
+- Sub-Image: 2021-05-28_15_22_24_DSC02611_DxO.jpg
+- Sub-Image: 2021-05-28_15_22_38_DSC02612_DxO.jpg
+- Sub-Image: 2021-05-28_15_22_56_DSC02613_DxO.jpg
+- Sub-Image: 2021-05-28_15_23_46_DSC02614_DxO.jpg
+- Sub-Image: 2021-05-28_15_27_50_DSC02619_DxO.jpg
+- Sub-Image: 2021-05-28_15_28_14_DSC02620_DxO.jpg
+- Sub-Image: 2021-05-28_15_29_19_DSC02622_DxO.jpg
+- Sub-Image: 2021-05-28_15_30_41_DSC02623_DxO.jpg
+- Sub-Image: 2021-05-28_15_33_11_DSC02625_DxO.jpg
+- Sub-Image: 2021-05-28_15_35_58_DSC02628_DxO.jpg
+- Sub-Image: 2021-05-28_15_36_56_DSC02629_DxO.jpg
+- Sub-Image: 2021-05-28_14_33_25_DSC_9501_DxO.jpg
+- Sub-Image: 2021-05-28_14_34_08_DSC_9503_DxO.jpg
+- Sub-Image: 2021-05-28_14_34_42_DSC_9504_DxO.jpg
+
 # Name: St Chad, Prees
 - Diocese: Lichfield
 - Date: 14th Century AD
@@ -1387,7 +1581,7 @@ The churchyard has a number of very old yew trees, suggesting that the site has 
 Although medieval in origin, the church was partly rebuilt in the 1660s and then nearly the whole church was rebuilt in 1854.  The church is noted for the half-timbered belfry which juts out above the west wall.
 
 The name of the village derives from the Saxon 'shena' and 'tun' meaning beautiful place or farm/settlement.
-![](../1shropshire/assets/images/churches/2020-08-31_14_57_21_DSC_8302_DxO.jpg)
+![](../1shropshire/assets/images/churches/2021-05-31_15_59_05_DSC02643_DxO.jpg)
 
 # Name: All Saints, Shelve
 - Diocese: Hereford
