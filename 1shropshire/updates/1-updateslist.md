@@ -1,6 +1,9 @@
 ---
 ---
 
+### 26 Jun 2021
+Add more pictures of Benthall church.
+
 ### 25 Jun 2021
 Added the following items:
 
