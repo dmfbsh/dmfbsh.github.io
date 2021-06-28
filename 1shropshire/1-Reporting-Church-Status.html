@@ -1,0 +1,61 @@
+---
+layout: shropshire-bs
+title: Churches Visited
+---
+
+<h1>Visiting Shropshire's Churches</h1>
+<p>The plan is to visit all (Church of England) churches in Shropshire that were built prior to the end of the Victorian era.</p>
+<p>A total of 317 sites to visit have been identified.</p>
+<h3>Background</h3>
+<p>In 1912 the Rev D H S Cranage published the book: <i>An Architectural Account of the Churches of Shropshire</i>, in this book 311 churches in Shropshire are described.</p>
+<p>In 2004 (and 2013 with colour photos) John Leonard published the book: <i>The Churches of Shropshire & their treasures</i>, in this later book 322 strictly Anglican churches in Shropshire are described.  Of these churches, 11 have been excluded as they either are now private dwellings, or were built post the Victorian era.</p>
+<p>In addition, 4 Abbeys (Shrewsbury, Haughmond, Buildwas and Lilleshall) and 2 Priorys (Wenlock and White Ladies) have been added to the list.</p>
+<p>The churches and whether they have been visited or not are listed in the table below.</p>
+<p>The location of each church is also shown on a <a href="#churchmap">Google Map</a> below.</p>
+<h3>Churches</h3>
+<div class="table-responsive">
+<table class="table">
+<thead>
+<tr>
+<th colspan="2" class="text-center">Visited ({{ site.data.Church-Status.AllVisited }})</th>
+<th colspan="2" class="text-center">Planned to Visit ({{ site.data.Church-Status.AllPlanned }})</th>
+<th class="text-center">To Visit Sometime ({{ site.data.Church-Status.AllNotYet }})</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b><i>Complete ({{ site.data.Church-Status.Col1Num }})</i></b></td>
+<td><b><i>Need to Revisit ({{ site.data.Church-Status.Col2Num }}) - See note 1</i></b></td>
+<td><b><i>Priority ({{ site.data.Church-Status.Col3Num }})</i></b></td>
+<td><b><i>Other ({{ site.data.Church-Status.Col4Num }})</i></b></td>
+<td></td>
+</tr>
+{% for item in site.data.Church-Status.Churches %}
+<tr>
+<td>{{ item.Col1 }}</td>
+<td>{{ item.Col2 }}</td>
+<td>{{ item.Col3 }}</td>
+<td>{{ item.Col4 }}</td>
+<td>{{ item.Col5 }}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+<p>Notes:</p>
+<p>1. Churches need to be re-visited for example because they were found to be locked when first visited.</p>
+</div>
+<a id="churchmap"><h3>Map</h3></a>
+<iframe src="https://www.google.co.uk/maps/d/embed?mid=19Q1XEc8jS2PbDt31ZY6mA67bKx2LbbwF" width="640" height="480"></iframe>
+<p>The key to the symbols used on the map is:</p>
+<ul>
+    <li>Grey Tick - Church has been visited (outside and inside)</li>
+    <li>Red Tick - Church has been visited (outside only and e.g. found to be locked)</li>
+    <li>Yellow Tick - Planned to be visited and as a priority</li>
+    <li>Yellow Placemark - Planned to be visited</li>
+    <li>Blue Placemark - Yet to be visited</li>
+</ul>
+<p>How to use the map:</p>
+<ul>
+    <li>Click on the icon in the top left corner to select which churches to show on the map.</li>
+    <li>Click on the icon in the top right corner to open a larger view of the map.</li>
+</ul>

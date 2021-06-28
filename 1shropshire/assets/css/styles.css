@@ -31,6 +31,16 @@ p {
   color: var(--light) !important;
 }
 
+td {
+  color: var(--light);
+}
+
+th {
+  color: var(--light);
+  font-weight: bold;
+  font-style: italic;
+}
+
 .h1, h1 {
   color: var(--light);
 }
