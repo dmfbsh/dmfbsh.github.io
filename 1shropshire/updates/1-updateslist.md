@@ -1,6 +1,11 @@
 ---
 ---
 
+### 03 Jul 2021
+Added the following item:
+
+- Ford Church
+
 ### 26 Jun 2021
 Add more pictures of Benthall church.
 

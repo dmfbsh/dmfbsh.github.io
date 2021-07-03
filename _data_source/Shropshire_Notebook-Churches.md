@@ -783,6 +783,21 @@ The name Eyton upon the Weald Moors is derived from the Old English Eg-tun meani
 The church is built of red brick.  The apse was added in 1850 in the same style.
 ![](../1shropshire/assets/images/churches/2020-05-01_17_12_12_DSC_6980_DxO.jpg)
 
+# Name: St Michael, Ford
+- Diocese: Hereford
+- Date: circa 1200 AD
+
+At the time of the Domesday survey, the manor at Ford was one of the most prosperous in the county.  The church occupies the highest site in the village.
+
+The nave and chancel originally date from circa 1200, but very little of the medieval building remains.  Most of the present building dates from 1875 when the church was restored.
+
+The church is most noted for the 15th Century roof of the nave, which consists of alternate hammer beams and collar beams with arched braces; at the sides are three tiers of cusped wind-braces.
+
+The screen is late Perpendicular and the reredos is Jacobean woodwork with five panels of human figures said to be of 16th Century Flemish workmanship.
+
+The name of the village derives from the fact that there are one or more fords across the river Severn in near proximity to the settlement (just to the north).
+![](../1shropshire/assets/images/churches/2021-07-02_15_54_57_DSC02802_DxO.jpg)
+
 # Name: St Thomas, Great Ryton
 - Diocese: Hereford
 - Date: 1896 AD
