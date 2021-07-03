@@ -1,5 +1,5 @@
 ---
-layout: shropshire-bs
+layout: shropshire-status-bs
 title: Churches Visited
 ---
 
@@ -13,6 +13,8 @@ title: Churches Visited
 <p>The churches and whether they have been visited or not are listed in the table below.</p>
 <p>The location of each church is also shown on a <a href="#churchmap">Google Map</a> below.</p>
 <h3>Churches</h3>
+<p>Type something in the input field to search the table for Churches:</p>  
+<input class="form-control" id="myInput" type="text" placeholder="Search...">
 <div class="table-responsive">
 <table class="table">
 <thead>
@@ -22,7 +24,7 @@ title: Churches Visited
 <th class="text-center">To Visit Sometime ({{ site.data.Church-Status.AllNotYet }})</th>
 </tr>
 </thead>
-<tbody>
+<tbody id="myTable">
 <tr>
 <td><b><i>Complete ({{ site.data.Church-Status.Col1Num }})</i></b></td>
 <td><b><i>Need to Revisit ({{ site.data.Church-Status.Col2Num }}) - See note 1</i></b></td>
