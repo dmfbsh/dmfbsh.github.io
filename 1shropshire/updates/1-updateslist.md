@@ -1,6 +1,11 @@
 ---
 ---
 
+## 04 Jul 2021
+Added the following item:
+
+- Sutton Maddock Church
+
 ### 03 Jul 2021
 Added the following item:
 
