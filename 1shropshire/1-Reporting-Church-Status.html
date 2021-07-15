@@ -3,6 +3,7 @@ layout: shropshire-status-bs
 title: Churches Visited
 ---
 
+<div class="container">
 <h1>Visiting Shropshire's Churches</h1>
 <p>The plan is to visit all (Church of England) churches in Shropshire that were built prior to the end of the Victorian era.</p>
 <p>A total of 317 sites to visit have been identified.</p>
@@ -19,26 +20,26 @@ title: Churches Visited
 <table class="table">
 <thead>
 <tr>
-<th colspan="2" class="text-center">Visited ({{ site.data.Church-Status.AllVisited }})</th>
-<th colspan="2" class="text-center">Planned to Visit ({{ site.data.Church-Status.AllPlanned }})</th>
-<th class="text-center">To Visit Sometime ({{ site.data.Church-Status.AllNotYet }})</th>
+<th colspan="2">Visited ({{ site.data.Church-Status.AllVisited }})</th>
+<th colspan="2">Planned to Visit ({{ site.data.Church-Status.AllPlanned }})</th>
+<th>To Visit Sometime ({{ site.data.Church-Status.AllNotYet }})</th>
 </tr>
+<tr>
+<th>Complete ({{ site.data.Church-Status.Col1Num }})</th>
+<th>Need to Revisit ({{ site.data.Church-Status.Col2Num }}) - See note 1</th>
+<th>Priority ({{ site.data.Church-Status.Col3Num }})</th>
+<th>Other ({{ site.data.Church-Status.Col4Num }})</th>
+<th></th>
 </thead>
 <tbody id="myTable">
-<tr>
-<td><b><i>Complete ({{ site.data.Church-Status.Col1Num }})</i></b></td>
-<td><b><i>Need to Revisit ({{ site.data.Church-Status.Col2Num }}) - See note 1</i></b></td>
-<td><b><i>Priority ({{ site.data.Church-Status.Col3Num }})</i></b></td>
-<td><b><i>Other ({{ site.data.Church-Status.Col4Num }})</i></b></td>
-<td></td>
 </tr>
 {% for item in site.data.Church-Status.Churches %}
 <tr>
-<td>{{ item.Col1 }}</td>
-<td>{{ item.Col2 }}</td>
-<td>{{ item.Col3 }}</td>
-<td>{{ item.Col4 }}</td>
-<td>{{ item.Col5 }}</td>
+<td><p class="fr">{{ item.Col1 }}</p></td>
+<td><p class="fr">{{ item.Col2 }}</p></td>
+<td><p class="fr">{{ item.Col3 }}</p></td>
+<td><p class="fr">{{ item.Col4 }}</p></td>
+<td><p class="fr">{{ item.Col5 }}</p></td>
 </tr>
 {% endfor %}
 </tbody>
@@ -61,3 +62,4 @@ title: Churches Visited
     <li>Click on the icon in the top left corner to select which churches to show on the map.</li>
     <li>Click on the icon in the top right corner to open a larger view of the map.</li>
 </ul>
+</div>

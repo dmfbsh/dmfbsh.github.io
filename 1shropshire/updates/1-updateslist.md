@@ -1,6 +1,9 @@
 ---
 ---
 
+## 11 Jul 2021
+Added inside photos for Church Pulverbatch church.
+
 ## 04 Jul 2021
 Added the following item:
 
