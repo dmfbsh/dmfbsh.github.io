@@ -1,3 +1,9 @@
+# Name: Shropshire - General View 1
+
+A view when driving from Clun to Hopton Castle.
+![](../1shropshire/assets/images/<folder>/2021-07-16_14_37_40_DSC_9739_DxO.jpg)
+
+
 # Name: Caer Caradoc
 
 TBD
@@ -39,6 +45,12 @@ TBD
 
 TBD
 ![](../1shropshire/assets/images/landscape/2020-02-08_14_54_42_DSC_6484_DxO_bw.jpg)
+
+# Name: Hopton Castle
+
+A different view of Hopton Castle.
+![](../1shropshire/assets/images/<folder>/2021-07-16_15_16_30_DSC_9754_DxO.jpg)
+
 
 # Name: Hill - The Long Mynd
 

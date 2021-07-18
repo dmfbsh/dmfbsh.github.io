@@ -1,4 +1,11 @@
 - Type: Item
+  Name: Shropshire - General View 1
+  Description: |
+    A view when driving from Clun to Hopton Castle.
+  Thumbnail: 2021-07-16_14_37_40_DSC_9739_DxO.jpg
+
+
+- Type: Item
   Name: Caer Caradoc
   Description: |
     TBD
@@ -47,6 +54,13 @@
   Description: |
     TBD
   Thumbnail: 2020-02-08_14_54_42_DSC_6484_DxO_bw.jpg
+
+- Type: Item
+  Name: Hopton Castle
+  Description: |
+    A different view of Hopton Castle.
+  Thumbnail: 2021-07-16_15_16_30_DSC_9754_DxO.jpg
+
 
 - Type: Item
   Name: Hill - The Long Mynd

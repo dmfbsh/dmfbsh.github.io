@@ -1,8 +1,19 @@
 ---
 ---
 
+## 18 Jul 2021
+Added the following item:
+
+- Bourton Church
+- Holdgate Church
+- A general view
+- Hopton Castle (landscape)
+- Stanton Long Church
+
 ## 11 Jul 2021
 Added inside photos for Church Pulverbatch church.
+
+Added inside photos for Stapleton church.
 
 ## 04 Jul 2021
 Added the following item:
