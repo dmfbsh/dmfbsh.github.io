@@ -1,6 +1,13 @@
 ---
 ---
 
+## 21 Jul 2021
+Added the following item:
+
+- Lawley Church
+- Little Wenlock Church
+- Loppington Church
+
 ## 18 Jul 2021
 Added the following item:
 

@@ -1112,6 +1112,23 @@ The name of the settlement derives from the Old English meaning long wood/cleari
 - Sub-Image: 2020-09-11_17_12_53_DSC_8508_DxO.jpg
 - Sub-Image: 2020-09-11_17_13_35_DSC_8510_DxO.jpg
 
+# Name: St John the Evangelist, Lawley
+- Diocese: Lichfield
+- Date: 1865 AD
+
+Lawley was originally a small hamlet, however, the population increased with the discovery of clay and coal just beneath the surface in the 19th Century.  Although within 10 years of the church being built, the coal had been worked out and there was a mass migration away from the area.
+
+Local farmer Bartholomew Yates engaged with the bishop to requst a church be built, one agrument was that when there was funeral the people had to walk with the coffin to Wellington or Malinslee (four or five miles).
+
+The church was originally a chapel of ease, built on land donated by the Coalbrookdake Company (the main employer of Lawley's residents) and Lord Forrester.  Much of the building cost was borne by partners of the Coalbrookdale Company.
+
+The first minister, Thomas Ragg, served from 1865 to 1881.  He was self-educated and was ordained in 1858.
+
+The church was designed by John Ladds in the Gothic style.  It is of red and yellow brick with stone dressings.  The single bell, made in 1865, was added in 1915.
+
+Lawley is recorded in the Domesday book, but it was of little value.  The name of the setllement derives from the Old English Lafa's Wood (Lafa is a personal name) and 'leah' is wood or glade.
+![](../1shropshire/assets/images/churches/2021-07-18_07_40_26_DSC_9813_DxO.jpg)
+
 # Name: St Peter, Lee Brockhurst
 - Diocese: Lichfield
 - Date: 12th Century AD
@@ -1129,6 +1146,23 @@ The name of the settlement means wood or clearing by the badger’s wooded hill 
 
 The building is painted to look half-timbered.  However, the whole interior is wooden.
 ![](../1shropshire/assets/images/churches/2019-03-29_16_54_07_DSC_3761_DxO.jpg)
+
+# Name: St Lawrence, Little Wenlock
+- Diocese: Hereford
+- Date: 12th Century AD
+
+The oldest surving part of the church is the Ladty Chapel, which dates from the 12th Century (and the list of incumbents goes back to 1260).  The original nave, which is now the north aisle, is medieval (thought to be 15th Century as the arch-braced roof is typical of this period).  The tower was added in 1667.  The brick nave was added in 1822 and the chancel in 1875.
+
+In the tower there are five bells, dating from 1704.
+
+The church contains one of the earliest known cast iron grave slabs in Shropshire - dated 1611, it is set into the floor of the original chancel.  The church is also noted for the 19th Century stained glass commemorating members of the Forester and Edmonds families.
+
+The communion table is 17th Century.  There is an oak chest from 1733 and the silver communion is dated 1742.
+
+In 1849 Abraham Darby IV of Coalbrookdale joined the Church of England, having been raised as a Quaker, he was baptised at this church.
+
+The name Wenlock is thought to be 'white enclosed place'.  The white probably refers to the limestone escarpment of Wenlock Edge.  'Winn' is primitive Welsh for white, and 'loca' is Old English for an enclosure.  'Little' derives from the Latin 'parva' for small.
+![](../1shropshire/assets/images/churches/2021-07-18_07_21_42_DSC_9798_DxO_1.jpg)
 
 # Name: St Michael the Archangel, Llanyblodwel
 - Diocese: Lichfield
@@ -1216,6 +1250,37 @@ The name of the village derives its name from an alder copse on the banks of the
 - Sub-Image: 2020-09-13_15_53_52_DSC_8555_DxO.jpg
 - Sub-Image: 2020-09-13_15_55_30_DSC_8558_DxO.jpg
 - Sub-Image: 2020-09-13_15_55_48_DSC_8559_DxO.jpg
+
+# Name: St Michael and All Angels, Loppington
+- Diocese: Lichfield
+- Date: 14th Century AD
+
+There was an earlier church at Loppington, as it is known that in 1190 AD the church was given to Wombridge Priory, but no part of the present building dates from the 12th Century.
+
+The tower is late 15th Century.
+
+The porch is dated 1658.  The roof is probably also 17th Century.
+
+In 1643 the church was held by Parliamentarian forces but was subsequently stormed and taken by the Royalists, considerable damage being caused in the process.  It was restored in 1870.
+
+The pulpit is probably early 18th Century.
+
+Loppington was recorded in the Domesday Book as Lopitone.
+
+The meaning of the name of the settlement is uncertain, it may be a farm/settlement (tun) connected with 'Loppa' (a personal name) or 'farm/settlement at the spidery place' (loppe is the Old English for spider).  'Ing' is a connective particle (linking a first element to a final element) in Old English.
+![](../1shropshire/assets/images/churches/2021-07-17_13_11_42_DSC_9756_DxO.jpg)
+- Sub-Image: 2021-07-17_14_26_25_DSC02855_DxO.jpg
+- Sub-Image: 2021-07-17_14_27_38_DSC02856_DxO.jpg
+- Sub-Image: 2021-07-17_14_28_50_DSC02858_DxO.jpg
+- Sub-Image: 2021-07-17_14_31_23_DSC02865_DxO.jpg
+- Sub-Image: 2021-07-17_14_32_40_DSC02867_DxO.jpg
+- Sub-Image: 2021-07-17_14_33_09_DSC02868_DxO.jpg
+- Sub-Image: 2021-07-17_14_33_57_DSC02869_DxO.jpg
+- Sub-Image: 2021-07-17_14_34_31_DSC02870_DxO.jpg
+- Sub-Image: 2021-07-17_14_37_59_DSC02873_DxO.jpg
+- Sub-Image: 2021-07-17_14_40_50_DSC02879_DxO.jpg
+- Sub-Image: 2021-07-17_14_41_09_DSC02880_DxO.jpg
+- Sub-Image: 2021-07-17_14_41_31_DSC02881_DxO.jpg
 
 # Name: St Laurence, Ludlow
 - Diocese: Hereford
