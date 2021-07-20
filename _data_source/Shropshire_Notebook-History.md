@@ -770,6 +770,18 @@ Viewpoint and site of the Rotunda, which was a folly built by Richard Reynolds (
 Designed by John Nash, it is thought to be the earliest Italianate villa in England.  It was built for Francis Walford, a friend of the 2nd Baron Berwick an agent for the Berwick's Attingham estates.
 ![](../1shropshire/assets/images/history/2006-04-09 15-38-35_00003183_DxO_bw.jpg)
 
+# Name: Canal Company, Ellesmere - Beech House
+- Date: circa 1806 AD
+
+In 1791 in Ellesmere a plan was proposed by a small group of industrialists who owned coal mines, iron mines and other works for a canal network to link the rivers Mersey and Severn. The hub was to be Ellesmere. Birch House was constructed to serve as the main office. From here Thomas Telford designed the tunnels, wharfs, moorings, locks and ‘rivers in the sky’. However the canal was never finished as intended due to the project’s rising costs and the failure to generate the expected commercial traffic.
+![](../1shropshire/assets/images/history/2021-07-17_14_23_47_DSC_9775_DxO.jpg)
+
+# Name: Canal Company, Ellesmere - Canal Yard Workshop
+- Date: circa 1806 AD
+
+The dry dock and workshops constructed for the Canal Company.  English Heritage states this is the best-preserved canal workshop site in Britain.
+![](../1shropshire/assets/images/history/2021-07-17_14_20_23_DSC_9771_DxO_1.jpg)
+
 # Name: Charles Darwin Born
 - Date: 1809 AD
 

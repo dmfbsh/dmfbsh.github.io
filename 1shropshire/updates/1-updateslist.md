@@ -7,6 +7,8 @@ Added the following item:
 - Lawley Church
 - Little Wenlock Church
 - Loppington Church
+- Beech House, Ellesmere
+- Canal Yard Workshops, Ellesmere
 
 ## 18 Jul 2021
 Added the following item:
