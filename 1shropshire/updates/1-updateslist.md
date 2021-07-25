@@ -1,6 +1,9 @@
 ---
 ---
 
+## 25 Jul 2021
+Added inside photos for Baschurch church.
+
 ## 21 Jul 2021
 Added the following item:
 
