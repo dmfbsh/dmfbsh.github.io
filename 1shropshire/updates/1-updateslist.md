@@ -1,6 +1,17 @@
 ---
 ---
 
+## 14 Aug 2021
+Added the following item:
+
+- More Church
+
+Updated the following:
+
+- Alberbury Church
+- Cardeston Church
+- Bishop's Castle Church
+
 ## 25 Jul 2021
 Added inside photos for Baschurch church.
 

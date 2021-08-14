@@ -62,7 +62,7 @@ The name of the village derives from the Old English meaning 'Ealdthryth's wood/
 - Sub-Image: 2021-05-16_14_12_20_DSC02587_DxO.jpg
 - Sub-Image: 2021-05-16_12_43_14_DSC_9497_DxO.jpg
 
-# Name: St Michael and All Angels, Alberbury
+# Name: St Michael, Alberbury
 - Diocese: Hereford
 - Date: 1290 AD
 
@@ -82,6 +82,24 @@ There are two wall-monuments to Sir Richard Lyster, who was MP for Shrewsbury in
 
 The place name derives from the Old English 'burh' (a fortified place) and the personal name Aluburg or Ealhburg.
 ![](../1shropshire/assets/images/churches/2021-04-17_14_50_05_DSC_9432_DxO.jpg)
+- Sub-Image: 2021-08-07_12_04_36_DSC02959_DxO.jpg
+- Sub-Image: 2021-08-07_12_05_54_DSC02962_DxO.jpg
+- Sub-Image: 2021-08-07_12_06_31_DSC02963_DxO.jpg
+- Sub-Image: 2021-08-07_12_07_01_DSC02964_DxO.jpg
+- Sub-Image: 2021-08-07_12_07_37_DSC02965_DxO.jpg
+- Sub-Image: 2021-08-07_12_07_59_DSC02966_DxO.jpg
+- Sub-Image: 2021-08-07_12_08_44_DSC02967_DxO.jpg
+- Sub-Image: 2021-08-07_12_09_22_DSC02969_DxO.jpg
+- Sub-Image: 2021-08-07_12_10_47_DSC02972_DxO.jpg
+- Sub-Image: 2021-08-07_12_12_59_DSC02976_DxO.jpg
+- Sub-Image: 2021-08-07_12_13_17_DSC02977_DxO.jpg
+- Sub-Image: 2021-08-07_12_13_26_DSC02978_DxO.jpg
+- Sub-Image: 2021-08-07_12_16_17_DSC02984_DxO.jpg
+- Sub-Image: 2021-08-07_12_17_18_DSC02988_DxO.jpg
+- Sub-Image: 2021-08-07_12_19_46_DSC02994_DxO.jpg
+- Sub-Image: 2021-08-07_12_20_50_DSC02998_DxO.jpg
+- Sub-Image: 2021-08-07_12_22_05_DSC02999_DxO.jpg
+- Sub-Image: 2021-08-07_12_25_01_DSC03001_DxO.jpg
 
 # Name: St Mary, Astley
 - Diocese: Lichfield
@@ -226,7 +244,7 @@ The original church was replaced in 1885 by the present one.  Designed by Lloyd-
 The place name in Old English means 'Beak Hill' (bic is a point or bees nest and dun is a hill in Old English), referring to the shape of the hill that the town is situated on
 ![](../1shropshire/assets/images/churches/2020-12-05_14_57_07_DSC_9194_DxO_1.jpg)
 
-# Name: St John the Baptist, Bishop's Castle
+# Name: St John the Baptist, Bishops Castle
 - Diocese: Hereford
 - Date: 13th Century AD
 
@@ -234,19 +252,29 @@ Bishop's Castle is named from the castle built there by the Bishop of Hereford i
 
 The original church was built towards the end of the 13th century to serve the medieval town controlled by the Bishops of Hereford.  Only the tower remains of the original church (but this was rebuilt in 1648 after the church was badly damaged in 1645 during the Civil War).  The rest of the church was completely re-built in 1869-60 by Thomas Nicholson in the Victorian Gothic style.
 
-During the rebuild, an Early English (1180-1275) doorway was removed and is now in the wall of the vicarage garden.
-![](../1shropshire/assets/images/churches/2020-08-08_14_45_28_DSC_7980_DxO_bw.jpg)
-- Sub-Image: 2020-08-08_14_29_50_DSC_7952_DxO.jpg
-- Sub-Image: 2020-08-08_14_31_41_DSC_7954_DxO.jpg
-- Sub-Image: 2020-08-08_14_32_25_DSC_7956_DxO.jpg
-- Sub-Image: 2020-08-08_14_36_52_DSC_7965_DxO.jpg
-- Sub-Image: 2020-08-08_14_37_05_DSC_7966_DxO.jpg
-- Sub-Image: 2020-08-08_14_37_19_DSC_7967_DxO.jpg
-- Sub-Image: 2020-08-08_14_38_02_DSC_7969_DxO.jpg
-- Sub-Image: 2020-08-08_14_38_47_DSC_7972_DxO.jpg
-- Sub-Image: 2020-08-08_14_43_36_DSC_7978_DxO.jpg
-- Sub-Image: 2020-08-08_14_47_47_DSC_7983_DxO.jpg
-- Sub-Image: 2020-08-08_14_48_01_DSC_7984_DxO.jpg
+During the rebuild, an Early English (1180-1275) doorway was removed and is now in the wall of the vicarage garden.  Also from the old church are a plain Norman font and a demi-figure of an Elizabethan divine (now upright).  Some of the stained glass is Pre-Raphaelite, other windows are considered fine examples of Victorian glass and are by Powell’s, O’Connor and Henry Holiday.
+![](../1shropshire/assets/images/churches/2021-08-13_13_43_59_DSC_9922_DxO.jpg)
+- Sub-Image: 2021-08-13_13_23_25_DSC_9876_DxO.jpg
+- Sub-Image: 2021-08-13_13_23_40_DSC_9877_DxO.jpg
+- Sub-Image: 2021-08-13_13_23_59_DSC_9878_DxO.jpg
+- Sub-Image: 2021-08-13_13_24_40_DSC_9880_DxO.jpg
+- Sub-Image: 2021-08-13_13_25_00_DSC_9881_DxO.jpg
+- Sub-Image: 2021-08-13_13_25_13_DSC_9882_DxO.jpg
+- Sub-Image: 2021-08-13_13_25_38_DSC_9883_DxO.jpg
+- Sub-Image: 2021-08-13_13_26_30_DSC_9884_DxO.jpg
+- Sub-Image: 2021-08-13_13_33_55_DSC_9896_DxO.jpg
+- Sub-Image: 2021-08-13_13_34_39_DSC_9898_DxO.jpg
+- Sub-Image: 2021-08-13_13_38_12_DSC_9906_DxO.jpg
+- Sub-Image: 2021-08-13_13_38_25_DSC_9907_DxO.jpg
+- Sub-Image: 2021-08-13_13_40_55_DSC_9912_DxO.jpg
+- Sub-Image: 2021-08-13_13_41_32_DSC_9914_DxO.jpg
+- Sub-Image: 2021-08-13_13_41_45_DSC_9915_DxO.jpg
+- Sub-Image: 2021-08-13_13_41_58_DSC_9916_DxO.jpg
+- Sub-Image: 2021-08-13_13_42_18_DSC_9918_DxO.jpg
+- Sub-Image: 2021-08-13_13_45_46_DSC_9924_DxO.jpg
+- Sub-Image: 2021-08-13_13_47_41_DSC_9925_DxO.jpg
+- Sub-Image: 2021-08-13_13_48_39_DSC_9927_DxO.jpg
+- Sub-Image: 2021-08-13_13_51_42_DSC_9933_DxO.jpg
 
 # Name: St Mary, Bitterley
 - Diocese: Hereford
@@ -393,10 +421,26 @@ The Old English name means 'Ford by the Fort'.
 - Diocese: Hereford
 - Date: 1276 AD
 
-The church is known to have existed prior to 1276, as there is one window in the chancel in the present building from before that date.  By the 18th Century, the medieval church was in a poor state of repair and it was replaced by a new building in 1749, the building was significantly remodelled in 1844.
+The church is known to have existed prior to 1276, as there is one window in the chancel in the present building from before that date.  By the 18th Century, the medieval church was in a poor state of repair and it was replaced by a new building in 1749, the building was significantly remodelled in 1844.  The church needed further restoration in 1905.
 
-The church is notable for its unusual tower as the square lower stage becomes octagonal above angle broaches.
-![](../1shropshire/assets/images/history/2020-07-11_12_51_11_DSC_7384_DxO_bw.jpg)
+The church is notable for its unusual tower (which was added in 1844) as the square lower stage becomes octagonal above angle broaches.  The architect of the tower, vestry and new windows in the nave was Thomas Jones of Chester who had been employed by the Leightons at Loton Park and in Alberbury church.  Three designs were were proposed, a square tower, a spire and a square base with an octagonal tower.  In medieval times, an octagon was considered to be halfway between a circle (God) and a square (the Earth).  It was the place where heaven and earth came into contact.  This is why pulpits and fonts are often octagonal in shape.
+
+To fund the building of a tower, £500 was donated by Lady Leighton from the proceeds of her published engraved picture of The Ladies of Llangollen.  The engraved picture was based on a sketch by Mary Parker a friend of The Ladies of Llangollen who often visited and secretly drew their portraits as they were unwilling to have their portraits taken formally.
+
+The village name means Card's farm/settlement (Card being a personal name).
+![](../1shropshire/assets/images/churches/2020-07-11_12_51_11_DSC_7384_DxO_bw.jpg)
+- Sub-Image: 2021-08-07_11_22_20_DSC02931_DxO.jpg
+- Sub-Image: 2021-08-07_11_22_31_DSC02932_DxO.jpg
+- Sub-Image: 2021-08-07_11_30_52_DSC02934_DxO.jpg
+- Sub-Image: 2021-08-07_11_31_02_DSC02935_DxO.jpg
+- Sub-Image: 2021-08-07_11_31_29_DSC02936_DxO.jpg
+- Sub-Image: 2021-08-07_11_31_58_DSC02937_DxO.jpg
+- Sub-Image: 2021-08-07_11_33_45_DSC02948_DxO.jpg
+- Sub-Image: 2021-08-07_11_37_09_DSC02950_DxO.jpg
+- Sub-Image: 2021-08-07_11_42_09_DSC02955_DxO.jpg
+- Sub-Image: 2021-08-07_11_42_26_DSC02956_DxO.jpg
+- Sub-Image: 2021-08-07_11_42_46_DSC02957_DxO.jpg
+- Sub-Image: 2021-08-07_11_44_52_DSC02958_DxO.jpg
 
 # Name: St James, Cardington
 - Diocese: Hereford
@@ -1361,6 +1405,37 @@ The church is noted as it houses one of the best sets of stained glass by Morris
 
 Meole Brace was originally a separate village, the manor of Meole is recorded in the Domesday book.  Meole is the name of the river and Brace is derived from Aldolf de Bracy who held the manor in 1206.
 ![](../1shropshire/assets/images/churches/2021-01-02_15_31_04_DSC_9214_DxO.jpg)
+
+# Name: St Peter, More
+- Diocese: Hereford
+- Date: 13th Century AD
+
+The present building comprises the medieval tower (13th Century), a 17th Century north transept and an early Victorian nave and chancel (rebuilt in 1845).
+
+Inside the box pews and the hammer beam roof are Victorian.  The west gallery is supported by cast-iron pillars.  Near the font is some Roman mosaic, thought to have been brought from a grand tour rather than being taken from a nearby Roman settlement.
+
+The north transept was built as the More family mortuary chapel.  There is a connection between the More family and the Mayflower (1620) - citation needed.
+
+The church formerly housed an important library of early theological books which were given to the parish by Richard More in 1680 (his intent was to teach the minister sound doctrine), the books are now at the nearby Linley Hall.
+
+In Old English ‘mor’ is a marsh or barren upland, from which the settlement takes its name.
+![](../1shropshire/assets/images/churches/2021-08-13_12_46_11_DSC_9861_DxO.jpg)
+- Sub-Image: 2021-08-13_12_16_27_DSC_9814_DxO.jpg
+- Sub-Image: 2021-08-13_12_19_43_DSC_9819_DxO.jpg
+- Sub-Image: 2021-08-13_12_21_57_DSC_9825_DxO.jpg
+- Sub-Image: 2021-08-13_12_22_39_DSC_9826_DxO.jpg
+- Sub-Image: 2021-08-13_12_23_04_DSC_9827_DxO.jpg
+- Sub-Image: 2021-08-13_12_23_15_DSC_9828_DxO.jpg
+- Sub-Image: 2021-08-13_12_23_48_DSC_9829_DxO.jpg
+- Sub-Image: 2021-08-13_12_24_39_DSC_9832_DxO.jpg
+- Sub-Image: 2021-08-13_12_25_18_DSC_9833_DxO.jpg
+- Sub-Image: 2021-08-13_12_25_30_DSC_9834_DxO.jpg
+- Sub-Image: 2021-08-13_12_28_19_DSC_9840_DxO.jpg
+- Sub-Image: 2021-08-13_12_29_42_DSC_9841_DxO.jpg
+- Sub-Image: 2021-08-13_12_30_29_DSC_9842_DxO.jpg
+- Sub-Image: 2021-08-13_12_32_02_DSC_9845_DxO.jpg
+- Sub-Image: 2021-08-13_12_33_40_DSC_9846_DxO.jpg
+- Sub-Image: 2021-08-13_12_34_29_DSC_9847_DxO.jpg
 
 # Name: St Bartholomew, Moreton Corbet
 - Diocese: Lichfield
