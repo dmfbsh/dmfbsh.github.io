@@ -618,6 +618,33 @@ The church is largely Early English.  The arcades lean outwards and were first s
 The shingled spire is not quite symmetrical when seen from certain viewpoints.
 ![](../1shropshire/assets/images/churches/2019-04-19_15_28_58_DSC_4140_DxO.jpg)
 
+# Name: All Saints, Clive
+- Diocese: Lichfield
+- Date: circa 1190 AD
+
+Evidence suggests there was a little wooden church at the site in 599 AD (and noted in St Augustine’s record of early Christian sites).  By Anglo-Saxon times the chapelry was held by the collegiate Church of St Mary, Shrewsbury.  Strong links were also established Haughmond Abbey as Clive was a profitable parish (although small).  By 1578 the parishioners had taken matters into their hands and raised sufficient funds to repair the chapel and appoint their own Minister.
+
+The first major restoration occured from 1628-54.  A second rebuilding programme took place in 1849.  Finally, the church was fully restored in 1885-87 (made possible by the patronage of J J Bibby owner of the Liverpool shipping line and Hardwicke Grange and Thomas Meares, a tea plantation owner living at Clive Hall).  The spire was added in 1894 at the expense of J J Bibby in memory of his wife.  There is some medieval masonry remaining in the north wall and the north doorway (late Norman) was preserved from the original church.
+
+The peal of six bells is the heaviest in the county, they were installed on 22nd September 1894 having been ordered in November 1892 from the John Taylor Bell Factory of Loughborough (at a total cost of £1,432.18s.7d).  The collective weight requiring support has been calculated as in excess of 81 hundredweight or over 4 tons, and this set is currently ranked as the eleventh heaviest peal of six in the world, this standing calculated according to the weight of the large Tenor bell which alone weighs over 25 hundredweight.
+
+The organ is an original by Henry Wills (Wills is regarded as the foremost organ builder of the Victorian era).
+
+The name of settlement simply derives from the Old English ‘clif’ meaning an escarpment or hill slope.
+![](../1shropshire/assets/images/churches/2021-08-20_14_32_07_DSC_9962_DxO.jpg)
+- Sub-Image: 2021-08-20_14_41_07_DSC_9968_DxO.jpg
+- Sub-Image: 2021-08-20_14_41_35_DSC_9969_DxO.jpg
+- Sub-Image: 2021-08-20_14_42_51_DSC_9974_DxO.jpg
+- Sub-Image: 2021-08-20_14_43_02_DSC_9975_DxO.jpg
+- Sub-Image: 2021-08-20_14_43_11_DSC_9976_DxO.jpg
+- Sub-Image: 2021-08-20_14_43_27_DSC_9977_DxO.jpg
+- Sub-Image: 2021-08-20_14_44_12_DSC_9981_DxO.jpg
+- Sub-Image: 2021-08-20_14_46_06_DSC_9985_DxO.jpg
+- Sub-Image: 2021-08-20_14_47_11_DSC_9989_DxO.jpg
+- Sub-Image: 2021-08-20_14_47_46_DSC_9991_DxO.jpg
+- Sub-Image: 2021-08-20_14_49_54_DSC_9996_DxO.jpg
+- Sub-Image: 2021-08-20_14_50_39_DSC_9998_DxO.jpg
+
 # Name: Holy Trinity, Coalbrookdale
 - Diocese: Hereford
 - Date: 1854 AD
@@ -899,6 +926,23 @@ The name of the village derives from a personal name (perhaps ‘Wiglaf’) and 
 - Sub-Image: 2021-04-17_13_54_10_DSC_9416_DxO.jpg
 - Sub-Image: 2021-04-17_14_09_20_DSC_9423_DxO.jpg
 - Sub-Image: 2021-04-17_14_16_29_DSC_9425_DxO.jpg
+
+# Name: All Saints, Grinshill
+- Diocese: Lichfield
+- Date: 1839-40 AD
+
+The church is a rare example of a new-Norman church and is built of red Grinshill sandstone.
+
+The chancel screen was carved by six parishioners and presented in 1898 in commemoration of Queen Victoria’s Diamond Jubilee.  The pulpit was given in 1900 and the font in 1889.
+
+Grinshill was originally a chapelry of Shawbury (known to be so as early as 1130 AD) and was an independent church by the 17th Century.  It has been suggested that some remains of prior buildings do exist at the base of the tower.
+
+The origin of the name of settlement is uncertain, it may mean ‘trap hill’ (perhaps where animals were snared or it maybe describes the shape of the hill).  Grynel is an unknown Old English word, but maybe related to the word ‘grin’ for a noose or snare.  Hyll is the Anglian for a hill or elevated ground.
+![](../1shropshire/assets/images/churches/2021-08-20_14_10_59_DSC_9956_DxO.jpg)
+- Sub-Image: 2021-08-20_13_59_41_DSC_9947_DxO.jpg
+- Sub-Image: 2021-08-20_14_01_57_DSC_9949_DxO.jpg
+- Sub-Image: 2021-08-20_14_03_54_DSC_9950_DxO.jpg
+- Sub-Image: 2021-08-20_14_04_09_DSC_9951_DxO.jpg
 
 # Name: St Mary Magdalene, Hadnall
 - Diocese: Lichfield

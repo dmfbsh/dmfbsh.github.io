@@ -1,6 +1,12 @@
 ---
 ---
 
+## 21 Aug 2021
+Added the following item:
+
+- Grinshill Church
+- Clive Church
+
 ## 14 Aug 2021
 Added the following item:
 
