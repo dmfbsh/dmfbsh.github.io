@@ -1,6 +1,12 @@
 ---
 ---
 
+## 29 Aug 2021
+Added the following item:
+
+- Lilleshall Monument
+- Lilleshall Church
+
 ## 21 Aug 2021
 Added the following item:
 

@@ -1245,6 +1245,34 @@ The name of the settlement means wood or clearing by the badger’s wooded hill 
 - Sub-Image: 2020-10-09_15_53_05_DSC_8774_DxO.jpg
 - Sub-Image: 2020-10-09_15_58_45_DSC_8776_DxO.jpg
 
+# Name: St Michael and All Angels, Lilleshall
+- Diocese: Lichfield
+- Date: circa 1190 AD
+
+The earliest part of the present building is the south doorway which is late-Norman.  However, it is thought that there has been a church on the site since the 7th century.  St Chad is said to have visited Lilla's Hill to spread the Gospel in 670AD, and a small Saxon church was built.
+
+In the Domesday book this was one of manors held on behalf of St Alkmund’s, Shrewsbury.
+
+The present building was built in stages over 400 years.
+
+At the west end of the nave is a Royal Coat of Arms with the initials CR, it is unknown if this is for Charles I or II.
+
+The roofs are thought to be late medieval.
+
+The reredos were presented to the church by the Duchess of Sutherland during the 1856 restoration.
+
+In the north wall of the chancel is one of the finest monuments in Shropshire, dedicated to Sir Richard Leveson (d. 1661) and and his wife (d. 1664). It features two reclining figures, with an architectural surround, columns on each side and a pediment above.
+
+The font, with its intricate carvings, is thought to predate the church, possibly dating back to circa 900AD.   There is a story that it originally came from Lilleshall Abbey, but it has also been suggested that it might have been in the original Saxon church.
+
+On the outside of the church is a sundial (in situ by 1787) and a bronze wall tablet.  The tablet was put up in 1896 and indicates how to obtain the time by adding and subtracting various numbers on certain days of the year. Prior to 'Railway Time' each town had its own time based on noon and measured by local sundials.
+
+The name of settlement means Lill’s (personal name) Hill.
+![](../1shropshire/assets/images/churches/2021-08-29_07_04_05_DSC_0135_DxO.jpg)
+- Sub-Image: 2021-08-29_07_00_00_DSC_0128_DxO.jpg
+- Sub-Image: 2021-08-29_07_00_24_DSC_0129_DxO.jpg
+- Sub-Image: 2021-08-29_07_09_02_DSC_0142_DxO.jpg
+
 # Name: All Saints, Little Stretton
 - Diocese: Hereford
 - Date: 1903 AD

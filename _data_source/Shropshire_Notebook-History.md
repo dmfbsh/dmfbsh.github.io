@@ -828,6 +828,12 @@ In 1886 the site was leased to Thomas Groom who installed the Wrekin Chemical Wo
 Three blast furnaces built by the Madeley Wood Company in 1832, 1840 and 1840 - they remained in use until 1912.  The furnaces replaced the two Bedlam blast furnaces - the completion of the Shropshire Canal and the building of the Hay Inclined Plane in the early 1790s provided a means of bringing in the raw materials and taking away the finished goods.
 ![](../1shropshire/assets/images/history/2016-08-12_13_02_04_DSC00989_DxO.jpg)
 
+# Name: 1st Duke of Sutherland Monument, Lilleshall
+- Date: 1833 AD
+
+The Lilleshall monument was erected in 1833 and commemorates George Leveson-Gower (1st Duke of Sutherland), who died in that year. The obelisk is 70ft high. The construction was originally funded through £933.15s collected from the Duke's tenants, in recognition that he ‘went down to his grave with the blessings of his tenants on his head’. Originally there were two lions and two griffins at each corner, however these were damaged after a violent thunderstorm and were removed.
+![](../1shropshire/assets/images/history/2021-08-29_06_43_43_DSC_0116_DxO.jpg)
+
 # Header: 1837 AD
 
 ## Start of the Victorian Age
