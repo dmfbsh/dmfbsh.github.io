@@ -952,6 +952,12 @@ Mary Webb was a novelist and poet whose work is set mainly in the Shropshire cou
 Webb was born in Leighton in 1881.
 ![](../1shropshire/assets/images/history/2019-06-15_12_25_49_DSC02168_DxO.jpg)
 
+# Name: Margaret Rope Born
+- Date: 1882 AD
+
+Margaret Rope (born in Shrewsbury) was a stained glass artist in the Arts and Crafts movement. Although christened into the Anglican Church, she converted to Roman Catholicism in 1899 and later became a nun. Her stained glass was exclusively for churches, nearly all Roman Catholic. The Shrewsbury Cathedral has seven of her windows, including her first major commission (the west window).
+![](../1shropshire/assets/images/history/2021-08-30_13_23_31_DSC_0158_DxO.jpg)
+
 # Name: Maw & Co
 - Date: 1883 AD
 
@@ -968,7 +974,7 @@ A local builder, Rowland Smitheman, took over a row of cottages which he then co
 - Date: 1888 AD
 
 Henry Eckford was a Scottish horticulturist and reputedly the most famous breeder of sweet peas.  In 1888 he moved to Wem and it was in Wem that he perfected the breeding of his Grandiflora sweet peas.  He is buried at the Whitchurch Road Cemetery in Wem.
-![](../1shropshire/assets/images/history/photo-needed.jpg)
+![](../1shropshire/assets/images/history/2021-03-06_14_44_27_IMG_6424.jpg)
 
 # Header: 1889 AD
 

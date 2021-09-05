@@ -1884,6 +1884,36 @@ The village is close to Offa's Dyke and the dyke bounds the parish on the west, 
 The churchyard has a number of very old yew trees, suggesting that the site has been a place of Christian worship for over 1000 years.  However, the church itself is first mentioned in the Papal Tax records in 1291.  The church is noted for its 13th Century font and the barrel roof over the chancel, which is thought to be from the 14th Century.  The north and south transepts were added in 1821-28.  The church was extensively rebuilt in 1891-92.
 ![](../1shropshire/assets/images/churches/2020-06-20_14_33_42_DSC_7305_DxO_L.jpg)
 
+# Name: St Mary, Shawbury
+- Diocese: Lichfield
+- Date: 1182 AD
+
+The present building still contains elements of the original Norman building.  The nave and south aisle are the original building, the chancel is 13th Century. The north aisle and tower are 15th or early 16th Century.  The porch is late 16th or early 17th Century.
+
+The church was altered and restored in 1603 and again in 1875.
+
+The font is Norman, above it is a brass chandelier which is 18th Century.  The pulpit is Jacobean, dated 1612.  In one of south windows in the chancel are some fragments of 15th Century stained glass.  The carved reredos behind the altar dates from 1881.
+
+The name of the settlement derives from the Old English for fortification by a small wood (sceaga is small wood and burh is a fortified place).
+![](../1shropshire/assets/images/churches/2021-09-04_13_56_44_DSC_0311_DxO_1.jpg)
+- Sub-Image: 2021-09-04_13_30_46_DSC_0274_DxO.jpg
+- Sub-Image: 2021-09-04_13_32_20_DSC_0278_DxO.jpg
+- Sub-Image: 2021-09-04_13_34_17_DSC_0280_DxO.jpg
+- Sub-Image: 2021-09-04_13_34_38_DSC_0281_DxO.jpg
+- Sub-Image: 2021-09-04_13_35_31_DSC_0283_DxO.jpg
+- Sub-Image: 2021-09-04_13_36_05_DSC_0284_DxO.jpg
+- Sub-Image: 2021-09-04_13_38_48_DSC_0290_DxO.jpg
+- Sub-Image: 2021-09-04_13_40_31_DSC_0292_DxO.jpg
+- Sub-Image: 2021-09-04_13_41_42_DSC_0294_DxO.jpg
+- Sub-Image: 2021-09-04_13_42_39_DSC_0296_DxO.jpg
+- Sub-Image: 2021-09-04_13_44_09_DSC_0300_DxO.jpg
+- Sub-Image: 2021-09-04_13_45_06_DSC_0302_DxO.jpg
+- Sub-Image: 2021-09-04_13_47_23_DSC_0305_DxO.jpg
+- Sub-Image: 2021-09-04_13_48_30_DSC_0306_DxO.jpg
+- Sub-Image: 2021-09-04_13_49_55_DSC_0308_DxO.jpg
+- Sub-Image: 2021-09-04_13_58_04_DSC_0314_DxO.jpg
+- Sub-Image: 2021-09-04_13_59_09_DSC_0315_DxO.jpg
+
 # Name: St Peter and St Paul, Sheinton
 - Diocese: Hereford
 - Date: 1854 AD

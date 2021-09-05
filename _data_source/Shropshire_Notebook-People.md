@@ -62,6 +62,12 @@ Mary Webb was a novelist and poet whose work is set mainly in the Shropshire cou
 Webb was born in Leighton in 1881.
 ![](../1shropshire/assets/images/people/2019-06-15_12_25_49_DSC02168_DxO.jpg)
 
+# Name: Margaret Rope Born
+- Date: 20th June 1882 AD
+
+Margaret Rope (born in Shrewsbury) was a stained glass artist in the Arts and Crafts movement. Although christened into the Anglican Church, she converted to Roman Catholicism in 1899 and later became a nun. Her stained glass was exclusively for churches, nearly all Roman Catholic. The Shrewsbury Cathedral has seven of her windows, including her first major commission (the west window).
+![](../1shropshire/assets/images/people/2021-08-30_13_23_31_DSC_0158_DxO.jpg)
+
 # Name: Henry Eckford arrives in Shropshire
 - Date: 1888 AD
 

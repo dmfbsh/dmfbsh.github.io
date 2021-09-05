@@ -1,8 +1,14 @@
 ---
 ---
 
+## 05 Sep 2021
+Added the following items:
+
+- Margaret Rope
+- Shawbury Church
+
 ## 29 Aug 2021
-Added the following item:
+Added the following items:
 
 - Lilleshall Monument
 - Lilleshall Church
