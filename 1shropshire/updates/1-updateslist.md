@@ -1,6 +1,15 @@
 ---
 ---
 
+## 18 Sep 2021
+Added the following items:
+
+- Robert Cadman
+- Batchcott Richard's Castle Church
+- Ludford Church
+- John Benbow
+- Ludlow from Ludford Bridge
+
 ## 05 Sep 2021
 Added the following items:
 

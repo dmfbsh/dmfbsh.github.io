@@ -542,6 +542,14 @@ After three weeks of continued attack on the castle Colonel Lavington took charg
 69 feet of tunnel was dug into the rock face but was not completed as the Royalists surrendered on Sunday 26th April 1646.
 ![](../1shropshire/assets/images/history/2019-02-02_14_59_31_DSC_3201_DxO.jpg)
 
+# Name: John Benbow Born
+- Date: 10th March 1653 AD
+
+Benbow joined the navy aged 25 years, seeing action against Algerian pirates before leaving and joining the merchant navy where he traded until the Glorious Revolution of 1688, whereupon he returned to the Royal Navy and was commissioned. Benbow fought against France during the Nine Years War, serving on and later commanding several vessels. He went on to achieve fame during campaigns against pirates and fighting in the West Indies against France during the War of the Spanish Succession.
+
+Benbow's fame and success earned him both public notoriety and a promotion to admiral.  He was then involved in an incident during the action of August 1702, where a number of his captains refused to support him while commanding a squadron of ships. Benbow instigated the trial and later imprisonment or execution of a number of the captains involved, though he did not live to see these results. These events contributed to his notoriety, and led to several references to him in subsequent popular culture, including Treasure Island - the Admiral Benbow is the tavern where Jim Hawkins and his mother live.
+![](../1shropshire/assets/images/people/2021-09-10_13_27_01_DSC03047_DxO.jpg)
+
 # Name: J B Joyce & Co (Clock Maker) Founded
 - Date: 1690 AD
 
@@ -613,6 +621,14 @@ The house was commissioned by William Bowles who was a Whig politician and propr
 
 Built for Richard Fort who was Clerk to the Coalbrookdale Company under Abraham Darby I (and also his son in law), Fort later became the manager of the Coalbrookdale Ironworks.
 ![](../1shropshire/assets/images/history/2015-07-25_14_45_05_DSC_0026_DxO.jpg)
+
+# Name: Robert Cadman Dies, Shrewsbury
+- Date: 1739 AD
+
+Robert Cadman was an 18th Century steeplejack and ropeslider, between 1732 and 1739 he performed feats of daring by sliding or flying down a rope from St Mary's Church, Shrewsbury to the Gay Meadow across the River Severn. Cadman walked some 250 metres up the rope that connected the 68-metre-high spire of St Mary's Church with an anchor in the ground in Gay Meadow. Climbing up the rope across the River Severn, he performed tricks on the way. When at the top, near the pinnacle of the spire, he donned a wooden breastplate with a central groove and hurtled to earth along the rope.
+
+On 2nd February 1739 he fell to his death when the rope broke. He was buried in St Mary's Church.
+![](../1shropshire/assets/images/history/2021-09-10_13_12_34_DSC03003_DxO.jpg)
 
 # Name: The Buttercross, Ludlow
 - Date: 1746 AD

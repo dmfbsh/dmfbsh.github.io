@@ -1,3 +1,9 @@
+# Name: View from Ludford Bridge
+
+View of Ludlow from Ludford Bridge.
+![](../1shropshire/assets/images/places/2021-09-17_13_25_02_DSC_0379_DxO.jpg)
+
+
 # Name: View from top of Church Tower
 
 View of the town from the top of the church tower (St Laurence).  The tower is 135 feet (41 metres) high and the climb is 200 steps.

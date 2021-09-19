@@ -172,6 +172,33 @@ The English name Baschurch first appears in the Domesday Book of 1086 as Bascher
 - Sub-Image: 2021-07-23_14_40_02_DSC02907_DxO.jpg
 - Sub-Image: 2021-07-23_14_41_07_DSC02910_DxO.jpg
 
+# Name: All Saints, Batchcott Richard's Castle
+- Diocese: Hereford
+- Date: 1892 AD
+
+Richard’s Castle is a large parish that straddles the border between Shropshire and Herefordshire; the original church is in Herefordshire, but by the end of the 19th Century this church needed extensive restoration.  The architect Richard Norman Shaw was engaged to design a new church, the selected site was at Batchcott (just in Shropshire).
+
+The church is built of local stone, faced with blocks from Grinshill.
+
+The font is from the old church.
+
+There is one bell in the  tower, which weights 2 tons - this is the largest bell in the diocese.
+
+The reredos was painted by Charles Edgar Buckeridge.
+
+The settlement 'Richard's castle', was built by and is called after Richard Fitz Scrob, a favourite of Edward the Confessor.  The name Batchcott is unknown.
+![](../1shropshire/assets/images/churches/2021-09-17_12_47_16_DSC_0349_DxO.jpg)
+- Sub-Image: 2021-09-17_12_21_53_DSC_0318_DxO.jpg
+- Sub-Image: 2021-09-17_12_22_27_DSC_0319_DxO.jpg
+- Sub-Image: 2021-09-17_12_22_53_DSC_0320_DxO.jpg
+- Sub-Image: 2021-09-17_12_23_48_DSC_0323_DxO.jpg
+- Sub-Image: 2021-09-17_12_25_11_DSC_0327_DxO.jpg
+- Sub-Image: 2021-09-17_12_26_47_DSC_0329_DxO.jpg
+- Sub-Image: 2021-09-17_12_29_21_DSC_0331_DxO.jpg
+- Sub-Image: 2021-09-17_12_31_33_DSC_0333_DxO.jpg
+- Sub-Image: 2021-09-17_12_33_03_DSC_0334_DxO.jpg
+- Sub-Image: 2021-09-17_12_38_51_DSC_0341_DxO.jpg
+
 # Name: St Mary Magdalene, Battlefield
 - Diocese: Lichfield
 - Date: 1406 AD
@@ -1415,6 +1442,29 @@ The meaning of the name of the settlement is uncertain, it may be a farm/settlem
 - Sub-Image: 2021-07-17_14_41_09_DSC02880_DxO.jpg
 - Sub-Image: 2021-07-17_14_41_31_DSC02881_DxO.jpg
 
+# Name: St Giles, Ludford
+- Diocese: Hereford
+- Date: 11th Century AD
+
+The settlement of Ludford is older than Ludlow, and is mentioned in the Domesday Book.
+
+The nave of the church is late Norman, the chancel 14th Century and there is a 16th Century family chapel with memorials to the Foxe and Charlton families.  In the chapel is an excellent brass to William Foxe (MP for Ludlow in 1523, 1529 and 1536) who died in 1554, also a recumbent effigy of Sir Job Charlton who died in 1697 (also MP for Ludlow and a distinguished judge).  The stained glass is Victorian.
+
+In the Middle Ages, Ludford was a chapelry of the Benedictine priory at Bromfield
+
+The place name means the ford at the loud waters (‘lud’).
+![](../1shropshire/assets/images/churches/2021-09-17_13_11_41_DSC_0352_DxO.jpg)
+- Sub-Image: 2021-09-17_13_13_04_DSC_0354_DxO.jpg
+- Sub-Image: 2021-09-17_13_13_16_DSC_0355_DxO.jpg
+- Sub-Image: 2021-09-17_13_13_25_DSC_0356_DxO.jpg
+- Sub-Image: 2021-09-17_13_13_34_DSC_0357_DxO.jpg
+- Sub-Image: 2021-09-17_13_14_19_DSC_0360_DxO.jpg
+- Sub-Image: 2021-09-17_13_14_37_DSC_0362_DxO.jpg
+- Sub-Image: 2021-09-17_13_15_04_DSC_0364_DxO.jpg
+- Sub-Image: 2021-09-17_13_15_43_DSC_0367_DxO.jpg
+- Sub-Image: 2021-09-17_13_16_42_DSC_0371_DxO.jpg
+- Sub-Image: 2021-09-17_13_17_44_DSC_0372_DxO.jpg
+
 # Name: St Laurence, Ludlow
 - Diocese: Hereford
 - Date: 12th Century AD
@@ -1959,6 +2009,31 @@ The church was largely transformed into its present state in the 12th Century (w
 
 St Mary's is considered to have one of the finest collections of stained glass in the country, largely brought in from elsewhere.
 ![](../1shropshire/assets/images/churches/2019-03-31_12_54_19_DSC_3856_DxO.jpg)
+- Sub-Image: 2021-09-10_13_13_02_DSC03004_DxO.jpg
+- Sub-Image: 2021-09-10_13_14_27_DSC03006_DxO.jpg
+- Sub-Image: 2021-09-10_13_14_41_DSC03007_DxO.jpg
+- Sub-Image: 2021-09-10_13_15_03_DSC03008_DxO.jpg
+- Sub-Image: 2021-09-10_13_15_35_DSC03009_DxO.jpg
+- Sub-Image: 2021-09-10_13_15_47_DSC03010_DxO.jpg
+- Sub-Image: 2021-09-10_13_16_05_DSC03011_DxO.jpg
+- Sub-Image: 2021-09-10_13_17_08_DSC03014_DxO.jpg
+- Sub-Image: 2021-09-10_13_17_32_DSC03015_DxO.jpg
+- Sub-Image: 2021-09-10_13_17_47_DSC03016_DxO.jpg
+- Sub-Image: 2021-09-10_13_18_27_DSC03018_DxO.jpg
+- Sub-Image: 2021-09-10_13_19_10_DSC03021_DxO.jpg
+- Sub-Image: 2021-09-10_13_20_16_DSC03024_DxO.jpg
+- Sub-Image: 2021-09-10_13_22_25_DSC03032_DxO.jpg
+- Sub-Image: 2021-09-10_13_22_41_DSC03033_DxO.jpg
+- Sub-Image: 2021-09-10_13_22_57_DSC03034_DxO.jpg
+- Sub-Image: 2021-09-10_13_23_33_DSC03037_DxO.jpg
+- Sub-Image: 2021-09-10_13_23_50_DSC03038_DxO.jpg
+- Sub-Image: 2021-09-10_13_24_57_DSC03042_DxO.jpg
+- Sub-Image: 2021-09-10_13_25_25_DSC03044_DxO.jpg
+- Sub-Image: 2021-09-10_13_25_43_DSC03045_DxO.jpg
+- Sub-Image: 2021-09-10_13_26_16_DSC03046_DxO.jpg
+- Sub-Image: 2021-09-10_13_30_21_DSC03050_DxO.jpg
+- Sub-Image: 2021-09-10_13_30_52_DSC03051_DxO.jpg
+- Sub-Image: 2021-09-10_13_32_51_DSC03056_DxO.jpg
 
 # Name: St Chad (old), Shrewsbury
 - Diocese: Lichfield
