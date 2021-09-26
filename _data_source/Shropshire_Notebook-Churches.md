@@ -505,6 +505,38 @@ Although there is evidence of a Norman church existing on the site, the present 
 ![](../1shropshire/assets/images/churches/2020-05-30_12_45_31_DSC_7207_DxO.jpg)
 - Sub-Image: 2020-05-30_12_49_48_DSC_7212_DxO.jpg
 
+# Name: St Swithin, Cheswardine
+- Diocese: Lichfield
+- Date: 13th Century AD
+
+The oldest part of the church is the chancel which is Early English (1180 to 1275).  As part of the rebuild of the church in 1886, it was moved stone by stone 13 feet further east.
+
+The tower was added in the late 15th Century.
+
+The medieval church was falling into disrepair by the 18th Century and was replaced in 1808.  This building was in turn replaced in 1887 by the present church.
+
+The church is noted for the roof in the chancel chapel.  Some of the stained glass is by Kempe.  There are also some Minton tiles in the chancel.
+
+The name Cheswardine, recorded in 1086 as Ciseworde, in 1189 as Chesewordin and about 1650 as Cheswardyne, is probably derived from the Old English for 'cheese-producing settlement' or 'cheese farm'.
+![](../1shropshire/assets/images/churches/2021-09-24_14_10_59_DSC_0420_DxO_1.jpg)
+
+# Name: St Michael, Child's Ercall
+- Diocese: Lichfield
+- Date: 13th Century AD
+
+The nave is the oldest part of the church, but its date is unknown, thought to be 13th Century.  The arcades were added in the 13th Century (the south is circa 1200 and the north circa 1250).  The south aisle was rebuilt in the 14th Century.  The tower dates from circa 1500.
+
+The north aisle and chancel were rebuilt in 1879.  The porch was also added in 1879.
+
+The font is medieval.
+
+The name of the settlement is possibly an old district name, from 'gravel' and 'bare', either originally applied to the site of High Ercall or to the hill known as The Ercall ('Ear' (Old English) Gravel, mud, earth and calu (Old English) bald, bare, lacking vegetation).  The affix 'child' may refer to a younger member of the Strange family who once held the manor.
+![](../1shropshire/assets/images/churches/2021-09-24_13_28_29_DSC_0404_DxO.jpg)
+- Sub-Image: 2021-09-24_13_29_53_DSC_0407_DxO.jpg
+- Sub-Image: 2021-09-24_13_30_33_DSC_0408_DxO.jpg
+- Sub-Image: 2021-09-24_13_31_43_DSC_0412_DxO.jpg
+- Sub-Image: 2021-09-24_14_07_47_DSC_0414_DxO.jpg
+
 # Name: St Michael the Archangel, Chirbury
 - Diocese: Hereford
 - Date: 12th Century AD
@@ -1504,6 +1536,26 @@ The origin of the name Lydham is unknowm, but may be the old English for 'at the
 - Sub-Image: 2020-01-25_15_04_52_DSC_6292_DxO.jpg
 - Sub-Image: 2020-01-25_15_05_26_DSC_6293_DxO.jpg
 - Sub-Image: 2020-01-25_15_06_34_DSC_6294_DxO.jpg
+
+# Name: St Mary, Market Drayton
+- Diocese: Lichfield
+- Date: 1150 AD
+
+The Domesday Book describes 'A Priest in Drayton', and there was likely a wooden Saxon church on the same site prior to the construction of the present Norman stone building.
+
+In 1201 Pope Innocent III forbade the weekly market which had traditionally taken place in the churchyard after the Sunday morning service. As a result, the market moved northwards a few hundred yards, to its present site in the town.
+
+Little of the original Norman building remains, the tower is 14th Century and retains the 12th Century doorway.  The church was restored and largely rebuilt in 1881 to 1889.
+
+There is some notable stained glass by Kempe.  The rood screen, now at the west end of the nave, is also by Kempe.
+
+There is a local tradition that Robert Clive (1725-74), later to become Lord Clive of India, climbed the church tower and sat astride a gargoyle when he was attending the grammar school (q.v.) nearby.
+
+Market Drayton is on the River Tern, and was formerly known as 'Drayton in Hales' (c. 1868) and earlier simply as 'Drayton' (c. 1695).  The town is of Saxon origin and was referred to as Draituane in the Doomsday Book.  A Drayton (OE  draegtun) is a settlement where dragging takes place.  The name is considered to refer to a portage on a river in some instances, and to a steep slope in others.  In this instance the likeliest reference seems to be to the use of sledges, rather than wheeled vehicles, on marshy ground.
+![](../1shropshire/assets/images/churches/2021-09-24_14_58_34_DSC_0425_DxO.jpg)
+- Sub-Image: 2021-09-24_15_00_07_DSC_0427_DxO.jpg
+- Sub-Image: 2021-09-24_15_00_59_DSC_0428_DxO.jpg
+- Sub-Image: 2021-09-24_15_05_42_DSC_0432_DxO.jpg
 
 # Name: St Peter, Melverley
 - Diocese: Lichfield

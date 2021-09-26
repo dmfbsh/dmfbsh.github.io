@@ -1,6 +1,13 @@
 ---
 ---
 
+## 26 Sep 2021
+Added the following items:
+
+- Child's Ercall Church
+- Cheswardine Church
+- Market Drayton Church
+
 ## 18 Sep 2021
 Added the following items:
 
