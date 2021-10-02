@@ -145,6 +145,29 @@ The name Atcham is a contraction of Attingham, meaning 'the home of Eata's peopl
 - Sub-Image: 2020-01-12_15_55_58_DSC_6224_DxO.jpg
 - Sub-Image: 2020-01-12_15_57_40_DSC_6226_DxO.jpg
 
+# Name: St Giles, Barrow
+- Diocese: Hereford
+- Date: 11th Century AD
+
+The church was originally built as a chapel to Wenlock Abbey.  The date of origin of its chancel is uncertain; it has been suggested that this was as early as the 8th century, but it is more likely that it originated in the 11th century.  The Norman nave dates from about 1100, and probably replaced an earlier timber nave.  The lower parts of the tower date from later in the 12th century.  A brick south porch was built in 1705, and the brick top stage of the tower and its pyramidal roof were added during the 18th century.  The church was restored in 1851–52 and in 1894-95 the north chapel was built to replace a chapel dating from 1688.
+
+The font is likely to be 12th Century.  The chancel arch is Anglo-Saxon in origin, but it was altered during the restoration.  The church also has a rare ornamental tympanum.
+
+The name of the settlement is from the Old English bearu meaning a a grove (a wood of limited extent).
+![](../1shropshire/assets/images/churches/2021-10-01_15_33_15_DSC_0471_DxO.jpg)
+- Sub-Image: 2021-10-01_15_38_38_DSC_0475_DxO.jpg
+- Sub-Image: 2021-10-01_15_41_37_DSC_0477_DxO.jpg
+- Sub-Image: 2021-10-01_15_45_20_DSC_0481_DxO.jpg
+- Sub-Image: 2021-10-01_15_46_46_DSC_0486_DxO.jpg
+- Sub-Image: 2021-10-01_15_47_00_DSC_0487_DxO.jpg
+- Sub-Image: 2021-10-01_15_47_24_DSC_0488_DxO.jpg
+- Sub-Image: 2021-10-01_15_48_34_DSC_0489_DxO.jpg
+- Sub-Image: 2021-10-01_15_49_13_DSC_0490_DxO.jpg
+- Sub-Image: 2021-10-01_15_49_59_DSC_0492_DxO.jpg
+- Sub-Image: 2021-10-01_15_54_05_DSC_0499_DxO.jpg
+- Sub-Image: 2021-10-01_15_56_15_DSC_0505_DxO.jpg
+- Sub-Image: 2021-10-01_16_02_36_DSC_0506_DxO.jpg
+
 # Name: All Saints, Baschurch
 - Diocese: Lichfield
 - Date: 12th Century
@@ -1198,7 +1221,27 @@ The position of Ironbridge church is the reverse of the majority of churches, th
 The present church was build in 1863 to replace a chapel (dating from 1759).  The church was designed by Sir Arthur Blomfield and is considered to be the best of the four Shropshire churches he designed.  Blomfield was a prolific architect, and a leading figure in his profession.
 
 The church has an unusual bell-turret, the style is French Gothic which was in vogue in the 1860s.  The church is most noted for its tiles - there are both Maws and Craven Dunhill tiles in the building.
+
+The sanctuary windows are claimed to be of the school of the Pre-Raphaelites.  The triptych behind the altar was originally produced in about 1870 for an exhibition in Paris, it is a demonstration of the skills at Craven Dunhill in making hand-painted tiles.
+
+The stone font was presented to the church by the godchildren of George Pritchard (the church was constructed in memory of Pritchard, who died in 1861 - he was a banker, benefactor and High Sheriff of Shropshire).
 ![](../1shropshire/assets/images/churches/2020-07-31_07_21_07_DSC_7734_DxO_1.jpg)
+- Sub-Image: 2021-10-01_14_46_41_DSC_0440_DxO.jpg
+- Sub-Image: 2021-10-01_14_48_53_DSC_0443_DxO.jpg
+- Sub-Image: 2021-10-01_14_52_20_DSC_0448_DxO.jpg
+- Sub-Image: 2021-10-01_14_52_52_DSC_0449_DxO.jpg
+- Sub-Image: 2021-10-01_14_53_02_DSC_0450_DxO.jpg
+- Sub-Image: 2021-10-01_14_53_16_DSC_0451_DxO.jpg
+- Sub-Image: 2021-10-01_14_53_30_DSC_0452_DxO.jpg
+- Sub-Image: 2021-10-01_14_53_35_DSC_0453_DxO.jpg
+- Sub-Image: 2021-10-01_14_54_07_DSC_0454_DxO.jpg
+- Sub-Image: 2021-10-01_14_55_54_DSC_0457_DxO.jpg
+- Sub-Image: 2021-10-01_14_58_05_DSC_0461_DxO.jpg
+- Sub-Image: 2021-10-01_14_59_55_DSC_0463_DxO.jpg
+- Sub-Image: 2021-10-01_15_02_05_DSC_0466_DxO.jpg
+- Sub-Image: 2021-10-01_15_02_50_DSC_0467_DxO.jpg
+- Sub-Image: 2021-10-01_15_04_12_DSC_0468_DxO.jpg
+- Sub-Image: 2021-10-01_15_05_13_DSC_0469_DxO.jpg
 
 # Name: St John the Baptist, Kenley
 - Diocese: Hereford
@@ -1644,7 +1687,17 @@ Note: Have been inside this church, but do not have any interior photos.
 - Diocese: Hereford
 - Date: 1150 AD
 
-Built by the Cluniac monks of Wenlock Priory.
+The first church on this site was Anglo-Saxon, built probably about AD 680.  The present church was built by the Cluniac monks of Wenlock Priory.  The church was extended in 1844 when a new aisle was added and the church refurbished.
+
+There is a monument to William Penny Brookes (known as the founder of the modern Olympic Games).
+
+Above the south porch is a 14th Century parvise, or small chamber used as living quarters by the parish priest.
+
+The tub font is thought to be 12th Century.  The pulpit is Jacobean.
+
+The name Wenlock is thought to be 'white enclosed place'.  The white probably refers to the limestone escarpment of Wenlock Edge.
+
+'Winn' is primitive Welsh for white, and 'loca' is Old English for an enclosure.  'Much' derives from the Latin 'magna' for big or great.
 
 Note: Have been inside this church, but do not have any interior photos.
 ![](../1shropshire/assets/images/churches/2019-08-23_14_52_22_DSC_4757_DxO.jpg)

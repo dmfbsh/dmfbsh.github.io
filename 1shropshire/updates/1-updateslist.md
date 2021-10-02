@@ -1,6 +1,13 @@
 ---
 ---
 
+## 02 Oct 2021
+Added the following item:
+
+- Barrow Church
+
+Updated Jackfield church
+
 ## 26 Sep 2021
 Added the following items:
 
