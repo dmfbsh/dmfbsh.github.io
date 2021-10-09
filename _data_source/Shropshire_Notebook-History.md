@@ -178,6 +178,14 @@ Built by Roger de Montgomery as a defensive fortification for the town.  The tow
 Little of the original structure remains.  The castle was extensively repaired in 1643 during the Civil War before being acquired by Sir Francis Newport in 1663.  The castle was further repaired by Thomas Telford in 1780 on behalf of Sir William Pulteney.
 ![](../1shropshire/assets/images/history/2018-07-14_12_32_05_DSC_2787_DxO.jpg)
 
+# Name: Roger de Montgomery, 1st Earl of Shrewsbury
+- Date: 1071 AD
+
+Roger de Montgomery is appointed Earl of Shrewsbury (the first to receive this title), although some historians believe he was not actually created Earl until 1074.  De Montgomery did not fight in the initial invasion of England in 1066, but was one of William the Conqueror’s principal counsellors.
+
+He was one of the most powerful Marcher lords.  De Montgomery was also a great patron of monasticism, he became a monk in his newly founded Abbey of Shrewsbury just before he died in 1094.
+![](../1shropshire/assets/images/history/2021-10-09_10_30_02_DSC_0603_DxO.jpg)
+
 # Name: Ludlow Castle
 - Date: 1075 AD
 
@@ -1157,7 +1165,7 @@ The new town of Telford is established.
 - Date: 1969 AD
 
 Austin began breeding roses in the early 1950s attempting to combine the characteristics of Old Roses and Hybrid Teas.  The first commercial specimen - Rosa Constance Spry - was created in 1961.  After that Austin went on to create over 200 new cultivars.
-![](../1shropshire/assets/images/history/photo-needed.jpg)
+![](../1shropshire/assets/images/history/2021-09-18_14_19_29_DSC_0393_DxO_1.jpg)
 
 # Name: Cosford RAF Museum
 - Date: 1979 AD
@@ -1165,7 +1173,7 @@ Austin began breeding roses in the early 1950s attempting to combine the charact
 Originally a storage facility for the RAF museum at Hendon, the Cosford site was opened as a museum on 1st May 1979.  The museum initially exhibited airframes which had been used for technical training at RAF Cosford.  The museum was significantly expanded in the 1980s and 1990s.
 
 In 2002 the RAF Museum Conservation Centre was relocated to Cosford.  The site now houses many very rare aircraft.
-![](../1shropshire/assets/images/history/photo-needed.jpg)
+![](../1shropshire/assets/images/history/2021-10-08_15_21_10_DSC_0575_DxO_1.jpg)
 
 # Header: 1980 AD
 

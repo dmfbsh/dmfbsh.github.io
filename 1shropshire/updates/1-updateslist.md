@@ -1,6 +1,15 @@
 ---
 ---
 
+## 09 Oct 2021
+Added the following item:
+
+- Roger de Montgomery
+
+Added a photo for the Cosford RAF museum.
+
+Added a photo for David Austin Roses (history).
+
 ## 02 Oct 2021
 Added the following item:
 
