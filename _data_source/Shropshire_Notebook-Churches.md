@@ -230,6 +230,31 @@ The church was built just after the Battle of Shrewsbury as a chantry - a place 
 
 The church was originally a collegiate church, the main duty of the community was to perform a daily liturgy for the dead.  The college and chantry were dissolved in 1548 and the building was used as a parish church.  The building, however, deteriorated and became unused, it has been subject to various restorations.
 ![](../1shropshire/assets/images/churches/2020-06-07_15_00_50_DSC_7256_DxO.jpg)
+- Sub-Image: 2021-10-15_10_50_04_DSC03117_DxO.jpg
+- Sub-Image: 2021-10-15_10_50_54_DSC03118_DxO.jpg
+- Sub-Image: 2021-10-15_10_51_08_DSC03119_DxO.jpg
+- Sub-Image: 2021-10-15_10_51_22_DSC03120_DxO.jpg
+- Sub-Image: 2021-10-15_10_51_39_DSC03121_DxO.jpg
+- Sub-Image: 2021-10-15_10_52_06_DSC03122_DxO.jpg
+- Sub-Image: 2021-10-15_10_54_21_DSC03129_DxO.jpg
+- Sub-Image: 2021-10-15_10_54_58_DSC03130_DxO.jpg
+- Sub-Image: 2021-10-15_10_55_13_DSC03131_DxO.jpg
+- Sub-Image: 2021-10-15_10_55_53_DSC03132_DxO.jpg
+- Sub-Image: 2021-10-15_10_56_12_DSC03133_DxO.jpg
+- Sub-Image: 2021-10-15_10_56_39_DSC03134_DxO.jpg
+- Sub-Image: 2021-10-15_10_56_54_DSC03135_DxO.jpg
+- Sub-Image: 2021-10-15_10_58_49_DSC03139_DxO.jpg
+- Sub-Image: 2021-10-15_10_59_52_DSC03140_DxO.jpg
+- Sub-Image: 2021-10-15_11_01_27_DSC03143_DxO.jpg
+- Sub-Image: 2021-10-15_11_01_52_DSC03144_DxO.jpg
+- Sub-Image: 2021-10-15_11_02_33_DSC03146_DxO.jpg
+- Sub-Image: 2021-10-15_11_02_49_DSC03147_DxO.jpg
+- Sub-Image: 2021-10-15_11_04_18_DSC03149_DxO.jpg
+- Sub-Image: 2021-10-15_11_05_15_DSC03150_DxO.jpg
+- Sub-Image: 2021-10-15_11_07_15_DSC03152_DxO.jpg
+- Sub-Image: 2021-10-15_11_11_09_DSC03160_DxO.jpg
+- Sub-Image: 2021-10-15_11_13_23_DSC03167_DxO.jpg
+- Sub-Image: 2021-10-15_11_15_03_DSC03171_DxO.jpg
 
 # Name: St Milburga, Beckbury
 - Diocese: Lichfield
@@ -2532,6 +2557,17 @@ The medieval chancel was pulled down in 1753 and rebuilt.  The tower was also re
 
 The name of the village derives from the Old English west and burh meaning a fortified place, i.e. a fortified place in the west.  It was an outpost of Wroxeter Roman City, also close to Caus Castle which was a border stronghold.
 ![](../1shropshire/assets/images/churches/2020-08-22_13_35_52_DSC_8170_DxO.jpg)
+
+# Name: St Luke, Weston-under-Redcastle
+- Diocese: Lichfield
+- Date: 1791 AD
+
+The church is built in the Gothic style but with a Georgian tower.  It was originally a chapel of ease, attached to the parish of Hodnet, but is now a parish church in its own right.
+
+The red sandstone building was constructed on the site of a medieval church which was demolished; the construction was mostly funded by Sir Richard Hill, 2nd Baronet of Hawkstone.  It was restored in 1879, the works included the chancel, the gabled timber porch, stained glass, pews and octagonal font.
+
+Weston-under-Redcastle was called Westune in the 1086 Domesday Book, and simply refers to the settlement being to the west of the Hawkstone Ridge (red sandstone cliffs).
+![](../1shropshire/assets/images/churches/2021-10-10_15_55_54_DSC03114_DxO.jpg)
 
 # Name: St Alkmund, Whitchurch
 - Diocese: Lichfield

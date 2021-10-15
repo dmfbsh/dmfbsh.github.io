@@ -1,6 +1,13 @@
 ---
 ---
 
+## 15 Oct 2021
+Added the following item:
+
+- Weston-under-Redcastle Church
+
+Updated Battlefield church.
+
 ## 09 Oct 2021
 Added the following item:
 
