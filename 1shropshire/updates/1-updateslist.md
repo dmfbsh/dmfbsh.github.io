@@ -1,6 +1,11 @@
 ---
 ---
 
+## 23 Oct 2021
+Added the following item:
+
+- Tilstock Church
+
 ## 15 Oct 2021
 Added the following item:
 

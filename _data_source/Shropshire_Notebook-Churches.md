@@ -2439,6 +2439,19 @@ A small plain Early English style church built of sandstone ashlar.  The church 
 The name of the village means 'Tidbeorht's farm/settlement', from a personal name and the Old English tun (meaning an enclosure or farmstead).
 ![](../1shropshire/assets/images/churches/2020-08-07_15_21_42_DSC_7934_DxO.jpg)
 
+# Name: Christ Church, Tilstock
+- Diocese: Lichfield
+- Date: 1835 AD
+
+Tilstock was a chapelry of Whitchurch until 1844.
+
+The present building was funded by donations from the late Earl of Bridgewater (Henry Egerton, the 8th Earl) and was designed by Edward Haycock (Haycock was a prolific architect responsible for many monuments, public buildings, country houses and churches in Shropshire).
+
+The brick built building is Georgian in appearance.
+
+The name of the settlement is derived from Tīdhild's dependent settlement (stoc).
+![](../1shropshire/assets/images/churches/2021-10-22_13_40_36_DSC_0631_DxO.jpg)
+
 # Name: St Bartholomew, Tong
 - Diocese: Lichfield
 - Date: 1410 AD
