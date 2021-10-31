@@ -6,8 +6,22 @@ This church is considered to be the finest Early English (13th Century) church i
 
 It features a corbel-table with many grotesque carvings (a corbel-table is a continuous row of corbels, and a corbel is a block of stone projecting from a wall and supporting some heavy feature).
 
+The font is considered to be the finest Early English font in Shropshire.  In the south wall of the chancel is a double piscina.  In the north transept are medieval encaustic tiles and some impressive monuments.  The tomb chest is to Sir Nicholas Burnell (died 1382), on it is what is considered to be the finest memorial brass in Shropshire.  The other large monuments are to Sir Richard Lee (died 1591) and Sir Humphrey Lee (died 1632).
+
 Acton generally means 'settlement (farm or estate) by the oaks' and this estate belonged to Robert Burnell an English bishop who served as Lord Chancellor of England from 1274 to 1292.
-![](../1shropshire/assets/images/churches/2018-06-11_15_20_23_DSC_2625_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2018-06-11_15_20_23_DSC_2625_DxO_1.jpg)
+- Sub-Image: 2021-10-29_15_15_51_DSC03202_DxO.jpg
+- Sub-Image: 2021-10-29_15_17_00_DSC03204_DxO.jpg
+- Sub-Image: 2021-10-29_15_17_48_DSC03206_DxO.jpg
+- Sub-Image: 2021-10-29_15_19_49_DSC03212_DxO.jpg
+- Sub-Image: 2021-10-29_15_20_31_DSC03214_DxO.jpg
+- Sub-Image: 2021-10-29_15_24_11_DSC03221_DxO.jpg
+- Sub-Image: 2021-10-29_15_25_00_DSC03223_DxO.jpg
+- Sub-Image: 2021-10-29_15_25_45_DSC03225_DxO.jpg
+- Sub-Image: 2021-10-29_15_27_40_DSC03230_DxO.jpg
+- Sub-Image: 2021-10-29_15_28_33_DSC03232_DxO.jpg
+- Sub-Image: 2021-10-29_15_30_18_DSC03234_DxO.jpg
+- Sub-Image: 2021-10-29_15_32_36_DSC03237_DxO.jpg
 
 # Name: St Margaret, Acton Scott
 - Diocese: Hereford
@@ -1017,6 +1031,33 @@ The screen is late Perpendicular and the reredos is Jacobean woodwork with five 
 
 The name of the village derives from the fact that there are one or more fords across the river Severn in near proximity to the settlement (just to the north).
 ![](../1shropshire/assets/images/churches/2021-07-02_15_54_57_DSC02802_DxO.jpg)
+
+# Name: St Mark, Frodesley
+- Diocese: Hereford
+- Date: 1809 AD
+
+The present church is built on the foundations of a much earlier church, a church was first recorded on this site in 1272.
+
+The north aisle was added in 1859.
+
+The tub font is 12th Century.  The box pews are early 19th Century.
+
+The church is one of the smallest in Shropshire.
+
+Frodesley is mentioned in the Domesday Book.
+
+The name of the settlement means Frod's wood or clearing, from the Old English 'leah' meaning a forest, wood, glade or clearing; later a pasture, meadow.
+![](../1shropshire/assets/images/churches/2021-10-29_16_09_57_DSC03271_DxO.jpg)
+- Sub-Image: 2021-10-29_16_12_15_DSC03273_DxO.jpg
+- Sub-Image: 2021-10-29_16_13_35_DSC03277_DxO.jpg
+- Sub-Image: 2021-10-29_16_16_05_DSC03280_DxO.jpg
+- Sub-Image: 2021-10-29_16_17_35_DSC03282_DxO.jpg
+- Sub-Image: 2021-10-29_16_19_00_DSC03283_DxO.jpg
+- Sub-Image: 2021-10-29_16_20_50_DSC03286_DxO.jpg
+- Sub-Image: 2021-10-29_16_21_16_DSC03287_DxO.jpg
+- Sub-Image: 2021-10-29_16_21_43_DSC03288_DxO.jpg
+- Sub-Image: 2021-10-29_16_22_28_DSC03289_DxO.jpg
+- Sub-Image: 2021-10-29_16_27_27_DSC03292_DxO.jpg
 
 # Name: St Thomas, Great Ryton
 - Diocese: Hereford

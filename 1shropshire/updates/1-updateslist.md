@@ -1,6 +1,13 @@
 ---
 ---
 
+## 31 Oct 2021
+Added the following item:
+
+- Frodesley Church
+
+Updated Acton Burnell church.
+
 ## 23 Oct 2021
 Added the following item:
 
