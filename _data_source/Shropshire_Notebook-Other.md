@@ -238,6 +238,11 @@ The medieval weir at Ludford Mill (River Teme, Ludlow) is Grade II listed.  Ther
 The name Ludlow means, in Old English, loud or noisy (hlud) - referring to the River Teme - and tumulus or hill (hlaw).
 ![](../1shropshire/assets/images/other/2020-11-29_15_43_40_DSC_9190_DxO_1.jpg)
 
+# Name: Mary Webb Memorial, Much Wenlock
+
+Mary Webb’s formative years were spent in Much Wenlock and its people and landscape were the source of some of her literary inspiration.  In 2000, the Mary Webb Society commissioned a bronze plaque by local artist Humphrey Hallward which is sited on a piece of Wenlock stone at the rear of the Guildhall.
+![](../1shropshire/assets/images/other/2021-10-30_16_29_01_DSC03320_DxO.jpg)
+
 # Name: Yew Tree, Norbury
 
 This yew tree is said to be one of the largest and one of the oldest in the UK, it has a girth of about 10m / 33ft and is estimated to be 2,700 years old.

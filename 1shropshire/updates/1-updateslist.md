@@ -1,6 +1,13 @@
 ---
 ---
 
+## 21 Nov 2021
+Added interior images for Much Wenlock church.
+
+Added the following item:
+
+- Mary Webb Memorial, Much Wenlock
+
 ## 31 Oct 2021
 Added the following item:
 

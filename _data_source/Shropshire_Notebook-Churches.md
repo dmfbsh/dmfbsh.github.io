@@ -1767,7 +1767,17 @@ The name Wenlock is thought to be 'white enclosed place'.  The white probably re
 
 Note: Have been inside this church, but do not have any interior photos.
 ![](../1shropshire/assets/images/churches/2019-08-23_14_52_22_DSC_4757_DxO.jpg)
-- Sub-Image: photo-needed.jpg
+- Sub-Image: 2021-10-30_16_12_07_DSC03299_DxO.jpg
+- Sub-Image: 2021-10-30_16_12_28_DSC03301_DxO.jpg
+- Sub-Image: 2021-10-30_16_13_44_DSC03302_DxO.jpg
+- Sub-Image: 2021-10-30_16_14_02_DSC03303_DxO.jpg
+- Sub-Image: 2021-10-30_16_14_17_DSC03304_DxO.jpg
+- Sub-Image: 2021-10-30_16_15_07_DSC03305_DxO.jpg
+- Sub-Image: 2021-10-30_16_15_32_DSC03306_DxO.jpg
+- Sub-Image: 2021-10-30_16_16_17_DSC03307_DxO.jpg
+- Sub-Image: 2021-10-30_16_16_56_DSC03308_DxO.jpg
+- Sub-Image: 2021-10-30_16_18_20_DSC03309_DxO.jpg
+- Sub-Image: 2021-10-30_16_18_38_DSC03310_DxO.jpg
 
 # Name: St Michael, Munslow
 - Diocese: Hereford
