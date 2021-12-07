@@ -1,6 +1,11 @@
 ---
 ---
 
+## 07 Dec 2021
+Added the following item:
+
+- Minsterley Church
+
 ## 21 Nov 2021
 Added interior images for Much Wenlock church.
 
