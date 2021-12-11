@@ -1,6 +1,9 @@
 ---
 ---
 
+## 11 Dec 2021
+Updated Stanton-upon-Hine-Heath church.
+
 ## 07 Dec 2021
 Added the following item:
 

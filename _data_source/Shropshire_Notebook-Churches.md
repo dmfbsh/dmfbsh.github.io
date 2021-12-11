@@ -2404,6 +2404,8 @@ The original church is either late 11th Century or early 12th Century, there is 
 
 The church has very large stepped diagonal west buttresses, one has a datestone recording named churchwardens amongst other things.
 
+The chancel arch is Victorian.  The pulpit is late 17th Century.  The panelling in the chancel is probably the old box pews.  The reredos dates from 1896.
+
 The churchyard is circular and notably raised above the surrounding area.  This is thought to be an early Irish / Welsh tradition which influenced churches in later centuries, there are a few other examples of this in Shropshire.
 
 The name Stanton means stone farm or settlement in Old English (stan is a stone or rock and tun is a farmstead or settlement).  The suffix means either servant's heath or monastic community's heath.
@@ -2416,6 +2418,20 @@ The name Stanton means stone farm or settlement in Old English (stan is a stone 
 - Sub-Image: 2020-10-16_12_03_21_DSC_8879_DxO.jpg
 - Sub-Image: 2020-10-16_12_05_27_DSC_8881_DxO.jpg
 - Sub-Image: 2020-10-16_12_23_02_DSC_8883_DxO.jpg
+- Sub-Image: 2021-12-11_15_28_04_DSC03369_DxO.jpg
+- Sub-Image: 2021-12-11_15_30_44_DSC03370_DxO.jpg
+- Sub-Image: 2021-12-11_15_31_14_DSC03371_DxO.jpg
+- Sub-Image: 2021-12-11_15_34_28_DSC03376_DxO.jpg
+- Sub-Image: 2021-12-11_15_34_56_DSC03378_DxO.jpg
+- Sub-Image: 2021-12-11_15_35_49_DSC03380_DxO.jpg
+- Sub-Image: 2021-12-11_15_36_15_DSC03381_DxO.jpg
+- Sub-Image: 2021-12-11_15_38_03_DSC03384_DxO.jpg
+- Sub-Image: 2021-12-11_15_38_30_DSC03385_DxO.jpg
+- Sub-Image: 2021-12-11_15_39_27_DSC03387_DxO.jpg
+- Sub-Image: 2021-12-11_15_41_06_DSC03391_DxO.jpg
+- Sub-Image: 2021-12-11_15_41_29_DSC03392_DxO.jpg
+- Sub-Image: 2021-12-11_15_42_45_DSC03395_DxO.jpg
+- Sub-Image: 2021-12-11_15_44_48_DSC03398_DxO.jpg
 
 # Name: St John the Baptist, Stapleton
 - Diocese: Hereford
