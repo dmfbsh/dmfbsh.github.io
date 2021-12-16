@@ -52,17 +52,17 @@ A different view of Hopton Castle.
 ![](../1shropshire/assets/images/<folder>/2021-07-16_15_16_30_DSC_9754_DxO.jpg)
 
 
-# Name: Hill - The Long Mynd
+# Name: The Long Mynd
 
 TBD
 ![](../1shropshire/assets/images/landscape/2021-03-29_14_57_43_DSC_9274_DxO.jpg)
 
-# Name: Hill - The Long Mynd
+# Name: The Long Mynd
 
 TBD
 ![](../1shropshire/assets/images/landscape/2021-03-29_14_57_16_DSC_9272_DxO.jpg)
 
-# Name: Hill - The Long Mynd
+# Name: The Long Mynd
 
 TBD
 ![](../1shropshire/assets/images/landscape/2021-03-29_14_56_55_DSC_9270_DxO.jpg)
@@ -146,6 +146,11 @@ View of the Stiperstone ridge from Pole Bank.
 
 TBD
 ![](../1shropshire/assets/images/landscape/2018-08-04_15_29_10_DSC_2873_DxO.jpg)
+
+# Name: The Long Mynd
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-09-03_15_43_01_DSC_0272_DxO_1.jpg)
 
 # Name: Ashes Hollow, The Long Mynd
 
@@ -231,6 +236,61 @@ TBD
 
 TBD
 ![](../1shropshire/assets/images/landscape/2019-05-27_12_38_42_DSC_4335_DxO.jpg)
+
+# Name: The Stiperstones
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-09-03_14_05_56_DSC_0209_DxO_1.jpg)
+
+# Name: The Stiperstones
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-09-03_14_16_41_DSC_0218_DxO_1.jpg)
+
+# Name: The Stiperstones
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-09-03_14_29_20_DSC_0226_DxO_1.jpg)
+
+# Name: The Stiperstones
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-09-03_14_36_40_DSC_0246_DxO_1.jpg)
+
+# Name: The Stiperstones
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-09-03_14_38_15_DSC_0250_DxO_1.jpg)
+
+# Name: The Stiperstones
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-11-05_14_36_38_DSC_0640_DxO_1.jpg)
+
+# Name: The Stiperstones
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-11-05_14_48_22_DSC_0649_DxO_1.jpg)
+
+# Name: The Stiperstones
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-11-05_14_54_40_DSC_0653_DxO_1.jpg)
+
+# Name: The Stiperstones
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-11-05_15_04_17_DSC_0665_DxO_1.jpg)
+
+# Name: The Stiperstones
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-11-05_15_19_57_DSC_0683_DxO_1.jpg)
+
+# Name: The Stiperstones
+
+TBD
+![](../1shropshire/assets/images/landscape/2021-11-05_15_23_53_DSC_0687_DxO_1.jpg)
 
 # Name: The Battle Stones, Willstone Hill
 

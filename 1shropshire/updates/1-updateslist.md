@@ -1,6 +1,13 @@
 ---
 ---
 
+## 16 Dec 2021
+
+Added the following item:
+
+- The Stiperstones x 11
+- The Long Mynd x 1
+
 ## 11 Dec 2021
 Updated Stanton-upon-Hine-Heath church.
 
