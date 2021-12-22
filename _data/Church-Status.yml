@@ -2,8 +2,8 @@
 AllVisited: 154
 AllPlanned: 59
 AllNotYet: 104
-Col1Num: 107
-Col2Num: 47
+Col1Num: 105
+Col2Num: 49
 Col3Num: 34
 Col4Num: 25
 Col5Num: 104
@@ -174,82 +174,82 @@ Churches:
     Col4: 
     Col5: Hadley (Holy Trinity, Lichfield)
   - Col1: Great Wollaston (St John, Hereford)
-    Col2: Stockton (St Chad, Lichfield)
+    Col2: Shrewsbury (St Alkmund, Lichfield)
     Col3: Worfield (St Peter, Hereford)
     Col4: 
     Col5: Hanwood (St Thomas, Hereford)
   - Col1: Grinshill (All Saints, Lichfield)
-    Col2: Stoke St Milborough (St Milburgh, Hereford)
+    Col2: Shrewsbury (St Julian, Lichfield)
     Col3: 
     Col4: 
     Col5: Hope (Holy Trinity, Hereford)
   - Col1: Hadnall (St Mary Magdalene, Lichfield)
-    Col2: Stoke on Tern (St Peter, Lichfield)
+    Col2: Stockton (St Chad, Lichfield)
     Col3: 
     Col4: 
     Col5: Hopton Castle (St Edward, Hereford)
   - Col1: Haughmond (Abbey, Lichfield)
-    Col2: Sutton Maddock (St Mary, Lichfield)
+    Col2: Stoke St Milborough (St Milburgh, Hereford)
     Col3: 
     Col4: 
     Col5: Hopton Wafers (St Michael, Hereford)
   - Col1: High Ercall (St Michael, Lichfield)
-    Col2: Tibberton (All Saints, Lichfield)
+    Col2: Stoke on Tern (St Peter, Lichfield)
     Col3: 
     Col4: 
     Col5: Kemberton (St Andrew and St John the Baptist, Lichfield)
   - Col1: Hope Bagot (St John the Baptist, Hereford)
-    Col2: Upton Cressett (St Michael, Hereford)
+    Col2: Sutton Maddock (St Mary, Lichfield)
     Col3: 
     Col4: 
     Col5: Ketley (St Mary the Virgin, Lichfield)
   - Col1: Hughley (St John the Baptist, Hereford)
-    Col2: Wellington (Christ Church, Lichfield)
+    Col2: Tibberton (All Saints, Lichfield)
     Col3: 
     Col4: 
     Col5: Knockin (St Mary, Lichfield)
   - Col1: Ightfield (St John the Baptist, Lichfield)
-    Col2: Welshampton (St Michael and All Angels, Lichfield)
+    Col2: Upton Cressett (St Michael, Hereford)
     Col3: 
     Col4: 
     Col5: Lea Cross (St Anne, Hereford)
   - Col1: Jackfield (St Mary, Hereford)
-    Col2: Wentnor (St Michael and All Angels, Hereford)
+    Col2: Wellington (Christ Church, Lichfield)
     Col3: 
     Col4: 
     Col5: Leaton (Holy Trinity, Lichfield)
   - Col1: Kenley (St John the Baptist, Hereford)
-    Col2: Westbury (St Mary, Hereford)
+    Col2: Welshampton (St Michael and All Angels, Lichfield)
     Col3: 
     Col4: 
     Col5: Leebotwood (St Mary, Hereford)
   - Col1: Kinnerley (St Mary, Lichfield)
-    Col2: Weston-under-Redcastle (St Luke, Lichfield)
+    Col2: Wentnor (St Michael and All Angels, Hereford)
     Col3: 
     Col4: 
     Col5: Leighton (St Mary, Lichfield)
   - Col1: Knowbury (St Paul, Hereford)
-    Col2: Whittington (St John the Baptist, Lichfield)
+    Col2: Westbury (St Mary, Hereford)
     Col3: 
     Col4: 
     Col5: Lilleshall (Abbey, Lichfield)
   - Col1: Langley (Chapel, Hereford)
-    Col2: Withington (St John the Baptist, Lichfield)
+    Col2: Weston-under-Redcastle (St Luke, Lichfield)
     Col3: 
     Col4: 
     Col5: Linley (St Leonard, Hereford)
   - Col1: Llanyblodwel (St Michael the Archangel, Lichfield)
-    Col2: Wroxeter (St Andrew, Lichfield)
+    Col2: Whittington (St John the Baptist, Lichfield)
     Col3: 
     Col4: 
     Col5: Little Berwick (Chapel, Lichfield)
   - Col1: Longden (St Ruthen, Hereford)
-    Col2: 
+    Col2: Withington (St John the Baptist, Lichfield)
     Col3: 
     Col4: 
     Col5: Little Drayton (Christ Church, Lichfield)
   - Col1: Longford (Talbot Chapel, Lichfield)
-    Col2: 
+    Col2: Wroxeter (St Andrew, Lichfield)
     Col3: 
     Col4: 
     Col5: Little Ness (St Martin, Lichfield)
@@ -368,177 +368,167 @@ Churches:
     Col3: 
     Col4: 
     Col5: Quatt (St Andrew, Hereford)
-  - Col1: Shrewsbury (St Alkmund, Lichfield)
-    Col2: 
-    Col3: 
-    Col4: 
-    Col5: Rowton (All Hallows, Lichfield)
   - Col1: Shrewsbury (St Chad (new), Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Ryton (St Andrew, Lichfield)
+    Col5: Rowton (All Hallows, Lichfield)
   - Col1: Shrewsbury (St Chad (old), Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Sambrook (St Luke, Lichfield)
-  - Col1: Shrewsbury (St Julian, Lichfield)
-    Col2: 
-    Col3: 
-    Col4: 
-    Col5: Shelton and Oxon (Christ Church, Lichfield)
+    Col5: Ryton (St Andrew, Lichfield)
   - Col1: Shrewsbury (St Mary the Virgin, Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Sheriffhales (St Mary, Lichfield)
+    Col5: Sambrook (St Luke, Lichfield)
   - Col1: Shrewsbury (Abbey, Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Shrawardine (St Mary the Virgin, Lichfield)
+    Col5: Shelton and Oxon (Christ Church, Lichfield)
   - Col1: Smethcott (St Michael, Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Shrewsbury (All Saints, Lichfield)
+    Col5: Sheriffhales (St Mary, Lichfield)
   - Col1: Snailbeach (St Luke, Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Shrewsbury (Holy Trinity, Lichfield)
+    Col5: Shrawardine (St Mary the Virgin, Lichfield)
   - Col1: Stanton Lacy (St Peter, Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Shrewsbury (St George, Lichfield)
+    Col5: Shrewsbury (All Saints, Lichfield)
   - Col1: Stanton Long (St Michael, Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Shrewsbury (St Giles, Lichfield)
+    Col5: Shrewsbury (Holy Trinity, Lichfield)
   - Col1: Stanton-upon-Hine Heath (St Andrew, Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Shrewsbury (St John, Lichfield)
+    Col5: Shrewsbury (St George, Lichfield)
   - Col1: Stapleton (St John the Baptist, Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Shrewsbury (St Michael, Lichfield)
+    Col5: Shrewsbury (St Giles, Lichfield)
   - Col1: Stokesay (St John the Baptist, Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Sibdon Carwood (St Michael, Hereford)
+    Col5: Shrewsbury (St John, Lichfield)
   - Col1: Tong (St Mary and St Bartholomew, Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Silvington (St Michael, Hereford)
+    Col5: Shrewsbury (St Michael, Lichfield)
   - Col1: Upton Magna (St Lucy, Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Stirchley (St James, Lichfield)
+    Col5: Sibdon Carwood (St Michael, Hereford)
   - Col1: Much Wenlock (Priory, Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Stowe (St Michael, Hereford)
+    Col5: Silvington (St Michael, Hereford)
   - Col1: Whitchurch (St Alkmund, Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Tasley (St Peter and St Paul, Hereford)
+    Col5: Stirchley (St James, Lichfield)
   - Col1: Yockleton (Holy Trinity, Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Trefonen (All Saints, Lichfield)
-  - Col1: Shrewsbury (Congregational Church, Lichfield)
-    Col2: 
-    Col3: 
-    Col4: 
-    Col5: Tuckhill (Holy Innocents, Hereford)
+    Col5: Stowe (St Michael, Hereford)
   - Col1: Cressage (Christ Church, Hereford) (3)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Uffington (Holy Trinity, Lichfield)
+    Col5: Tasley (St Peter and St Paul, Hereford)
   - Col1: Eyton-upon-the-Weald Moors (St Catherine, Lichfield) (3)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Waters Upton (St Michael, Lichfield)
+    Col5: Trefonen (All Saints, Lichfield)
   - Col1: Halford (St Thomas, Hereford) (3)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Westin Rhyn (St John the Divine, Lichfield)
+    Col5: Tuckhill (Holy Innocents, Hereford)
   - Col1: Lawley (St John the Evangelist, Lichfield) (3)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Weston Lullingfields (Holy Trinity, Lichfield)
+    Col5: Uffington (Holy Trinity, Lichfield)
   - Col1: Ludlow (St John, Hereford) (3)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Wheathill (Holy Trinity, Hereford)
+    Col5: Waters Upton (St Michael, Lichfield)
   - Col1: Rodington (St George, Lichfield) (3)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Whixall (St Mary, Lichfield)
+    Col5: Westin Rhyn (St John the Divine, Lichfield)
   - Col1: Ryton (St Thomas, Hereford) (3)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Winstanstow (Holy Trinity, Hereford)
+    Col5: Weston Lullingfields (Holy Trinity, Lichfield)
   - Col1: Tilstock (Christ Church, Lichfield) (3)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Wombridge (St Mary and St Leonard, Lichfield)
+    Col5: Wheathill (Holy Trinity, Hereford)
   - Col1: Ellesmere (St Mary, Lichfield) (2)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Woore (St Leonard, Lichfield)
+    Col5: Whixall (St Mary, Lichfield)
   - Col1: Little Stretton (All Saints, Hereford) (2)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Wrockwardine Wood (Holy Trinity, Lichfield)
+    Col5: Winstanstow (Holy Trinity, Hereford)
   - Col1: Moreton Corbet (St Bartholomew, Lichfield) (2)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Hinstock (St Oswald, Lichfield)
+    Col5: Wombridge (St Mary and St Leonard, Lichfield)
   - Col1: Morville (St Gregory, Hereford) (2)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Woodcote (Chapel, Lichfield)
+    Col5: Woore (St Leonard, Lichfield)
   - Col1: Shipton (St James, Hereford) (2)
     Col2: 
     Col3: 
     Col4: 
-    Col5: White Ladies (Priory, Lichfield)
+    Col5: Wrockwardine Wood (Holy Trinity, Lichfield)
   - Col1: Wellington (All Saints, Lichfield) (2)
     Col2: 
     Col3: 
     Col4: 
-    Col5: 
+    Col5: Hinstock (St Oswald, Lichfield)
   - Col1: Wem (St Peter and St Paul, Lichfield) (2)
     Col2: 
     Col3: 
     Col4: 
-    Col5: 
+    Col5: Woodcote (Chapel, Lichfield)
   - Col1: Wrockwardine (St Peter, Lichfield) (2)
+    Col2: 
+    Col3: 
+    Col4: 
+    Col5: White Ladies (Priory, Lichfield)
+  - Col1: Shrewsbury (Congregational Church, Lichfield) (2)
     Col2: 
     Col3: 
     Col4: 
