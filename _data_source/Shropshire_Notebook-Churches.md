@@ -1446,7 +1446,10 @@ The name of settlement means Lill’s (personal name) Hill.
 - Date: 1903 AD
 
 The building is painted to look half-timbered.  However, the whole interior is wooden.
+
+Note: Have been inside this church, but do not have any interior photos.
 ![](../1shropshire/assets/images/churches/2019-03-29_16_54_07_DSC_3761_DxO.jpg)
+- Sub-Image: photo-needed.jpg
 
 # Name: St Lawrence, Little Wenlock
 - Diocese: Hereford
@@ -2210,7 +2213,10 @@ The nave and lower part of the tower date from the last 12th Century.  Noted for
 Shipton means 'sheep farm'.
 
 In the church there is a tablet recording the departure of four children of Samuel More on the Mayflower in 1620.
+
+Note: Have been inside this church, but do not have any interior photos.
 ![](../1shropshire/assets/images/churches/2019-02-02_11_01_56_DSC_3120_DxO.jpg)
+- Sub-Image: photo-needed.jpg
 
 # Name: St Mary, Shrewsbury
 - Diocese: Lichfield
@@ -2299,7 +2305,10 @@ This church is one of the four Saxon foundations in Shrewsbury.  The tower dates
 Originally known as the Abbey Foregate Congregational Church (a church in which each congregation independently and autonomously runs its own affairs).  The site was bought in 1872 and worship began, immediately.  Work on the building started at once and the foundation stone was laid in 1863.
 
 In 1972 the church became a United Reformed Church.
+
+Note: Have been inside this church, but do not have any interior photos.
 ![](../1shropshire/assets/images/churches/2018-11-02_14_08_55_DSC_2945_DxO.jpg)
+- Sub-Image: photo-needed.jpg
 
 # Name: St Michael & All Angels, Smethcott
 - Diocese: Hereford
