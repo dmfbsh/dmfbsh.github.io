@@ -714,10 +714,35 @@ Roger de Montgomerie, 1st Earl of Shrewsbury, held the manor and the church was 
 
 The church was added to in the 13th and 15th Centuries - the tower was doubled in height and angle buttresses were added to it towards the end of the 15th century.  At about the same time the north chapel was added.
 
-The church is noted for the medieval wall paintings which have been dated to circa 1200.
+The church is noted for the medieval wall paintings which have been dated to circa 1200, and includes a frieze of fighting knights, under which is painting depicting the martyrdom of Saint Margaret of Antioch.
+
+The northwest buttress of the tower, which was added in the 15th century, projects inside the church forming a round-headed niche, known as the ‘seat of penitence’.
+
+The font is Norman, shaped like a tub, and carved with arcades.  The pulpit is Jacobean, and is carved with rosettes under arcading.
+
+The stained glass in the east window dates from 1858, is by Frederick Preedy, and depicts the Te Deum.
+
+The tomb-chest is a monument to Sir Robert Broke, who died in 1558, and his two wives is in alabaster with three recumbent effigies, and children standing around the sides.
+
+The two-manual pipe organ was made in 1906 by J. W. Walker, and rebuilt in 1964 by W. Hawkins.  There is a ring of eight bells, the oldest are two bells cast in 1703 by Abraham Rudhall I, followed by a single bell by Thomas Rudhall in 1769. Another single bell is dated 1877 and is by John Taylor and Company. The last four bells were cast in 1929 by Gillett and Johnston.
 
 The name Claverley means 'clover meadow'.
 ![](../1shropshire/assets/images/churches/2020-05-30_11_09_24_DSC_7181_DxO.jpg)
+- Sub-Image: 2021-12-27_13_52_14_DSC_0690_DxO.jpg
+- Sub-Image: 2021-12-27_13_53_18_DSC_0692_DxO.jpg
+- Sub-Image: 2021-12-27_13_54_57_DSC_0698_DxO.jpg
+- Sub-Image: 2021-12-27_13_55_09_DSC_0699_DxO.jpg
+- Sub-Image: 2021-12-27_13_57_02_DSC_0704_DxO.jpg
+- Sub-Image: 2021-12-27_13_57_33_DSC_0705_DxO.jpg
+- Sub-Image: 2021-12-27_13_59_29_DSC_0710_DxO.jpg
+- Sub-Image: 2021-12-27_14_00_17_DSC_0712_DxO.jpg
+- Sub-Image: 2021-12-27_14_00_49_DSC_0713_DxO.jpg
+- Sub-Image: 2021-12-27_14_01_17_DSC_0715_DxO.jpg
+- Sub-Image: 2021-12-27_14_06_03_DSC_0717_DxO.jpg
+- Sub-Image: 2021-12-27_14_07_17_DSC_0719_DxO.jpg
+- Sub-Image: 2021-12-27_14_08_55_DSC_0723_DxO.jpg
+- Sub-Image: 2021-12-27_14_10_33_DSC_0726_DxO.jpg
+- Sub-Image: 2021-12-27_14_12_37_DSC_0731_DxO.jpg
 
 # Name: St Margaret, Clee St Margaret
 - Diocese: Hereford
@@ -2747,10 +2772,28 @@ Note: Have been inside this church, but do not have any interior photos.
 - Diocese: Lichfield
 - Date: 12th Century AD
 
-This church is likely more steeped in history than any other in Shropshire.
+This church is likely more steeped in history than any other in Shropshire.  It is possible there was a Christian basilica on the site in late Roman Wroxeter, and it is likely there was a Saxon church after that.  By the time of the Domesday survey, the church was well established (four priests are mentioned).  The manor was held by Thored at the time of the Norman conquest, but was passed to Sheriff Reginald.  The church was given to Haughmond Abbey in 1155 and finally the college of priests was replaced by a vicar in 1347.
 
-Masonry from the Roman fort of Viroconium was plundered for the construction of the church.
-![](../1shropshire/assets/images/churches/2019-03-10_11_42_17_IMG_9737_DxO.jpg)
+Masonry from the Roman fort of Viroconium was plundered for the construction of the church.  The earliest part of the building (parts of the nave built of Roman masonry) dates from the 7th or 8th Centuries, and into the 8th or 9th Centuries.  The chancel was added in the late 12th Century (late Norman) as was the tower base.  The rest of the tower is late 16th Century.  Set in the upper part of the tower are pieces which may have come from Haughmond Abbey after its dissolution in 1539.  In 1763 the church was modified to remove the old south aisle and replace it with a narrower one and the vestry.
+
+The font is thought to be the inverted base of a Roman column.  The iron bound chest dates from the 14th Century.  The pulpit is Jacobean (17th / 18th Century).  Most of the stained glass is by David Evans of Shrewsbury (19th Century), and there is some medieval stained glass in one of the nave windows.
+
+The earliest tomb chest is Sir Thomas Bromley (died 1555), Chief Justice of England, and his wife.  There is also a memorial to Sir Richard Newport (died 1570) and his wife.  There is also the tomb of John Berker (died 1618j and his wife).  The other monument of note is that for Francis Newport (died 1708), first Earl of Bradford.
+
+The place name is a ‘Roman site called Uricon’.  This was the capital of the Cornovii, called Viroconium Cornovorium by the Romans and the name probably referred originally to the hill-fort on the Wrekin and was later transferred to the Roman settlement.  The Romano-British name is perhaps, ‘Urico’s place’, Urico is an unknown place-name and ceaster (Old English) is a city, an old fortification or a Roman site.
+![](../1shropshire/assets/images/churches/2021-12-29_14_38_44_DSC_0777_DxO.jpg)
+- Sub-Image: 2021-12-29_14_15_35_DSC_0733_DxO.jpg
+- Sub-Image: 2021-12-29_14_16_51_DSC_0737_DxO.jpg
+- Sub-Image: 2021-12-29_14_17_32_DSC_0738_DxO.jpg
+- Sub-Image: 2021-12-29_14_18_10_DSC_0740_DxO.jpg
+- Sub-Image: 2021-12-29_14_18_38_DSC_0741_DxO.jpg
+- Sub-Image: 2021-12-29_14_20_14_DSC_0742_DxO.jpg
+- Sub-Image: 2021-12-29_14_21_58_DSC_0746_DxO.jpg
+- Sub-Image: 2021-12-29_14_22_28_DSC_0747_DxO.jpg
+- Sub-Image: 2021-12-29_14_22_41_DSC_0748_DxO.jpg
+- Sub-Image: 2021-12-29_14_28_48_DSC_0763_DxO.jpg
+- Sub-Image: 2021-12-29_14_31_12_DSC_0765_DxO.jpg
+- Sub-Image: 2021-12-29_14_32_58_DSC_0769_DxO.jpg
 
 # Name: Holy Trinity, Yockleton
 - Diocese: Hereford

@@ -12,7 +12,7 @@ The purpose of the garden is to tell the history of English gardening by present
 Work started on the garden in 1988 and has been designed by Dr Katherine Swift, the garden historian and writer.
 
 The garden includes a Cloister Garden (c. 1450), a Knot Garden (c. 1580), a Canal Garden (c. 1710), a Victorian Rose Border (c. 1870) and a Turf Maze based on a design dating back to the Bronze Age.
-![](../1shropshire/assets/images/gardens/2005-06-26_15-55-35_00002805_DxO_L.jpg)
+![](../1shropshire/assets/images/gardens/2005-06-26_15-55-35_00002805_DxO_1.jpg)
 
 # Name: Dudmaston House Garden
 

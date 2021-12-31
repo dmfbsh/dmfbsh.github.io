@@ -1,6 +1,11 @@
 ---
 ---
 
+## 31 Dec 2021
+Updated Claverley church.
+
+Updated Wroxeter church.
+
 ## 16 Dec 2021
 
 Added the following item:
