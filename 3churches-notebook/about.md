@@ -4,5 +4,5 @@ title: About
 ---
 
 <p class="message">
-About Page.
+This is the About page.
 </p>
