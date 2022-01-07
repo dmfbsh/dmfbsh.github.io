@@ -9,21 +9,6 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
-
-    {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
-
-    {% assign pages_list = site.pages | sort:"url" %}
-    {% for node in pages_list %}
-      {% if node.menu != null %}
-        {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    {% endcomment %}
 
     <a class="sidebar-nav-item active" href="https://dmfbsh.github.io/3churches-notebook/index.html">Home</a>
     <a class="sidebar-nav-item" href="https://dmfbsh.github.io/3churches-notebook/2.%20Architectural%20Styles.html">2. Architectural Styles</a>
