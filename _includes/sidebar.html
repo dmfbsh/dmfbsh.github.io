@@ -14,7 +14,6 @@
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
@@ -24,6 +23,11 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+    {% endcomment %}
+
+    <a class="sidebar-nav-item active" href="https://dmfbsh.github.io/3churches-notebook/index.html">Home</a>
+    <a class="sidebar-nav-item" href="https://dmfbsh.github.io/3churches-notebook/2.%20Architectural%20Styles.html">2. Architectural Styles</a>
+    <a class="sidebar-nav-item" href="https://dmfbsh.github.io/3churches-notebook/about.html">About</a>
 
     <span class="sidebar-nav-item">Currently v0.1.0</span>
   </nav>
