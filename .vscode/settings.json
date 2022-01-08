@@ -4,13 +4,15 @@
 	"openInExternalApp.openMapper": [
 		{
 			"extensionName": "md",
-			"apps": [{"title" : "Typora", "openCommand" : "C:/Program Files/Typora/Typora.exe"}]
-		},
-		{
-			"extensionName": "db",
-			"apps": [{"title" : "DB Browser for SQLite", "openCommand" : "C:/Program Files/DB Browser for SQLite/DB Browser for SQLite.exe"}]
+			"apps": [
+			{
+				"title": "typora",
+				"isElectronApp": true
+				// following config item is not work
+				// "openCommand": "/path/to/typora.exe",
+				// "args": ["--slient"]
+			}
+			]
 		}
-	],
-	"terminal.integrated.shell.windows": "cmd.exe",
-	"DB_dest": "C:\\Users\\David\\Documents\\OneDrive\\Documents\\My Documents\\3. Shropshire\\Web Site"
+	]
 }
