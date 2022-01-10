@@ -5,12 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    {% if page.title == "Home" %}
-    Churches Notebook &middot; Reference material for understaing Shropshire's Churches
-    {% else %}
-      {{ page.title }} &middot; Churches Notebook
-    {% endif %}
-  </title>
+  <!--
+  {% if page.title == "Home" %}
+  Churches Notebook &middot; Reference material for understaing Shropshire's Churches
+  {% else %}
+  {{ page.title }} &middot; Churches Notebook
+  {{% endif %}
+  -->
+  {% if page.name == "index.html" %}
+  Churches Notebook &middot; Reference material for understaing Shropshire's Churches
+  {% else %}
+  {{ page.name | remove ".md" }} &middot; Churches Notebook
+  {{% endif %}
+</title>
 
   <!--
   <link rel="stylesheet" href="{{ 'public/css/poole.css' | absolute_url }}">
