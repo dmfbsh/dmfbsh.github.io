@@ -5,25 +5,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-  <!--
+  {% comment %}
   {% if page.title == "Home" %}
   Churches Notebook &middot; Reference material for understaing Shropshire's Churches
   {% else %}
   {{ page.title }} &middot; Churches Notebook
-  {{% endif %}
-  -->
+  {% endif %}
+  {% endcomment %}
   {% if page.name == "index.html" %}
   Churches Notebook &middot; Reference material for understaing Shropshire's Churches
   {% else %}
-  {{ page.name | remove ".md" }} &middot; Churches Notebook
-  {{% endif %}
+  {{ page.name | remove: ".md" }} &middot; Churches Notebook
+  {% endif %}
 </title>
 
-  <!--
+{% comment %}
   <link rel="stylesheet" href="{{ 'public/css/poole.css' | absolute_url }}">
   <link rel="stylesheet" href="{{ 'public/css/syntax.css' | absolute_url }}">
   <link rel="stylesheet" href="{{ 'public/css/lanyon.css' | absolute_url }}">
-  -->
+{% endcomment %}
   <link rel="stylesheet" href="{{ 'public/css/poole.css' }}">
   <link rel="stylesheet" href="{{ 'public/css/syntax.css' }}">
   <link rel="stylesheet" href="{{ 'public/css/lanyon.css' }}">
