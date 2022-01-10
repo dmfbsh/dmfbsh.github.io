@@ -27,5 +27,21 @@
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script src='https://dmfbsh.github.io/3churches-notebook/public/js/script.js'></script>
+    <script>
+      $(document).ready(function(){
+        $("#myInput").on("keyup", function() {
+          var value = $(this).val().toLowerCase();
+          $("#myTable .fr").filter(function() {
+            $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+          });
+          $('#myTable tr').show();
+          $('#myTable tr').each(function() {
+            if($(this).find('.fr:visible').length == 0){
+              $(this).hide();
+            }
+          });
+        });
+      });
+    </script>
   </body>
 </html>
