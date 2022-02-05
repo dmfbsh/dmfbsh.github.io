@@ -265,32 +265,32 @@ TBD
 # Name: The Stiperstones
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-11-05_14_36_38_DSC_0640_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-11-05_14_36_38_DSC_0640-Edit-001.jpg)
 
 # Name: The Stiperstones
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-11-05_14_48_22_DSC_0649_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-11-05_14_48_22_DSC_0649-Edit-002.jpg)
 
 # Name: The Stiperstones
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-11-05_14_54_40_DSC_0653_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-11-05_14_54_40_DSC_0653-Edit-003.jpg)
 
 # Name: The Stiperstones
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-11-05_15_04_17_DSC_0665_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-11-05_15_04_17_DSC_0665-Edit-004.jpg)
 
 # Name: The Stiperstones
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-11-05_15_19_57_DSC_0683_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-11-05_15_19_57_DSC_0683-Edit-005.jpg)
 
 # Name: The Stiperstones
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-11-05_15_23_53_DSC_0687_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-11-05_15_23_53_DSC_0687-Edit-006.jpg)
 
 # Name: The Battle Stones, Willstone Hill
 

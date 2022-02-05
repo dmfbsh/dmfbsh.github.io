@@ -1,6 +1,13 @@
 ---
 ---
 
+## 05 Feb 2022
+Added the following items:
+
+- St Georges Church
+
+Updated Moreton Corbet church.
+
 ## 31 Dec 2021
 Updated Claverley church.
 
@@ -8,7 +15,7 @@ Updated Wroxeter church.
 
 ## 16 Dec 2021
 
-Added the following item:
+Added the following items:
 
 - The Stiperstones x 11
 - The Long Mynd x 1

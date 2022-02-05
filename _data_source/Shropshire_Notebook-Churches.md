@@ -1789,13 +1789,30 @@ In Old English ‘mor’ is a marsh or barren upland, from which the settlement 
 - Diocese: Lichfield
 - Date: 12th Century AD
 
-The Norman church was founded in about 1140 AD as a chapel attached to Shawbury.  Some parts of the Norman church remain, but the greater part of the church dates from the 14th Century.
+The Norman church was founded in about 1140 AD as a chapel attached to Shawbury. Some parts of the Norman church remain, but the greater part of the church dates from the 14th Century.
+
+The south aisle is effectively a memorial chapel to the Corbet family and was constructed in the mid-14th Century. The base of the tower was constructed in around 1539 and features the arms of the Prince of Wales (later Edward VI). It is unknown whether it was originally finished to its full height, as it is possible that the upper stages were damaged during military action in the Civil War. The present upper stages of the tower date from 1769.
 
 The church has an unusual triangular window, similar to one in Alberbury, which was another of the Corbet family's holdings.
 
-Note: Have been inside this church, but do not have any interior photos.
+The interior contains numerous monuments to the Corbet family including two chest tombs dated 1513 and 1567, a baroque wall monument to Richard Corbet dated 1691 and a number of 18th Century monuments. It is known that Thomas Farnolls Pritchard, the architect of the Ironbridge, Coalbrookdale, carried out work here.
+
+The church has a decorative scheme by Ninian Comper dating from 1904 in memory of Vincent Corbet who died at Eton at the age of thirteen. The scheme encompasses most of the chancel interior and includes a stained glass window, communion table, alabaster reredos and canopy, and high quality painted decorations to the walls and roof timbers.
 ![](../1shropshire/assets/images/churches/2018-09-29_15_40_02_DSC_2922_DxO.jpg)
-- Sub-Image: photo-needed.jpg
+- Sub-Image: 2022-01-29_16_34_47_DSC03438.jpg
+- Sub-Image: 2022-01-29_16_35_54_DSC03441.jpg
+- Sub-Image: 2022-01-29_16_36_49_DSC03444.jpg
+- Sub-Image: 2022-01-29_16_37_43_DSC03447.jpg
+- Sub-Image: 2022-01-29_16_38_31_DSC03449.jpg
+- Sub-Image: 2022-01-29_16_39_45_DSC03450.jpg
+- Sub-Image: 2022-01-29_16_40_38_DSC03451.jpg
+- Sub-Image: 2022-01-29_16_42_17_DSC03454.jpg
+- Sub-Image: 2022-01-29_16_42_31_DSC03455.jpg
+- Sub-Image: 2022-01-29_16_43_02_DSC03457.jpg
+- Sub-Image: 2022-01-29_16_43_26_DSC03458.jpg
+- Sub-Image: 2022-01-29_16_46_50_DSC03463.jpg
+- Sub-Image: 2022-01-29_16_51_58_DSC03464.jpg
+- Sub-Image: 2022-01-29_17_09_53_DSC03465.jpg
 
 # Name: St Gregory, Morville
 - Diocese: Hereford
@@ -2292,13 +2309,13 @@ In 1788 the tower collapsed and all that remains is the south chancel chapel.
 - Diocese: Lichfield
 - Date: 1475 AD
 
-St Alkmund died circa 802 AD, he was the younger son of Alhred (king of Northumbria) at Lilleshall, his relics were removed to the collegiate church dedicated to him at Derby.  This church in Shrewsbury was also founded as a collegiate church in 912 AD by Aethelflaed, daughter of Alfred the Great, king of Mercia.  By the time of the Domesday survey, the church was substantially endowed.  However, when Lilleshall Abbey was established in 1148 AD, the church became an poor vicarage as property was transferred to Lilleshall.
+St Alkmund died circa 802 AD, he was the younger son of Alhred (king of Northumbria) at Lilleshall, his relics were removed to the collegiate church dedicated to him at Derby.  This church in Shrewsbury was also founded as a collegiate church in 912 AD by Aethelflaed, daughter of Alfred the Great, king of Mercia.  By the time of the Domesday survey, the church was substantially endowed.  However, when Lilleshall Abbey was established in 1148 AD, the church became a poor vicarage as property was transferred to Lilleshall. The original medieval church is thought to have been a very fine example.
+
+The original Saxon church was rebuilt more than once. The first significant part of the building to remain to the present day is the tower and 184-foot spire, which were built around 1475 AD. Following the collapse of Old St Chad's in 1788, there was concern about the safety of the church.  An act of Parliament decreed the demolition and rebuilding of all but the tower; the rest of the churches dates from circa  1794-5.
+
+There is Tudor glass in the West window, dating from mid 16th century.
 
 The church stands at the highest point in the town.
-
-The original medieval church is thought to have been a very fine example.  However, following the collapse of Old St Chad's in 1788, there was concern about the safety of the church.  An act of Parliament decreed the demolition and rebuilding of all but the tower.
-
-The present tower and spire were built around 1475 AD.  The rest of the present church is Georgian.
 ![](../1shropshire/assets/images/churches/2018-07-14_12_53_39_DSC_2794_DxO.jpg)
 
 # Name: St Chad (new), Shrewsbury
@@ -2354,6 +2371,40 @@ A somewhat austere chapel.
 The word Beach is derived from the Old English Baece (stream) or Bache (a steep wooded narrow valley).
 ![](../1shropshire/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO_L.jpg)
 - Sub-Image: 2019-05-06_11_37_16_DSC_4154_DxO.jpg
+
+# Name: St George, St Georges
+- Diocese: Lichfield
+- Date: 1862 AD
+
+Prior to 1860, the place St Georges did not exist, the area was then known as Pains Lane.  The area saw rapid growth in the mid-Victorian era, due to the Industrial Revolution, and the present church was built to serve the growing population.
+
+Originally a chapel of ease in the parish of Lilleshall, the original church was a plain brick building.  The new and present church was designed by G E Street (and is considered his best in Shropshire), and was erected in the memory of George Granville, 2nd Duke of Sutherland.  The foundation stone was laid on 4th November 1861 by the Rt Hon Earl Granville KG, with a silver trowel Earl Granville spread the mortar after having inserted a bottle containing parchment and some new coins into the cavity.
+
+The stone was quarried locally from the hole to the north of Limekiln Bank.
+
+Work was not completed on the tower until 1928, which was formally opened in October 1930.
+
+The church can seat 800.
+
+The pulpit is stone.
+![](../1shropshire/assets/images/churches/2022-02-05_10_53_10_DSC_0090.jpg)
+- Sub-Image: 2022-02-05_10_29_59_DSC_0062.jpg
+- Sub-Image: 2022-02-05_10_30_43_DSC_0063.jpg
+- Sub-Image: 2022-02-05_10_31_37_DSC_0064.jpg
+- Sub-Image: 2022-02-05_10_31_51_DSC_0065.jpg
+- Sub-Image: 2022-02-05_10_32_04_DSC_0066.jpg
+- Sub-Image: 2022-02-05_10_33_12_DSC_0067.jpg
+- Sub-Image: 2022-02-05_10_34_57_DSC_0073.jpg
+- Sub-Image: 2022-02-05_10_36_45_DSC_0074.jpg
+- Sub-Image: 2022-02-05_10_37_19_DSC_0075.jpg
+- Sub-Image: 2022-02-05_10_37_40_DSC_0076.jpg
+- Sub-Image: 2022-02-05_10_39_14_DSC_0078.jpg
+- Sub-Image: 2022-02-05_10_39_58_DSC_0080.jpg
+- Sub-Image: 2022-02-05_10_40_56_DSC_0081.jpg
+- Sub-Image: 2022-02-05_10_42_26_DSC_0082.jpg
+- Sub-Image: 2022-02-05_10_44_17_DSC_0085.jpg
+- Sub-Image: 2022-02-05_10_47_21_DSC_0086.jpg
+- Sub-Image: 2022-02-05_10_56_25_DSC_0094.jpg
 
 # Name: St Peter, Stanton Lacy
 - Diocese: Hereford
