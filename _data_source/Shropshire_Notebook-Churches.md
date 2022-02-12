@@ -2763,8 +2763,18 @@ The church is built in the Gothic style but with a Georgian tower.  It was origi
 
 The red sandstone building was constructed on the site of a medieval church which was demolished; the construction was mostly funded by Sir Richard Hill, 2nd Baronet of Hawkstone.  It was restored in 1879, the works included the chancel, the gabled timber porch, stained glass, pews and octagonal font.
 
+The west window is by A L Moore (Southampton Row, London).
+
 Weston-under-Redcastle was called Westune in the 1086 Domesday Book, and simply refers to the settlement being to the west of the Hawkstone Ridge (red sandstone cliffs).
 ![](../1shropshire/assets/images/churches/2021-10-10_15_55_54_DSC03114_DxO.jpg)
+- Sub-Image: 2022-02-12_10_34_51_DSC_0105.jpg
+- Sub-Image: 2022-02-12_10_36_12_DSC_0108.jpg
+- Sub-Image: 2022-02-12_10_37_57_DSC_0109.jpg
+- Sub-Image: 2022-02-12_10_38_31_DSC_0111.jpg
+- Sub-Image: 2022-02-12_10_39_50_DSC_0115.jpg
+- Sub-Image: 2022-02-12_10_42_35_DSC_0121.jpg
+- Sub-Image: 2022-02-12_10_42_48_DSC_0122.jpg
+- Sub-Image: 2022-02-12_10_43_53_DSC_0123.jpg
 
 # Name: St Alkmund, Whitchurch
 - Diocese: Lichfield

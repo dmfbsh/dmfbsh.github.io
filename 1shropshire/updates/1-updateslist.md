@@ -1,6 +1,9 @@
 ---
 ---
 
+## 12 Feb 2022
+Updated Weston-under-Redcastle church.
+
 ## 05 Feb 2022
 Added the following items:
 
