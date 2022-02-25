@@ -158,6 +158,11 @@ An ancient yew tree, thought to be between 1000 and 2000 years old.
 A preaching cross in the churchyard - the present shaft and cross is probably Victorian (most likley installed when the church's chancel was rebuilt in 1865).  The base most likely dates from Saxon times.
 ![](../1shropshire/assets/images/other/2019-12-21_14_47_24_DSC_6020_DxO_bw.jpg)
 
+# Name: Flood Barriers, Ironbridge
+
+In February 2022, the flood barriers are put up - it was thought that the river might breach the barrier this year, but it didn't.
+![](../1shropshire/assets/images/other/2022-02-19_15_42_30_DSC_0200.jpg)
+
 # Name: The Ironbridge at Christmas, Ironbridge
 
 TBD

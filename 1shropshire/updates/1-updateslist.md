@@ -1,11 +1,20 @@
 ---
 ---
 
+## 25 Feb 2022
+Updated Sutton Maddock church.
+
+Updated the picture for Ironbridge churh.
+
+Added the following item:
+
+- Ironbridge flood barrier
+
 ## 12 Feb 2022
 Updated Weston-under-Redcastle church.
 
 ## 05 Feb 2022
-Added the following items:
+Added the following item:
 
 - St Georges Church
 

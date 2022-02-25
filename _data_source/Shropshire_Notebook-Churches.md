@@ -1303,7 +1303,7 @@ The church has 15th Century origins and was partly rebuilt in the 19th Century (
 The area was originally part of the parish of Madeley, but with the growth of the population due to the bridge, it was thought necessary for Ironbridge to have its own church.
 
 The position of Ironbridge church is the reverse of the majority of churches, the sanctuary is at the west end and the tower at the east end.  This is because the land at the west end would not bear the weight of a tower.
-![](../1shropshire/assets/images/churches/2020-01-12_12_15_40_DSC_6177_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2022-02-19_15_44_12_DSC_0207.jpg)
 
 # Name: St Mary, Jackfield
 - Diocese: Hereford
@@ -2605,14 +2605,30 @@ The name of Stokesay is derived from the old English 'stoc' meaning a place or s
 
 At the time of the Domesday survey, the settlement was known as Sudtone (south town) as it was the southern part of the Saxon Parish of Iteshale (Shifnal).
 
-The "Maddock" was added in the 13th century when Sutton was granted to Iorwerth Goch (son of the ruler of Powis) for interpreter services between England and Wales in the reign of  Henry II.  Maddock was Iorwerth's son.
+The "Maddock" was added in the 13th century when Sutton was granted to Iorwerth Goch (son of the ruler of Powys) in recognition of his interpreter services between England and Wales during the reign of  Henry II.  Sutton was passed to Madoc who was Iorwerth's son, but it is thought that a later member of the family also named Madoc is the one who actually gave the family name to the settlement.
 
-The oldest part of the present building is the tower (dated 1579, Tudor, although the earlier part may be Perpendicular).  The rest of the church dates from 1888 when it was rebuilt.
+The original church may be as early as 11th Century (although it was probably a chapel annexed to Shifnal).
 
-There was a previous Georgian building,  which has been completely replaced.  The parish register dates from 1559 and the chalice and patten are dated 1662.
+The original church was replaced in the 16th Century.  In 1887, the church was rebuilt again (at a cost of 2528 pounds), the only part of the 16th Century church that was retained was the tower.
 
-The name of village means south farm / settlement (Sutton) in Old English and Madoc is the name the family which held the manor in the 12th and 13th Centuries.
+The orgain was donated in 1889.  In 1963, the heating pipes spilt due to the heavy frost and so the coal-fired heating system was replaced by an electrical one.
+
+The east window was given in 1908 by Mr Charles Bruff of the Coalport China factory in memory of his mother who lived to be 102.  In 1923, the wooden reredos was presented to the church, but it obscured part of the east window. Because of this, the Bruff familiy never came to the church again, even after the reredos was altered to make the whole window visible again.
+
+There is a plaque in the tower to William Farmer and his wife Elizabeth, who helped Charles II during his stay at Boscobel.
+
+The name of village means south farm / settlement (Sutton) in Old English and Madoc is a family name.
 ![](../1shropshire/assets/images/churches/2021-07-04_14_31_40_DSC02811_DxO.jpg)
+- Sub-Image: 2022-02-19_13_57_54_DSC_0172.jpg
+- Sub-Image: 2022-02-19_13_58_31_DSC_0175.jpg
+- Sub-Image: 2022-02-19_13_59_38_DSC_0177.jpg
+- Sub-Image: 2022-02-19_13_59_59_DSC_0178.jpg
+- Sub-Image: 2022-02-19_14_04_04_DSC_0180.jpg
+- Sub-Image: 2022-02-19_14_05_15_DSC_0181.jpg
+- Sub-Image: 2022-02-19_14_07_13_DSC_0183.jpg
+- Sub-Image: 2022-02-19_14_09_13_DSC_0187.jpg
+- Sub-Image: 2022-02-19_14_09_28_DSC_0188.jpg
+- Sub-Image: 2022-02-19_14_13_33_DSC_0190.jpg
 
 # Name: All Saints, Tibberton
 - Diocese: Lichfield
