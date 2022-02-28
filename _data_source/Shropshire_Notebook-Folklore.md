@@ -1,22 +1,3 @@
-# Name: The Holy Grail & The Da Vinci Code, Hodnet
-- Date: N/A
-
-In 2006, the interior of Hodnet church was damaged by people apparantly seeking clues as to the whereabouts of the Holy Grail.  The damage was caused to stonework beneath the stained glass window depicting the Four Evangelists, this window shows St John with an apparently feminine appearance - this is one of the major themes of the best-selling novel by Dan Brown.  Not only does the figure appear to be a woman, but the figure is wearing a woman's gown and is holding a golden chalice (the traditional depiction of the Holy Grail).
-
-On 25/08/2006, the BBC reported that:
-
-*A number of holes were chiselled into the stonework of the Grade I-listed 14th Century church in the nave, near the choir vestry door and by a stained glass window.*
-
-The article also commented that:
-
-*The church also features strongly in The Chalice of Magdalene, written by "historical detective" Graham Phillips.*
-
-*In it, his search for the Holy Grail leads him to St Luke's and the stained glass window. The story also features on the author's website.*
-
-The reality is that Shropshire Antiquarian Thomas Wright (1810 to 1877) claimed to have the Chalice of Magdalene.  In the spirit of Athurian legend, he hid it at Hawkstone Park (as the owner was building a park and garden at the time) and left a series of clues to its whereabouts.  The chalice was hidden in one of four statues depicting a bull, a lion, an angel and an eagle (the symbols for the four gospels) - the statues were placed in a cavern in the White Cliff at Hawkstone Park.  In the window above the figures are the four symbols - the window is dated 1846 and was sponsored by Thomas Wright.  In the 1920s, an attempt was made to move the statues and in the process the eagle (St John) statue was broken revealing a cavity containing a small stone cup.  The cup was confirmed by the British Museum as being a green alabaster ointment or scent jar from the 1st Century AD.
-![](../1shropshire/assets/images/folklore/2022-02-13_14_26_00_DSC_0130.jpg)
-
-
 # Name: St Milburga's Well
 - Date: N/A
 
