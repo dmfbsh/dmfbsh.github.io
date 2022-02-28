@@ -1,7 +1,7 @@
 # Name: Shropshire - General View 1
 
 A view when driving from Clun to Hopton Castle.
-![](../1shropshire/assets/images/<folder>/2021-07-16_14_37_40_DSC_9739_DxO.jpg)
+![](../1shropshire/assets/images/landscape/2021-07-16_14_37_40_DSC_9739_DxO.jpg)
 
 
 # Name: Caer Caradoc
@@ -49,7 +49,7 @@ TBD
 # Name: Hopton Castle
 
 A different view of Hopton Castle.
-![](../1shropshire/assets/images/<folder>/2021-07-16_15_16_30_DSC_9754_DxO.jpg)
+![](../1shropshire/assets/images/landscape/2021-07-16_15_16_30_DSC_9754_DxO.jpg)
 
 
 # Name: The Long Mynd
@@ -115,7 +115,7 @@ TBD
 # Name: The Long Mynd
 
 TBD
-![](../1shropshire/assets/images/history/2020-09-11_15_38_15_DSC_8457_DxO.jpg)
+![](../1shropshire/assets/images/landscape/2020-09-11_15_38_15_DSC_8457_DxO.jpg)
 
 # Name: The Long Mynd
 
@@ -296,6 +296,29 @@ TBD
 
 TBD
 ![](../1shropshire/assets/images/landscape/2020-02-08_14_09_50_DSC_6420_DxO.jpg)
+
+# Name: The Wrekin
+
+At sunrise.
+![](../1shropshire/assets/images/landscape/2022-02-27_06_34_46_DSC_0264.jpg)
+
+
+# Name: The Wrekin
+
+At sunrise.
+![](../1shropshire/assets/images/landscape/2022-02-27_06_41_23_DSC_0269.jpg)
+
+
+# Name: The Wrekin
+
+At sunrise.
+![](../1shropshire/assets/images/landscape/2022-02-27_07_09_30_DSC_0294.jpg)
+
+
+# Name: The Wrekin
+
+At sunrise.
+![](../1shropshire/assets/images/landscape/2022-02-27_07_12_55_DSC_0301.jpg)
 
 # Name: The Wrekin
 

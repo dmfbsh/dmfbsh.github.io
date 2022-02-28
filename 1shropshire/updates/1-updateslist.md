@@ -1,6 +1,16 @@
 ---
 ---
 
+## 28 Feb 2022
+Added the following item:
+
+- The Holy Grail and The Da Vinci Code (Hodnet)
+- The Wrekin (at sunrise) x 4
+
+Updated Wrockwardine church.
+
+Updated Hodnet church.
+
 ## 25 Feb 2022
 Updated Sutton Maddock church.
 
