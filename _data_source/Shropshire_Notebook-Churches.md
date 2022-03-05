@@ -2647,7 +2647,7 @@ The east window was given in 1908 by Mr Charles Bruff of the Coalport China fact
 There is a plaque in the tower to William Farmer and his wife Elizabeth, who helped Charles II during his stay at Boscobel.
 
 The name of village means south farm / settlement (Sutton) in Old English and Madoc is a family name.
-![](../1shropshire/assets/images/churches/2021-07-04_14_31_40_DSC02811_DxO.jpg)
+![](../1shropshire/assets/images/churches/2022-03-05_15_07_10_DSC_0317.jpg)
 - Sub-Image: 2022-02-19_13_57_54_DSC_0172.jpg
 - Sub-Image: 2022-02-19_13_58_31_DSC_0175.jpg
 - Sub-Image: 2022-02-19_13_59_38_DSC_0177.jpg

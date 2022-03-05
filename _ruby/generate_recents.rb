@@ -1,3 +1,5 @@
+def generate_recents()
+
 puts "Starting: generate_recents"
 
 clp = Dir.glob("../1shropshire/assets/images/churches/20*.jpg")
@@ -36,3 +38,5 @@ gl.each { |mi|
 dsth.close unless dsth.nil?
 
 puts "Done: generate_recents"
+
+end
