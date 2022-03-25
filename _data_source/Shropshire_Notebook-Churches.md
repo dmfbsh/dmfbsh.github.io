@@ -1950,10 +1950,16 @@ The name Myndtown literally means place or town by the mynd (mountain).  Myndtow
 - Diocese: Lichfield
 - Date: 12th Century AD
 
-Although the church dates back to the 12th Century, virtually nothing from this time survives.
+Although the church dates back to the 12th Century, virtually nothing from this time survives.  The tower wad the first part to be rebuilt, which was done in 1360.
 
-Externally the building is a medieval west tower and a Victorian church (both of red sandstone).
-![](../1shropshire/assets/images/churches/2019-12-07_13_49_02_DSC02370_DxO.jpg)
+1n 1432 a licence was obtained to found a chantry with two priests, ten years later a college was established with a master and four chaplains.  The college was dissolved in 1547.
+
+In the 1720s a north aisle and chancel were built.  These were replaced by the extensive rebuilding in the following century.  The chancel was rebuilt in 1886 by E Haycock jun., John Norton rebuilt the nave and south aisle in 1883-85, the north aisle in 1890-91 and the south porch in 1904.  So, externally the building is a medieval west tower and a Victorian church (both of red sandstone).
+
+There is an alabaster tomb chest of c. 1520.  The font is dated 1660.  There is some notable stained glass, in the south chapel, the glass is by Kempe and in the chancel, the south window is by Burne-Jones and Ford Madox Brown.
+
+The name of the town means 'new market town' in Old English.
+![](../1shropshire/assets/images/churches/2022-03-19_12_52_08_DSC_0550.jpg)
 
 # Name: King Charles the Martyr, Newtown
 - Diocese: Lichfield
@@ -2322,7 +2328,7 @@ This church dominates Shrewsbury as was built at the highest point in the town a
 The church was largely transformed into its present state in the 12th Century (when Norman (transitional) architecture was giving way to Early English).
 
 St Mary's is considered to have one of the finest collections of stained glass in the country, largely brought in from elsewhere.
-![](../1shropshire/assets/images/churches/2019-03-31_12_54_19_DSC_3856_DxO.jpg)
+![](../1shropshire/assets/images/churches/2022-03-12_10_55_25_DSC_0434.jpg)
 - Sub-Image: 2021-09-10_13_13_02_DSC03004_DxO.jpg
 - Sub-Image: 2021-09-10_13_14_27_DSC03006_DxO.jpg
 - Sub-Image: 2021-09-10_13_14_41_DSC03007_DxO.jpg
@@ -2547,7 +2553,7 @@ The chancel arch is Victorian.  The pulpit is late 17th Century.  The panelling 
 The churchyard is circular and notably raised above the surrounding area.  This is thought to be an early Irish / Welsh tradition which influenced churches in later centuries, there are a few other examples of this in Shropshire.
 
 The name Stanton means stone farm or settlement in Old English (stan is a stone or rock and tun is a farmstead or settlement).  The suffix means either servant's heath or monastic community's heath.
-![](../1shropshire/assets/images/churches/2020-10-16_12_02_06_DSC_8877_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2022-03-20_15_52_54_DSC_0659.jpg)
 - Sub-Image: 2020-10-16_11_49_17_DSC_8866_DxO.jpg
 - Sub-Image: 2020-10-16_11_49_53_DSC_8867_DxO.jpg
 - Sub-Image: 2020-10-16_11_50_48_DSC_8868_DxO.jpg
@@ -2758,6 +2764,15 @@ This church is the only one in Shropshire dedicated to St Lucy (a Christian mart
 - Sub-Image: 2021-05-08_12_05_34_DSC02544_DxO.jpg
 - Sub-Image: 2021-05-08_12_06_54_DSC02547_DxO.jpg
 - Sub-Image: 2021-05-08_12_07_44_DSC02548_DxO.jpg
+
+# Name: St Michael, Waters Upton
+- Diocese: Lichfield
+- Date: 1864 AD
+
+This is one of G E Street's smaller churches in Shropshire.  It is notable because of the quality of the window tracery.  Many of the windows have 19th Century and early 20th Centiury glass which is considered to be of above avergae quality.
+
+Walter de Opton was the tenant in 1242, and upp is the Old English for 'up, higher up or upon' (and tun is the Old English for an enclosure or framstead).  So the name of the village derives from Walter de Opton's higher farm or settlement.
+![](../1shropshire/assets/images/churches/2022-03-20_07_57_16_DSC_0647.jpg)
 
 # Name: All Saints, Wellington
 - Diocese: Lichfield

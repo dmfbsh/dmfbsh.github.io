@@ -22,7 +22,7 @@ Benbow's fame and success earned him both public notoriety and a promotion to ad
 - Date: 1725 AD
 
 Robert Clive was born at Styche, the Clive family estate, near Market Drayton in Shropshire, on 29 September 1725.
-![](../1shropshire/assets/images/people/2019-06-15_12_33_54_DSC02171_DxO.jpg)
+![](../1shropshire/assets/images/people/2022-03-12_11_28_33_DSC_0441.jpg)
 
 # Name: Robert Cadman Dies, Shrewsbury
 - Date: 1739 AD

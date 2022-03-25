@@ -325,3 +325,18 @@ The reputed grave of Little Nell, the character in the Charles Dickens novel The
 
 The Eckford Sweet Pea Society of Wem held a festival each July from 1989 to 2019.  The show was held in celebration of Henry Eckford - Eckford was a Scottish horticulturist and reputedly the most famous breeder of sweet peas.  In 1888 he moved to Wem and it was in Wem that he perfected the breeding of his Grandiflora sweet peas.  He is buried at the Whitchurch Road Cemetery in Wem.
 ![](../1shropshire/assets/images/other/2019-07-21_12_41_12_DSC_4673_DxO.jpg)
+
+# Name: The Old Vicarage, Wrockwardine
+
+The Old Vicarage in Wrockwardine was built by Thomas Ore (a wealthy brewer and benefactor of the parish) in the late 18th Century.
+![](../1shropshire/assets/images/other/2022-03-13_11_40_38_DSC_0460.jpg)
+
+# Name: The Old Blacksmith Shop and War Memorial, Wrockwardine
+
+The War Memorial and the Old Blacksmith's shop in Wrockwardine, the latter dates from the 18th Century.
+![](../1shropshire/assets/images/other/2022-03-13_11_42_35_DSC_0464.jpg)
+
+# Name: Sundial, Wrockwardine
+
+The sundial, which dates from 1750 AD,  is in bronze, on a cast iron fluted column, and stands on a circular stone base.
+![](../1shropshire/assets/images/other/2022-03-13_11_46_11_DSC_0466.jpg)

@@ -616,7 +616,7 @@ Built for Abraham Darby I, the house looks out over the Upper Furnace Pool whose
 - Date: 1725 AD
 
 Robert Clive was born at Styche, the Clive family estate, near Market Drayton in Shropshire, on 29 September 1725.
-![](../1shropshire/assets/images/history/2019-06-15_12_33_54_DSC02171_DxO.jpg)
+![](../1shropshire/assets/images/history/2022-03-12_11_28_33_DSC_0441.jpg)
 
 # Name: Burford House, Burford
 - Date: 1728 AD
@@ -868,6 +868,12 @@ The Lilleshall monument was erected in 1833 and commemorates George Leveson-Gowe
 Built by Benjamin Flouders to mark the boundaries between four large estates (and possibly the occasion of his 70th birthday).
 ![](../1shropshire/assets/images/history/2019-04-19_11_58_29_DSC_4090_DxO.jpg)
 
+# Name: Music Hall, Shrewsbury
+- Date: 1840 AD
+
+The Music Hall was designed by Edward Haycock snr, it served as a music hall for 169 years.  It was then converted to the town's museum and art gallery.
+![](../1shropshire/assets/images/history/2022-03-12_11_32_15_DSC_0449.jpg)
+
 # Name: Warehouse for Coalbrookdale Comapny
 - Date: Around 1840 AD
 
@@ -1064,7 +1070,7 @@ Mining ceased in 1955.
 - Date: 1901 AD
 
 Harper Adams College is founded after Thomas Harper Adams, a wealthy Shropshire gentleman farmer who had died in 1892, bequeathed the estate.
-![](../1shropshire/assets/images/history/photo-needed.jpg)
+![](../1shropshire/assets/images/history/2022-03-20_07_32_09_DSC_0637.jpg)
 
 # Name: Titterstone Clee Hill Quarry
 - Date: Early 19th Century AD Onwards

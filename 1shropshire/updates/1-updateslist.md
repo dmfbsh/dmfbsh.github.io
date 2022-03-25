@@ -1,6 +1,30 @@
 ---
 ---
 
+## 25 Mar 2022
+Added the following item:
+
+- Waters Upton church
+- Shrewsbury Old Market Hall x 2
+- Music Hall, Shrewsbury
+- The Old Vicarage, Wrockwardine
+- The Old Blacksmith's Shop, Wrockwardine
+- The Sundial, Wrockwardine
+- The Wrekin, the Needle's Eye
+- The Wrekin, at sunrise
+
+Updated picture for Clive of India statue.
+
+Updated picture for St Mary, Shrewsbury church.
+
+Updated picture for Suttn Maddock church.
+
+Added picture for Harper Adams university.
+
+Updated picture for Stanton-upon-Hine Heath church.
+
+Updated Newport church.
+
 ## 07 Mar 2022
 Updated Lilleshall church.
 

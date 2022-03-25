@@ -1,3 +1,14 @@
+# Name: Old Market Hall
+
+TBD
+![](../1shropshire/assets/images/places/2022-03-12_11_27_37_DSC_0437.jpg)
+
+
+# Name: Old Market Hall
+
+TBD
+![](../1shropshire/assets/images/places/2022-03-12_11_32_01_DSC_0448.jpg)
+
 # Name: View from Lord Hill Column
 
 View of Shrewsbury from the top of the Lord Hill column - the column is 133ft tall and there are 172 steps.
