@@ -117,3 +117,9 @@ Wright spent his entire club career at Wolverhampton Wanderers.  He is the first
 
 Percy Thrower moved to Shrewsbury in 1946, taking the position of Parks Superintendent (the youngest to take this position).  He expected to stay only four or five years, but in fact remained in post until 1974.
 ![](../1shropshire/assets/images/people/photo-needed.jpg)
+
+# Name: Tommy Rogers Memorial, Ironbridge
+- Date: 20th April 2021 AD
+
+A memorial to Tommy Rogers is unveiled, he died in 1924 and was one of the last watermen to haul the barges and trows up the River Severn.  Tommy Rogers was grandfather to the Gorge's last coracle man, Eustace Rogers, who died in 2002.
+![](../1shropshire/assets/images/people/2022-03-27_08_17_37_DSC_0828.jpg)

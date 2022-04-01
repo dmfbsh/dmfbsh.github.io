@@ -175,6 +175,21 @@ An ancient yew tree, thought to be between 1000 and 2000 years old.
 A preaching cross in the churchyard - the present shaft and cross is probably Victorian (most likley installed when the church's chancel was rebuilt in 1865).  The base most likely dates from Saxon times.
 ![](../1shropshire/assets/images/other/2019-12-21_14_47_24_DSC_6020_DxO_bw.jpg)
 
+# Name: Patten's Quarry, Ironbridge
+
+A limestone quarry named after John Patten, lime master, who worked out of Bowyer's Yard.
+![](../1shropshire/assets/images/other/2022-03-27_07_14_24_DSC_0798.jpg)
+
+# Name: Blossom, Ironbridge
+
+TBD
+![](../1shropshire/assets/images/other/2022-03-27_08_09_02_DSC_0825.jpg)
+
+# Name: Benthall Edge Woods, Ironbridge
+
+TBD
+![](../1shropshire/assets/images/other/2022-03-27_07_25_07_DSC_0803.jpg)
+
 # Name: Flood Barriers, Ironbridge
 
 In February 2022, the flood barriers are put up - it was thought that the river might breach the barrier this year, but it didn't.
@@ -264,6 +279,11 @@ The name Ludlow means, in Old English, loud or noisy (hlud) - referring to the R
 
 Mary Webb’s formative years were spent in Much Wenlock and its people and landscape were the source of some of her literary inspiration.  In 2000, the Mary Webb Society commissioned a bronze plaque by local artist Humphrey Hallward which is sited on a piece of Wenlock stone at the rear of the Guildhall.
 ![](../1shropshire/assets/images/other/2021-10-30_16_29_01_DSC03320_DxO.jpg)
+
+# Name: Puleston Cross, Newport
+
+The Puleston Cross is the original Market or 'Butter' cross in Newport, it was put up in c.1280 in memory of Sir Roger de Pyvelesdon, who died in 1272.  The cross was probably mutilated during the Civil War.
+![](../1shropshire/assets/images/other/2022-03-19_12_50_01_DSC_0547.jpg)
 
 # Name: Yew Tree, Norbury
 

@@ -1,7 +1,7 @@
 ---
 ---
 
-## 25 Mar 2022
+## 01 Apr 2022
 Added the following item:
 
 - Waters Upton church
@@ -12,6 +12,12 @@ Added the following item:
 - The Sundial, Wrockwardine
 - The Wrekin, the Needle's Eye
 - The Wrekin, at sunrise
+- Puleston Cross, Newport
+- Benthall Edge Woods, Ironbridge
+- Blossom, Ironbridge
+- Patten's Quarry, Ironbridge
+- Tommy Rogers, Ironbridge
+- Railway Gates, Jackfield
 
 Updated picture for Clive of India statue.
 

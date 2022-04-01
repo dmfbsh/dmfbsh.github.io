@@ -940,6 +940,12 @@ There were great celebrations in the town when the station was opened.  Original
 The neo-Jacobean station is the only listed station on the SVR.
 ![](../1shropshire/assets/images/history/2019-02-02_14_48_34_DSC_3197_DxO.jpg)
 
+# Name: Jackfield Railway Gates
+- Date: 1862 AD
+
+The railway gates, located north-west of Calcutts House in Jackfield, were installed in 1862 as part of the Severn Valley Railway, which was opened on the 3rd January of the same year.  The railway was taken over by the Great Western Railway in 1863.  The gates are described as 'unusually large level crossing gates, which spanned sidings as well as the main running line', and are thought to be now the largest surviving in the UK.
+![](../1shropshire/assets/images/history/2022-03-27_06_23_51_DSC_0775.jpg)
+
 # Name: Royal Shrewsbury School Boat Club
 - Date: 1866 AD
 
@@ -1240,3 +1246,9 @@ The cooling towers of the Ironbridge power station are demolished to make way fo
 
 People across the county, like the rest of the country, commemorated the 75th Anniversary of Victory in Europe day by staying at home and living under the restrictions imposed due to the coronavirus pandemic.
 ![](../1shropshire/assets/images/history/2020-05-08_17_03_56_DSC02443_DxO.jpg)
+
+# Name: Tommy Rogers Memorial, Ironbridge
+- Date: 20th April 2021 AD
+
+A memorial to Tommy Rogers is unveiled, he died in 1924 and was one of the last watermen to haul the barges and trows up the River Severn.  Tommy Rogers was grandfather to the Gorge's last coracle man, Eustace Rogers, who died in 2002.
+![](../1shropshire/assets/images/history/2022-03-27_08_17_37_DSC_0828.jpg)

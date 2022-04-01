@@ -1950,11 +1950,11 @@ The name Myndtown literally means place or town by the mynd (mountain).  Myndtow
 - Diocese: Lichfield
 - Date: 12th Century AD
 
-Although the church dates back to the 12th Century, virtually nothing from this time survives.  The tower wad the first part to be rebuilt, which was done in 1360.
+Although the church dates back to the 12th Century, virtually nothing from this time survives.  The tower was the first part to be rebuilt, which was done in 1360.
 
 1n 1432 a licence was obtained to found a chantry with two priests, ten years later a college was established with a master and four chaplains.  The college was dissolved in 1547.
 
-In the 1720s a north aisle and chancel were built.  These were replaced by the extensive rebuilding in the following century.  The chancel was rebuilt in 1886 by E Haycock jun., John Norton rebuilt the nave and south aisle in 1883-85, the north aisle in 1890-91 and the south porch in 1904.  So, externally the building is a medieval west tower and a Victorian church (both of red sandstone).
+In the 1720s the north aisle and the chancel were built.  These were replaced by the extensive rebuilding in the following century.  The chancel was rebuilt in 1886 by E Haycock jun., John Norton rebuilt the nave and south aisle in 1883-85, the north aisle in 1890-91 and the south porch in 1904.  So, externally the building is a medieval west tower and a Victorian church (both of red sandstone).
 
 There is an alabaster tomb chest of c. 1520.  The font is dated 1660.  There is some notable stained glass, in the south chapel, the glass is by Kempe and in the chancel, the south window is by Burne-Jones and Ford Madox Brown.
 
