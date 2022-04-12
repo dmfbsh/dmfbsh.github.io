@@ -1960,6 +1960,27 @@ There is an alabaster tomb chest of c. 1520.  The font is dated 1660.  There is 
 
 The name of the town means 'new market town' in Old English.
 ![](../1shropshire/assets/images/churches/2022-03-19_12_52_08_DSC_0550.jpg)
+- Sub-Image: 2022-03-19_12_07_37_DSC_0467.jpg
+- Sub-Image: 2022-03-19_12_11_35_DSC_0470.jpg
+- Sub-Image: 2022-03-19_12_12_20_DSC_0471.jpg
+- Sub-Image: 2022-03-19_12_14_23_DSC_0477-Edit-001.jpg
+- Sub-Image: 2022-03-19_12_15_16_DSC_0479.jpg
+- Sub-Image: 2022-03-19_12_16_41_DSC_0483.jpg
+- Sub-Image: 2022-03-19_12_22_19_DSC_0493.jpg
+- Sub-Image: 2022-03-19_12_22_52_DSC_0494.jpg
+- Sub-Image: 2022-03-19_12_25_00_DSC_0497.jpg
+- Sub-Image: 2022-03-19_12_26_20_DSC_0500.jpg
+- Sub-Image: 2022-03-19_12_28_30_DSC_0506.jpg
+- Sub-Image: 2022-03-19_12_29_32_DSC_0508.jpg
+- Sub-Image: 2022-03-19_12_30_00_DSC_0509.jpg
+- Sub-Image: 2022-03-19_12_31_01_DSC_0511.jpg
+- Sub-Image: 2022-03-19_12_32_50_DSC_0515.jpg
+- Sub-Image: 2022-03-19_12_33_33_DSC_0518.jpg
+- Sub-Image: 2022-03-19_12_40_27_DSC_0533.jpg
+- Sub-Image: 2022-03-19_12_40_51_DSC_0534.jpg
+- Sub-Image: 2022-03-19_12_41_14_DSC_0535.jpg
+- Sub-Image: 2022-03-19_12_43_45_DSC_0536.jpg
+- Sub-Image: 2022-03-19_12_44_32_DSC_0537.jpg
 
 # Name: King Charles the Martyr, Newtown
 - Diocese: Lichfield
@@ -2304,6 +2325,52 @@ The place name likely derives from the fact it is situated on an area of relativ
 - Sub-Image: 2020-03-21_11_09_12_DSC_6847_DxO.jpg
 - Sub-Image: 2020-03-21_11_10_09_DSC_6848_DxO.jpg
 - Sub-Image: 2020-03-21_11_14_35_DSC_6852_DxO.jpg
+
+# Name: St Andrew, Shifnal
+- Diocese: Lichfield
+- Date: Pre-13th Century AD
+
+Shifnal was an important ecclesiastical centre in Saxon times, and it was a minster of an extensive Saxon parish.  In the Domesday Book, the settlement was known as Iteshale and later became Idshall.  The name Shifnal came into use in the 14th Century and over time replaced the previous name.  In the 12th Century, the church was acquired by Shrewsbury Abbey.
+
+The main part (nave, porch, aisles, transepts and tower) of the present building is Early English (13th Century), and there are some remains of the earlier Norman church.  The chancel and south chapel were built during the Decorated era.  The Norman chancel ended where the communion rails are now.
+
+The south porch is a two-storey structure.
+
+The chancel arch is Norman and round-headed, on of west side of the arch is some dogtooth decoration.  Above the dogtooth is an unusual Norman carving, which Cranage notes ‘It appears to be a fruit-bearing twisted branch coming out of the mouth of a human head.  There is a large finial above.’
+
+The hammer-beam roofs are 16th Century, as the original roof was damaged in an extensive fire in Shifnal in 1591.
+
+The font is Victorian as are the west window of the nave and the east window of the chancel.  The pulpit is Jacobean.  There are some notable memorials - Olive Briggs (d. 1596), an alabaster effigy on a tomb chest, Humphry Briggs (d. 1626) and his wife, again effigies on a tomb chest, Thomas Forster (priest, d. 1526) in a tomb recess and a bust of Magdalen  Briggs (d. 1598).
+
+The name of the settlement means Scuffa's nook of land.  It was also known as Iddeshale, Idi's nook of land.  Halh is nook of land in Anglian.
+![](../1shropshire/assets/images/churches/2022-03-26_10_51_44_DSC_0748.jpg)
+- Sub-Image: 2022-03-26_10_13_02_DSC_0664.jpg
+- Sub-Image: 2022-03-26_10_14_50_DSC_0670.jpg
+- Sub-Image: 2022-03-26_10_16_57_DSC_0674.jpg
+- Sub-Image: 2022-03-26_10_18_36_DSC_0678.jpg
+- Sub-Image: 2022-03-26_10_19_14_DSC_0679.jpg
+- Sub-Image: 2022-03-26_10_20_43_DSC_0682.jpg
+- Sub-Image: 2022-03-26_10_21_48_DSC_0684.jpg
+- Sub-Image: 2022-03-26_10_23_19_DSC_0687.jpg
+- Sub-Image: 2022-03-26_10_24_01_DSC_0689.jpg
+- Sub-Image: 2022-03-26_10_25_30_DSC_0693.jpg
+- Sub-Image: 2022-03-26_10_27_07_DSC_0697.jpg
+- Sub-Image: 2022-03-26_10_27_25_DSC_0698.jpg
+- Sub-Image: 2022-03-26_10_28_13_DSC_0700.jpg
+- Sub-Image: 2022-03-26_10_28_52_DSC_0703.jpg
+- Sub-Image: 2022-03-26_10_30_54_DSC_0710.jpg
+- Sub-Image: 2022-03-26_10_32_02_DSC_0711.jpg
+- Sub-Image: 2022-03-26_10_32_18_DSC_0712.jpg
+- Sub-Image: 2022-03-26_10_33_22_DSC_0715.jpg
+- Sub-Image: 2022-03-26_10_33_52_DSC_0717.jpg
+- Sub-Image: 2022-03-26_10_34_44_DSC_0719.jpg
+- Sub-Image: 2022-03-26_10_37_37_DSC_0723.jpg
+- Sub-Image: 2022-03-26_10_37_54_DSC_0725.jpg
+- Sub-Image: 2022-03-26_10_38_53_DSC_0728.jpg
+- Sub-Image: 2022-03-26_10_39_13_DSC_0729.jpg
+- Sub-Image: 2022-03-26_10_44_33_DSC_0731.jpg
+- Sub-Image: 2022-03-26_11_06_01_DSC_0763.jpg
+- Sub-Image: 2022-03-26_11_07_30_DSC_0766.jpg
 
 # Name: St James, Shipton
 - Diocese: Hereford

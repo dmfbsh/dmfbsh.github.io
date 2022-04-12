@@ -1,8 +1,24 @@
 ---
 ---
 
-## 01 Apr 2022
+## 12 Apr 2022
 Added the following item:
+
+- Shifnal church
+
+## 03 Apr 2022
+Added the following items:
+
+- Old Idsall House, Shifnal
+
+- War Memorial, Shifnal
+
+- Blossom x 3, Benthall Hall
+
+Re-arrange the Other page.
+
+## 01 Apr 2022
+Added the following items:
 
 - Waters Upton church
 - Shrewsbury Old Market Hall x 2

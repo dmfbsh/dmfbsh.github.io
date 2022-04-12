@@ -8,8 +8,19 @@ title: Other Pictures of Shropshire
 {% assign numrecs = 0 %}
 
 {% for item in site.data.Shropshire_Notebook-Other %}
-  {% assign numrecs = numrecs | plus: 1 %}
+  {% if item.Type == "Year" %}
+    {% if orientation == "left" %}
+    <div class="col-md-6">
+    </div>
+    </div>
+    </div>
+    </div>
+    {% endif %}
+    <h2>{{ item.Year }}</h2>
+    {% assign orientation = "right" %}
+  {% endif %}
   {% if item.Type == "Item" %}
+    {% assign numrecs = numrecs | plus: 1 %}
     {% if orientation == "left" %}
       {% assign orientation = "right" %}
 <div class="col-md-6">
