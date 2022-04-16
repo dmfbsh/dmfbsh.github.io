@@ -1,6 +1,18 @@
 ---
 ---
 
+## 16 Apr 2022
+Updated Withington church.
+
+Updated Buildwas church.
+
+Added the following items:
+
+- Votes for Women, Coalbrookdale
+- Restoration Works, Ironbridge
+- Sunnycroft Conservatory
+- St Milburga's Well, Much Wenlock
+
 ## 12 Apr 2022
 Added the following item:
 

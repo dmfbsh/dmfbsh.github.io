@@ -397,3 +397,10 @@ Hafren is the Welsh Goddess of the river Severn (Latin name is Sabrina).
 
 The pleasure craft called Sabrina provides boat trips in Shrewsbury from the Victoria Quays round the Severn loop to the English bridge and back.
 ![](../1shropshire/assets/images/other/2013-08-03_16_03_01_DSC_0018_DxO.jpg)
+
+# 2005
+
+## Name: Conservatory at Sunnycroft, Wellington
+
+Built in 1899AD, the conservatory is now one of only two known examples of its kind still standing, built by R Halliday & Co.  The Halliday conservatory would have been a state of the art horticultural as well as architectural masterpiece, a statement of great pride for Mrs Slaney (Sunnycroft's owner) who grew prize-winning exotic ferns (most likely in the conservatory).  She is listed as a member of the Shropshire Horticultural Society in 1906 and programmes for the Royal Agricultural Society’s (Shrewsbury) show and Shrewsbury Flower Show of 1914 are in Sunnycroft’s archive. Mrs Slaney’s gardener Mr Stevenson regularly displayed and won first and second prizes for exotic ferns in August each year at the Shropshire Horticultural Association Show, as recorded in the Gardener’s Chronicle in 1894, 1897, 1900, 1901 and 1906.
+![](../1shropshire/assets/images/other/2005-05-22 13-50-03_00002051.jpg)

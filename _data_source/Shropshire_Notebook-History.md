@@ -1223,11 +1223,23 @@ Built using authentic Roman techniques by a team of 21st Century builders and lo
 The flag of Shropshire was registered in March 2012.
 ![](../1shropshire/assets/images/history/flag.png)
 
+# Name: Votes for Women, Coalbrookdale
+- Date: 2018 AD
+
+6 February 2018 marked 100 years since the passing of the Representation of the People Act 1918, which allowed women to vote in parliamentary elections for the first time.  To commemorate this an art installation was created in Coalbrookdale.
+![](../1shropshire/assets/images/history/2018-03-25_12_22_47_IMG_4805.jpg)
+
 # Name: Telford 50th Anniversary
 - Date: 2018 AD
 
 The new town of Telford celebrates its 50th anniversary.
 ![](../1shropshire/assets/images/history/2019-02-17_12_20_42_DSC_3389_DxO.jpg)
+
+# Name: Bridge Restoration, Ironbridge
+- Date: January 2018 AD
+
+Local residents are invited to view the works being undertaken.
+![](../1shropshire/assets/images/history/2018-01-07_12_50_46_IMG_4715.jpg)
 
 # Name: Bridge Restoration, Ironbridge
 - Date: December 2018 AD

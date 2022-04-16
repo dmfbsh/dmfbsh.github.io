@@ -494,8 +494,22 @@ The village of Buildwas has been recognised since 1086 as the first reference to
 
 There has been a church on the present site since medieval times, the present church dates from 1720.  The chancel was rebuilt in 1864, a painting from 1790 shows a shorter western turret with a flatter pyramid top - the present timber-framed belfry probably also dates from 1864.
 
-Within the church are memorial tablets to members of two local families who were closely linked to the Industrial Revolution.  In the churchyard, there are some unusual cast iron headstones and tombstones, which were cast locally.
+Within the church are memorial tablets to members of two local families who were closely linked to the Industrial Revolution, including the Smithemans, who owned the site of Abraham Darby's first furnace in Coalbrookdale.  The pulpit is a fine Jacobean example.  The east window dates from 1864 and depicts scenes from the life of Christ.
+
+In the churchyard, there are some unusual cast iron headstones and tombstones, which were cast locally.
 ![](../1shropshire/assets/images/churches/2020-07-19_15_28_15_DSC_7461_DxO_1.jpg)
+- Sub-Image: 2022-04-16_13_51_54_DSC_1081.jpg
+- Sub-Image: 2022-04-16_13_53_39_DSC_1084.jpg
+- Sub-Image: 2022-04-16_14_02_59_DSC_1087.jpg
+- Sub-Image: 2022-04-16_14_04_25_DSC_1090.jpg
+- Sub-Image: 2022-04-16_14_05_10_DSC_1092.jpg
+- Sub-Image: 2022-04-16_14_05_22_DSC_1093.jpg
+- Sub-Image: 2022-04-16_14_06_41_DSC_1095.jpg
+- Sub-Image: 2022-04-16_14_08_34_DSC_1097.jpg
+- Sub-Image: 2022-04-16_14_08_50_DSC_1098.jpg
+- Sub-Image: 2022-04-16_14_09_31_DSC_1099.jpg
+- Sub-Image: 2022-04-16_14_10_18_DSC_1101.jpg
+- Sub-Image: 2022-04-16_14_13_03_DSC_1107.jpg
 
 # Name: St Mary, Burford
 - Diocese: Hereford
@@ -2966,7 +2980,16 @@ The chancel has a trussed rafter roof with a collar beam added and the nave has 
 
 The place name derives from the Old English word for growing with willows / made of withies (widigen) and farm or settlement (tun).
 ![](../1shropshire/assets/images/churches/2021-04-10_15_00_07_DSC_9399_DxO_1.jpg)
-
+- Sub-Image: 2022-04-14_13_26_45_DSC_1044.jpg
+- Sub-Image: 2022-04-14_13_29_33_DSC_1048.jpg
+- Sub-Image: 2022-04-14_13_30_00_DSC_1049.jpg
+- Sub-Image: 2022-04-14_13_30_25_DSC_1050.jpg
+- Sub-Image: 2022-04-14_13_31_26_DSC_1053.jpg
+- Sub-Image: 2022-04-14_13_32_33_DSC_1056.jpg
+- Sub-Image: 2022-04-14_13_34_30_DSC_1062.jpg
+- Sub-Image: 2022-04-14_13_36_56_DSC_1065.jpg
+- Sub-Image: 2022-04-14_13_37_14_DSC_1066.jpg
+- Sub-Image: 2022-04-14_13_38_59_DSC_1068.jpg
 
 # Name: St Peter, Wrockwardine
 - Diocese: Lichfield
