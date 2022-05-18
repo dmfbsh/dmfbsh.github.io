@@ -610,7 +610,7 @@ Abraham Darby I successfully produces pig iron in a blast furnace fuelled by cok
 - Date: 1717 AD
 
 Built for Abraham Darby I, the house looks out over the Upper Furnace Pool whose outflow powered his blast furnace.
-![](../1shropshire/assets/images/history/2015-07-25_14_46_00_DSC_0028_DxO.jpg)
+![](../1shropshire/assets/images/history/2022-04-19_11_02_22_DSC_1157.jpg)
 
 # Name: Clive of India Born
 - Date: 1725 AD
@@ -653,6 +653,12 @@ The Bedlam Furnaces were built by the Madeley Wood Furnace Company between 1757 
 # Header: 1760 AD to 1840 AD
 
 ## The Industrial Revolution
+
+# Name: The Quaker Burial Ground, Coalbrookdale
+- Date: 1763 AD
+
+The first Abraham Darby (who introduced the use of coke pig iron as a feedstock for blast furnaces) was buried at Broseley in 1717.  His son, Abraham Darby II (who introduced the use of coke pig iron as a feedstock for finery furnaces), left provision for a piece of land in Coalbrookdale 'inclosed by a brick wall...for a burial place for such Friends who shall choose to be buried there...' - was the first to be interred there in 1763.  Also buried there are Abraham Darby III (builder of the Iron Bridge) and other influential members of the Society of Friends (such as Williams Reynolds).
+![](../1shropshire/assets/images/history/2022-04-19_10_58_22_DSC_1155.jpg)
 
 # Name: Town Hall, Bishop's Castle
 - Date: 1765 AD

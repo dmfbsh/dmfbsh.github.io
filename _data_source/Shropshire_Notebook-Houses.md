@@ -100,7 +100,7 @@ Now a museum, little is actually known of the origin and history of the building
 - Date: 1717 AD
 
 Built for Abraham Darby I, the house looks out over the Upper Furnace Pool whose outflow powered his blast furnace.
-![](../1shropshire/assets/images/houses/2015-07-25_14_46_00_DSC_0028_DxO.jpg)
+![](../1shropshire/assets/images/houses/2022-04-19_11_02_22_DSC_1157.jpg)
 
 # Name: Burford House, Burford
 - Date: 1728 AD

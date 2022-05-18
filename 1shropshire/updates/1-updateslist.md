@@ -1,6 +1,35 @@
 ---
 ---
 
+## 15 May 2022
+Updated Ironbridge church.
+
+Updated Hope Bowdler church.
+
+Updated Cleobury Mortimer church.
+
+Updated picture for Dale House, Coalbrookdale
+
+Added the following items:
+
+- Benthall Hall x 4
+- Montford church
+- Lydebrook Dingle, Coalbrookdale
+- Merrythought, Jubilee Bear
+- Power Station Turbine Hall, Ironbridge
+- Ironbridge (other)
+- Bowyer Yard Lime Kilns, Ironbridge
+- The Quaker Burial Ground, Coalbrookdale
+- Rosehill House, Coalbrookdale (second picture for Other) x 2
+- Miscellaneous Coalbrookdale x 5
+- Eaton-under-Heywood church
+
+## 22 Apr 2022
+Added the following items:
+
+- Workhouse, Tiddicross
+- Bus Shelter, Cross Houses
+
 ## 16 Apr 2022
 Updated Withington church.
 
