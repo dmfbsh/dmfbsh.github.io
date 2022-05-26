@@ -1,6 +1,13 @@
 ---
 ---
 
+## 26 May 2022
+Updated Bridgnorth church.
+
+Added the following items:
+
+- Culmington church
+
 ## 15 May 2022
 Updated Ironbridge church.
 

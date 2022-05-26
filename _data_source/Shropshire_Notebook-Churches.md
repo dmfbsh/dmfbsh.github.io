@@ -9,7 +9,8 @@ It features a corbel-table with many grotesque carvings (a corbel-table is a con
 The font is considered to be the finest Early English font in Shropshire.  In the south wall of the chancel is a double piscina.  In the north transept are medieval encaustic tiles and some impressive monuments.  The tomb chest is to Sir Nicholas Burnell (died 1382), on it is what is considered to be the finest memorial brass in Shropshire.  The other large monuments are to Sir Richard Lee (died 1591) and Sir Humphrey Lee (died 1632).
 
 Acton generally means 'settlement (farm or estate) by the oaks' and this estate belonged to Robert Burnell an English bishop who served as Lord Chancellor of England from 1274 to 1292.
-![](../1shropshire/assets/images/churches/2018-06-11_15_20_23_DSC_2625_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2021-10-29_15_51_44_DSC03255.jpg)
+
 - Sub-Image: 2021-10-29_15_15_51_DSC03202_DxO.jpg
 - Sub-Image: 2021-10-29_15_17_00_DSC03204_DxO.jpg
 - Sub-Image: 2021-10-29_15_17_48_DSC03206_DxO.jpg
@@ -32,7 +33,8 @@ This is a church that has suffered at the hands of 19th Century restorers.  Much
 Acton generally means 'settlement (farm or estate) by the oaks' and the 'Scott' originates from the medieval name Reynold le. Scot who held a share in the manor in 1255.
 
 The settlement was registered as Actune in the Domesday Book.
-![](../1shropshire/assets/images/churches/2019-07-13_09_45_21_DSC_4603_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2019-07-13_09_49_33_DSC_4604.jpg)
+
 - Sub-Image: 2019-07-13_09_52_11_DSC_4607_DxO.jpg
 - Sub-Image: 2019-07-13_09_53_10_DSC_4609_DxO.jpg
 
@@ -410,10 +412,21 @@ During the Civil War the Parliamentarians used the church to store ammunition, t
 - Diocese: Hereford
 - Date: 1792 - 1795 AD
 
-The church was designed by Thomas Telford.
+In 1086 AD Roger de Montgomery founded a collegiate church at Quatford which was transferred to Bridgnorth in 1101 AD.  A Castle was built and the first church of St Mary Magdalene was the chapel of the castle.  A later medieval church was built, but by the late 18th Century this church was in a state of disrepair.  Thomas Telford (who had correctly predicted the collapse of St Chad's) examined the church and advised that it be completely rebuilt.
+
+Telford was commissioned to design the new church.
 
 It is aligned north-south, rather than the more usual west-east.
-![](../1shropshire/assets/images/churches/2019-09-21_15_16_30_DSC_5116_DxO.jpg)
+
+The name of the town derives from the Old English brycg (a bridge or causeway) and noro (northern or north).
+![](../1shropshire/assets/images/churches/2022-05-20_15_34_14_DSC_1828_HDR.jpg)
+- Sub-Image: 2022-05-20_15_44_55_DSC_1849.jpg
+- Sub-Image: 2022-05-20_15_45_31_DSC_1852.jpg
+- Sub-Image: 2022-05-20_15_46_07_DSC_1855.jpg
+- Sub-Image: 2022-05-20_15_46_27_DSC_1858.jpg
+- Sub-Image: 2022-05-20_15_49_38_DSC_1870.jpg
+- Sub-Image: 2022-05-20_15_52_08_DSC_1882.jpg
+- Sub-Image: 2022-05-20_15_52_25_DSC_1885.jpg
 
 # Name: St Mary the Virgin, Bromfield
 - Diocese: Hereford
@@ -941,6 +954,49 @@ The octagonal pulpit is made of panelling from St Samson's church (the old medie
 
 Crudgington is mentioned in the Domesday Book, where it is called Crugetone.  The name derives from the old English of the village (tun) by the hill-hill, presumably referring to its proximity to the Wrekin.
 ![](../1shropshire/assets/images/churches/2020-02-02_11_58_18_DSC_6336_DxO_bw.jpg)
+
+# Name: All Saints, Culmington
+- Diocese: Hereford
+- Date: 11th Century
+
+In the Domesday Book the settlement is recorded as Comintone and was held by wild Edric from Roger de Montgomery.
+
+The nave is unusual in that there is herringbone masonry in both the north and south walls indicating a date of late Saxon or early Norman (1050 AD to 1125 AD).  The chancel was extended a century later.
+
+The tower is 13th Century, the lower part of the spire was added about a century later, but was never completed.  The present top was added in the 1960s, put in place with a helicopter, and replaced a lead cap which had become porous.
+
+The windows are mainly 14th Century, although two small windows in the nave are 11th Century and the east window is of about 1865 (when there was a major restoration).
+
+The unusual roof structure is probably late medieval (1500 AD).  The rood screen dates from the 15th Century and has survived the Reformation in 1534 and later restorations.
+
+There are two fonts, one Victorian, the other Norman (circa 1150 AD) which came from Burwarton church when it closed.  There are also two piscinas, one is a particularly fine example of a double piscina.
+
+There are remains of wall-paintings from the 16th or 17th Century which depict the 10 commandments.  The stained glass in the aisle is considered to be particularly good, it depicts St Michael and a Christian soldier (made in 1901 and given in memory of a Captain killed in the Boer War).
+
+Many of the monuments are to the family who were Lords of the Manor of Culmington.  The three bells were recast by Thomas Clibury of Wellington, one in 1629 and the other two in 1663.
+
+The origin of name of the settlement is uncertain, but most likely derives from Culm (Old English for winding river as the river Corve is close and may have been called Culm (from the Welsh)) and the Old English 'ingtun' meaning 'a farm / settlement called after or connected with', so is the settlement of dwellers on the Culm.
+![](../1shropshire/assets/images/churches/2022-05-21_12_55_42_DSC_1996-Edit-001_HDR.jpg)
+- Sub-Image: 2022-05-21_12_25_28_DSC_1918.jpg
+- Sub-Image: 2022-05-21_12_26_22_DSC_1921.jpg
+- Sub-Image: 2022-05-21_12_27_50_DSC_1924_HDR.jpg
+- Sub-Image: 2022-05-21_12_30_12_DSC_1927.jpg
+- Sub-Image: 2022-05-21_12_30_42_DSC_1930.jpg
+- Sub-Image: 2022-05-21_12_31_08_DSC_1933.jpg
+- Sub-Image: 2022-05-21_12_31_49_DSC_1936.jpg
+- Sub-Image: 2022-05-21_12_32_31_DSC_1939_HDR.jpg
+- Sub-Image: 2022-05-21_12_33_19_DSC_1942_HDR.jpg
+- Sub-Image: 2022-05-21_12_34_05_DSC_1945.jpg
+- Sub-Image: 2022-05-21_12_34_45_DSC_1948_HDR.jpg
+- Sub-Image: 2022-05-21_12_35_42_DSC_1954_HDR.jpg
+- Sub-Image: 2022-05-21_12_36_00_DSC_1957.jpg
+- Sub-Image: 2022-05-21_12_37_52_DSC_1963_HDR.jpg
+- Sub-Image: 2022-05-21_12_41_49_DSC_1969.jpg
+- Sub-Image: 2022-05-21_12_44_22_DSC_1972.jpg
+- Sub-Image: 2022-05-21_12_48_21_DSC_1978_HDR.jpg
+- Sub-Image: 2022-05-21_12_49_06_DSC_1981.jpg
+- Sub-Image: 2022-05-21_12_49_48_DSC_1984.jpg
+- Sub-Image: 2022-05-21_12_52_30_DSC_1987.jpg
 
 # Name: St Peter, Diddlebury
 - Diocese: Hereford
@@ -2970,7 +3026,7 @@ This was the first Shropshire church to introduce an entrance front in the form 
 
 There is mention of a priest at the site in the Domesday book.  The origin of the name of the town is uncertain, but is likely to mean farm or settlement of a Saxon settler - Weola.
 Note: Have been inside this church, but do not have any interior photos.
-![](../1shropshire/assets/images/churches/2020-07-26_17_00_10_DSC_7577_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2020-07-26_17_00_10_DSC_7577.jpg)
 - Sub-Image: photo-needed.jpg
 
 # Name: Christ Church, Wellington
@@ -2991,7 +3047,7 @@ The present church was preceeded by a Saxon or Norman church, a medieval buildin
 Welshampton is recorded in the Domesday book as Hantone, meaning high farm or settlement.  The prefix 'Welsh' is a reflection of its proximity to Flintshire.
 
 An African prince is buried in the churchyard - the then vicar was as offered a post in Lesotho, which he turned down but maintained contact with the country.  The prince came to England to train as a priest and visited Welshampton when the new church was consecrated in 1863, but during the visit he caught a fever and died and so was buried at the church.
-![](../1shropshire/assets/images/churches/2019-07-21_13_20_12_DSC_4685_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2019-07-21_13_20_12_DSC_4685.jpg)
 
 # Name: St Peter & St Paul, Wem
 - Diocese: Lichfield
@@ -3067,7 +3123,7 @@ The present church was built on the same site, this time of red sandstone.
 The medieval church associated with the castle is long gone and was replaced in the 18th Century by the present building.  The tower was built in 1747 and the nave followed in 1804.  Further changes to the building were made in 1894.
 
 Whittington was once a place of some importance.  The Welsh form of the place name is Drefwen, which means white homestead.  The English form of the name, Wittone, also means white homestead.
-![](../1shropshire/assets/images/churches/2020-06-20_13_20_00_DSC_7266_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2020-06-20_13_20_00_DSC_7266.jpg)
 
 # Name: St John the Baptist, Withington
 - Diocese: Lichfield
@@ -3084,7 +3140,8 @@ The church is noted for its 16th Century brasses.
 The chancel has a trussed rafter roof with a collar beam added and the nave has a collar roof over.
 
 The place name derives from the Old English word for growing with willows / made of withies (widigen) and farm or settlement (tun).
-![](../1shropshire/assets/images/churches/2021-04-10_15_00_07_DSC_9399_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2021-04-10_15_00_07_DSC_9399.jpg)
+
 - Sub-Image: 2022-04-14_13_26_45_DSC_1044.jpg
 - Sub-Image: 2022-04-14_13_29_33_DSC_1048.jpg
 - Sub-Image: 2022-04-14_13_30_00_DSC_1049.jpg
@@ -3173,7 +3230,8 @@ The place name is a ‘Roman site called Uricon’.  This was the capital of the
 Yockleton became a parish in it's own right in the 19th Century, and those who lived in Yockleton and the surrounding areas decided to build their own Church.  The land on which the Church stands was donated by Col. Wingfield of Onslow, a local landowner.
 
 The Church is built of grey Alberbury stone with insets of pink Grinshill and pale Cardeston stone.
-![](../1shropshire/assets/images/churches/2020-03-14_12_31_55_DSC_6763_DxO_bw.jpg)
+![](../1shropshire/assets/images/churches/2020-03-14_12_31_55_DSC_6763.jpg)
+
 - Sub-Image: 2020-03-14_12_35_10_DSC_6767_DxO.jpg
 - Sub-Image: 2020-03-14_12_36_30_DSC_6768_DxO.jpg
 - Sub-Image: 2020-03-14_12_37_11_DSC_6770_DxO.jpg
