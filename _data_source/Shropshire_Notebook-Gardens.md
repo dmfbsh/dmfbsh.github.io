@@ -26,7 +26,7 @@ During the 19th Century, Hawkstone Park and Follies was one of the most visited 
 Richard Hill, King and Queen's Diplomat and Lord of the Treasury, inherited the estate in 1700.  Travels to the continent inspired him to make changes to Hawkstone - over the next 100 years the grounds were shaped with new terraces, tree lined walks, shell encrusted grotto and various Follies for visitors to explore.  Visitor numbers grew throughout the late 1700s and by 1800 Hawkstone was famous.
 
 The grounds continued to be added to through the 1800s with new specimens of plants from all over the World.  However, the expanding estate began to exceed the family's finances, and in 1894 the last member of the Hill family to own Hawkstone was declared bankrupt.
-![](../1shropshire/assets/images/gardens/2009-05-25_14-37-32_00006539_DxO_L.jpg)
+![](../1shropshire/assets/images/gardens/2009-05-25_14-37-32_00006539.jpg)
 
 # Name: Hodnet Hall Gardens
 
@@ -51,4 +51,4 @@ Formerly the brick walled kitchen garden of Millichope Park - the walled garden 
 # Name: Wollerton Old Hall Garden
 
 A 4 acre garden set around the 16th Century Hall.
-![](../1shropshire/assets/images/gardens/2003-08-01_09-49-05_00001451_DxO.jpg)
+![](../1shropshire/assets/images/gardens/2022-06-02_14_36_16_DSC_2270.jpg)

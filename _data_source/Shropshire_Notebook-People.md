@@ -116,7 +116,7 @@ Wright spent his entire club career at Wolverhampton Wanderers.  He is the first
 - Date: 1946 AD
 
 Percy Thrower moved to Shrewsbury in 1946, taking the position of Parks Superintendent (the youngest to take this position).  He expected to stay only four or five years, but in fact remained in post until 1974.
-![](../1shropshire/assets/images/people/photo-needed.jpg)
+![](../1shropshire/assets/images/people/2022-06-04_15_54_57_DSC_2339.jpg)
 
 # Name: Tommy Rogers Memorial, Ironbridge
 - Date: 20th April 2021 AD

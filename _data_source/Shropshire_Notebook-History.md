@@ -292,7 +292,7 @@ During the 12th Century the Marcher lordships emerge as almost independent state
 Established by Robert de Say after the Norman invasion, Clun Castle was an important Marcher lord castle in the 12th Century.
 
 Clun played a key part in protecting the region from Welsh attack, but the family (Fitzalan) gradually abandoned it as a property in favour of their more luxurious castle at Arundel.  The family converted the castle into a hunting lodge in the 14th Century, but by the 16th Century the castle was largely ruined.
-![](../1shropshire/assets/images/history/2018-06-30_15_25_44_DSC_2668_DxO_1.jpg)
+![](../1shropshire/assets/images/history/2018-06-30_15_18_23_DSC_2651.jpg)
 
 # Name: Haughmond Abbey
 - Date: 12th Century AD
@@ -489,6 +489,12 @@ The present house was built for Adam Ottley, a Shrewsbury wool merchant, and pos
 
 Built on the site of what was probably a 12th Century manor for the Benthall family.  The hall was garrisoned during the English Civil War and was the site of several skirmishes.
 ![](../1shropshire/assets/images/history/2016-04-23_12_22_06_DSC00313_DxO.jpg)
+
+# Name: Wilderhope Manor
+- Date: 1585 AD
+
+The manor was built for Francis Smallman and remained in the family until 1734 when the estate was sold to Thomas Lutwyche..  It is believed that the manor house was not used as a main residence after the sale in 1734 and by 1936 was in a poor state and unoccupied.  It was donated to the National Trust on the condition it was used as Youth Hostel.
+![](../1shropshire/assets/images/houses/2022-06-12_15_20_27_DSC_2699.jpg)
 
 # Name: Shipton Hall
 - Date: 1587 AD
@@ -798,7 +804,7 @@ Viewpoint and site of the Rotunda, which was a folly built by Richard Reynolds (
 - Date: 1802 AD
 
 Designed by John Nash, it is thought to be the earliest Italianate villa in England.  It was built for Francis Walford, a friend of the 2nd Baron Berwick an agent for the Berwick's Attingham estates.
-![](../1shropshire/assets/images/history/2006-04-09 15-38-35_00003183_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2006-04-09 15-38-35_00003183_DxO.jpg)
 
 # Name: Canal Company, Ellesmere - Beech House
 - Date: circa 1806 AD
@@ -841,6 +847,12 @@ Made of cast-iron, this bridge was part of an expanding network of bridges built
 
 Cantlop Bridge is the only Telford-approved cast-iron bridge remaining in situ in Shropshire.
 ![](../1shropshire/assets/images/history/2020-03-01_14_57_25_DSC_6666_DxO.jpg)
+
+# Name: Bridge, Coalport
+- Date: 1818 AD
+
+The first crossing of the river at Coalport was based on timber framed arches built on stone abutments and opened in 1780.  The opening was played down to not overshadow the showcase iron bridge further up the river.  The wooden bridge was destroyed by flooding in 1795.  The bridge was rebuilt in 1799, with brick, timber and cast iron parts.  By 1817 the bridge was failing again, and so the bridge was completely rebuilt in iron in 1818.
+![](../1shropshire/assets/images/history/2022-06-26_08_41_10_DSC_2838.jpg)
 
 # Name: Stirchley Furnaces
 - Date: 1820s AD
@@ -972,7 +984,7 @@ The original timber framed manor house dates from some time before the late 16th
 Craven Dunhill & Co Ltd was formed on 9th February 1872 at Jackfield.  The firm became one of Britain's leading producers of ceramic tiles.
 
 The new purpose built factory site, known as the 'Jackfield Works', was used by the firm from 25th February 1874.  Jackfield Works was constructed in the Gothic Revival style with a characteristic 'long and thin' plan, enabling raw clay to enter at one end, and finished products to emerge at the other.  Production ceased at the Jackfield Works 1951.
-![](../1shropshire/assets/images/history/2020-07-31_06_49_24_DSC_7705_DxO_1.jpg)
+![](../1shropshire/assets/images/history/2022-06-26_08_08_45_DSC_2829.jpg)
 
 # Name: Stirchley Tower
 - Date: 1873 AD
@@ -1114,6 +1126,12 @@ In 1944 Shawbury became the home of the central navigation school and in 1950 th
 In 1976 Shawbury also became the home of the basic and advanced helicopter training school. In 1997, the school was reformed as the Defence Helicopter Flying School providing training to all three of the UK's armed services.
 ![](../1shropshire/assets/images/history/2005-03-31 11-26-24_00002588_DxO.jpg)
 
+# Name: Old Coracle Shed, Ironbridge
+- Date: 1920s AD
+
+The old coracle shed dates from 1920s, it is the last surviving coracle maker’s shed in England.
+![](../1shropshire/assets/images/history/2022-06-26_09_24_12_DSC_2842.jpg)
+
 # Name: Memorial Bridge, Coalport
 - Date: 1922 AD
 
@@ -1144,6 +1162,18 @@ Merrythought's most famous individual bear was probably "Mr Whoppit" which was t
 
 Opened originally as a joint aircraft maintenance, storage and technical training unit.  RAF Cosford has remained mainly as a training unit.  Training units currently stationed there include No. 1 School of Technical Training, No. 1 Radio School RAF, the Defence School of Photography and the RAF School of Physical Training.
 ![](../1shropshire/assets/images/history/2018-06-10_14_58_01_DSC01854_DxO_bw.jpg)
+
+# Name: RAF Clee Hill
+- Date: September 1941 AD
+
+In September 1941 a radar station was set up on Titterstone Clee (RAF Clee Hill), which housed 40-50 personnel.  Initially, the crew lived in huts on the hill, but from 1956 the crew were allowed to board in Ludlow due to the cold conditions in winter.  The station was closed in 1957, and was then reactivated in 1964 by the CAA.  The larger of the radar arrays is now part of the NATS radar network.  The smaller of the two is a Met Office weather radar station.
+![](../1shropshire/assets/images/history/2022-05-14_09_38_51_DSC_1483_HDR.jpg)
+
+# Name: Percy Thrower Moves to Shrewsbury
+- Date: 1946 AD
+
+Percy Thrower moved to Shrewsbury in 1946, taking the position of Parks Superintendent (the youngest to take this position).  He expected to stay only four or five years, but in fact remained in post until 1974.
+![](../1shropshire/assets/images/history/2022-06-04_15_54_57_DSC_2339.jpg)
 
 # Name: Apley Castle is Dismantled
 - Date: 1955 (18th November) AD
@@ -1183,7 +1213,7 @@ The new town of Telford is established.
 - Date: 1969 AD
 
 Austin began breeding roses in the early 1950s attempting to combine the characteristics of Old Roses and Hybrid Teas.  The first commercial specimen - Rosa Constance Spry - was created in 1961.  After that Austin went on to create over 200 new cultivars.
-![](../1shropshire/assets/images/history/2021-09-18_14_19_29_DSC_0393_DxO_1.jpg)
+![](../1shropshire/assets/images/history/2021-09-18_14_19_29_DSC_0393.jpg)
 
 # Name: Cosford RAF Museum
 - Date: 1979 AD
@@ -1270,3 +1300,9 @@ People across the county, like the rest of the country, commemorated the 75th An
 
 A memorial to Tommy Rogers is unveiled, he died in 1924 and was one of the last watermen to haul the barges and trows up the River Severn.  Tommy Rogers was grandfather to the Gorge's last coracle man, Eustace Rogers, who died in 2002.
 ![](../1shropshire/assets/images/history/2022-03-27_08_17_37_DSC_0828.jpg)
+
+# Name: The Queen's Platinum Jubilee
+- Date: 2nd - 5th June 2022 AD
+
+The Queen's Platinum Jubilee was celebrated across the county and the country.  Away from the pageantry, the village of Wrockwardine created a scarecrow trail!
+![](../1shropshire/assets/images/<folder>/2022-06-04_Montage.jpg)

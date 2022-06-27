@@ -10,7 +10,6 @@ The font is considered to be the finest Early English font in Shropshire.  In th
 
 Acton generally means 'settlement (farm or estate) by the oaks' and this estate belonged to Robert Burnell an English bishop who served as Lord Chancellor of England from 1274 to 1292.
 ![](../1shropshire/assets/images/churches/2021-10-29_15_51_44_DSC03255.jpg)
-
 - Sub-Image: 2021-10-29_15_15_51_DSC03202_DxO.jpg
 - Sub-Image: 2021-10-29_15_17_00_DSC03204_DxO.jpg
 - Sub-Image: 2021-10-29_15_17_48_DSC03206_DxO.jpg
@@ -34,7 +33,6 @@ Acton generally means 'settlement (farm or estate) by the oaks' and the 'Scott' 
 
 The settlement was registered as Actune in the Domesday Book.
 ![](../1shropshire/assets/images/churches/2019-07-13_09_49_33_DSC_4604.jpg)
-
 - Sub-Image: 2019-07-13_09_52_11_DSC_4607_DxO.jpg
 - Sub-Image: 2019-07-13_09_53_10_DSC_4609_DxO.jpg
 
@@ -281,7 +279,8 @@ Beckbury was included in the Domesday Book and the name means Beocca's Fort or d
 The parish was originally part of the estates of Wenlock Priory from at least 1120 AD and the connection is reflected in the dedication to St Milburga.  In the Middle Ages, Beckbury was a dependent chapelry of the parish of Holy Trinity, Much Wenlock.
 
 The chancel is possibly 14th Century, the nave and the tower were added in 1731.
-![](../1shropshire/assets/images/churches/2020-02-01_13_03_53_DSC_6332_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2020-02-01_13_03_53_DSC_6332.jpg)
+
 - Sub-Image: 2020-02-01_12_48_58_DSC_6306_DxO.jpg
 - Sub-Image: 2020-02-01_12_54_45_DSC_6315_DxO.jpg
 - Sub-Image: 2020-02-01_12_56_28_DSC_6320_DxO.jpg
@@ -333,7 +332,7 @@ At the time of the Domesday Book, Bicton was part of the holding of St Chad's ch
 The original church was replaced in 1885 by the present one.  Designed by Lloyd-Oswell, tt is considered to the best of his Shropshire churches.  It is constructed of local stone.
 
 The place name in Old English means 'Beak Hill' (bic is a point or bees nest and dun is a hill in Old English), referring to the shape of the hill that the town is situated on
-![](../1shropshire/assets/images/churches/2020-12-05_14_57_07_DSC_9194_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2020-12-05_14_57_07_DSC_9194.jpg)
 
 # Name: St John the Baptist, Bishops Castle
 - Diocese: Hereford
@@ -374,7 +373,8 @@ During the rebuild, an Early English (1180-1275) doorway was removed and is now 
 The church dates mostly fron the Transitional period (when the Norman style was giving way to Early English style).
 
 In the Dommsday book, the nearby manor is known as Buterlie (Butter Pasture).
-![](../1shropshire/assets/images/churches/2019-08-26_14_16_26_DSC_4882_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2019-08-26_14_16_26_DSC_4882.jpg)
+
 - Sub-Image: 2019-08-26_14_06_40_DSC_4867_DxO.jpg
 - Sub-Image: 2019-08-26_14_08_15_DSC_4868_DxO.jpg
 
@@ -510,7 +510,7 @@ There has been a church on the present site since medieval times, the present ch
 Within the church are memorial tablets to members of two local families who were closely linked to the Industrial Revolution, including the Smithemans, who owned the site of Abraham Darby's first furnace in Coalbrookdale.  The pulpit is a fine Jacobean example.  The east window dates from 1864 and depicts scenes from the life of Christ.
 
 In the churchyard, there are some unusual cast iron headstones and tombstones, which were cast locally.
-![](../1shropshire/assets/images/churches/2020-07-19_15_28_15_DSC_7461_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2020-07-19_15_28_15_DSC_7461.jpg)
 - Sub-Image: 2022-04-16_13_51_54_DSC_1081.jpg
 - Sub-Image: 2022-04-16_13_53_39_DSC_1084.jpg
 - Sub-Image: 2022-04-16_14_02_59_DSC_1087.jpg
@@ -528,10 +528,42 @@ In the churchyard, there are some unusual cast iron headstones and tombstones, w
 - Diocese: Hereford
 - Date: 12th Century AD
 
-The church comprises a mixture of medieval and Victorian elements; the chancel is 12th Century the nave and tower are later and date from the 14th Century.  In 1889-90 the church was extensively restored by Aston Webb, an English architect who designed the principal facade of Buckingham Palace and the main building of the Victoria and Albert Museum.
+The Domesday Book records the presence of a church with two priests which is unusual.
 
-The Old English name means 'Ford by the Fort'.
+The church comprises a mixture of medieval and Victorian elements; the chancel is 12th Century the nave and tower are later and date from the 14th Century.  In 1889-90 the church was extensively restored by Sir Aston Webb, an English architect who designed the principal facade of Buckingham Palace and the main building of the Victoria and Albert Museum.
+
+There is some good stained glass by Powell.  By the south door is a medieval water stoup.  The parish chest is medieval.  The rood screen is Victorian and was made in Louvain (Leuven, Belgium).  The are other good Victorian fittings - the pulpit, lectern, chandeliers and the chancel roof (all by Webb, an early believer in the arts and crafts style).  The reredos is mahogany.
+
+There are a number of notable memorials dating from the 14th to the 19th Century.  The Cornwall family were lords of Burford for 400 years from the mid-14th Century (the castle was on the site of the present day Burford House).  The brass monument in the floor is c. 1370 to Dame Elizabeth Cornewayle.  The tomb recess (14th Century) contains an alabaster effigy of Princess Elizabeth, daughter of John of Gaunt, who died in 1426.  There is an unusual heart tomb commemorating Edmond Cornwall who died in 1436 - he directed that his heart should be enclosed in lead and buried in the church.  In the centre of the chancel is a rare oaken effigy to another Edmond Cornwall who died in 1508.  The monuments high on the chancel wall are dated 1630.
+
+The triptych on the north wall (not open when we visited), is a huge Elizabethan piece, painted by Melchior Salabuss and dated 1588 (the year of the Armada).
+
+The name of the settlement derives from the Old English for a fortified place (burh) by a ford.
 ![](../1shropshire/assets/images/churches/2019-08-26_15_36_44_DSC_4915_DxO.jpg)
+- Sub-Image: 2022-06-24_15_02_55_DSC_2736.jpg
+- Sub-Image: 2022-06-24_15_05_17_DSC_2738.jpg
+- Sub-Image: 2022-06-24_15_06_29_DSC_2739.jpg
+- Sub-Image: 2022-06-24_15_07_22_DSC_2741.jpg
+- Sub-Image: 2022-06-24_15_10_27_DSC_2746.jpg
+- Sub-Image: 2022-06-24_15_11_13_DSC_2748.jpg
+- Sub-Image: 2022-06-24_15_11_44_DSC_2749.jpg
+- Sub-Image: 2022-06-24_15_12_20_DSC_2751.jpg
+- Sub-Image: 2022-06-24_15_13_04_DSC_2752.jpg
+- Sub-Image: 2022-06-24_15_13_29_DSC_2753.jpg
+- Sub-Image: 2022-06-24_15_16_25_DSC_2760.jpg
+- Sub-Image: 2022-06-24_15_20_33_DSC_2770.jpg
+- Sub-Image: 2022-06-24_15_32_10_DSC_2791.jpg
+- Sub-Image: 2022-06-24_15_32_26_DSC_2792.jpg
+- Sub-Image: 2022-06-24_15_37_19_DSC_2805.jpg
+- Sub-Image: 2022-06-24_15_38_14_DSC_2806.jpg
+- Sub-Image: 2022-06-24_15_38_40_DSC_2807.jpg
+- Sub-Image: 2022-06-24_15_39_36_DSC_2809.jpg
+- Sub-Image: 2022-06-24_15_40_02_DSC_2810.jpg
+- Sub-Image: 2022-06-24_15_41_53_DSC_2815_Nik.jpg
+- Sub-Image: 2022-06-24_15_44_03_DSC_2818.jpg
+- Sub-Image: 2022-06-24_15_45_22_DSC_2820.jpg
+- Sub-Image: 2022-06-24_15_46_41_DSC_2821.jpg
+- Sub-Image: 2022-06-24_15_49_16_DSC_2822.jpg
 
 # Name: St Michael, Cardeston
 - Diocese: Hereford
@@ -573,7 +605,7 @@ In the Domesday Book the village is referred to as 'Cardintine under the Fief of
 In the church is a large monument to Chief Justice of Leighton of Plaish (died 1607), this Jacobean monument is the earliest in Shropshire which depicts the deceased lying on his side. 
 
 Judge Leighton was known as 'the hanging judge' (as was Judge Jeffries) as he condemned so many people to be hanged.  Amongst those condemned by Leighton was a local builder, who had come to the judge to ask to be pardoned for his crime.  The Judge promised him that if he would build him the finest set of chimneys he had ever yet built he would spare his life.  The builder did construct the chimneys (on Plaish Hall).  But after completing the job the Judge ordered the mans' eyes to be put out, and for him to be hanged from the same chimneys he had just built (so that he could build no more chimneys ever finer).  It is said that one can see the rope with which the builder was hanged.
-![](../1shropshire/assets/images/churches/2020-02-08_13_22_42_DSC_6401_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2020-02-08_13_22_42_DSC_6401.jpg)
 - Sub-Image: 2020-02-08_11_55_02_DSC_6349_DxO.jpg
 - Sub-Image: 2020-02-08_11_56_19_DSC_6352_DxO.jpg
 - Sub-Image: 2020-02-08_12_02_45_DSC_6356_DxO.jpg
@@ -607,7 +639,7 @@ The medieval church was falling into disrepair by the 18th Century and was repla
 The church is noted for the roof in the chancel chapel.  Some of the stained glass is by Kempe.  There are also some Minton tiles in the chancel.
 
 The name Cheswardine, recorded in 1086 as Ciseworde, in 1189 as Chesewordin and about 1650 as Cheswardyne, is probably derived from the Old English for 'cheese-producing settlement' or 'cheese farm'.
-![](../1shropshire/assets/images/churches/2021-09-24_14_10_59_DSC_0420_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2021-09-24_14_10_59_DSC_0420-Edit.jpg)
 
 # Name: St Michael, Child's Ercall
 - Diocese: Lichfield
@@ -635,7 +667,8 @@ An Anglo-Saxon church was founded circa 915 when a fort was built on the site.  
 In the Anglo-Saxon Chronicle the place name was recorded as Cyricbyrig.  Later in 1086 in the Domesday book, the place name was recorded as Cireberie which means 'a fortified place with a church'.
 
 The church was reformed into the church of the Augustinian Priory at Chirbury when the order relocated from Snead (near Bishop's Castle) round about 1220.  With the dissolution of the Priory in 1535, the church became a parish church once again.  The church as seen today is the nave of the Priory.
-![](../1shropshire/assets/images/churches/2020-03-14_14_09_50_DSC_6783_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2020-03-14_14_09_50_DSC_6783-Edit.jpg)
+
 - Sub-Image: 2020-03-14_14_12_39_DSC_6785_DxO.jpg
 - Sub-Image: 2020-03-14_14_21_50_DSC_6789_DxO.jpg
 - Sub-Image: 2020-03-14_14_25_48_DSC_6794_DxO.jpg
@@ -699,7 +732,8 @@ The name Pulverbatch means the valley of the river Pulre.  The village of Church
 The medieval church (the church's first known priest was 'John the Chaplain', recorded before 1193) was destroyed by the Welsh some time around 1400, the successor building was constructed in the Georgian style in 1773.  However, the nave, chancel and north aisle were restored in the 1850s.
 
 The churchyard contains a number of tombs of interest, including an urn shaped tomb dating from the 18th Century.  The churchyard is circular and was thought to have been a defensive site, there are a number of mature yew trees in the churchyard.
-![](../1shropshire/assets/images/churches/2020-06-27_14_02_09_DSC_7346_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2020-06-27_14_02_09_DSC_7346.jpg)
+
 - Sub-Image: 2020-06-27_13_49_27_DSC_7333_DxO.jpg
 - Sub-Image: 2020-06-27_13_58_21_DSC_7342_DxO.jpg
 - Sub-Image: 2020-06-27_13_58_53_DSC_7343_DxO.jpg
@@ -778,7 +812,7 @@ The name Claverley means 'clover meadow'.
 The name of the village derives from the Old English 'cleo' (clee) meaning a ball, used in this case to mean a ball-shaped hill (referring to the distictive shape of the Clee Hills) and the saint to which the church is dedicated.
 
 The exact date of the church is unknown, although there was probably a Saxon church on the site.  The most notable feature of the present building is the extensive herring-bone masonry.
-![](../1shropshire/assets/images/churches/2020-07-17_13_44_05_DSC_7415_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2020-07-17_13_44_05_DSC_7415.jpg)
 
 # Name: St Mary, Cleobury Mortimer
 - Diocese: Hereford
@@ -847,14 +881,33 @@ With the support of the Darbys a new church was planned for the village of Coalb
 The church is notable because unusually a number of the gravemarkers were locally cast in iron.
 
 The most notable grave is that of Abraham Darby IV and his Wife Matilda.
-![](../1shropshire/assets/images/churches/2020-01-12_12_48_52_DSC_6206_DxO.jpg)
+
+Other memorial plaques of note are the one for Captain Matthew Webb and Thomas Parker (a famous electrical engineer and inventor).
+
+The window depicting the last supper is a rare 16th Century Flemish window - note that Judas Iscariot is portrayed with five fingers and a thumb, seen as a mark of the devil at the time.
+![](../1shropshire/assets/images/churches/2022-06-07_10_59_59_DSC_2565.jpg)
+- Sub-Image: 2022-06-07_10_25_33_DSC_2471.jpg
+- Sub-Image: 2022-06-07_10_26_09_DSC_2474.jpg
+- Sub-Image: 2022-06-07_10_26_51_DSC_2480.jpg
+- Sub-Image: 2022-06-07_10_27_22_DSC_2483.jpg
+- Sub-Image: 2022-06-07_10_27_47_DSC_2490.jpg
+- Sub-Image: 2022-06-07_10_29_24_DSC_2495_HDR.jpg
+- Sub-Image: 2022-06-07_10_31_34_DSC_2507.jpg
+- Sub-Image: 2022-06-07_10_33_18_DSC_2519.jpg
+- Sub-Image: 2022-06-07_10_35_48_DSC_2522.jpg
+- Sub-Image: 2022-06-07_10_39_08_DSC_2534_HDR.jpg
+- Sub-Image: 2022-06-07_10_41_35_DSC_2545.jpg
+- Sub-Image: 2022-06-07_10_43_30_DSC_2547_HDR.jpg
+- Sub-Image: 2022-06-07_10_50_11_DSC_2556.jpg
+- Sub-Image: 2022-06-07_10_50_26_DSC_2557.jpg
+- Sub-Image: 2022-06-07_10_53_27_DSC_2558.jpg
 
 # Name: St Simon and St Jude, Cockshutt
 - Diocese: Lichfield
 - Date: 1777 AD
 
 A plain brick building constructed to replace the medieval church (dedicated to St Helena) which fell into dis-repair. The church clock (made in 1789) is thought to be the only collaborative piece between two well-known Shropshire clockmakers - Bullock and Davies.
-![](../1shropshire/assets/images/churches/2019-09-18_14_53_43_DSC_5075_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2019-09-18_14_53_43_DSC_5075-Edit.jpg)
 - Sub-Image: 2019-09-18_14_55_20_DSC_5076_DxO.jpg
 
 # Name: St Andrew and St Mary, Condover
@@ -1018,7 +1071,7 @@ The most striking internal feature is the herring-bone masonry in the north wall
 The church was paid for by J T Hope of Netley Hall.  In the 1840s the Early English style was dominant in Shropshire, and this church conforms to that style.  The church is built of ashlar.
 
 The name Dorrington derives from the Old English Deoringtun meaning 'settlement (tun) associated with Deor(a)', Deor being a personal name.
-![](../1shropshire/assets/images/churches/2020-08-01_16_04_46_DSC_7772_DxO_1_bw.jpg)
+![](../1shropshire/assets/images/churches/2020-08-01_16_04_46_DSC_7772.jpg)
 - Sub-Image: 2020-08-01_16_10_54_DSC_7781_DxO.jpg
 - Sub-Image: 2020-08-01_16_12_10_DSC_7782_DxO.jpg
 - Sub-Image: 2020-08-01_16_12_23_DSC_7785_DxO.jpg
@@ -1258,7 +1311,7 @@ The church was originally a chapel of ease (a church built within the bounds of 
 General Sir Rowland Hill (died in 1842), who was Wellington's second in command at the Battle of Waterloo is buried in a sealed crypt beneath the tower and there is a monument to him in the church.
 
 The name of the village is derived from the Old English meaning 'Headda's nook of land' ('halh' is a nook of land or a piece of land detached from the main area of its administrative unit).
-![](../1shropshire/assets/images/churches/2020-08-15_16_29_29_DSC_8137_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2020-08-15_16_29_29_DSC_8137.jpg)
 - Sub-Image: 2020-08-15_16_08_38_DSC_8099_DxO.jpg
 - Sub-Image: 2020-08-15_16_10_13_DSC_8102_DxO.jpg
 - Sub-Image: 2020-08-15_16_11_07_DSC_8104_DxO.jpg
@@ -1298,7 +1351,7 @@ The church was also restored in 1864 to 1865.
 The oldest part of the church is the Norman tympanum which has been dated to 1110-25 (and is now built into the north wall).  Also in the church is an effigy of a cross legged knight which is dated circa 1320.  On the external north wall of the tower is the fragment of an early carving depicting a crowned figure on horseback and inscribed St Edwardus.
 
 The name of the village derives from the Old English meaning a high place (heah) of gravel, mud or earth (ear) which is bare or lacking in vegetation (calu).
-![](../1shropshire/assets/images/churches/2020-11-07_14_27_52_DSC_8983_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2020-11-07_14_27_52_DSC_8983.jpg)
 - Sub-Image: 2020-11-07_14_32_59_DSC_8989_DxO.jpg
 - Sub-Image: 2020-11-07_14_36_28_DSC_8996_DxO.jpg
 - Sub-Image: 2020-11-07_14_37_28_DSC_8998_DxO.jpg
@@ -1336,7 +1389,7 @@ The window behind the organ was constructed to depict the evangelists and is the
 The church has many impressive monuments, mostly dedicated to the Hill family of Hawkstone Hall.
 
 Hodnet's name has Celtic origins derived from the Welsh hawdd meaning pleasant or peaceful and nant, a glen or valley.
-![](../1shropshire/assets/images/churches/2019-03-02_15_39_58_DSC_3481_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2019-03-02_15_39_58_DSC_3481.jpg)
 - Sub-Image: 2022-02-13_14_23_46_DSC_0127.jpg
 - Sub-Image: 2022-02-13_14_25_30_DSC_0129.jpg
 - Sub-Image: 2022-02-13_14_26_00_DSC_0130.jpg
@@ -1398,7 +1451,8 @@ Hope Bowdler is recorded in the Domesday book as Fordritishope.
 There was a medieval church on the site, this was replaced in 1863 by the present building.  The church is built of Soudley banded sandstone.  It was designed by Shrewsbury architect Samuel Pountney Smith.  It is thought to be somewhat austere for its time.
 
 The pulpit is dated 1639 and is good example of a Jacobean pulpit.  Some of the stained glass is by Kempe.
-![](../1shropshire/assets/images/churches/2020-05-16_15_58_18_DSC_7086_DxO_L4.jpg)
+![](../1shropshire/assets/images/churches/2020-05-16_15_58_18_DSC_7086.jpg)
+
 - Sub-Image: 2022-04-23_14_37_03_DSC_1179.jpg
 - Sub-Image: 2022-04-23_14_37_41_DSC_1181.jpg
 - Sub-Image: 2022-04-23_14_40_51_DSC_1184.jpg
@@ -1459,7 +1513,7 @@ Hughley is not mentioned in the Domesday book, but the settlement was held by We
 Mentioned in the Doomsday book as Istefelt, the name Ightfield may derive from the Old English 'Ihtfeld' (Iht means creature and Feld means field), referring to the fact that the area was rural and farming was prevalent.  Alternatively, it is thought it could dervice from Giht, an ancient British river name.
 
 The church has 15th Century origins and was partly rebuilt in the 19th Century (although records show a church here dedicated to St John the Baptist in 1072 AD).
-![](../1shropshire/assets/images/churches/2019-12-21_14_42_27_DSC_6010_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2019-12-21_14_42_27_DSC_6010.jpg)
 - Sub-Image: 2019-12-21_14_54_15_DSC_6034_DxO.jpg
 - Sub-Image: 2019-12-21_14_59_16_DSC_6042_DxO.jpg
 - Sub-Image: 2019-12-21_15_09_36_DSC_6049_DxO.jpg
@@ -1493,7 +1547,7 @@ The church has an unusual bell-turret, the style is French Gothic which was in v
 The sanctuary windows are claimed to be of the school of the Pre-Raphaelites.  The triptych behind the altar was originally produced in about 1870 for an exhibition in Paris, it is a demonstration of the skills at Craven Dunhill in making hand-painted tiles.
 
 The stone font was presented to the church by the godchildren of George Pritchard (the church was constructed in memory of Pritchard, who died in 1861 - he was a banker, benefactor and High Sheriff of Shropshire).
-![](../1shropshire/assets/images/churches/2020-07-31_07_21_07_DSC_7734_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2022-06-26_08_06_54_DSC_2826.jpg)
 - Sub-Image: 2021-10-01_14_46_41_DSC_0440_DxO.jpg
 - Sub-Image: 2021-10-01_14_48_53_DSC_0443_DxO.jpg
 - Sub-Image: 2021-10-01_14_52_20_DSC_0448_DxO.jpg
@@ -1906,7 +1960,7 @@ The church stands very close to the river Vyrnwy.
 The medieval church was burnt by Owain Glyndwr in 1401.  The present church was built soon after.
 
 It is noted for being one of just a small number of half timbered churches in the country.  The entire structure is held together with just pegs.  The fact that the wattle and daub is narrower than the timbers shows the early construction of this church using this technique.
-![](../1shropshire/assets/images/churches/2019-06-01_11_14_24_DSC_4420_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2019-06-01_11_14_24_DSC_4420.jpg)
 - Sub-Image: 2019-06-01_11_16_57_DSC_4422_DxO.jpg
 - Sub-Image: 2019-06-01_11_20_14_DSC_4424_DxO.jpg
 
@@ -2416,6 +2470,40 @@ The name Preston upon the Weald Moors (24 letters) is one of the longest names o
 - Sub-Image: 2020-07-12_14_03_00_DSC_7403_DxO.jpg
 - Sub-Image: 2020-07-12_14_05_40_DSC_7404_DxO.jpg
 
+# Name: St Mary Magdalene, Quatford
+- Diocese: Hereford
+- Date: 12th Century AD 
+
+Roger de Montgomery (the first Earl of Shrewsbury who owned most of Shropshire) established the first church (and a castle) at Quatford in 1086 AD, but it wasn't long before Bridgnorth was settled upon as a better location.  De Montgomery's first wife was murdered, his second wife Adeliza de Pusey had to travel from France.  While she was sailing across the English Channel, the priest on board dreamed that if Adeliza survived the journey she should vow to build a church in honour of the Blessed Mary Magdalene at the place where she would first meet her husband.  This is the legend of how Quatford was chosen as the site of this church.  Roger and Adeliza met in 1083 or 1084, the church was completed in 1086 and was richly endowed by de Montgomery.
+
+The original church was completely rebuilt in the 12th Century.
+
+The church is notably built of tufa - a type of limestone in which the rock is formed by spring-water laden with calcium carbonate bubbling through spagnum moss.  The use of tufa is an indication of a relatively early Norman building, as it was not much used after c. 1150 (but the church may be an exception).  The tufa walls stood unaided for 500 years, but by the 17th Century sandstone buttresses were added.
+
+The nave and tower were rebuilt in 1714.  The porch was added in 1857.  Inside, the most notable feature is the tufaceous arch - this is a rare structure.  There are some medieval tiles.  The pulpit is a good Victorian example.  The royal coat of arms is George III.  The font is unusual, the bowl is likely Norman, but the carving could have been added later.  The clock was installed in 1901.
+
+In the Sanctuary are the remains of some medieval wall painting.  Also in the Sanctuary is a squint.  The piscina dates from the Decorated period.  The altar, pew ends some panelling contain fragments of a Perpendicular rood screen.  There is one original window, the rest were inserted in the 14th Century.
+
+The significance and origin of the place name Quat is unclear, but ford relates to a ford.  It could be derived from Coed (the Old English for forest) or from Cwead (the Old English for mud), but more likley Cwat was a person's name.
+![](../1shropshire/assets/images/churches/2022-06-11_14_21_58_DSC_2610.jpg)
+- Sub-Image: 2022-06-11_14_48_29_DSC_2622.jpg
+- Sub-Image: 2022-06-11_14_51_28_DSC_2625.jpg
+- Sub-Image: 2022-06-11_14_52_06_DSC_2628.jpg
+- Sub-Image: 2022-06-11_14_52_47_DSC_2631.jpg
+- Sub-Image: 2022-06-11_14_53_30_DSC_2635.jpg
+- Sub-Image: 2022-06-11_14_54_13_DSC_2638.jpg
+- Sub-Image: 2022-06-11_14_55_55_DSC_2646.jpg
+- Sub-Image: 2022-06-11_14_56_23_DSC_2649_HDR.jpg
+- Sub-Image: 2022-06-11_14_57_09_DSC_2652_HDR.jpg
+- Sub-Image: 2022-06-11_14_57_48_DSC_2655_HDR.jpg
+- Sub-Image: 2022-06-11_14_58_40_DSC_2658.jpg
+- Sub-Image: 2022-06-11_14_59_33_DSC_2661.jpg
+- Sub-Image: 2022-06-11_15_01_00_DSC_2664.jpg
+- Sub-Image: 2022-06-11_15_06_48_DSC_2667.jpg
+- Sub-Image: 2022-06-11_15_07_07_DSC_2670.jpg
+- Sub-Image: 2022-06-11_15_07_40_DSC_2673.jpg
+- Sub-Image: 2022-06-11_15_11_16_DSC_2679_HDR.jpg
+
 # Name: St Margaret, Ratlinghope
 - Diocese: Hereford
 - Date: 1209 AD
@@ -2618,6 +2706,11 @@ There is Tudor glass in the West window, dating from mid 16th century.
 
 The church stands at the highest point in the town.
 ![](../1shropshire/assets/images/churches/2018-07-14_12_53_39_DSC_2794_DxO.jpg)
+- Sub-Image: 2022-05-28_10_51_51_DSC_2110_HDR.jpg
+- Sub-Image: 2022-05-28_10_52_12_DSC_2113_HDR.jpg
+- Sub-Image: 2022-05-28_10_52_49_DSC_2119_HDR.jpg
+- Sub-Image: 2022-05-28_10_53_06_DSC_2122_HDR.jpg
+- Sub-Image: 2022-05-28_10_53_29_DSC_2125_HDR.jpg
 
 # Name: St Chad (new), Shrewsbury
 - Diocese: Lichfield

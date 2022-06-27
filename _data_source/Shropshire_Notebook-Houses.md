@@ -42,6 +42,12 @@ The present house was built for Adam Ottley, a Shrewsbury wool merchant, and pos
 Built on the site of what was probably a 12th Century manor for the Benthall family.  The hall was garrisoned during the English Civil War and was the site of several skirmishes.
 ![](../1shropshire/assets/images/houses/2016-04-23_12_22_06_DSC00313_DxO.jpg)
 
+# Name: Wilderhope Manor
+- Date: 1585 AD
+
+The manor was built for Francis Smallman and remained in the family until 1734 when the estate was sold to Thomas Lutwyche..  It is believed that the manor house was not used as a main residence after the sale in 1734 and by 1936 was in a poor state and unoccupied.  It was donated to the National Trust on the condition it was used as Youth Hostel.
+![](../1shropshire/assets/images/houses/2022-06-12_15_20_27_DSC_2699.jpg)
+
 # Name: Shipton Hall
 - Date: 1587 AD
 

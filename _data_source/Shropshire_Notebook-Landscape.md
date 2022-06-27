@@ -150,7 +150,7 @@ TBD
 # Name: The Long Mynd
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-09-03_15_43_01_DSC_0272_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-09-03_15_43_01_DSC_0272-Edit-001.jpg)
 
 # Name: Ashes Hollow, The Long Mynd
 
@@ -177,6 +177,61 @@ TBD
 TBD
 ![](../1shropshire/assets/images/landscape/2019-04-13_11_56_35_DSC_3888_DxO.jpg)
 
+# Name: Titterstone Clee Hill
+
+Titterstone Clee is third highest hill in Shropshire.  It is one of only a few hills and mountains noted on the Hereford Mappa Mundi (13th Century map of the world).
+![](../1shropshire/assets/images/landscape/2022-05-14_09_28_47_DSC_1477.jpg)
+
+# Name: Mining, Titterstone Clee Hill
+
+In medieval times ironstone and, later, coal were mined, in particular from bell pits (localised mine shafts), one of which is now flooded forming a lake.
+![](../1shropshire/assets/images/landscape/2022-05-14_08_27_46_DSC_1449_HDR.jpg)
+
+# Name: Hill Fort, Titterstone Clee Hill
+
+The hill fort on Titterstone Clee is of note as the walls of the fort are made of stone blocks instead of earth banks.  The hill fort dates back to the late Bronze Age or early Iron Age.  It is the largest hill fort in Shropshire covering approximately 28 hectares.
+![](../1shropshire/assets/images/landscape/2022-05-14_08_54_57_DSC_1465.jpg)
+
+# Name: Cairn, Titterstone Clee Hill
+
+The cairn near the summit of Titterstone Clee dates back up to 4,000 years (Bronze Age) and indicates that the summit of the hill was likely a ceremonial site.
+![](../1shropshire/assets/images/landscape/2022-05-14_10_27_32_DSC_1516.jpg)
+
+# Name: Giant's Chair, Titterstone Clee Hill
+
+The Giant's Chair near the summit of Titterstone Clee is a pile of boulders created during the cold phases of the Devensian ice age.
+![](../1shropshire/assets/images/landscape/2022-05-14_10_11_20_DSC_1513.jpg)
+
+# Name: Quarry, Titterstone Clee Hill
+
+A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+![](../1shropshire/assets/images/landscape/2022-05-14_10_55_53_DSC_1532_HDR.jpg)
+
+# Name: Quarry, Titterstone Clee Hill
+
+A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+![](../1shropshire/assets/images/landscape/2022-05-14_11_08_26_DSC_1548_HDR.jpg)
+
+# Name: Quarry, Titterstone Clee Hill
+
+A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+![](../1shropshire/assets/images/landscape/2022-05-14_11_31_52_DSC_1571_HDR.jpg)
+
+# Name: Quarry, Titterstone Clee Hill
+
+A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+![](../1shropshire/assets/images/landscape/2022-05-14_11_40_12_DSC_1577.jpg)
+
+# Name: Quarry, Titterstone Clee Hill
+
+A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+![](../1shropshire/assets/images/landscape/2022-05-14_11_44_34_DSC_1582.jpg)
+
+# Name: Quarry, Titterstone Clee Hill
+
+A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+![](../1shropshire/assets/images/landscape/2022-05-14_11_48_52_DSC_1586.jpg)
+
 # Name: The River Teme
 
 The River Teme as seen from Offa's Dyke near Knighton.
@@ -190,7 +245,7 @@ View walking down from Blakemoorgate to Snailbeach.
 # Name: The Stiperstones
 
 View walking down from Blakemoorgate to Snailbeach.
-![](../1shropshire/assets/images/landscape/2020-05-22_14_19_28_DSC_7148_DxO_LR4.jpg)
+![](../1shropshire/assets/images/landscape/2020-05-22_14_19_28_DSC_7148.jpg)
 
 # Name: The Stiperstones - Nipstone Rock
 
@@ -240,27 +295,27 @@ TBD
 # Name: The Stiperstones
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-09-03_14_05_56_DSC_0209_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-09-03_14_05_56_DSC_0209.jpg)
 
 # Name: The Stiperstones
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-09-03_14_16_41_DSC_0218_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-09-03_14_16_41_DSC_0218.jpg)
 
 # Name: The Stiperstones
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-09-03_14_29_20_DSC_0226_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-09-03_14_29_20_DSC_0226.jpg)
 
 # Name: The Stiperstones
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-09-03_14_36_40_DSC_0246_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-09-03_14_36_40_DSC_0246.jpg)
 
 # Name: The Stiperstones
 
 TBD
-![](../1shropshire/assets/images/landscape/2021-09-03_14_38_15_DSC_0250_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2021-09-03_14_38_15_DSC_0250.jpg)
 
 # Name: The Stiperstones
 
@@ -328,7 +383,7 @@ At sunrise.
 # Name: The Wrekin
 
 TBD
-![](../1shropshire/assets/images/landscape/2020-07-19_15_56_40_DSC_7478_DxO_1.jpg)
+![](../1shropshire/assets/images/landscape/2020-07-19_15_56_40_DSC_7478.jpg)
 
 # Name: The Wrekin
 

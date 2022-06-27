@@ -54,7 +54,7 @@ During the English Civil War, Bridgnorth was one of the Midlands' main Royalist 
 Established by Robert de Say after the Norman invasion, Clun Castle was an important Marcher lord castle in the 12th Century.
 
 Clun played a key part in protecting the region from Welsh attack, but the family (Fitzalan) gradually abandoned it as a property in favour of their more luxurious castle at Arundel. The family converted the castle into a hunting lodge in the 14th Century, but by the 16th Century the castle was largely ruined.
-![](../1shropshire/assets/images/castles/2018-06-30_15_25_44_DSC_2668_DxO_L.jpg)
+![](../1shropshire/assets/images/castles/2018-06-30_15_18_23_DSC_2651.jpg)
 
 # Name: Moreton Corbet Castle
 - Date: Circa 1200 AD

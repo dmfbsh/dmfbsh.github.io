@@ -1,5 +1,22 @@
 # 2022
 
+## Name: Stone Cross, Burford
+
+The churchyard cross is medieval.  The upper part was restored in 1867 and incorporates carvings of the crucifixion and the nativity.
+![](../1shropshire/assets/images/other/2022-06-24_14_54_13_DSC_2728.jpg)
+
+## Name: Ironbridge Tolls
+
+The iron bridge tolls.
+![](../1shropshire/assets/images/other/2022-06-26_07_42_55_DSC_2823.jpg)
+
+## Name: Sabrina Statue, Shrewsbury
+
+This statue is of Sabrina, the fabled goddess of the RIver Severn.  Carved from stone by Peter Hollins in 1846 and donated by the Earl of Bardford to the people of Shrewsbury in 1879.  The folowing text is inscribed on the base of the statue:
+
+Sabrina fair, listen where thou art sitting under the glassie, cool, translucent wave, in twisted braids of lilies knitting the loose train of thy amber-dropping hair; listen for dear honour's sake, goddess of the silver lake, listen and save.
+![](../1shropshire/assets/images/other/2022-06-04_15_49_34_DSC_2333_cr.jpg)
+
 ## Name: Coalbrookdale
 
 TBD
@@ -228,7 +245,7 @@ The yew tree in the churchyard at Baschurch is hollow inside.  It is thought to 
 Broseley developed as an industrial area due to the abundance of coal, clay, iron ore and limestone easily workable in one area, also the woods provided charcoal and the River Severn transport.  In fact, the mines in Broseley and the adjoining parish of Benthall became of national importance in the seventeenth century.
 
 This industrialisation drove innovation - a document of 1605 refers to a railway line from Birch Leasows, Broseley to the Calcutts, this is only the second railway for which evidence survives in England (making it one of the oldest railways in England).  A railway at the time would have horse drawn wagons on flanged wheels (meaning that greater loads could be moved with the same effort).
-![](../1shropshire/assets/images/other/2020-09-20_16_14_13_DSC_8687_DxO_1.jpg)
+![](../1shropshire/assets/images/other/2020-09-20_16_14_13_DSC_8687.jpg)
 
 ## Name: Yew Tree, Norbury
 
@@ -238,7 +255,7 @@ This yew tree is said to be one of the largest and one of the oldest in the UK, 
 ## Name: Bishop's Castle
 
 View of Bishop's Castle from the church.
-![](../1shropshire/assets/images/other/2020-08-08_14_22_11_DSC_7941_DxO_1.jpg)
+![](../1shropshire/assets/images/other/2020-08-08_14_22_11_DSC_7941.jpg)
 
 ## Name: Bishop's Castle
 
@@ -278,7 +295,7 @@ TBD
 ## Name: Stone Cross, Alberbury
 
 Situated by the church at Alberbury, a medieval churchyard cross (most likely 15th Century) which has been converted into a sundial, probably in the 17th Century.
-![](../1shropshire/assets/images/other/2020-07-24_15_53_01_DSC_7552_DxO_1.jpg)
+![](../1shropshire/assets/images/other/2020-07-24_15_53_01_DSC_7552.jpg)
 
 ## Name: Memorial by the Church, Church Pulverbatch
 
@@ -363,7 +380,7 @@ In the late Winter / early Spring of 2020 there was severe flooding in Shropshir
 ## Name: Tree in Flood Water, Atcham
 
 In the late Winter / early Spring of 2020 there was severe flooding in Shropshire - this picture shows a tree in the flood water at Atcham.
-![](../1shropshire/assets/images/other/2020-03-01_15_52_51_DSC_6687_DxO_bw.jpg)
+![](../1shropshire/assets/images/other/2020-03-01_15_52_51_DSC_6687.jpg)
 
 ## Name: Flooded Parkland, Attingham Park
 
@@ -436,7 +453,7 @@ The reputed grave of Little Nell, the character in the Charles Dickens novel The
 ## Name: Stone Cross, Bitterley
 
 Dating from the 14th Century, a stone cross in the churchyard of St Mary's church at Bitterley.  This one is thought to be the finest surviving stone cross in the county.
-![](../1shropshire/assets/images/other/2019-08-26_14_13_36_DSC_4874_DxO_1.jpg)
+![](../1shropshire/assets/images/other/2019-08-26_14_13_36_DSC_4874.jpg)
 
 ## Name: Coalbrookdale
 

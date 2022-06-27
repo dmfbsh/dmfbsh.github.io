@@ -1,6 +1,42 @@
 ---
 ---
 
+## 27 Jun 2022
+Updated Coalbrookdale church.
+
+Updated Burford church.
+
+Updated Craven Dunhill photo.
+
+Updated Jackfield church photo.
+
+Added the following items:
+
+- Shrewsbury x 12
+- Wilderhope Manor
+- Quatford church
+- Old Coracle Shed
+- Ironbridge Tolls
+- Coalport Bridge
+- Stone cross, Burford
+
+## 05 Jun 2022
+Updated Wollerton Old Hall Garden photo.
+
+Added photo for Percy Thrower.
+
+Added the following items:
+
+- The Queen's Platinum Jubilee
+- Sabrina statue
+
+## 29 May 2022
+Added the following items:
+
+- Titterstone Clee Hill x 12
+
+Updated St Alkmund, Shrewsbury church.
+
 ## 26 May 2022
 Updated Bridgnorth church.
 
@@ -15,7 +51,7 @@ Updated Hope Bowdler church.
 
 Updated Cleobury Mortimer church.
 
-Updated picture for Dale House, Coalbrookdale
+Updated picture for Dale House, Coalbrookdale.
 
 Added the following items:
 
