@@ -1,5 +1,19 @@
 ---
 ---
+## 24 Jul 2022
+Added photo for Lilleshall Abbey.
+
+Updated photo for Cronkhill.
+
+Added the following items:
+
+- Panaromic view of Lilleshall
+- Uffington church
+- Ashford Carbonell church
+
+Added Historic England Listing Grade page for churches.
+
+Added Dedication page for churches.
 
 ## 27 Jun 2022
 Updated Coalbrookdale church.

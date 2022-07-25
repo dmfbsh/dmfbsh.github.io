@@ -142,7 +142,7 @@ William Hazlitt lived at this house from 1786-1787 (during his childhood).
 - Date: 1802 AD
 
 Designed by John Nash, it is thought to be the earliest Italianate villa in England.  It was built for Francis Walford, a friend of the 2nd Baron Berwick an agent for the Berwick's Attingham estates.
-![](../1shropshire/assets/images/houses/2006-04-09 15-38-35_00003183_DxO.jpg)
+![](../1shropshire/assets/images/houses/2022-07-03_14_58_09_DSC_3012_HDR.jpg)
 
 # Name: Hodnet Hall
 - Date: 1870 AD

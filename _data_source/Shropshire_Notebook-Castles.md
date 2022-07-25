@@ -36,7 +36,7 @@ The castle was fought over and changed ownership many times during the conflict 
 The castle was the scene of a parliament held by Richard II in 1398.
 
 The castle was captured by Oliver Cromwell's troops in 1644, and by 1650 it had largely been demolished by the Roundheads.
-![](../1shropshire/assets/images/castles/2019-02-16_13_23_41_DSC_3368_DxO_L.jpg)
+![](../1shropshire/assets/images/castles/2019-02-16_13_23_41_DSC_3368.jpg)
 
 # Name: Bridgnorth Castle
 - Date: 1101 AD

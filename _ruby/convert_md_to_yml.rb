@@ -1,6 +1,11 @@
+require 'sqlite3'
+
 def convert_md_to_yml()
 
 puts "Starting: convert_md_to_yml"
+
+db = SQLite3::Database.open 'C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/database/database.db'
+ckey = ''
 
 Dir.glob("../_data_source/*.md") do |srcfn|
 
@@ -54,6 +59,19 @@ Dir.glob("../_data_source/*.md") do |srcfn|
       tmp = "  " + line[2..-1]
       dsth.write(tmp) unless dsth.nil?
       simage = "no"
+      crefs = line[7..-1].split(',', 2)
+      cplace = crefs[1].strip
+      cdedic = crefs[0].strip
+      ckey = cplace + " - " + cdedic
+      puts ckey
+      results = db.query "SELECT grade FROM GoogleMap WHERE name = ?", ckey
+      first_result = results.next
+      if first_result
+        tmp = "  Grade: " + first_result[0] + "\n"
+      else
+        tmp = '  Grade: Not found in database.' + "\n"
+      end
+      dsth.write(tmp) unless dsth.nil?
     elsif line.start_with?("- Diocese:")
       tmp = "  " + line[2..-1]
       dsth.write(tmp) unless dsth.nil?
@@ -62,9 +80,11 @@ Dir.glob("../_data_source/*.md") do |srcfn|
       dsth.write(tmp) unless dsth.nil?
       dsth.write("  Description: |") unless dsth.nil?
     elsif line.start_with?("![](")
-      tmp = "  Thumbnail: " + line[line.rindex("/")+1..-3] + line[-1..-1]
-      tmp = tmp.gsub("%20", " ")
+      tnm = line[line.rindex("/")+1..-3]
+      tnm = tnm.gsub("%20", " ")
+      tmp = "  Thumbnail: " + tnm + line[-1..-1]
       dsth.write(tmp) unless dsth.nil?
+      db.execute "UPDATE GoogleMap SET photo=? WHERE name=?", tnm, ckey
     elsif line.start_with?("- Sub-Image:")
       if simage == "no"
         simage = "yes"

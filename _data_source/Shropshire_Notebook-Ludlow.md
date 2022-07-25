@@ -42,14 +42,14 @@ TBD
 # Name: View from Whitcliffe Common
 
 View of the town from Whitcliffe Common.
-![](../1shropshire/assets/images/places/2020-01-04_14_14_02_DSC_6088_DxO_L.jpg)
+![](../1shropshire/assets/images/places/2020-01-04_14_14_02_DSC_6088.jpg)
 
 # Name: View from Whitcliffe Common
 
 View of the town from Whitcliffe Common.
-![](../1shropshire/assets/images/places/2020-01-04_14_16_23_DSC_6093_DxO_L.jpg)
+![](../1shropshire/assets/images/places/2020-01-04_14_16_23_DSC_6093.jpg)
 
 # Name: View from Whitcliffe Common
 
 View of the town from Whitcliffe Common.
-![](../1shropshire/assets/images/places/2020-01-04_14_23_04_DSC_6100_DxO_L.jpg)
+![](../1shropshire/assets/images/places/2020-01-04_14_23_04_DSC_6100.jpg)

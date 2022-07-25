@@ -220,7 +220,7 @@ The castle was fought over and changed ownership many times during the conflict 
 The castle was the scene of a parliament held by Richard II in 1398.
 
 The castle was captured by Oliver Cromwell's troops in 1644, and by 1650 it had largely been demolished by the Roundheads.
-![](../1shropshire/assets/images/history/2019-02-16_13_23_41_DSC_3368_DxO_1.jpg)
+![](../1shropshire/assets/images/history/2019-02-16_13_23_41_DSC_3368.jpg)
 
 # Header: 1086 AD
 
@@ -268,7 +268,7 @@ The Abbey suffered financial problems in the 14th Century (the abbott was accuse
 The Abbey was closed in 1538, as part of the Suppression of the Monasteries.  The site then became a private dwelling until the mid-17th Century.
 
 During the Civil War, the former Abbey buildings were severely damaged by Parliamentarian troops, at which point the site was abandoned and left to decay.
-![](../1shropshire/assets/images/history/photo-needed.jpg)
+![](../1shropshire/assets/images/history/2022-07-09_11_18_38_DSC_3307_HDR.jpg)
 
 # Name: White Ladies Priory
 - Date: 1186 AD
@@ -804,7 +804,7 @@ Viewpoint and site of the Rotunda, which was a folly built by Richard Reynolds (
 - Date: 1802 AD
 
 Designed by John Nash, it is thought to be the earliest Italianate villa in England.  It was built for Francis Walford, a friend of the 2nd Baron Berwick an agent for the Berwick's Attingham estates.
-![](../1shropshire/assets/images/history/2006-04-09 15-38-35_00003183_DxO.jpg)
+![](../1shropshire/assets/images/history/2022-07-03_14_58_09_DSC_3012_HDR.jpg)
 
 # Name: Canal Company, Ellesmere - Beech House
 - Date: circa 1806 AD
@@ -942,7 +942,7 @@ Formerly known as Shrewsbury General, the station was built for the county's fir
 Built by Daniel Rowland using the designs of Samuel Pountney Smith of Shrewsbury (who was also responsible for the rebuilding of Battlefield church during the same period), these almshouses are of the domestic Gothic style.  The almshouses are for "...for the residence of poor women aged 55 years or over who profess the Christian faith in accordance with the principles of one of the Protestant denominations..." and are endowed with lands and money to provide £10 yearly for each occupant.
 
 Holy Cross is the name of the local parish, and Shrewsbury's Abbey church, which is just opposite these buildings and is the local parish church.
-![](../1shropshire/assets/images/history/2020-11-07_15_46_34_DSC_9037_DxO_1.jpg)
+![](../1shropshire/assets/images/history/2020-11-07_15_46_34_DSC_9037.jpg)
 
 # Name: Coalbrookdale Viaduct
 - Date: 1860s AD

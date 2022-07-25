@@ -1,5 +1,6 @@
 - Type: Item
   Name: St Mary, Acton Burnell
+  Grade: I
   Diocese: Hereford
   Date: 1275 AD
   Description: |
@@ -27,6 +28,7 @@
 
 - Type: Item
   Name: St Margaret, Acton Scott
+  Grade: II*
   Diocese: Hereford
   Date: 12th-14th Century AD
   Description: |
@@ -42,6 +44,7 @@
 
 - Type: Item
   Name: St Peter, Adderley
+  Grade: I
   Diocese: Lichfield
   Date: 1635-1636 AD
   Description: |
@@ -84,6 +87,7 @@
 
 - Type: Item
   Name: St Michael, Alberbury
+  Grade: II*
   Diocese: Hereford
   Date: 1290 AD
   Description: |
@@ -124,7 +128,44 @@
     - Sub-Image: 2021-08-07_12_25_01_DSC03001_DxO.jpg
 
 - Type: Item
+  Name: St Mary, Ashford Carbonell
+  Grade: II*
+  Diocese: Hereford
+  Date: 12th Century AD
+  Description: |
+    Although of 12th Century origin, the church did not become a separate parish until 1880, prior to that it was a perpetual curacy of Little Hereford.  The original 12th Century building was smaller than the present one, the chancel was extended to the east and the nave to the west probably in the 13th Century.  This was revealed during the restoration of 1882-83, as the original foundations were shallower (only one foot); also, behind the plaster there was different masonry.
+
+    The oak belfry was added in the 15th Century.  The gallery was added in the 18th Century.  The parish chest probably dates from this time.  The unusual arrangement of windows, which includes a Vesica windows, was restored in the 19th Century.  The vesica piscis (literally fish’s bladder) had the same meaning for the early Church as the symbol of the fish, the Greek word for fish is ichthus and is composed of the initial letters of the Greek for ‘Jesus Christ, Son of God, Saviour’.  A vesica window is rare in English parish churches, during the restoration two Norman windows were revealed and above them the stones which were part of the ancient vesica window.
+
+    The carved ends of the oak benches are all different and replaced the box pews.
+
+    There is a yew tree which is certified as being 1500 years old (the certificate from 1989 is signed by David Bellamy, naturalist; Allen Meredith, Arboriculturist; Robert Hardy, Longbow enthusiast; and Robert Runcie, the then Archbishop of Canterbury), this suggests that there was an earlier structure here either Saxon or even pre-Christian.
+
+    The name of the settlement means 'Ash-tree ford'.  It was held by John Carbonel in 1221.  Aesc is the Anglian for an ash tree, ford is Old English (meaning a ford).
+  Thumbnail: 2022-07-04_15_19_37_DSC_3247_HDR.jpg
+  Sub-Images:
+    - Sub-Image: 2022-07-04_14_48_38_DSC_3121.jpg
+    - Sub-Image: 2022-07-04_14_49_56_DSC_3127.jpg
+    - Sub-Image: 2022-07-04_14_51_15_DSC_3136_HDR.jpg
+    - Sub-Image: 2022-07-04_14_54_53_DSC_3145.jpg
+    - Sub-Image: 2022-07-04_14_55_26_DSC_3149.jpg
+    - Sub-Image: 2022-07-04_14_56_39_DSC_3154.jpg
+    - Sub-Image: 2022-07-04_14_57_56_DSC_3160.jpg
+    - Sub-Image: 2022-07-04_14_58_32_DSC_3166.jpg
+    - Sub-Image: 2022-07-04_15_00_14_DSC_3175.jpg
+    - Sub-Image: 2022-07-04_15_00_27_DSC_3178.jpg
+    - Sub-Image: 2022-07-04_15_00_47_DSC_3181.jpg
+    - Sub-Image: 2022-07-04_15_01_08_DSC_3185.jpg
+    - Sub-Image: 2022-07-04_15_01_22_DSC_3188.jpg
+    - Sub-Image: 2022-07-04_15_02_42_DSC_3197.jpg
+    - Sub-Image: 2022-07-04_15_04_24_DSC_3202.jpg
+    - Sub-Image: 2022-07-04_15_08_27_DSC_3214.jpg
+    - Sub-Image: 2022-07-04_15_09_26_DSC_3217.jpg
+    - Sub-Image: 2022-07-04_15_10_00_DSC_3220.jpg
+
+- Type: Item
   Name: St Mary, Astley
+  Grade: II*
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -152,6 +193,7 @@
 
 - Type: Item
   Name: St Eata, Atcham
+  Grade: I
   Diocese: Lichfield
   Date: Before 1075 AD
   Description: |
@@ -173,6 +215,7 @@
 
 - Type: Item
   Name: St Giles, Barrow
+  Grade: I
   Diocese: Hereford
   Date: 11th Century AD
   Description: |
@@ -198,6 +241,7 @@
 
 - Type: Item
   Name: All Saints, Baschurch
+  Grade: II*
   Diocese: Lichfield
   Date: 12th Century
   Description: |
@@ -226,7 +270,8 @@
     - Sub-Image: 2021-07-23_14_41_07_DSC02910_DxO.jpg
 
 - Type: Item
-  Name: All Saints, Batchcott Richard's Castle
+  Name: All Saints, Batchcott Richards Castle
+  Grade: I
   Diocese: Hereford
   Date: 1892 AD
   Description: |
@@ -256,6 +301,7 @@
 
 - Type: Item
   Name: St Mary Magdalene, Battlefield
+  Grade: II*
   Diocese: Lichfield
   Date: 1406 AD
   Description: |
@@ -292,6 +338,7 @@
 
 - Type: Item
   Name: St Milburga, Beckbury
+  Grade: II*
   Diocese: Lichfield
   Date: 14th Century AD
   Description: |
@@ -301,7 +348,6 @@
 
     The chancel is possibly 14th Century, the nave and the tower were added in 1731.
   Thumbnail: 2020-02-01_13_03_53_DSC_6332.jpg
-
   Sub-Images:
     - Sub-Image: 2020-02-01_12_48_58_DSC_6306_DxO.jpg
     - Sub-Image: 2020-02-01_12_54_45_DSC_6315_DxO.jpg
@@ -313,6 +359,7 @@
 
 - Type: Item
   Name: St Bartholomew, Benthall
+  Grade: II*
   Diocese: Hereford
   Date: 1667 AD
   Description: |
@@ -341,6 +388,7 @@
 
 - Type: Item
   Name: St Margaret, Betton Strange
+  Grade: II
   Diocese: Hereford
   Date: 1858 AD
   Description: |
@@ -351,6 +399,7 @@
 
 - Type: Item
   Name: Holy Trinity, Bicton
+  Grade: II
   Diocese: Lichfield
   Date: 1885 AD
   Description: |
@@ -363,6 +412,7 @@
 
 - Type: Item
   Name: St John the Baptist, Bishops Castle
+  Grade: II*
   Diocese: Hereford
   Date: 13th Century AD
   Description: |
@@ -397,6 +447,7 @@
 
 - Type: Item
   Name: St Mary, Bitterley
+  Grade: II*
   Diocese: Hereford
   Date: 13th Century AD
   Description: |
@@ -404,13 +455,13 @@
 
     In the Dommsday book, the nearby manor is known as Buterlie (Butter Pasture).
   Thumbnail: 2019-08-26_14_16_26_DSC_4882.jpg
-
   Sub-Images:
     - Sub-Image: 2019-08-26_14_06_40_DSC_4867_DxO.jpg
     - Sub-Image: 2019-08-26_14_08_15_DSC_4868_DxO.jpg
 
 - Type: Item
   Name: Holy Trinity, Bourton
+  Grade: II*
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -434,6 +485,7 @@
 
 - Type: Item
   Name: St Leonard, Bridgnorth
+  Grade: II*
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -444,6 +496,7 @@
 
 - Type: Item
   Name: St Mary Magdalene, Bridgnorth
+  Grade: II*
   Diocese: Hereford
   Date: 1792 - 1795 AD
   Description: |
@@ -466,6 +519,7 @@
 
 - Type: Item
   Name: St Mary the Virgin, Bromfield
+  Grade: I
   Diocese: Hereford
   Date: Anglo- Saxon / Norman
   Description: |
@@ -509,6 +563,7 @@
 
 - Type: Item
   Name: All Saints, Broseley
+  Grade: II*
   Diocese: Hereford
   Date: 1845 AD
   Description: |
@@ -539,6 +594,7 @@
 
 - Type: Item
   Name: Holy Trinity, Buildwas
+  Grade: II
   Diocese: Lichfield
   Date: 1720 AD
   Description: |
@@ -568,6 +624,7 @@
 
 - Type: Item
   Name: St Mary, Burford
+  Grade: I
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -611,6 +668,7 @@
 
 - Type: Item
   Name: St Michael, Cardeston
+  Grade: II
   Diocese: Hereford
   Date: 1276 AD
   Description: |
@@ -638,6 +696,7 @@
 
 - Type: Item
   Name: St James, Cardington
+  Grade: I
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -666,6 +725,7 @@
 
 - Type: Item
   Name: St Peter, Chelmarsh
+  Grade: I
   Diocese: Hereford
   Date: 14th Century AD
   Description: |
@@ -678,6 +738,7 @@
 
 - Type: Item
   Name: St Swithin, Cheswardine
+  Grade: II*
   Diocese: Lichfield
   Date: 13th Century AD
   Description: |
@@ -690,10 +751,11 @@
     The church is noted for the roof in the chancel chapel.  Some of the stained glass is by Kempe.  There are also some Minton tiles in the chancel.
 
     The name Cheswardine, recorded in 1086 as Ciseworde, in 1189 as Chesewordin and about 1650 as Cheswardyne, is probably derived from the Old English for 'cheese-producing settlement' or 'cheese farm'.
-  Thumbnail: 2021-09-24_14_10_59_DSC_0420-Edit.jpg
+  Thumbnail: 2022-07-16_14_29_43_DSC_3460.jpg
 
 - Type: Item
-  Name: St Michael, Child's Ercall
+  Name: St Michael, Childs Ercall
+  Grade: II*
   Diocese: Lichfield
   Date: 13th Century AD
   Description: |
@@ -713,6 +775,7 @@
 
 - Type: Item
   Name: St Michael the Archangel, Chirbury
+  Grade: I
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -722,7 +785,6 @@
 
     The church was reformed into the church of the Augustinian Priory at Chirbury when the order relocated from Snead (near Bishop's Castle) round about 1220.  With the dissolution of the Priory in 1535, the church became a parish church once again.  The church as seen today is the nave of the Priory.
   Thumbnail: 2020-03-14_14_09_50_DSC_6783-Edit.jpg
-
   Sub-Images:
     - Sub-Image: 2020-03-14_14_12_39_DSC_6785_DxO.jpg
     - Sub-Image: 2020-03-14_14_21_50_DSC_6789_DxO.jpg
@@ -744,6 +806,7 @@
 
 - Type: Item
   Name: St Andrew, Church Aston
+  Grade: II
   Diocese: Lichfield
   Date: 1867 AD
   Description: |
@@ -758,6 +821,7 @@
 
 - Type: Item
   Name: St John the Baptist, Church Preen
+  Grade: II*
   Diocese: Hereford
   Date: 13th Century
   Description: |
@@ -783,6 +847,7 @@
 
 - Type: Item
   Name: St Edith, Church Pulverbatch
+  Grade: II*
   Diocese: Hereford
   Date: 1773 AD 
   Description: |
@@ -792,7 +857,6 @@
 
     The churchyard contains a number of tombs of interest, including an urn shaped tomb dating from the 18th Century.  The churchyard is circular and was thought to have been a defensive site, there are a number of mature yew trees in the churchyard.
   Thumbnail: 2020-06-27_14_02_09_DSC_7346.jpg
-
   Sub-Images:
     - Sub-Image: 2020-06-27_13_49_27_DSC_7333_DxO.jpg
     - Sub-Image: 2020-06-27_13_58_21_DSC_7342_DxO.jpg
@@ -804,6 +868,7 @@
 
 - Type: Item
   Name: St Laurence, Church Stretton
+  Grade: I
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -829,6 +894,7 @@
 
 - Type: Item
   Name: All Saints, Claverley
+  Grade: I
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -871,6 +937,7 @@
 
 - Type: Item
   Name: St Margaret, Clee St Margaret
+  Grade: II*
   Diocese: Hereford
   Date: Saxon / Norman
   Description: |
@@ -881,6 +948,7 @@
 
 - Type: Item
   Name: St Mary, Cleobury Mortimer
+  Grade: I
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -914,6 +982,7 @@
 
 - Type: Item
   Name: All Saints, Clive
+  Grade: II*
   Diocese: Lichfield
   Date: circa 1190 AD
   Description: |
@@ -943,6 +1012,7 @@
 
 - Type: Item
   Name: Holy Trinity, Coalbrookdale
+  Grade: II*
   Diocese: Hereford
   Date: 1854 AD
   Description: |
@@ -975,6 +1045,7 @@
 
 - Type: Item
   Name: St Simon and St Jude, Cockshutt
+  Grade: II
   Diocese: Lichfield
   Date: 1777 AD
   Description: |
@@ -985,6 +1056,7 @@
 
 - Type: Item
   Name: St Andrew and St Mary, Condover
+  Grade: II*
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -1027,6 +1099,7 @@
 
 - Type: Item
   Name: St Peter, Cound
+  Grade: I
   Diocese: Hereford
   Date: 13th Century AD
   Description: |
@@ -1069,6 +1142,7 @@
 
 - Type: Item
   Name: Christ Church, Cressage
+  Grade: II
   Diocese: Hereford
   Date: 1841 AD
   Description: |
@@ -1081,6 +1155,7 @@
 
 - Type: Item
   Name: St Mary, Crudgington
+  Grade: Not Listed
   Diocese: Lichfield
   Date: 1863 AD
   Description: |
@@ -1089,6 +1164,7 @@
 
 - Type: Item
   Name: All Saints, Culmington
+  Grade: II*
   Diocese: Hereford
   Date: 11th Century
   Description: |
@@ -1134,6 +1210,7 @@
 
 - Type: Item
   Name: St Peter, Diddlebury
+  Grade: II*
   Diocese: Hereford
   Date: 11th Century (or earlier) AD
   Description: |
@@ -1149,6 +1226,7 @@
 
 - Type: Item
   Name: St Edward, Dorrington
+  Grade: II
   Diocese: Hereford
   Date: 1845 AD
   Description: |
@@ -1164,6 +1242,7 @@
 
 - Type: Item
   Name: St Mary, Eaton Constantine
+  Grade: II
   Diocese: Lichfield
   Date: 1841 AD
   Description: |
@@ -1176,6 +1255,7 @@
 
 - Type: Item
   Name: St Edith, Eaton-under-Heywood
+  Grade: I
   Diocese: Hereford
   Date: 12th Century
   Description: |
@@ -1215,6 +1295,7 @@
 
 - Type: Item
   Name: St Peter, Edgmond
+  Grade: I
   Diocese: Lichfield
   Date: 1080 AD
   Description: |
@@ -1256,6 +1337,7 @@
 
 - Type: Item
   Name: St Mary, Edstaston
+  Grade: I
   Diocese: Lichfield
   Date: 12th Century
   Description: |
@@ -1295,6 +1377,7 @@
 
 - Type: Item
   Name: St Mary, Ellesmere
+  Grade: I
   Diocese: Lichfield
   Date: 1840s AD
   Description: |
@@ -1308,7 +1391,8 @@
     - Sub-Image: photo-needed.jpg
 
 - Type: Item
-  Name: St Catherine, Eyton upon the Weald Moors
+  Name: St Catherine, Eyton-upon-the-Weald Moors
+  Grade: II*
   Diocese: Lichfield
   Date: 1743 AD
   Description: |
@@ -1319,6 +1403,7 @@
 
 - Type: Item
   Name: St Michael, Ford
+  Grade: II
   Diocese: Hereford
   Date: circa 1200 AD
   Description: |
@@ -1335,6 +1420,7 @@
 
 - Type: Item
   Name: St Mark, Frodesley
+  Grade: II
   Diocese: Hereford
   Date: 1809 AD
   Description: |
@@ -1363,7 +1449,8 @@
     - Sub-Image: 2021-10-29_16_27_27_DSC03292_DxO.jpg
 
 - Type: Item
-  Name: St Thomas, Great Ryton
+  Name: St Thomas, Ryton
+  Grade: Not Listed
   Diocese: Hereford
   Date: 1896 AD
   Description: |
@@ -1372,6 +1459,7 @@
 
 - Type: Item
   Name: St John, Great Wollaston
+  Grade: II
   Diocese: Hereford
   Date: 1788 AD
   Description: |
@@ -1388,6 +1476,7 @@
 
 - Type: Item
   Name: All Saints, Grinshill
+  Grade: II
   Diocese: Lichfield
   Date: 1839-40 AD
   Description: |
@@ -1407,6 +1496,7 @@
 
 - Type: Item
   Name: St Mary Magdalene, Hadnall
+  Grade: II*
   Diocese: Lichfield
   Date: 1140 to 1150 AD
   Description: |
@@ -1434,6 +1524,7 @@
 
 - Type: Item
   Name: St Thomas, Halford
+  Grade: II
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -1444,6 +1535,7 @@
 
 - Type: Item
   Name: St Michael, High Ercall
+  Grade: I
   Diocese: Lichfield
   Date: 12th Century
   Description: |
@@ -1476,6 +1568,7 @@
 
 - Type: Item
   Name: St Luke, Hodnet
+  Grade: I
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -1518,6 +1611,7 @@
 
 - Type: Item
   Name: Holy Trinity, Holdgate
+  Grade: I
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -1542,6 +1636,7 @@
 
 - Type: Item
   Name: St John the Baptist, Hope Bagot
+  Grade: I
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -1556,6 +1651,7 @@
 
 - Type: Item
   Name: St Andrew, Hope Bowdler
+  Grade: II
   Diocese: Hereford
   Date: 1863 AD
   Description: |
@@ -1583,6 +1679,7 @@
 
 - Type: Item
   Name: St John the Baptist, Hughley
+  Grade: I
   Diocese: Hereford
   Date: 13th Century
   Description: |
@@ -1626,6 +1723,7 @@
 
 - Type: Item
   Name: St John the Baptist, Ightfield
+  Grade: II*
   Diocese: Lichfield
   Date: 1490 AD
   Description: |
@@ -1641,6 +1739,7 @@
 
 - Type: Item
   Name: St Luke, Ironbridge
+  Grade: II
   Diocese: Hereford
   Date: 1837 AD
   Description: |
@@ -1660,6 +1759,7 @@
 
 - Type: Item
   Name: St Mary, Jackfield
+  Grade: II
   Diocese: Hereford
   Date: 1863 AD
   Description: |
@@ -1691,6 +1791,7 @@
 
 - Type: Item
   Name: St John the Baptist, Kenley
+  Grade: II*
   Diocese: Hereford
   Date: 12th Century
   Description: |
@@ -1716,6 +1817,7 @@
 
 - Type: Item
   Name: St Mary, Kinnerley
+  Grade: II*
   Diocese: Lichfield
   Date: 15th Century AD
   Description: |
@@ -1735,6 +1837,7 @@
 
 - Type: Item
   Name: St Paul, Knowbury
+  Grade: II
   Diocese: Hereford
   Date: 1838-9 AD
   Description: |
@@ -1745,6 +1848,7 @@
 
 - Type: Item
   Name: St Chad, Kynnersley
+  Grade: II*
   Diocese: Lichfield
   Date: 13th Century
   Description: |
@@ -1755,6 +1859,7 @@
 
 - Type: Item
   Name: Chapel, Langley
+  Grade: I
   Diocese: Hereford
   Date: 14th Century AD
   Description: |
@@ -1765,7 +1870,7 @@
     The last regular service was held at Langley Chapel in 1871.
 
     The name of the settlement derives from the Old English meaning long wood/clearing - lang (long or tall) and leah (a forest, wood, glade or clearing, and later a pasture or meadow).
-  Thumbnail: 2020-09-11_17_04_37_DSC_8492_DxO_1.jpg
+  Thumbnail: 2020-09-11_17_04_37_DSC_8492.jpg
   Sub-Images:
     - Sub-Image: 2020-09-11_17_08_41_DSC_8497_DxO.jpg
     - Sub-Image: 2020-09-11_17_10_06_DSC_8499_DxO.jpg
@@ -1776,6 +1881,7 @@
 
 - Type: Item
   Name: St John the Evangelist, Lawley
+  Grade: II
   Diocese: Lichfield
   Date: 1865 AD
   Description: |
@@ -1794,6 +1900,7 @@
 
 - Type: Item
   Name: St Peter, Lee Brockhurst
+  Grade: II*
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -1807,6 +1914,7 @@
 
 - Type: Item
   Name: St Michael and All Angels, Lilleshall
+  Grade: I
   Diocese: Lichfield
   Date: circa 1190 AD
   Description: |
@@ -1832,7 +1940,6 @@
 
     The name of settlement means Lill's (personal name) Hill.
   Thumbnail: 2022-03-06_12_31_11_DSC_0385.jpg
-
   Sub-Images:
     - Sub-Image: 2021-08-29_07_00_00_DSC_0128_DxO.jpg
     - Sub-Image: 2021-08-29_07_00_24_DSC_0129_DxO.jpg
@@ -1861,6 +1968,7 @@
 
 - Type: Item
   Name: All Saints, Little Stretton
+  Grade: II
   Diocese: Hereford
   Date: 1903 AD
   Description: |
@@ -1873,6 +1981,7 @@
 
 - Type: Item
   Name: St Lawrence, Little Wenlock
+  Grade: II*
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -1887,10 +1996,11 @@
     In 1849 Abraham Darby IV of Coalbrookdale joined the Church of England, having been raised as a Quaker, he was baptised at this church.
 
     The name Wenlock is thought to be 'white enclosed place'.  The white probably refers to the limestone escarpment of Wenlock Edge.  'Winn' is primitive Welsh for white, and 'loca' is Old English for an enclosure.  'Little' derives from the Latin 'parva' for small.
-  Thumbnail: 2021-07-18_07_21_42_DSC_9798_DxO_1.jpg
+  Thumbnail: 2021-07-18_07_21_42_DSC_9798.jpg
 
 - Type: Item
   Name: St Michael the Archangel, Llanyblodwel
+  Grade: I
   Diocese: Lichfield
   Date: 1847-1853 AD
   Description: |
@@ -1904,6 +2014,7 @@
 
 - Type: Item
   Name: St Ruthen, Longden
+  Grade: II
   Diocese: Hereford
   Date: Pre-1569 AD
   Description: |
@@ -1918,6 +2029,7 @@
 
 - Type: Item
   Name: St Bartholomew, Longdon on Tern
+  Grade: II
   Diocese: Lichfield
   Date: 1742 AD
   Description: |
@@ -1928,6 +2040,7 @@
 
 - Type: Item
   Name: Talbot Chapel, Longford
+  Grade: II*
   Diocese: Lichfield
   Date: 1300 AD
   Description: |
@@ -1938,7 +2051,7 @@
     The wall monument is to Thomas and Anne Talbot (who died in 1686 and 1706 respectively).  Thomas Talbot was a relation of the Earl of Shrewsbury.
 
     The name of the village simply means (in Old English) long ford, possibly referring to a causeway across the river Strine (a tributary of the river Tern).
-  Thumbnail: 2020-08-15_13_43_09_DSC_8018_DxO_1.jpg
+  Thumbnail: 2020-08-15_13_43_09_DSC_8018.jpg
   Sub-Images:
     - Sub-Image: 2020-08-15_13_48_44_DSC_8026_DxO.jpg
     - Sub-Image: 2020-08-15_13_49_43_DSC_8027_DxO.jpg
@@ -1949,6 +2062,7 @@
 
 - Type: Item
   Name: St Mary, Longnor
+  Grade: I
   Diocese: Hereford
   Date: 1275 AD
   Description: |
@@ -1959,7 +2073,7 @@
     The building is considered to be a perfect example of Early English architecture, it is considered to be a rarity among English parish churches as the building is entirely a single medieval style.
 
     The name of the village derives its name from an alder copse on the banks of the river Cound near to the church ('lang' is the Old English for long or tall and 'alor' is the Old English for an alder tree).
-  Thumbnail: 2020-09-13_16_03_30_DSC_8567_DxO_1.jpg
+  Thumbnail: 2020-09-13_16_03_30_DSC_8567.jpg
   Sub-Images:
     - Sub-Image: 2020-09-13_15_37_17_DSC_8514_DxO.jpg
     - Sub-Image: 2020-09-13_15_37_56_DSC_8515_DxO.jpg
@@ -1987,6 +2101,7 @@
 
 - Type: Item
   Name: St Michael and All Angels, Loppington
+  Grade: I
   Diocese: Lichfield
   Date: 14th Century AD
   Description: |
@@ -2020,6 +2135,7 @@
 
 - Type: Item
   Name: St Giles, Ludford
+  Grade: II*
   Diocese: Hereford
   Date: 11th Century AD
   Description: |
@@ -2045,6 +2161,7 @@
 
 - Type: Item
   Name: St Laurence, Ludlow
+  Grade: I
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -2064,6 +2181,7 @@
 
 - Type: Item
   Name: St John, Ludlow
+  Grade: Not Listed
   Diocese: Hereford
   Date: 1881 AD
   Description: |
@@ -2072,6 +2190,7 @@
 
 - Type: Item
   Name: Holy Trinity, Lydham
+  Grade: II*
   Diocese: Hereford
   Date: Circa 1200 AD
   Description: |
@@ -2090,6 +2209,7 @@
 
 - Type: Item
   Name: St Mary, Market Drayton
+  Grade: II*
   Diocese: Lichfield
   Date: 1150 AD
   Description: |
@@ -2112,6 +2232,7 @@
 
 - Type: Item
   Name: St Peter, Melverley
+  Grade: I
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -2129,6 +2250,7 @@
 
 - Type: Item
   Name: Holy Trinity, Meole Brace
+  Grade: II*
   Diocese: Lichfield
   Date: 1867 to 1868 AD
   Description: |
@@ -2143,6 +2265,7 @@
 
 - Type: Item
   Name: Holy Trinity, Minsterley
+  Grade: II*
   Diocese: Hereford
   Date: 1692 AD
   Description: |
@@ -2177,6 +2300,7 @@
 
 - Type: Item
   Name: St Chad, Montford
+  Grade: II*
   Diocese: Lichfield
   Date: 1737 - 1738 AD
   Description: |
@@ -2206,6 +2330,7 @@
 
 - Type: Item
   Name: St Peter, More
+  Grade: II*
   Diocese: Hereford
   Date: 13th Century AD
   Description: |
@@ -2239,6 +2364,7 @@
 
 - Type: Item
   Name: St Bartholomew, Moreton Corbet
+  Grade: I
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -2270,6 +2396,7 @@
 
 - Type: Item
   Name: St Gregory, Morville
+  Grade: I
   Diocese: Hereford
   Date: 1118 AD
   Description: |
@@ -2283,7 +2410,8 @@
     - Sub-Image: photo-needed.jpg
 
 - Type: Item
-  Name: Holy Trinity Church, Much Wenlock
+  Name: Holy Trinity, Much Wenlock
+  Grade: I
   Diocese: Hereford
   Date: 1150 AD
   Description: |
@@ -2316,6 +2444,7 @@
 
 - Type: Item
   Name: St Michael, Munslow
+  Grade: I
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -2339,6 +2468,7 @@
 
 - Type: Item
   Name: St John the Baptist, Myndtown
+  Grade: II*
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -2357,6 +2487,7 @@
 
 - Type: Item
   Name: St Nicholas, Newport
+  Grade: II*
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -2395,6 +2526,7 @@
 
 - Type: Item
   Name: King Charles the Martyr, Newtown
+  Grade: II
   Diocese: Lichfield
   Date: 1869 AD
   Description: |
@@ -2429,6 +2561,7 @@
 
 - Type: Item
   Name: All Saints, Norbury
+  Grade: II*
   Diocese: Hereford
   Date: 13th Century
   Description: |
@@ -2445,6 +2578,7 @@
 
 - Type: Item
   Name: St Chad, Norton-in-Hales
+  Grade: II*
   Diocese: Lichfield
   Date: 13th Century AD
   Description: |
@@ -2490,6 +2624,7 @@
 
 - Type: Item
   Name: St Michael, Onibury
+  Grade: II*
   Diocese: Hereford
   Date: 12th Century
   Description: |
@@ -2525,6 +2660,7 @@
 
 - Type: Item
   Name: St Oswald, Oswestry
+  Grade: II*
   Diocese: Lichfield
   Date: 13th Century AD
   Description: |
@@ -2540,6 +2676,7 @@
 
 - Type: Item
   Name: St Raphael and St Isidore, Petton
+  Grade: II*
   Diocese: Lichfield
   Date: 1727 AD
   Description: |
@@ -2565,6 +2702,7 @@
 
 - Type: Item
   Name: St Michael and All Angels, Pitchford
+  Grade: I
   Diocese: Hereford
   Date: 1220 AD
   Description: |
@@ -2578,6 +2716,7 @@
 
 - Type: Item
   Name: St George, Pontesbury
+  Grade: II*
   Diocese: Hereford
   Date: 13th Century
   Description: |
@@ -2629,6 +2768,7 @@
 
 - Type: Item
   Name: St Chad, Prees
+  Grade: II*
   Diocese: Lichfield
   Date: 14th Century AD
   Description: |
@@ -2641,6 +2781,7 @@
 
 - Type: Item
   Name: St Martin, Preston Gubbals
+  Grade: II*
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -2662,6 +2803,7 @@
 
 - Type: Item
   Name: St Laurence, Preston-upon-the-Weald Moors
+  Grade: II
   Diocese: Lichfield
   Date: 1742 AD
   Description: |
@@ -2675,6 +2817,7 @@
 
 - Type: Item
   Name: St Mary Magdalene, Quatford
+  Grade: II*
   Diocese: Hereford
   Date: 12th Century AD 
   Description: |
@@ -2711,6 +2854,7 @@
 
 - Type: Item
   Name: St Margaret, Ratlinghope
+  Grade: II
   Diocese: Hereford
   Date: 1209 AD
   Description: |
@@ -2723,6 +2867,7 @@
 
 - Type: Item
   Name: St George, Rodington
+  Grade: II
   Diocese: Lichfield
   Date: 1851 AD
   Description: |
@@ -2732,20 +2877,22 @@
 
     The place name Rodington is derived from name of the river (Roden), the origin of which is unknown, and the Old English 'tun' meaning farm or settlement.
 
-  Thumbnail: 2021-04-10_15_27_07_DSC_9411_DxO_1.jpg
+  Thumbnail: 2021-04-10_15_27_07_DSC_9411.jpg
 
 - Type: Item
   Name: St Mary, Selattyn
+  Grade: I
   Diocese: Lichfield
   Date: 1291 AD 
   Description: |
     The village is close to Offa's Dyke and the dyke bounds the parish on the west, the name derives from sulh and tun which means in Old English a plough(-land) farm/settlement, or perhaps, a gully farm/settlement and has also been modified by Welsh influence.
 
     The churchyard has a number of very old yew trees, suggesting that the site has been a place of Christian worship for over 1000 years.  However, the church itself is first mentioned in the Papal Tax records in 1291.  The church is noted for its 13th Century font and the barrel roof over the chancel, which is thought to be from the 14th Century.  The north and south transepts were added in 1821-28.  The church was extensively rebuilt in 1891-92.
-  Thumbnail: 2020-06-20_14_33_42_DSC_7305_DxO_L.jpg
+  Thumbnail: 2020-06-20_14_33_42_DSC_7305.jpg
 
 - Type: Item
   Name: St Mary, Shawbury
+  Grade: I
   Diocese: Lichfield
   Date: 1182 AD
   Description: |
@@ -2756,7 +2903,7 @@
     The font is Norman, above it is a brass chandelier which is 18th Century.  The pulpit is Jacobean, dated 1612.  In one of south windows in the chancel are some fragments of 15th Century stained glass.  The carved reredos behind the altar dates from 1881.
 
     The name of the settlement derives from the Old English for fortification by a small wood (sceaga is small wood and burh is a fortified place).
-  Thumbnail: 2021-09-04_13_56_44_DSC_0311_DxO_1.jpg
+  Thumbnail: 2021-09-04_13_56_44_DSC_0311.jpg
   Sub-Images:
     - Sub-Image: 2021-09-04_13_30_46_DSC_0274_DxO.jpg
     - Sub-Image: 2021-09-04_13_32_20_DSC_0278_DxO.jpg
@@ -2778,6 +2925,7 @@
 
 - Type: Item
   Name: St Peter and St Paul, Sheinton
+  Grade: II*
   Diocese: Hereford
   Date: 1854 AD
   Description: |
@@ -2788,6 +2936,7 @@
 
 - Type: Item
   Name: All Saints, Shelve
+  Grade: II
   Diocese: Hereford
   Date: 1839 AD
   Description: |
@@ -2805,6 +2954,7 @@
 
 - Type: Item
   Name: St Andrew, Shifnal
+  Grade: I
   Diocese: Lichfield
   Date: Pre-13th Century AD
   Description: |
@@ -2853,6 +3003,7 @@
 
 - Type: Item
   Name: St James, Shipton
+  Grade: II*
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -2868,7 +3019,8 @@
     - Sub-Image: photo-needed.jpg
 
 - Type: Item
-  Name: St Mary, Shrewsbury
+  Name: St Mary the Virgin, Shrewsbury
+  Grade: I
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -2907,6 +3059,7 @@
 
 - Type: Item
   Name: St Chad (old), Shrewsbury
+  Grade: II*
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -2917,6 +3070,7 @@
 
 - Type: Item
   Name: St Alkmund, Shrewsbury
+  Grade: II*
   Diocese: Lichfield
   Date: 1475 AD
   Description: |
@@ -2937,6 +3091,7 @@
 
 - Type: Item
   Name: St Chad (new), Shrewsbury
+  Grade: I
   Diocese: Lichfield
   Date: 1792 AD
   Description: |
@@ -2954,6 +3109,7 @@
 
 - Type: Item
   Name: St Julian, Shrewsbury
+  Grade: II*
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -2962,6 +3118,7 @@
 
 - Type: Item
   Name: Congregational Church, Shrewsbury
+  Grade: II
   Diocese: Lichfield
   Date: 1863 AD
   Description: |
@@ -2975,7 +3132,8 @@
     - Sub-Image: photo-needed.jpg
 
 - Type: Item
-  Name: St Michael & All Angels, Smethcott
+  Name: St Michael and All Angels, Smethcott
+  Grade: II
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -2988,18 +3146,20 @@
 
 - Type: Item
   Name: St Luke, Snailbeach
+  Grade: Not Listed
   Diocese: Hereford
   Date: 1872 AD
   Description: |
     A somewhat austere chapel.
 
     The word Beach is derived from the Old English Baece (stream) or Bache (a steep wooded narrow valley).
-  Thumbnail: 2019-05-06_11_23_46_DSC_4151_DxO_L.jpg
+  Thumbnail: 2019-05-06_11_23_46_DSC_4151.jpg
   Sub-Images:
     - Sub-Image: 2019-05-06_11_37_16_DSC_4154_DxO.jpg
 
 - Type: Item
   Name: St George, St Georges
+  Grade: II
   Diocese: Lichfield
   Date: 1862 AD
   Description: |
@@ -3036,6 +3196,7 @@
 
 - Type: Item
   Name: St Peter, Stanton Lacy
+  Grade: I
   Diocese: Hereford
   Date: Circa 1050 AD
   Description: |
@@ -3081,6 +3242,7 @@
 
 - Type: Item
   Name: St Michael, Stanton Long
+  Grade: II*
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -3115,6 +3277,7 @@
 
 - Type: Item
   Name: St Andrew, Stanton-upon-Hine Heath
+  Grade: I
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -3154,6 +3317,7 @@
 
 - Type: Item
   Name: St John the Baptist, Stapleton
+  Grade: II*
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -3185,6 +3349,7 @@
 
 - Type: Item
   Name: St Chad, Stockton
+  Grade: II*
   Diocese: Lichfield
   Date: 12th Century
   Description: |
@@ -3206,6 +3371,7 @@
 
 - Type: Item
   Name: St Peter, Stoke on Tern
+  Grade: II
   Diocese: Lichfield
   Date: 1874-1875 AD
   Description: |
@@ -3218,16 +3384,18 @@
 
 - Type: Item
   Name: St Milburgh, Stoke St Milborough
+  Grade: II*
   Diocese: Hereford
   Date: 13th Century
   Description: |
     The church dates back to the 13th Century, but likely has Saxon origins.  This is one of nine churches connected with Wenlock Abbey.  It is noted for its handsome ceiling and rare water leaf decoration.
 
     The name of the village is derived from the Old English 'stoc' meaning a place or secondary settlement and the saint to which the church is dedicated (St Milburga).  The village was known in Saxon times as Godstoke.
-  Thumbnail: 2020-07-17_14_32_13_DSC_7438_DxO_1.jpg
+  Thumbnail: 2020-07-17_14_32_13_DSC_7438.jpg
 
 - Type: Item
   Name: St John the Baptist, Stokesay
+  Grade: I
   Diocese: Hereford
   Date: 1150 AD
   Description: |
@@ -3243,6 +3411,7 @@
 
 - Type: Item
   Name: St Mary, Sutton Maddock
+  Grade: II*
   Diocese: Lichfield
   Date: 1579 AD
   Description: |
@@ -3276,6 +3445,7 @@
 
 - Type: Item
   Name: All Saints, Tibberton
+  Grade: II
   Diocese: Lichfield
   Date: 1842 AD
   Description: |
@@ -3286,6 +3456,7 @@
 
 - Type: Item
   Name: Christ Church, Tilstock
+  Grade: II
   Diocese: Lichfield
   Date: 1835 AD
   Description: |
@@ -3300,6 +3471,7 @@
 
 - Type: Item
   Name: St Bartholomew, Tong
+  Grade: I
   Diocese: Lichfield
   Date: 1410 AD
   Description: |
@@ -3317,7 +3489,44 @@
     - Sub-Image: 2019-09-01_14_05_46_DSC_5027_DxO.jpg
 
 - Type: Item
+  Name: Holy Trinity, Uffington
+  Grade: II
+  Diocese: Lichfield
+  Date: 1856 AD
+  Description: |
+    The church was built by S Pountney Smith in the Early English style.  It is on the site where a medieval church once stood and is thought to incorporate some fragments of medieval masonry.
+
+    The church is notable for the six small panels of late 17th Century glass in the windows of the south side of the nave.  On the north side are small roundels and panels of Flemish glass, probably 16th or 17th Century.
+
+    The name of settlement means 'Uffa's farm/settlement', Uffa being a personal name, ing is connective particle and tun is an enclosure or farmstead (all Old English).
+  Thumbnail: 2022-07-03_15_39_28_DSC_3112_HDR.jpg
+  Sub-Images:
+    - Sub-Image: 2022-07-03_15_21_24_DSC_3028.jpg
+    - Sub-Image: 2022-07-03_15_22_03_DSC_3034.jpg
+    - Sub-Image: 2022-07-03_15_22_20_DSC_3037.jpg
+    - Sub-Image: 2022-07-03_15_22_38_DSC_3040.jpg
+    - Sub-Image: 2022-07-03_15_22_51_DSC_3043.jpg
+    - Sub-Image: 2022-07-03_15_23_52_DSC_3048.jpg
+    - Sub-Image: 2022-07-03_15_24_05_DSC_3051.jpg
+    - Sub-Image: 2022-07-03_15_24_13_DSC_3054.jpg
+    - Sub-Image: 2022-07-03_15_24_48_DSC_3060.jpg
+    - Sub-Image: 2022-07-03_15_25_01_DSC_3063.jpg
+    - Sub-Image: 2022-07-03_15_26_43_DSC_3072.jpg
+    - Sub-Image: 2022-07-03_15_27_03_DSC_3075.jpg
+    - Sub-Image: 2022-07-03_15_27_38_DSC_3078_HDR.jpg
+    - Sub-Image: 2022-07-03_15_28_06_DSC_3081.jpg
+    - Sub-Image: 2022-07-03_15_29_04_DSC_3084.jpg
+    - Sub-Image: 2022-07-03_15_29_28_DSC_3085.jpg
+    - Sub-Image: 2022-07-03_15_29_36_DSC_3086.jpg
+    - Sub-Image: 2022-07-03_15_29_47_DSC_3087.jpg
+    - Sub-Image: 2022-07-03_15_29_59_DSC_3088.jpg
+    - Sub-Image: 2022-07-03_15_30_09_DSC_3089.jpg
+    - Sub-Image: 2022-07-03_15_30_53_DSC_3090_HDR.jpg
+    - Sub-Image: 2022-07-03_15_31_42_DSC_3093_HDR.jpg
+
+- Type: Item
   Name: St Michael, Upton Cressett
+  Grade: I
   Diocese: Hereford
   Date: 12th Century AD
   Description: |
@@ -3328,6 +3537,7 @@
 
 - Type: Item
   Name: St Lucy, Upton Magna
+  Grade: II*
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -3359,6 +3569,7 @@
 
 - Type: Item
   Name: St Michael, Waters Upton
+  Grade: II
   Diocese: Lichfield
   Date: 1864 AD
   Description: |
@@ -3369,6 +3580,7 @@
 
 - Type: Item
   Name: All Saints, Wellington
+  Grade: II*
   Diocese: Lichfield
   Date: 1789-1790 AD
   Description: |
@@ -3384,6 +3596,7 @@
 
 - Type: Item
   Name: Christ Church, Wellington
+  Grade: II
   Diocese: Lichfield
   Date: 1839 AD
   Description: |
@@ -3394,6 +3607,7 @@
 
 - Type: Item
   Name: St Michael and All Angels, Welshampton
+  Grade: II
   Diocese: Lichfield
   Date: 1860s AD
   Description: |
@@ -3405,7 +3619,8 @@
   Thumbnail: 2019-07-21_13_20_12_DSC_4685.jpg
 
 - Type: Item
-  Name: St Peter & St Paul, Wem
+  Name: St Peter and St Paul, Wem
+  Grade: II*
   Diocese: Lichfield
   Date: 14th Century AD
   Description: |
@@ -3420,6 +3635,7 @@
 
 - Type: Item
   Name: St Michael and All Angels, Wentnor
+  Grade: II*
   Diocese: Hereford
   Date: Norman (1095 AD or earlier)
   Description: |
@@ -3432,6 +3648,7 @@
 
 - Type: Item
   Name: St Mary, Westbury
+  Grade: II*
   Diocese: Hereford
   Date: 13th or 14th Century
   Description: |
@@ -3442,6 +3659,7 @@
 
 - Type: Item
   Name: St Luke, Weston-under-Redcastle
+  Grade: II
   Diocese: Lichfield
   Date: 1791 AD
   Description: |
@@ -3465,6 +3683,7 @@
 
 - Type: Item
   Name: St Alkmund, Whitchurch
+  Grade: I
   Diocese: Lichfield
   Date: 1712 AD
   Description: |
@@ -3481,6 +3700,7 @@
 
 - Type: Item
   Name: St John the Baptist, Whittington
+  Grade: II
   Diocese: Lichfield
   Date: 1747 AD
   Description: |
@@ -3491,6 +3711,7 @@
 
 - Type: Item
   Name: St John the Baptist, Withington
+  Grade: II
   Diocese: Lichfield
   Date: 1874 AD
   Description: |
@@ -3506,7 +3727,6 @@
 
     The place name derives from the Old English word for growing with willows / made of withies (widigen) and farm or settlement (tun).
   Thumbnail: 2021-04-10_15_00_07_DSC_9399.jpg
-
   Sub-Images:
     - Sub-Image: 2022-04-14_13_26_45_DSC_1044.jpg
     - Sub-Image: 2022-04-14_13_29_33_DSC_1048.jpg
@@ -3521,6 +3741,7 @@
 
 - Type: Item
   Name: St Peter, Wrockwardine
+  Grade: I
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -3566,6 +3787,7 @@
 
 - Type: Item
   Name: St Andrew, Wroxeter
+  Grade: I
   Diocese: Lichfield
   Date: 12th Century AD
   Description: |
@@ -3595,6 +3817,7 @@
 
 - Type: Item
   Name: Holy Trinity, Yockleton
+  Grade: II
   Diocese: Hereford
   Date: 1861 AD
   Description: |
@@ -3602,7 +3825,6 @@
 
     The Church is built of grey Alberbury stone with insets of pink Grinshill and pale Cardeston stone.
   Thumbnail: 2020-03-14_12_31_55_DSC_6763.jpg
-
   Sub-Images:
     - Sub-Image: 2020-03-14_12_35_10_DSC_6767_DxO.jpg
     - Sub-Image: 2020-03-14_12_36_30_DSC_6768_DxO.jpg

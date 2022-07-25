@@ -115,6 +115,39 @@ The place name derives from the Old English 'burh' (a fortified place) and the p
 - Sub-Image: 2021-08-07_12_22_05_DSC02999_DxO.jpg
 - Sub-Image: 2021-08-07_12_25_01_DSC03001_DxO.jpg
 
+# Name: St Mary, Ashford Carbonell
+- Diocese: Hereford
+- Date: 12th Century AD
+
+Although of 12th Century origin, the church did not become a separate parish until 1880, prior to that it was a perpetual curacy of Little Hereford.  The original 12th Century building was smaller than the present one, the chancel was extended to the east and the nave to the west probably in the 13th Century.  This was revealed during the restoration of 1882-83, as the original foundations were shallower (only one foot); also, behind the plaster there was different masonry.
+
+The oak belfry was added in the 15th Century.  The gallery was added in the 18th Century.  The parish chest probably dates from this time.  The unusual arrangement of windows, which includes a Vesica windows, was restored in the 19th Century.  The vesica piscis (literally fish’s bladder) had the same meaning for the early Church as the symbol of the fish, the Greek word for fish is ichthus and is composed of the initial letters of the Greek for ‘Jesus Christ, Son of God, Saviour’.  A vesica window is rare in English parish churches, during the restoration two Norman windows were revealed and above them the stones which were part of the ancient vesica window.
+
+The carved ends of the oak benches are all different and replaced the box pews.
+
+There is a yew tree which is certified as being 1500 years old (the certificate from 1989 is signed by David Bellamy, naturalist; Allen Meredith, Arboriculturist; Robert Hardy, Longbow enthusiast; and Robert Runcie, the then Archbishop of Canterbury), this suggests that there was an earlier structure here either Saxon or even pre-Christian.
+
+The name of the settlement means 'Ash-tree ford'.  It was held by John Carbonel in 1221.  Aesc is the Anglian for an ash tree, ford is Old English (meaning a ford).
+![](../1shropshire/assets/images/churches/2022-07-04_15_19_37_DSC_3247_HDR.jpg)
+- Sub-Image: 2022-07-04_14_48_38_DSC_3121.jpg
+- Sub-Image: 2022-07-04_14_49_56_DSC_3127.jpg
+- Sub-Image: 2022-07-04_14_51_15_DSC_3136_HDR.jpg
+- Sub-Image: 2022-07-04_14_54_53_DSC_3145.jpg
+- Sub-Image: 2022-07-04_14_55_26_DSC_3149.jpg
+- Sub-Image: 2022-07-04_14_56_39_DSC_3154.jpg
+- Sub-Image: 2022-07-04_14_57_56_DSC_3160.jpg
+- Sub-Image: 2022-07-04_14_58_32_DSC_3166.jpg
+- Sub-Image: 2022-07-04_15_00_14_DSC_3175.jpg
+- Sub-Image: 2022-07-04_15_00_27_DSC_3178.jpg
+- Sub-Image: 2022-07-04_15_00_47_DSC_3181.jpg
+- Sub-Image: 2022-07-04_15_01_08_DSC_3185.jpg
+- Sub-Image: 2022-07-04_15_01_22_DSC_3188.jpg
+- Sub-Image: 2022-07-04_15_02_42_DSC_3197.jpg
+- Sub-Image: 2022-07-04_15_04_24_DSC_3202.jpg
+- Sub-Image: 2022-07-04_15_08_27_DSC_3214.jpg
+- Sub-Image: 2022-07-04_15_09_26_DSC_3217.jpg
+- Sub-Image: 2022-07-04_15_10_00_DSC_3220.jpg
+
 # Name: St Mary, Astley
 - Diocese: Lichfield
 - Date: 12th Century AD
@@ -209,7 +242,7 @@ The English name Baschurch first appears in the Domesday Book of 1086 as Bascher
 - Sub-Image: 2021-07-23_14_40_02_DSC02907_DxO.jpg
 - Sub-Image: 2021-07-23_14_41_07_DSC02910_DxO.jpg
 
-# Name: All Saints, Batchcott Richard's Castle
+# Name: All Saints, Batchcott Richards Castle
 - Diocese: Hereford
 - Date: 1892 AD
 
@@ -280,7 +313,6 @@ The parish was originally part of the estates of Wenlock Priory from at least 11
 
 The chancel is possibly 14th Century, the nave and the tower were added in 1731.
 ![](../1shropshire/assets/images/churches/2020-02-01_13_03_53_DSC_6332.jpg)
-
 - Sub-Image: 2020-02-01_12_48_58_DSC_6306_DxO.jpg
 - Sub-Image: 2020-02-01_12_54_45_DSC_6315_DxO.jpg
 - Sub-Image: 2020-02-01_12_56_28_DSC_6320_DxO.jpg
@@ -374,7 +406,6 @@ The church dates mostly fron the Transitional period (when the Norman style was 
 
 In the Dommsday book, the nearby manor is known as Buterlie (Butter Pasture).
 ![](../1shropshire/assets/images/churches/2019-08-26_14_16_26_DSC_4882.jpg)
-
 - Sub-Image: 2019-08-26_14_06_40_DSC_4867_DxO.jpg
 - Sub-Image: 2019-08-26_14_08_15_DSC_4868_DxO.jpg
 
@@ -639,9 +670,9 @@ The medieval church was falling into disrepair by the 18th Century and was repla
 The church is noted for the roof in the chancel chapel.  Some of the stained glass is by Kempe.  There are also some Minton tiles in the chancel.
 
 The name Cheswardine, recorded in 1086 as Ciseworde, in 1189 as Chesewordin and about 1650 as Cheswardyne, is probably derived from the Old English for 'cheese-producing settlement' or 'cheese farm'.
-![](../1shropshire/assets/images/churches/2021-09-24_14_10_59_DSC_0420-Edit.jpg)
+![](../1shropshire/assets/images/churches/2022-07-16_14_29_43_DSC_3460.jpg)
 
-# Name: St Michael, Child's Ercall
+# Name: St Michael, Childs Ercall
 - Diocese: Lichfield
 - Date: 13th Century AD
 
@@ -668,7 +699,6 @@ In the Anglo-Saxon Chronicle the place name was recorded as Cyricbyrig.  Later i
 
 The church was reformed into the church of the Augustinian Priory at Chirbury when the order relocated from Snead (near Bishop's Castle) round about 1220.  With the dissolution of the Priory in 1535, the church became a parish church once again.  The church as seen today is the nave of the Priory.
 ![](../1shropshire/assets/images/churches/2020-03-14_14_09_50_DSC_6783-Edit.jpg)
-
 - Sub-Image: 2020-03-14_14_12_39_DSC_6785_DxO.jpg
 - Sub-Image: 2020-03-14_14_21_50_DSC_6789_DxO.jpg
 - Sub-Image: 2020-03-14_14_25_48_DSC_6794_DxO.jpg
@@ -733,7 +763,6 @@ The medieval church (the church's first known priest was 'John the Chaplain', re
 
 The churchyard contains a number of tombs of interest, including an urn shaped tomb dating from the 18th Century.  The churchyard is circular and was thought to have been a defensive site, there are a number of mature yew trees in the churchyard.
 ![](../1shropshire/assets/images/churches/2020-06-27_14_02_09_DSC_7346.jpg)
-
 - Sub-Image: 2020-06-27_13_49_27_DSC_7333_DxO.jpg
 - Sub-Image: 2020-06-27_13_58_21_DSC_7342_DxO.jpg
 - Sub-Image: 2020-06-27_13_58_53_DSC_7343_DxO.jpg
@@ -1213,7 +1242,7 @@ Note: Have been inside this church, but do not have any interior photos.
 ![](../1shropshire/assets/images/churches/2019-09-18_12_13_46_DSC_5044_DxO.jpg)
 - Sub-Image: photo-needed.jpg
 
-# Name: St Catherine, Eyton upon the Weald Moors
+# Name: St Catherine, Eyton-upon-the-Weald Moors
 - Diocese: Lichfield
 - Date: 1743 AD
 
@@ -1264,7 +1293,7 @@ The name of the settlement means Frod's wood or clearing, from the Old English '
 - Sub-Image: 2021-10-29_16_22_28_DSC03289_DxO.jpg
 - Sub-Image: 2021-10-29_16_27_27_DSC03292_DxO.jpg
 
-# Name: St Thomas, Great Ryton
+# Name: St Thomas, Ryton
 - Diocese: Hereford
 - Date: 1896 AD
 
@@ -1633,7 +1662,7 @@ By the start of the 18th Century, the chapel had largely fallen out of use, and 
 The last regular service was held at Langley Chapel in 1871.
 
 The name of the settlement derives from the Old English meaning long wood/clearing - lang (long or tall) and leah (a forest, wood, glade or clearing, and later a pasture or meadow).
-![](../1shropshire/assets/images/churches/2020-09-11_17_04_37_DSC_8492_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2020-09-11_17_04_37_DSC_8492.jpg)
 - Sub-Image: 2020-09-11_17_08_41_DSC_8497_DxO.jpg
 - Sub-Image: 2020-09-11_17_10_06_DSC_8499_DxO.jpg
 - Sub-Image: 2020-09-11_17_10_48_DSC_8502_DxO.jpg
@@ -1695,7 +1724,6 @@ On the outside of the church is a sundial (in situ by 1787) and a bronze wall ta
 
 The name of settlement means Lill's (personal name) Hill.
 ![](../1shropshire/assets/images/churches/2022-03-06_12_31_11_DSC_0385.jpg)
-
 - Sub-Image: 2021-08-29_07_00_00_DSC_0128_DxO.jpg
 - Sub-Image: 2021-08-29_07_00_24_DSC_0129_DxO.jpg
 - Sub-Image: 2021-08-29_07_09_02_DSC_0142_DxO.jpg
@@ -1746,7 +1774,7 @@ The communion table is 17th Century.  There is an oak chest from 1733 and the si
 In 1849 Abraham Darby IV of Coalbrookdale joined the Church of England, having been raised as a Quaker, he was baptised at this church.
 
 The name Wenlock is thought to be 'white enclosed place'.  The white probably refers to the limestone escarpment of Wenlock Edge.  'Winn' is primitive Welsh for white, and 'loca' is Old English for an enclosure.  'Little' derives from the Latin 'parva' for small.
-![](../1shropshire/assets/images/churches/2021-07-18_07_21_42_DSC_9798_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2021-07-18_07_21_42_DSC_9798.jpg)
 
 # Name: St Michael the Archangel, Llanyblodwel
 - Diocese: Lichfield
@@ -1791,7 +1819,7 @@ The chapel was the south aisle / chancel chapel of the medieval church and is no
 The wall monument is to Thomas and Anne Talbot (who died in 1686 and 1706 respectively).  Thomas Talbot was a relation of the Earl of Shrewsbury.
 
 The name of the village simply means (in Old English) long ford, possibly referring to a causeway across the river Strine (a tributary of the river Tern).
-![](../1shropshire/assets/images/churches/2020-08-15_13_43_09_DSC_8018_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2020-08-15_13_43_09_DSC_8018.jpg)
 - Sub-Image: 2020-08-15_13_48_44_DSC_8026_DxO.jpg
 - Sub-Image: 2020-08-15_13_49_43_DSC_8027_DxO.jpg
 - Sub-Image: 2020-08-15_13_51_38_DSC_8029_DxO.jpg
@@ -1810,7 +1838,7 @@ The interior is noted for its wooden furnishings, some of which date from the 17
 The building is considered to be a perfect example of Early English architecture, it is considered to be a rarity among English parish churches as the building is entirely a single medieval style.
 
 The name of the village derives its name from an alder copse on the banks of the river Cound near to the church ('lang' is the Old English for long or tall and 'alor' is the Old English for an alder tree).
-![](../1shropshire/assets/images/churches/2020-09-13_16_03_30_DSC_8567_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2020-09-13_16_03_30_DSC_8567.jpg)
 - Sub-Image: 2020-09-13_15_37_17_DSC_8514_DxO.jpg
 - Sub-Image: 2020-09-13_15_37_56_DSC_8515_DxO.jpg
 - Sub-Image: 2020-09-13_15_45_09_DSC_8531_DxO.jpg
@@ -2108,7 +2136,7 @@ Note: Have been inside this church, but do not have any interior photos.
 ![](../1shropshire/assets/images/churches/2019-07-12_14_56_05_DSC_4601_DxO.jpg)
 - Sub-Image: photo-needed.jpg
 
-# Name: Holy Trinity Church, Much Wenlock
+# Name: Holy Trinity, Much Wenlock
 - Diocese: Hereford
 - Date: 1150 AD
 
@@ -2524,7 +2552,7 @@ In 1929, a section of wall of the medieval church was discovered.
 
 The place name Rodington is derived from name of the river (Roden), the origin of which is unknown, and the Old English 'tun' meaning farm or settlement.
 
-![](../1shropshire/assets/images/churches/2021-04-10_15_27_07_DSC_9411_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2021-04-10_15_27_07_DSC_9411.jpg)
 
 # Name: St Mary, Selattyn
 - Diocese: Lichfield
@@ -2533,7 +2561,7 @@ The place name Rodington is derived from name of the river (Roden), the origin o
 The village is close to Offa's Dyke and the dyke bounds the parish on the west, the name derives from sulh and tun which means in Old English a plough(-land) farm/settlement, or perhaps, a gully farm/settlement and has also been modified by Welsh influence.
 
 The churchyard has a number of very old yew trees, suggesting that the site has been a place of Christian worship for over 1000 years.  However, the church itself is first mentioned in the Papal Tax records in 1291.  The church is noted for its 13th Century font and the barrel roof over the chancel, which is thought to be from the 14th Century.  The north and south transepts were added in 1821-28.  The church was extensively rebuilt in 1891-92.
-![](../1shropshire/assets/images/churches/2020-06-20_14_33_42_DSC_7305_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2020-06-20_14_33_42_DSC_7305.jpg)
 
 # Name: St Mary, Shawbury
 - Diocese: Lichfield
@@ -2546,7 +2574,7 @@ The church was altered and restored in 1603 and again in 1875.
 The font is Norman, above it is a brass chandelier which is 18th Century.  The pulpit is Jacobean, dated 1612.  In one of south windows in the chancel are some fragments of 15th Century stained glass.  The carved reredos behind the altar dates from 1881.
 
 The name of the settlement derives from the Old English for fortification by a small wood (sceaga is small wood and burh is a fortified place).
-![](../1shropshire/assets/images/churches/2021-09-04_13_56_44_DSC_0311_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2021-09-04_13_56_44_DSC_0311.jpg)
 - Sub-Image: 2021-09-04_13_30_46_DSC_0274_DxO.jpg
 - Sub-Image: 2021-09-04_13_32_20_DSC_0278_DxO.jpg
 - Sub-Image: 2021-09-04_13_34_17_DSC_0280_DxO.jpg
@@ -2649,7 +2677,7 @@ Note: Have been inside this church, but do not have any interior photos.
 ![](../1shropshire/assets/images/churches/2019-02-02_11_01_56_DSC_3120_DxO.jpg)
 - Sub-Image: photo-needed.jpg
 
-# Name: St Mary, Shrewsbury
+# Name: St Mary the Virgin, Shrewsbury
 - Diocese: Lichfield
 - Date: 12th Century AD
 
@@ -2746,7 +2774,7 @@ Note: Have been inside this church, but do not have any interior photos.
 ![](../1shropshire/assets/images/churches/2018-11-02_14_08_55_DSC_2945_DxO.jpg)
 - Sub-Image: photo-needed.jpg
 
-# Name: St Michael & All Angels, Smethcott
+# Name: St Michael and All Angels, Smethcott
 - Diocese: Hereford
 - Date: 12th Century AD
 
@@ -2763,7 +2791,7 @@ Smethcott means 'the smith's cottage'.
 A somewhat austere chapel.
 
 The word Beach is derived from the Old English Baece (stream) or Bache (a steep wooded narrow valley).
-![](../1shropshire/assets/images/churches/2019-05-06_11_23_46_DSC_4151_DxO_L.jpg)
+![](../1shropshire/assets/images/churches/2019-05-06_11_23_46_DSC_4151.jpg)
 - Sub-Image: 2019-05-06_11_37_16_DSC_4154_DxO.jpg
 
 # Name: St George, St Georges
@@ -2978,7 +3006,7 @@ The name of the place derives from the Old English 'stoc' (meaning a place or a 
 The church dates back to the 13th Century, but likely has Saxon origins.  This is one of nine churches connected with Wenlock Abbey.  It is noted for its handsome ceiling and rare water leaf decoration.
 
 The name of the village is derived from the Old English 'stoc' meaning a place or secondary settlement and the saint to which the church is dedicated (St Milburga).  The village was known in Saxon times as Godstoke.
-![](../1shropshire/assets/images/churches/2020-07-17_14_32_13_DSC_7438_DxO_1.jpg)
+![](../1shropshire/assets/images/churches/2020-07-17_14_32_13_DSC_7438.jpg)
 
 # Name: St John the Baptist, Stokesay
 - Diocese: Hereford
@@ -3062,6 +3090,39 @@ The name Tong is derived from the old English 'tweonga' meaning a pinched piece 
 - Sub-Image: 2019-09-01_14_04_32_DSC_5026_DxO.jpg
 - Sub-Image: 2019-09-01_14_05_46_DSC_5027_DxO.jpg
 
+# Name: Holy Trinity, Uffington
+- Diocese: Lichfield
+- Date: 1856 AD
+
+The church was built by S Pountney Smith in the Early English style.  It is on the site where a medieval church once stood and is thought to incorporate some fragments of medieval masonry.
+
+The church is notable for the six small panels of late 17th Century glass in the windows of the south side of the nave.  On the north side are small roundels and panels of Flemish glass, probably 16th or 17th Century.
+
+The name of settlement means 'Uffa's farm/settlement', Uffa being a personal name, ing is connective particle and tun is an enclosure or farmstead (all Old English).
+![](../1shropshire/assets/images/churches/2022-07-03_15_39_28_DSC_3112_HDR.jpg)
+- Sub-Image: 2022-07-03_15_21_24_DSC_3028.jpg
+- Sub-Image: 2022-07-03_15_22_03_DSC_3034.jpg
+- Sub-Image: 2022-07-03_15_22_20_DSC_3037.jpg
+- Sub-Image: 2022-07-03_15_22_38_DSC_3040.jpg
+- Sub-Image: 2022-07-03_15_22_51_DSC_3043.jpg
+- Sub-Image: 2022-07-03_15_23_52_DSC_3048.jpg
+- Sub-Image: 2022-07-03_15_24_05_DSC_3051.jpg
+- Sub-Image: 2022-07-03_15_24_13_DSC_3054.jpg
+- Sub-Image: 2022-07-03_15_24_48_DSC_3060.jpg
+- Sub-Image: 2022-07-03_15_25_01_DSC_3063.jpg
+- Sub-Image: 2022-07-03_15_26_43_DSC_3072.jpg
+- Sub-Image: 2022-07-03_15_27_03_DSC_3075.jpg
+- Sub-Image: 2022-07-03_15_27_38_DSC_3078_HDR.jpg
+- Sub-Image: 2022-07-03_15_28_06_DSC_3081.jpg
+- Sub-Image: 2022-07-03_15_29_04_DSC_3084.jpg
+- Sub-Image: 2022-07-03_15_29_28_DSC_3085.jpg
+- Sub-Image: 2022-07-03_15_29_36_DSC_3086.jpg
+- Sub-Image: 2022-07-03_15_29_47_DSC_3087.jpg
+- Sub-Image: 2022-07-03_15_29_59_DSC_3088.jpg
+- Sub-Image: 2022-07-03_15_30_09_DSC_3089.jpg
+- Sub-Image: 2022-07-03_15_30_53_DSC_3090_HDR.jpg
+- Sub-Image: 2022-07-03_15_31_42_DSC_3093_HDR.jpg
+
 # Name: St Michael, Upton Cressett
 - Diocese: Hereford
 - Date: 12th Century AD
@@ -3142,7 +3203,7 @@ Welshampton is recorded in the Domesday book as Hantone, meaning high farm or se
 An African prince is buried in the churchyard - the then vicar was as offered a post in Lesotho, which he turned down but maintained contact with the country.  The prince came to England to train as a priest and visited Welshampton when the new church was consecrated in 1863, but during the visit he caught a fever and died and so was buried at the church.
 ![](../1shropshire/assets/images/churches/2019-07-21_13_20_12_DSC_4685.jpg)
 
-# Name: St Peter & St Paul, Wem
+# Name: St Peter and St Paul, Wem
 - Diocese: Lichfield
 - Date: 14th Century AD
 
@@ -3234,7 +3295,6 @@ The chancel has a trussed rafter roof with a collar beam added and the nave has 
 
 The place name derives from the Old English word for growing with willows / made of withies (widigen) and farm or settlement (tun).
 ![](../1shropshire/assets/images/churches/2021-04-10_15_00_07_DSC_9399.jpg)
-
 - Sub-Image: 2022-04-14_13_26_45_DSC_1044.jpg
 - Sub-Image: 2022-04-14_13_29_33_DSC_1048.jpg
 - Sub-Image: 2022-04-14_13_30_00_DSC_1049.jpg
@@ -3324,7 +3384,6 @@ Yockleton became a parish in it's own right in the 19th Century, and those who l
 
 The Church is built of grey Alberbury stone with insets of pink Grinshill and pale Cardeston stone.
 ![](../1shropshire/assets/images/churches/2020-03-14_12_31_55_DSC_6763.jpg)
-
 - Sub-Image: 2020-03-14_12_35_10_DSC_6767_DxO.jpg
 - Sub-Image: 2020-03-14_12_36_30_DSC_6768_DxO.jpg
 - Sub-Image: 2020-03-14_12_37_11_DSC_6770_DxO.jpg

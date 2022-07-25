@@ -1,0 +1,67 @@
+---
+layout: shropshire-bs
+title: Churches of Shropshire - Grade
+---
+
+{% include 1-header-bs.html %}
+
+<div>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<h2>Listed Buildings</h2>
+<p>A building is added to the National <a href="https://historicengland.org.uk/listing/the-list/">Heritage List for England</a> when it has special architectural or historic interest and so is considered to be of national importance and therefore worth protecting.</p>
+<p>Listed buildings come in three categories of 'significance' (in England and Wales):
+<ul>
+  <li>Grade I - buildings of exceptional interest.</li>
+  <li>Grade II* - particularly important buildings of more than special interest.</li>
+  <li>Grade II - buildings that are of special interest.</li>
+</ul>
+</p>
+<p>Listing covers a whole building, including the interior, unless parts of it are specifically excluded in the list description.  Because all listed buildings are different and unique, what is actually covered by a listing can vary quite widely.</p>
+<p>A scheduled monument is a nationally important archaeological site or historic building, given protection against unauthorised change.  Designation of a Scheduled Monument is usually given to sites with minimal economic viability: those with no potential for a new use. Listed Building status is only given to above ground structures, meaning Scheduling is the only legal protection available to archaeological sites.</p>
+</div>
+</div>
+</div>
+</div>
+
+{% assign numrecs = 0 %}
+
+{% for item in site.data.Shropshire_Notebook-Churches_Grade %}
+
+  <h2>Grade: {{ item.Grade }}</h2>
+  {% assign orientation = "right" %}
+
+  {% for church in item.Churches %}
+  {% assign numrecs = numrecs | plus: 1 %}
+  {% if orientation == "left" %}
+    {% assign orientation = "right" %}
+<div class="col-md-6">
+<h3>{{ church.Church }}</h3>
+<img class="imgc" src="assets/images/churches/{{ church.Photo }}">
+</div>
+</div>
+</div>
+</div>
+  {% else %}
+    {% assign orientation = "left" %}
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>{{ church.Church }}</h3>
+<img class="imgc" src="assets/images/churches/{{ church.Photo }}">
+</div>
+  {% endif %}
+  {% endfor %}
+  {% if orientation == "left" %}
+  <div class="col-md-6">
+  </div>
+  </div>
+  </div>
+  </div>
+  {% endif %}
+  
+{% endfor %}
+
+{% include 1-footer-bs.html %}
