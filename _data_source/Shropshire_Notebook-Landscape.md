@@ -1,3 +1,8 @@
+# Name: Bitterley
+
+The church and Titterstone Clee hill.
+![](../1shropshire/assets/images/landscape/2022-07-10_15_14_09_DSC_3445.jpg)
+
 # Name: Lilleshall
 
 A panaromic view of Lilleshall.

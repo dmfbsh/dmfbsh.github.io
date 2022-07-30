@@ -1,11 +1,10 @@
 require 'sqlite3'
 
-def generate_churches_saint()
+def generate_churches_saint(pDBName)
 
 puts "Starting: generate_churches_saint"
 
-db = SQLite3::Database.open 'C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/database/database.db'
-jn = SQLite3::Database.open 'C:/Users/David/Documents/OneDrive/Documents/My Documents/Joplin/JoplinProfile/database.sqlite'
+db = SQLite3::Database.open pDBName
 
 dstf = "../_data/Shropshire_Notebook-Churches_Saint.yml"
 dsth = File.open(dstf, "w:UTF-8")
@@ -15,7 +14,7 @@ results = db.query "SELECT name, dedication1 AS dedication, photo FROM GoogleMap
 results.each { |row|
   if curr_saint != row[1]
     curr_saint = row[1]
-    saint_notes = jn.query "SELECT body FROM notes WHERE parent_id = 'a3fa9ffc8a54446992cf11a39506a159' AND title = ?", curr_saint
+    saint_notes = db.query "SELECT body FROM notes WHERE parent_id = 'a3fa9ffc8a54446992cf11a39506a159' AND title = ?", curr_saint
     saint_note = saint_notes.next
     tnotes = ''
     if saint_note

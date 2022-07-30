@@ -1,5 +1,18 @@
 ---
 ---
+## 30 Jul 2022
+Added the following items:
+
+- Ashford Bowdler church
+- Bitterley Court
+- Bitterley Fire Insurance Plaque
+- Bitterley - view of Church and Hill
+- Clungunford church
+
+Updated Bitterley church.
+
+Updated Cheswardine church.
+
 ## 24 Jul 2022
 Added photo for Lilleshall Abbey.
 

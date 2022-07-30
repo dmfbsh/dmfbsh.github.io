@@ -1,10 +1,10 @@
 require 'sqlite3'
 
-def convert_md_to_yml()
+def convert_md_to_yml(pDBName)
 
 puts "Starting: convert_md_to_yml"
 
-db = SQLite3::Database.open 'C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/database/database.db'
+db = SQLite3::Database.open pDBName
 ckey = ''
 
 Dir.glob("../_data_source/*.md") do |srcfn|

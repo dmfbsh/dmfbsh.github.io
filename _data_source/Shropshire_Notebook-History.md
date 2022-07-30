@@ -556,6 +556,14 @@ After three weeks of continued attack on the castle Colonel Lavington took charg
 69 feet of tunnel was dug into the rock face but was not completed as the Royalists surrendered on Sunday 26th April 1646.
 ![](../1shropshire/assets/images/history/2019-02-02_14_59_31_DSC_3201_DxO.jpg)
 
+# Name: Bitterley Court
+- Date: mid-17th Century
+
+The original Manor House was built in the mid-17th Century.
+
+The manor was remodelled in 1769 by Thomas Pritchard (the English architect and interior decorator who is best known for his design of the first cast-iron bridge in the world).
+![](../1shropshire/assets/images/history/2022-07-10_14_39_06_DSC_3426.jpg)
+
 # Name: John Benbow Born
 - Date: 10th March 1653 AD
 

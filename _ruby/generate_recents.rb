@@ -28,7 +28,7 @@ cnt = 0
 gl.each { |mi|
   puts "Including: " + mi[0..mi.index("#")-1]
   mf = mi[mi.index("#")+1, 100] + "/" + mi[0..mi.index("#")-1]
-  if cnt < 80
+  if cnt < 100
     dsth.write("- Type: Item\n")
     dsth.write("  Thumbnail: " + mf + "\n\n")
   end

@@ -102,6 +102,14 @@ The house was built bu Sir Thomas Wolryche (3rd Baronet).
 Now a museum, little is actually known of the origin and history of the building.  It is likely to have originally been a single room dwelling some time in the twelfth century.  Architectural features reveal that by the 1600s, the owners were very affluent.  The 'crutches' refer to the posts supporting a 17th century upstairs extension, giving more space without encroaching on the cobbled street which still passes underneath.
 ![](../1shropshire/assets/images/houses/2020-08-08_15_16_47_DSC_7992_DxO.jpg)
 
+# Name: Bitterley Court
+- Date: mid-17th Century
+
+The original Manor House was built in the mid-17th Century.
+
+The manor was remodelled in 1769 by Thomas Pritchard (the English architect and interior decorator who is best known for his design of the first cast-iron bridge in the world).
+![](../1shropshire/assets/images/houses/2022-07-10_14_39_06_DSC_3426.jpg)
+
 # Name: Dale House, Coalbrookdale
 - Date: 1717 AD
 

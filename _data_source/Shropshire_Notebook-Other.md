@@ -1,5 +1,10 @@
 # 2022
 
+## Name: Fire Insurance Plaque, Bitterley
+
+The fire insurance plaque on Bitterley Court.
+![](../1shropshire/assets/images/other/2022-07-10_15_03_26_DSC_3442.jpg)
+
 ## Name: Stone Cross, Burford
 
 The churchyard cross is medieval.  The upper part was restored in 1867 and incorporates carvings of the crucifixion and the nativity.

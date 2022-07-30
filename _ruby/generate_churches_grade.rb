@@ -1,10 +1,10 @@
 require 'sqlite3'
 
-def generate_churches_grade()
+def generate_churches_grade(pDBName)
 
 puts "Starting: generate_churches_grade"
 
-db = SQLite3::Database.open 'C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/database/database.db'
+db = SQLite3::Database.open pDBName
 
 dstf = "../_data/Shropshire_Notebook-Churches_Grade.yml"
 dsth = File.open(dstf, "w:UTF-8")
