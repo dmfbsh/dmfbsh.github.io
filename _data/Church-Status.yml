@@ -1,5 +1,8 @@
 # Church Status
 AllVisited: 166
+AllNotVisited: 151
+AllInside: 134
+AllNotInside: 32
 AllPlanned: 51
 AllNotYet: 100
 Col1Num: 134
@@ -680,3 +683,4 @@ Churches:
     Col5: 
 RevisitCount2: 7
 RevisitCount3: 8
+RevisitCount4: 127
