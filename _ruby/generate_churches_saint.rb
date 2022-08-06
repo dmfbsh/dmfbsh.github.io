@@ -10,7 +10,7 @@ dstf = "../_data/Shropshire_Notebook-Churches_Saint.yml"
 dsth = File.open(dstf, "w:UTF-8")
 
 curr_saint = ''
-results = db.query "SELECT name, dedication1 AS dedication, photo FROM GoogleMap WHERE photo IS NOT NULL UNION SELECT name, dedication2 AS dedication, photo FROM GoogleMap WHERE photo IS NOT NULL AND dedication2 IS NOt NULL ORDER BY dedication, name"
+results = db.query "SELECT place, dedication1 AS dedication, photo FROM exp_churches WHERE category = 'Church' UNION SELECT place, dedication2 AS dedication, photo FROM exp_churches WHERE category = 'Church' AND dedication2 IS NOt NULL ORDER BY dedication, place"
 results.each { |row|
   if curr_saint != row[1]
     curr_saint = row[1]

@@ -19,20 +19,20 @@ layout: page
 <table class="table">
 <thead>
 <tr>
-<th colspan="2">Visited ({{ site.data.Church-Status.AllVisited }})</th>
-<th colspan="2">Planned to Visit ({{ site.data.Church-Status.AllPlanned }})</th>
-<th>To Visit Sometime ({{ site.data.Church-Status.AllNotYet }})</th>
+<th colspan="2">Visited ({{ site.data.Shropshire_Notebook-Churches_Status.AllVisited }})</th>
+<th colspan="2">Planned to Visit ({{ site.data.Shropshire_Notebook-Churches_Status.AllPlanned }})</th>
+<th>To Visit Sometime ({{ site.data.Shropshire_Notebook-Churches_Status.AllNotYet }})</th>
 </tr>
 <tr>
-<th>Complete ({{ site.data.Church-Status.Col1Num }})</th>
-<th>Need to Revisit ({{ site.data.Church-Status.Col2Num }}) - See note 1</th>
-<th>Priority ({{ site.data.Church-Status.Col3Num }})</th>
-<th>Other ({{ site.data.Church-Status.Col4Num }})</th>
+<th>Complete ({{ site.data.Shropshire_Notebook-Churches_Status.Col1Num }})</th>
+<th>Need to Revisit ({{ site.data.Shropshire_Notebook-Churches_Status.Col2Num }}) - See note 1</th>
+<th>Priority ({{ site.data.Shropshire_Notebook-Churches_Status.Col3Num }})</th>
+<th>Other ({{ site.data.Shropshire_Notebook-Churches_Status.Col4Num }})</th>
 <th></th>
 </thead>
 <tbody id="myTable">
 </tr>
-{% for item in site.data.Church-Status.Churches %}
+{% for item in site.data.Shropshire_Notebook-Churches_Status.Churches %}
 <tr>
 <td><p class="fr">{{ item.Col1 }}</p></td>
 <td><p class="fr">{{ item.Col2 }}</p></td>
@@ -45,8 +45,8 @@ layout: page
 </table>
 <p>Notes:</p>
 <p>1. Churches need to be re-visited for example because they were found to be locked when first visited.</p>
-<p>2. Have been inside this church, but not have any interior photos ({{ site.data.Church-Status.RevisitCount2 }} chruches).</p>
-<p>3. Have visited the outside of this church, but do not have plans to visit the interior currently ({{ site.data.Church-Status.RevisitCount3 }} chruches).</p>
+<p>2. Have been inside this church, but not have any interior photos ({{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount2 }} chruches).</p>
+<p>3. Have visited the outside of this church, but do not have plans to visit the interior currently ({{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount3 }} chruches).</p>
 </div>
 <a id="churchmap"><h3>Map</h3></a>
 <iframe src="https://www.google.co.uk/maps/d/embed?mid=19Q1XEc8jS2PbDt31ZY6mA67bKx2LbbwF" width="640" height="480"></iframe>

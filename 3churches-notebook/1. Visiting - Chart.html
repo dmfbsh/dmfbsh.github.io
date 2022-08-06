@@ -21,31 +21,31 @@ layout: page
 
 <script type="text/javascript">
     var sampleData = [{
-        noOfItems: {{ site.data.Church-Status.AllVisited }},
+        noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.AllVisited }},
         itemLabel: "Visited",
-        popup: "The number of churches visited is: {{ site.data.Church-Status.AllVisited }}",
+        popup: "The number of churches visited is: {{ site.data.Shropshire_Notebook-Churches_Status.AllVisited }}",
         drilldown: [{
-            noOfItems: {{ site.data.Church-Status.AllInside }},
+            noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.AllInside }},
             itemLabel: "Been Inside",
-            popup: "The number of churches visited where have also been inside is: {{ site.data.Church-Status.AllInside }}",
+            popup: "The number of churches visited where have also been inside is: {{ site.data.Shropshire_Notebook-Churches_Status.AllInside }}",
             drilldown: [{
-                noOfItems: {{ site.data.Church-Status.RevisitCount4 }},
+                noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount4 }},
                 itemLabel: "Have Photos",
-                popup: "The number of churches where have been inside and have photographs: {{ site.data.Church-Status.RevisitCount4 }}"
+                popup: "The number of churches where have been inside and have photographs: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount4 }}"
                 }, {
-                noOfItems: {{ site.data.Church-Status.RevisitCount2 }},
+                noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount2 }},
                 itemLabel: "Do Not Have Photos",
-                popup: "The number of churches where have been inside but do not have photographs: {{ site.data.Church-Status.RevisitCount2 }}"
+                popup: "The number of churches where have been inside but do not have photographs: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount2 }}"
             }]
             }, {
-            noOfItems: {{ site.data.Church-Status.AllNotInside }},
+            noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.AllNotInside }},
             itemLabel: "Not Been Inside",
-            popup: "The number of churches visited but have not yet been inside: {{ site.data.Church-Status.AllNotInside }}"
+            popup: "The number of churches visited but have not yet been inside: {{ site.data.Shropshire_Notebook-Churches_Status.AllNotInside }}"
         }]
         }, {
-        noOfItems: {{ site.data.Church-Status.AllNotVisited }},
+        noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.AllNotVisited }},
         itemLabel: "Not Visited",
-        popup: "The number of churches not yet visited is: {{ site.data.Church-Status.AllNotVisited }}"
+        popup: "The number of churches not yet visited is: {{ site.data.Shropshire_Notebook-Churches_Status.AllNotVisited }}"
     }];
 
     var config = {
