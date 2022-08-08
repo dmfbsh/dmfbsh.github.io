@@ -1,5 +1,13 @@
 ---
 ---
+## 08 Aug 2022
+Added the following items:
+
+- Monkhopton church
+- Madeley church
+- Easthope church
+- Aston Eyre church
+
 ## 30 Jul 2022
 Added the following items:
 

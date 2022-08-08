@@ -80,8 +80,10 @@
     Photo: 2020-10-09_17_07_48_DSC_8826.jpg
 - Saint: None
   Description: |
-    Some chapels have no dedication.
+    Some chapels have no dedication, or some churches have no known dedication.
   Churches: 
+  - Church: Aston Eyre
+    Photo: 2022-08-06_13_21_33_DSC_3617.jpg
   - Church: Langley
     Photo: 2020-09-11_17_04_37_DSC_8492.jpg
   - Church: Longford
@@ -361,7 +363,7 @@
     Photo: 2019-10-04_13_26_29_DSC_0039.jpg
 - Saint: St Laurence
   Description: |
-    
+    See St Lawrence.
     
     [Read More on Wikipedia](https://en.wikipedia.org/wiki/Saint_Lawrence)
   Churches: 
@@ -373,7 +375,7 @@
     Photo: 2019-04-13_14_29_26_DSC_4059.jpg
 - Saint: St Lawrence
   Description: |
-    
+    Saint Lawrence or Laurence (31 December AD 225 - 10 August 258) was one of the seven deacons of the city of Rome under Pope Sixtus II who were martyred in the persecution of the Christians that the Roman Emperor Valerian ordered in 258.  Lawrence encountered the future Pope Sixtus II, who was of Greek origin and one of the most famous and highly esteemed teachers, in Caesaraugusta (today Zaragoza).  Eventually, both left Spain for Rome.  When Sixtus became the Pope in 257, he ordained Lawrence as a deacon, and though Lawrence was still young appointed him first among the seven deacons who served in the cathedral church.
     
     [Read More on Wikipedia](https://en.wikipedia.org/wiki/Saint_Lawrence)
   Churches: 
@@ -381,7 +383,7 @@
     Photo: 2020-07-12_14_00_27_DSC_7399.jpg
 - Saint: St Leonard
   Description: |
-    
+    Leonard of Noblac (died 559 AD), is a Frankish saint closely associated with the town and abbey of Saint-Leonard-de-Noblat, in Haute-Vienne, in the Limousin (region) of France.  He was converted to Christianity along with the king, at Christmas 496.  Leonard became a hermit in the forest of Limousin, where he gathered a number of followers.  Leonard became one of the most venerated saints of the late Middle Ages.  His intercession was credited with miracles for the release of prisoners, women in labour and the diseases of cattle.
     
     [Read More on Wikipedia](https://en.wikipedia.org/wiki/Leonard_of_Noblac)
   Churches: 
@@ -389,7 +391,11 @@
     Photo: 2019-09-21_14_42_09_DSC_5092.jpg
 - Saint: St Lucy
   Description: |
+    Lucia of Syracuse (283 - 304), also called Saint Lucia or Saint Lucy, was a Christian martyr who died during the Diocletianic Persecution.  She is venerated as a saint in the Catholic, Anglican, Lutheran, and Eastern Orthodox churches.  She is one of eight women (including the Virgin Mary) explicitly commemorated by Catholics in the Canon of the Mass.
     
+    Lucia of Syracuse was honored in the Middle Ages and remained a well-known saint in early modern England.  She is one of the best known virgin martyrs, along with Agatha of Sicily, Agnes of Rome, Cecilia of Rome and Catherine of Alexandria.
+    
+    Lucy's Latin name Lucia shares a root  with the Latin word for light, lux.  A number of traditions incorporate symbolic meaning of St. Lucy as the bearer of light in the darkness of winter, her feast day being 13 December.  Because some versions of her story relate that her eyes were removed, either by herself or by her persecutors, she is the patron saint of the blind.
     
     [Read More on Wikipedia](https://en.wikipedia.org/wiki/Saint_Lucy)
   Churches: 
@@ -397,7 +403,7 @@
     Photo: 2020-03-01_15_22_17_DSC_6668.jpg
 - Saint: St Luke
   Description: |
-    
+    Luke the Evangelist is one of the Four Evangelists - the four traditionally ascribed authors of the canonical gospels.  The Early Church Fathers ascribed to him authorship of both the Gospel of Luke and the Acts of the Apostles, which would mean Luke contributed over a quarter of the text of the New Testament, more than any other author.
     
     [Read More on Wikipedia](https://en.wikipedia.org/wiki/Luke_the_Evangelist)
   Churches: 
@@ -411,7 +417,7 @@
     Photo: 2021-10-10_15_55_54_DSC03114.jpg
 - Saint: St Margaret
   Description: |
-    
+    There are several people referred to as St Margaret, it is unclear to which the churches are dedicated.
     
     [Read More on Wikipedia](https://en.wikipedia.org/wiki/Saint_Margaret)
   Churches: 
@@ -425,7 +431,7 @@
     Photo: 2019-05-06_15_49_10_DSC_4232.jpg
 - Saint: St Mark
   Description: |
-    
+    Mark the Evangelist is the person who is traditionally ascribed to be the author of the Gospel of Mark.  According to Church tradition, Mark founded the episcopal see (the area of a bishop's ecclesiastical jurisdiction) of Alexandria, which was one of the five most important sees of early Christianity.
     
     [Read More on Wikipedia](https://en.wikipedia.org/wiki/Mark_the_Evangelist)
   Churches: 
@@ -523,6 +529,8 @@
     Photo: 2021-07-02_15_54_57_DSC02802.jpg
   - Church: High Ercall
     Photo: 2020-11-07_14_27_52_DSC_8983.jpg
+  - Church: Madeley
+    Photo: 2022-08-07_11_14_48_DSC_3789.jpg
   - Church: Munslow
     Photo: 2019-09-28_13_26_29_DSC_0050.jpg
   - Church: Onibury
@@ -622,12 +630,16 @@
     Photo: 2020-08-31_13_22_23_DSC_8233.jpg
   - Church: Diddlebury
     Photo: 2019-12-14_12_48_44_DSC_5971.jpg
+  - Church: Easthope
+    Photo: 2022-08-06_14_37_48_DSC_3708.jpg
   - Church: Edgmond
     Photo: 2021-04-06_14_05_31_DSC_9377.jpg
   - Church: Lee Brockhurst
     Photo: 2020-10-09_15_52_26_DSC_8773.jpg
   - Church: Melverley
     Photo: 2019-06-01_11_14_24_DSC_4420.jpg
+  - Church: Monkhopton
+    Photo: 2022-08-06_14_16_08_DSC_3702.jpg
   - Church: More
     Photo: 2021-08-13_12_46_11_DSC_9861.jpg
   - Church: Sheinton
