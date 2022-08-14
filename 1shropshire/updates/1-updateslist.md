@@ -1,5 +1,10 @@
 ---
 ---
+## 14 Aug 2022
+Updated Tibberton church.
+
+Updated Child's Ercall church.
+
 ## 08 Aug 2022
 Added the following items:
 
