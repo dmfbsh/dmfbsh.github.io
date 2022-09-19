@@ -61,6 +61,10 @@ TBD
 A different view of Hopton Castle.
 ![](../1shropshire/assets/images/landscape/2021-07-16_15_16_30_DSC_9754_DxO.jpg)
 
+# Name: The Long Mynd
+
+TBD
+![](../1shropshire/assets/images/landscape/2022-09-16_15_03_27_DSC_4140.jpg)
 
 # Name: The Long Mynd
 

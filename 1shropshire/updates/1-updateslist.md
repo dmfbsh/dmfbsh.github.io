@@ -12,6 +12,7 @@ Added the following items:
 - Glazeley church
 - Billingsley church
 - Harley church
+- The Long Mynd
 
 ## 03 Sep 2022
 Added the following items:
