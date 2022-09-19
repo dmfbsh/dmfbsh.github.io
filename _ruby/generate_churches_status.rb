@@ -21,7 +21,11 @@ results = db.query "SELECT count(*) FROM exp_churches WHERE status_visited = 1 A
 first_result = results.next
 dsth.write("AllInside: " + first_result[0].to_s + "\n") unless dsth.nil?
 
-results = db.query "SELECT count(*) FROM exp_churches WHERE status_visited = 1 AND status_not_been_inside = 1"
+results = db.query "SELECT count(*) FROM exp_churches WHERE status_visited = 1 AND status_not_been_inside = 0 AND (status_no_inside_photo = 0 AND status_not_been_inside_and_revisit_not_planned = 0)"
+first_result = results.next
+dsth.write("AllInsidePhoto: " + first_result[0].to_s + "\n") unless dsth.nil?
+
+results = db.query "SELECT count(*) FROM exp_churches WHERE status_visited = 1 AND (status_not_been_inside = 1 OR status_not_been_inside_and_revisit_not_planned = 1)"
 first_result = results.next
 dsth.write("AllNotInside: " + first_result[0].to_s + "\n") unless dsth.nil?
 
@@ -58,7 +62,7 @@ first_result = results.next
 dsth.write("Col5Num: " + first_result[0].to_s + "\n") unless dsth.nil?
 col5n = first_result[0]
 
-col1 = db.query "SELECT place, dedication, diocese FROM exp_churches WHERE status_visited = 1 AND status_not_been_inside = 0"
+col1 = db.query "SELECT place, dedication, diocese, status_no_inside_photo, status_not_been_inside_and_revisit_not_planned FROM exp_churches WHERE status_visited = 1 AND status_not_been_inside = 0"
 col2 = db.query "SELECT place, dedication, diocese FROM exp_churches WHERE status_visited = 1 AND status_not_been_inside = 1"
 col3 = db.query "SELECT place, dedication, diocese FROM exp_churches WHERE status_visit_planned_priority = 1"
 col4 = db.query "SELECT place, dedication, diocese FROM exp_churches WHERE status_visit_planned = 1"
@@ -86,7 +90,14 @@ end
 for i in 1..maxrows do
   col1r = col1.next
   if !col1r.nil?
-    dsth.write("  - Col1: " + col1r[0] + ", " + col1r[1] + " (" + col1r[2] + ")\n") unless dsth.nil?
+    notes = ""
+    if col1r[3] == 1
+      notes = " - see note 2"
+    end
+    if col1r[4] == 1
+      notes = " - see note 3"
+    end
+    dsth.write("  - Col1: " + col1r[0] + ", " + col1r[1] + " (" + col1r[2] + ")" + notes + "\n") unless dsth.nil?
   else
     dsth.write("  - Col1: \n") unless dsth.nil?
   end
@@ -119,12 +130,23 @@ end
 results = db.query "SELECT count(*) FROM exp_churches WHERE status_no_inside_photo = 1"
 first_result = results.next
 dsth.write("RevisitCount2: " + first_result[0].to_s + "\n") unless dsth.nil?
+rvc2 = first_result[0]
 
-dsth.write("RevisitCount3: 0\n") unless dsth.nil?
+results = db.query "SELECT count(*) FROM exp_churches WHERE status_not_been_inside_and_revisit_not_planned = 1"
+first_result = results.next
+dsth.write("RevisitCount3: " + first_result[0].to_s + "\n") unless dsth.nil?
+rvc3 = first_result[0]
 
 results = db.query "SELECT count(*) FROM exp_churches WHERE status_no_inside_photo = 0 AND status_visited = 1 AND status_not_been_inside = 0"
 first_result = results.next
 dsth.write("RevisitCount4: " + first_result[0].to_s + "\n") unless dsth.nil?
+
+results = db.query "SELECT count(*) FROM exp_churches WHERE status_not_been_inside = 1"
+first_result = results.next
+dsth.write("RevisitCount5: " + first_result[0].to_s + "\n") unless dsth.nil?
+
+rvc6 = rvc2 + rvc3
+dsth.write("RevisitCount6: " + rvc6.to_s + "\n") unless dsth.nil?
 
 dsth.close unless dsth.nil?
 

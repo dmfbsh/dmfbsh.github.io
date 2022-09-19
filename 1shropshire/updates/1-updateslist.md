@@ -1,5 +1,24 @@
 ---
 ---
+## 18 Sep 2022
+Updated Wellington (All Saints) church.
+
+Updated Clee St Margaret church.
+
+Updated Chelmarsh church.
+
+Added the following items:
+
+- Glazeley church
+- Billingsley church
+- Harley church
+
+## 03 Sep 2022
+Added the following items:
+
+- Tasley church
+- Myddle church
+
 ## 14 Aug 2022
 Updated Tibberton church.
 

@@ -26,21 +26,30 @@ layout: page
         popup: "The number of churches visited is: {{ site.data.Shropshire_Notebook-Churches_Status.AllVisited }}",
         drilldown: [{
             noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.AllInside }},
-            itemLabel: "Been Inside",
-            popup: "The number of churches visited where have also been inside is: {{ site.data.Shropshire_Notebook-Churches_Status.AllInside }}",
+            itemLabel: "Complete",
+            popup: "The number of churches visited where have also been inside (or have no plans to revisit to see the interior) is: {{ site.data.Shropshire_Notebook-Churches_Status.AllInside }}",
             drilldown: [{
-                noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount4 }},
+                noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.AllInsidePhoto }},
                 itemLabel: "Have Photos",
-                popup: "The number of churches where have been inside and have photographs: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount4 }}"
+                popup: "The number of churches where have been inside and have photographs: {{ site.data.Shropshire_Notebook-Churches_Status.AllInsidePhoto }}"
                 }, {
-                noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount2 }},
+                noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount6 }},
                 itemLabel: "Do Not Have Photos",
-                popup: "The number of churches where have been inside but do not have photographs: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount2 }}"
+                popup: "The number of churches where have been inside but do not have photographs or have no plans to revisit to see the interior: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount6 }}",
+                drilldown: [{
+                    noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount2 }},
+                    itemLabel: "No Photos",
+                    popup: "The number of churches where have been inside but do not have photographs: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount2 }}"
+                    }, {
+                    noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount3 }},
+                    itemLabel: "No Revisit",
+                    popup: "The number of churches where have been to and seen the exterior only and have no plans to revisit for the interior: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount3 }}"
+                }]
             }]
             }, {
-            noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.AllNotInside }},
-            itemLabel: "Not Been Inside",
-            popup: "The number of churches visited but have not yet been inside: {{ site.data.Shropshire_Notebook-Churches_Status.AllNotInside }}"
+            noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount5 }},
+            itemLabel: "Not Complete",
+            popup: "The number of churches visited but have not yet been inside and so want to revisit to see the interior: {{ site.data.Shropshire_Notebook-Churches_Status.RevisitCount5 }}"
         }]
         }, {
         noOfItems: {{ site.data.Shropshire_Notebook-Churches_Status.AllNotVisited }},
