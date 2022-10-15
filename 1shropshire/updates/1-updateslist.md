@@ -1,5 +1,11 @@
 ---
 ---
+## 12 Oct 2022
+Added the following items:
+
+- Oswestry (Holy Trinity) church
+- Astley Abbotts church
+
 ## 30 Sep 2022
 Updated Norbury church.
 
