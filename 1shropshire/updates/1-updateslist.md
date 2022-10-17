@@ -1,5 +1,16 @@
 ---
 ---
+## 17 Oct 2022
+Added the following items:
+
+- Heath chapel
+- Bridgnorth x 3
+- Tugford church
+
+Updated Kynnersley church.
+
+Updated Astley Abbotts church.
+
 ## 12 Oct 2022
 Added the following items:
 
