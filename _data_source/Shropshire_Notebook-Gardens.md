@@ -1,7 +1,7 @@
 # Name: David Austin Rose Garden
 
 The rose garden at David Austin Roses is considered by many to be one of the most beautiful in the world.  The garden covers an area of around 2 acres and there over 700 different varieties of rose planted in the various themed areas.
-![](../1shropshire/assets/images/gardens/2017-04-18_15_16_38_DSC_0218_DxO.jpg)
+![](../1shropshire/assets/images/gardens/2017-04-18_15_16_38_DSC_0218.jpg)
 
 # Name: Dower House
 
@@ -31,7 +31,7 @@ The grounds continued to be added to through the 1800s with new specimens of pla
 # Name: Hodnet Hall Gardens
 
 The gardens were created in 1922 when rare trees, shrubs and a chain of seven lakes and pools were established.
-![](../1shropshire/assets/images/gardens/2016-08-29_13_10_30_DSC01075_DxO.jpg)
+![](../1shropshire/assets/images/gardens/2016-08-29_13_10_30_DSC01075.jpg)
 
 # Name: Oakgate Nursery and Garden
 
@@ -46,7 +46,7 @@ TBD
 # Name: Wildgoose Nursery and Garden
 
 Formerly the brick walled kitchen garden of Millichope Park - the walled garden was built in the 1830s by the wealthy Rector of Church Stretton.
-![](../1shropshire/assets/images/gardens/2019-09-28_13_26_29_DSC_0066_DxO.jpg)
+![](../1shropshire/assets/images/gardens/2019-09-28_13_26_29_DSC_0066.jpg)
 
 # Name: Wollerton Old Hall Garden
 

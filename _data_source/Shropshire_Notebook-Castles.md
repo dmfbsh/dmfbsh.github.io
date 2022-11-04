@@ -2,7 +2,7 @@
 - Date: Norman
 
 Great Wollaston castle is a Norman motte castle (also known as Beacon Hill), it is a well preserved example of a motte castle lying at the heart of an existing village.
-![](../1shropshire/assets/images/castles/2021-04-17_13_55_52_DSC_9418_DxO.jpg)
+![](../1shropshire/assets/images/castles/2021-04-17_13_55_52_DSC_9418.jpg)
 
 # Name: Shrewsbury Castle
 - Date: 1070 AD
@@ -10,7 +10,7 @@ Great Wollaston castle is a Norman motte castle (also known as Beacon Hill), it 
 Built by Roger de Montgomery as a defensive fortification for the town. The town walls (of which little now remain) surrounded the town from the castle.
 
 Little of the original structure remains. The castle was extensively repaired in 1643 during the Civil War before being acquired by Sir Francis Newport in 1663. The castle was further repaired by Thomas Telford in 1780 on behalf of Sir William Pulteney.
-![](../1shropshire/assets/images/castles/2018-07-14_12_32_05_DSC_2787_DxO.jpg)
+![](../1shropshire/assets/images/castles/2018-07-14_12_32_05_DSC_2787.jpg)
 
 # Name: Ludlow Castle
 - Date: 1075 AD
@@ -22,7 +22,7 @@ During the 12th and 13th Centuries the castle changed hands many times. The Duke
 The castle was chosen as the seat of the Council in the Marches of Wales and so was effectively the capital of Wales. Consequently, the castle was renovated throughout the 16th Century.
 
 With the castle being besieged and taken by Parliamentary forces during the English Civil War and following the abolition of the Council in 1689 (after it had been restored following the English Civil War), the castle fell into neglect.
-![](../1shropshire/assets/images/castles/2018-01-13_13_29_52_DSC01549_DxO.jpg)
+![](../1shropshire/assets/images/castles/2018-01-13_13_29_52_DSC01549.jpg)
 
 # Name: Oswestry Castle
 - Date: 1086 AD
@@ -46,7 +46,7 @@ Founded in 1101 by Robert de Belleme (the second Earl of Shrewsbury, succeeding 
 The main feature of the castle is the great square tower, built during the reign of Henry II.
 
 During the English Civil War, Bridgnorth was one of the Midlands' main Royalist strongholds. But following a three week siege Cromwell's Roundheads took Bridgnorth - Cromwell ordered that the castle be demolished and by 1647 little of the structure remained. As a result, the remaining parts of the great tower now lean at an angle of 15 degrees (four times the lean of the tower at Pisa).
-![](../1shropshire/assets/images/castles/2019-02-02_14_34_09_DSC_3187_DxO.jpg)
+![](../1shropshire/assets/images/castles/2019-02-02_14_34_09_DSC_3187.jpg)
 
 # Name: Clun Castle
 - Date: 12th Century AD
@@ -62,7 +62,7 @@ Clun played a key part in protecting the region from Welsh attack, but the famil
 Originally known as Moreton Toret Castle, the stone structure was constructed to replace the probable fortified structure inhabited by Anglo Saxon thegns. The name was changed to Moreton Corbet when Richard de Corbet inherited the castle in 1235.
 
 The castle saw action in the English Civil War when it is known to have changed hands at least four times.
-![](../1shropshire/assets/images/castles/2018-09-29_15_27_31_DSC_2907_DxO.jpg)
+![](../1shropshire/assets/images/castles/2018-09-29_15_27_31_DSC_2907.jpg)
 
 # Name: Alberbury Castle
 - Date: 13th Century AD
@@ -72,14 +72,14 @@ The origins of the castle are uncertain but it was probably built in the 13th ce
 The main purpose of its construction appears to have been as a barrier to stop the Welsh onslaught and to retain control of the passes along the river Severn.
 
 It is thought that the castle was razed by Llewellyn the Great in 1223, only to be rebuilt three years later in 1226, this time with a stone wall surrounding the bailey. A few years later the Sheriff of Shropshire ejected Fulk FitzWarin from the castle and took over his lands citing FitzWarin's utterances he made as a renunciation of fealty. However, Fitzwarin was able to retake his lands and his manor through the law. The FitzWarin family retained possession of the castle, although they moved their seat of power to Whittington after they secured it as a stronghold, until the mid fourteenth century, when it may have been abandoned.
-![](../1shropshire/assets/images/castles/2021-04-17_15_00_45_DSC_9443_DxO.jpg)
+![](../1shropshire/assets/images/castles/2021-04-17_15_00_45_DSC_9443.jpg)
 
 
 # Name: Whittington Castle
 - Date: 13th Century AD
 
 The original castle was captured and destroyed by the King of Gwynedd in 1223 - after being returned to the English under the peace treaty it was rebuilt in stone, but was then ceded to the Welsh in 1267. The castle remained in Welsh possession until 1276 when the castle became the residence of a powerful Marcher lord family.
-![](../1shropshire/assets/images/castles/2020-06-20_13_37_21_DSC_7290_DxO_L.jpg)
+![](../1shropshire/assets/images/castles/2020-06-20_13_37_21_DSC_7290.jpg)
 
 # Name: Hopton Castle
 - Date: 1260s AD
@@ -89,7 +89,7 @@ It is believed that the castle was founded in the 12th century as a motte and ba
 It is most probable that Walter de Opton (over time becoming de Hopton) built the stone castle during the Barons’ War of the 1260s. The bailey was fortified in stone and the rectangular two-storey keep was built.
 
 The last Walter Hopton died during the Wars of the Roses in the 15th century and the castle passed by marriage to the Corbet family of Moreton Corbet castle.
-![](../1shropshire/assets/images/castles/2018-02-24_16_11_09_DSC_2160_DxO.jpg)
+![](../1shropshire/assets/images/castles/2018-02-24_16_11_09_DSC_2160.jpg)
 
 # Name: Acton Burnell Castle
 - Date: 1284 AD
@@ -97,7 +97,7 @@ The last Walter Hopton died during the Wars of the Roses in the 15th century and
 Built in 1284 by Richard Burnell, Bishop of Bath and Wells, Acton Burnell Castle is a fortified manor house three storeys high which comprised hall, solar, bedrooms, offices, chapel and kitchen. A benefit only extended to trusted people, Burnell as a friend and advisor to King Edward I, was granted a royal licence to crenellate and fortify the manor.
 
 In the Autumn of 1283, it is believed that Edward I held a Parliament at Acton Burnell - this is significant because it was the first time in English history that the law making process included the Commons. The law passed became known as the Statute of Acton Burnell, a law giving protection to creditors, indicating the increasing significance of traders during those times.
-![](../1shropshire/assets/images/castles/2018-06-11_15_15_17_DSC_2621_DxO.jpg)
+![](../1shropshire/assets/images/castles/2018-06-11_15_15_17_DSC_2621.jpg)
 
 # Name: Stokesay Castle
 - Date: 1280s AD
@@ -105,4 +105,4 @@ In the Autumn of 1283, it is believed that Edward I held a Parliament at Acton B
 One of the first fortified manor houses in England, Stokesay Castle was built by Laurence of Ludlow. It was built on the site of an earlier castle, some of which still survives. Laurence of Ludlow was one of the leading wool merchants in England.
 
 The gatehouse was added in 1640-1641, just before the English Civil War. At that time Stokesay was owned by William Craven, the first Earl of Craven and supporter of the king. The Royalist war effort collapsed in 1645, the castle was besieged and the Royalist garrison was forced to surrender. The castle was ordered to be slighted by Parliament, but only minor damage was done allowing it to continue as a residence.
-![](../1shropshire/assets/images/castles/2019-08-23_12_51_08_DSC_4719_DxO.jpg)
+![](../1shropshire/assets/images/castles/2019-08-23_12_51_08_DSC_4719.jpg)
