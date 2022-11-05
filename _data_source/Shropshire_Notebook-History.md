@@ -32,7 +32,7 @@ The capital of the tribe was most probably the Wrekin hill fort.  The first ment
 One of Britain's most spectacular and impressive early Iron Age hill forts.
 
 The complexity of the defences suggests several phases of development.  After the hill fort was abandoned it was incorporated into Wat's Dyke (built by the king of Mercia in the early 8th Century, it preceded the better-known Offa's Dyke).
-![](../1shropshire/assets/images/history/2019-02-16_12_25_24_DSC_3317_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-02-16_12_25_24_DSC_3317.jpg)
 
 # Header: 43 AD
 
@@ -48,7 +48,7 @@ The site was first established in about AD 55 as a frontier post as it was strat
 The site was abandoned around 88 AD as a fortress and was taken over as a civilian settlement and continued to be inhabited until the 7th century.
 
 The ruin is noted for the 'the Old Work' (an archway, part of the baths' frigidarium and the largest free-standing Roman ruin in Britain).
-![](../1shropshire/assets/images/history/2019-02-03_13_49_48_DSC_3240_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-02-03_13_49_48_DSC_3240.jpg)
 
 # Header: 410 to c. 450 AD
 
@@ -118,7 +118,7 @@ However, Mercia did not survive long as an ecclesiastical entity.  From 676 AD t
 The original Anglo-Saxon monastery was founded by the then King of Magonsaete (king Merewalh), his daughter quickly became its abbess (she was later canonised).  Wenlock Priory was the first monastery to be founded in Shropshire.
 
 After Milburga's death circa 727 little is known of the monastery until the Norman conquest.
-![](../1shropshire/assets/images/history/2009-08-15 12-53-13_00007766_DxO.jpg)
+![](../1shropshire/assets/images/history/2009-08-15_12-53-13_00007766.jpg)
 
 # Quote: County Day
 
@@ -128,7 +128,7 @@ Shropshire's county day is the 23rd February which is the feast day of St Milbur
 - Date: Late 8th Century AD
 
 In the late 8th Century, Offa's Dyke is constructed to delineate the border between Anglian Mercia and the Welsh Kingdom of Powys (it did not represent a mutually agreed boundary, rather it is believed to be a defensive earthwork or was built to demonstrate the power and intent of the Mercians).
-![](../1shropshire/assets/images/history/2019-03-23_15_23_57_DSC_3583_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-03-23_15_23_57_DSC_3583.jpg)
 
 # Header: 878 AD
 
@@ -184,7 +184,7 @@ Little of the original structure remains.  The castle was extensively repaired i
 Roger de Montgomery is appointed Earl of Shrewsbury (the first to receive this title), although some historians believe he was not actually created Earl until 1074.  De Montgomery did not fight in the initial invasion of England in 1066, but was one of William the Conqueror’s principal counsellors.
 
 He was one of the most powerful Marcher lords.  De Montgomery was also a great patron of monasticism, he became a monk in his newly founded Abbey of Shrewsbury just before he died in 1094.
-![](../1shropshire/assets/images/history/2021-10-09_10_30_02_DSC_0603_DxO.jpg)
+![](../1shropshire/assets/images/history/2021-10-09_10_30_02_DSC_0603.jpg)
 
 # Name: Ludlow Castle
 - Date: 1075 AD
@@ -206,7 +206,7 @@ The Abbey was founded in 1083 as a Benedictine monastery by the Norman Earl of S
 Also known as the abbey church of St Peter and St Paul.
 
 The abbey was one of the last to surrender (being at the end of the commissioners circuit) and was dissolved on 24th January 1540.
-![](../1shropshire/assets/images/history/2020-01-01_12_31_36_DSC_6057_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-01-01_12_31_36_DSC_6057.jpg)
 
 # Name: Oswestry Castle
 - Date: 1086 AD
@@ -254,7 +254,7 @@ During the English Civil War, Bridgnorth was one of the Midlands' main Royalist 
 - Date: 1135 AD
 
 A Cistercian monastery founded by a local bishop.  Sparse at the outset, the abbey did undergo several periods of growth and increasing wealth.  The abbey was a centre of learning and had a substantial library.  In the early days it was also noted fits its discipline.  The abbey was suppressed in 1536 as part of the Dissolution of the Monasteries.
-![](../1shropshire/assets/images/history/2019-08-25_11_13_57_DSC_4829_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-08-25_11_13_57_DSC_4829.jpg)
 
 # Name: Lilleshall Abbey
 - Date: 1145-1148 AD
@@ -304,7 +304,7 @@ It was a successful and wealthy abbey.
 The commission to dissolve the abbey was issued from Woodstock Palace on 23 August 1539 and signed by Thomas Cromwell.  A deed of surrender was drawn up on 19 September.  By 16 October, the abbot, the prior and 9 canons had signed to acknowledge Henry VIII as supreme over the Church of England.
 
 The site was sold, some buildings were used as a private residence, others were plundered for building stone.  During the Civil War, fire further destroyed the site and it was turned over for use as a farm.
-![](../1shropshire/assets/images/history/2019-03-24_15_50_39_DSC_3644_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-03-24_15_50_39_DSC_3644.jpg)
 
 # Name: Moreton Corbet Castle
 - Date: Circa 1200 AD
@@ -334,7 +334,7 @@ The original castle was captured and destroyed by the King of Gwynedd in 1223 - 
 - Date: mid-13th Century AD
 
 The infirmary was constructed by the then owner of Tong castle as part remedy for a fine imposed on his father who rebelled against King John.  When the church and college was built in the 15th Century, the infirmary was incorporated into the college and enabled 13 alms people to be housed and looked after by the college priests.  After the Dissolution the infirmary remained as an Alms House, they were later demolished in 1764.
-![](../1shropshire/assets/images/history/2019-09-01_13_35_07_DSC_4992_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2019-09-01_13_35_07_DSC_4992.jpg)
 
 # Name: Ashfield Hall, Much Wenlock
 - Date: 13th Century
@@ -388,13 +388,13 @@ Founded by Sir Laurence of Ludlow, the Carmelites were the last of the four chie
 The convent of Carmelite friars was supressed in 1538 by Henry VIII and the friary buildings were sold and demolished.
 
 In 1824 the site was opened as St Leonard's burial ground as the old medieval churchyard was completely full (and space here ran out in the First World War).  The chapel of rest was opened in 1871.
-![](../1shropshire/assets/images/history/2019-07-13_12_35_54_DSC_4622_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2019-07-13_12_35_54_DSC_4622.jpg)
 
 # Name: Shrewsbury Town Walls Tower
 - Date: 14th Century AD
 
 The last remaining medieval watch tower of the fortified, defensive walls of Shrewsbury.  Used for observing the land around the town and the River Severn as the town was subject to attacks by the Welsh.
-![](../1shropshire/assets/images/history/2018-11-02_14_28_45_DSC_2956_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2018-11-02_14_28_45_DSC_2956.jpg)
 
 # Name: Battle of Shrewsbury
 - Date: 21st July 1403 AD
@@ -402,7 +402,7 @@ The last remaining medieval watch tower of the fortified, defensive walls of Shr
 The Battle of Shrewsbury was fought on 21st July 1403, between an army led by the Lancastrian King Henry IV and a rebel army led by Henry "Harry Hotspur" Percy from Northumberland.  The battle was the first in which English archers fought each other on English soil and reaffirmed the effectiveness of the longbow and ended the Percy challenge to King Henry IV of England.
 
 The picture is of the statue of the king on the church at Battlefield.
-![](../1shropshire/assets/images/history/2020-06-07_14_54_57_DSC_7247_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2020-06-07_14_54_57_DSC_7247.jpg)
 
 # Name: The Abbot's House, Shrewsbury
 - Date: 1459 AD
@@ -458,7 +458,7 @@ Large areas of land came into new hands.  Schools were built to replace the educ
 Although Much Wenlock received a charter from the King in 1468, local order was in the hands of the powerful Abbot of Wenlock Priory.  The Guildhall was built to provide a court (which remained in use until 1985) when the Priory was dissolved.  A Council Chamber was added in 1577.
 
 The chambers are furnished with carved oak panels from a local manor house (installed in 1848) - no one knows which manor house or how they were available.
-![](../1shropshire/assets/images/history/2019-08-23_14_40_57_DSC_4748_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-08-23_14_40_57_DSC_4748.jpg)
 
 # Name: Morville Hall
 - Date: 1546 AD
@@ -472,7 +472,7 @@ The house was once part of the Aldenham estate and stands on the site of the aba
 - Date: 1552 AD
 
 Shrewsbury School was founded in 1552 by Edward VI - the stone buildings were built 1594-1630.  Sir Philip Sidney, Judge Jeffreys and Charles Darwin were educated at this school.
-![](../1shropshire/assets/images/history/2018-07-14_12_30_44_DSC_2786_DxO.jpg)
+![](../1shropshire/assets/images/history/2018-07-14_12_30_44_DSC_2786.jpg)
 
 # Name: Pitchford Hall
 - Date: c. 1560 AD
@@ -506,7 +506,7 @@ Built to replace a timber framed house which had burned down.  The hall was larg
 - Date: 1596 AD
 
 The Old Market Hall is one of the earliest forms of pre-fabricated buildings, it was constructed in less than four months.  The large upper room was originally used by the Shrewsbury Drapers Company to sell Welsh cloth and the ground floor used by the farmers to sell corn.
-![](../1shropshire/assets/images/history/2019-03-31_11_29_22_DSC_3771_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2019-03-31_11_29_22_DSC_3771.jpg)
 
 # Name: Rowley's House, Shrewsbury
 - Date: Late 1500s AD
@@ -554,7 +554,7 @@ On 31st March 1646 during the Civil War, Bridgnorth was under siege from Parliam
 After three weeks of continued attack on the castle Colonel Lavington took charge of getting a team of Parliamentary forces to dig a 70 foot tunnel under Castle Hill.  Knowing that the Royalists stored their gunpowder in St Marys Church, his aim was to blow up the church.
 
 69 feet of tunnel was dug into the rock face but was not completed as the Royalists surrendered on Sunday 26th April 1646.
-![](../1shropshire/assets/images/history/2019-02-02_14_59_31_DSC_3201_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-02-02_14_59_31_DSC_3201.jpg)
 
 # Name: Bitterley Court
 - Date: mid-17th Century
@@ -582,7 +582,7 @@ The company claims to be the oldest clock manufacturer in the world.
 In 1790 the firm moved to Whitchurch.  In 1964, Norman Joyce, the last member of the Joyce family, retired and sold the company to Smith of Derby.
 
 Notable clocks include the Eastgate clock in Chester (1897) and the clock for the custom's house in Shanghai (1927).
-![](../1shropshire/assets/images/history/2019-10-12_13_23_47_DSC_5372_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2019-10-12_13_23_47_DSC_5372.jpg)
 
 # Name: Pitchford Treehouse
 - Date: 1692 AD
@@ -592,7 +592,7 @@ The treehouse is thought to be the oldest in the world, it is of circa 17th Cent
 A part glazed door opens into the tree house to reveal a carved moulded cornice ceiling, stripped oak floor and gothic windows on all sides.  There is evidence that the restoration in 1760 may have been the work of the Shropshire architect Thomas Farnolls Pritchard.
 
 Queen Victoria recorded in her diary that she watched a visiting pack of foxhounds from the treehouse during her visit to Pitchford Hall as a young princess.
-![](../1shropshire/assets/images/history/2019-06-19_14_49_51_DSC_4530_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-06-19_14_49_51_DSC_4530.jpg)
 
 # Name: Dudmaston Hall
 - Date: 1695 AD
@@ -614,7 +614,7 @@ Now a museum, little is actually known of the origin and history of the building
 - Date: 1709 AD
 
 Abraham Darby I successfully produces pig iron in a blast furnace fuelled by coke rather than charcoal.
-![](../1shropshire/assets/images/history/2015-07-25_14_57_18_DSC_0036_DxO.jpg)
+![](../1shropshire/assets/images/history/2015-07-25_14_57_18_DSC_0036.jpg)
 
 # Header: 1714 AD
 
@@ -656,13 +656,13 @@ On 2nd February 1739 he fell to his death when the rope broke. He was buried in 
 - Date: 1746 AD
 
 Considered to be the centre of Ludlow (and the highest point) and once the site of the High Cross, it was originally used as the butter market.
-![](../1shropshire/assets/images/history/2019-04-13_14_37_51_DSC_4065_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-04-13_14_37_51_DSC_4065.jpg)
 
 # Name: Bedlam Furnaces, Ironbridge
 - Date: 1757 AD
 
 The Bedlam Furnaces were built by the Madeley Wood Furnace Company between 1757 and 1759 - they are the most complete set of furnaces from this period in the country.  They were used to transform iron ore into molten iron, and were among the first to use coke as a fuel instead of charcoal.  The Bedlam Furnaces ceased operation in 1843 when the company moved production to the larger furnaces at Blists Hill.
-![](../1shropshire/assets/images/history/2020-07-31_05_26_59_DSC_7620_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-07-31_05_26_59_DSC_7620.jpg)
 
 # Header: 1760 AD to 1840 AD
 
@@ -678,13 +678,13 @@ The first Abraham Darby (who introduced the use of coke pig iron as a feedstock 
 - Date: 1765 AD
 
 In common with other towns, Bishop's Castle had its own Guildhall, which in 1615 was described as being in a ruinous state.  The old Guildhall was demolished and replaced with the current Town Hall (in part using salvaged materials from the old building).
-![](../1shropshire/assets/images/history/2020-08-08_15_08_52_DSC_7988_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-08-08_15_08_52_DSC_7988.jpg)
 
 # Name: Atcham Bridge
 - Date: 1769-1771 AD
 
 There is a record of a bridge at Atcham as early as the 13th Century.  In 1550 Sir Rowland Hill funded the building of a stone bridge with 18 arches, this bridge was replaced by the present bridge which dates from 1769-71 (but may have been completed as late as 1776).  The bridge was designed by John Gwynn - Gwynn was born in Shrewsbury and was one of the founder members of the Royal Academy in 1768, his work includes Magdalen bridge in Oxford as well as several other bridges in Shropshire (one of which is the English bridge in Shrewsbury). 
-![](../1shropshire/assets/images/history/2020-03-01_13_35_37_DSC_6578_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-03-01_13_35_37_DSC_6578.jpg)
 
 # Name: Attingham Park
 - Date: 1772 AD
@@ -710,7 +710,7 @@ The column is the tallest Doric column in England at 133ft 6in, it commemorates 
 A bridge is known to have stood at this spot since at least Norman times.  A bridge known as the "stone bridge" was completed in 1774.  The central arch of this bridge was built high to provide headroom for watercraft, but this resulted in steep arches.
 
 A new design for the bridge was put forward in 1921, the intention being to widen the bridge and reduce its height.  The new bridge re-used the original masonry, as well as some new stonework.
-![](../1shropshire/assets/images/history/2018-11-02_14_16_26_DSC_2950_DxO.jpg)
+![](../1shropshire/assets/images/history/2018-11-02_14_16_26_DSC_2950.jpg)
 
 # Name: The Iron Bridge, Ironbridge
 - Date: 1781 AD
@@ -720,7 +720,7 @@ Construction of the Iron Bridge started in November 1777 and completed in July 1
 The bridge was proposed to link the industrial town of Broseley with the mining town of Madeley and the industrial centre of Coalbrookdale.
 
 The bridge is to a carpenters' design typically used for wood structures.
-![](../1shropshire/assets/images/history/2009-04-19 17-41-55_00006342_DxO.jpg)
+![](../1shropshire/assets/images/history/2009-04-19_17-41-55_00006342.jpg)
 
 # Name: The Toll House, Ironbridge
 - Date: 1781 AD
@@ -728,7 +728,7 @@ The bridge is to a carpenters' design typically used for wood structures.
 The tollhouse opened for business on day the bridge was opened, New Year's Day 1781.  In 1934 the bridge was closed to vehicles; tolls for pedestrians ceased in 1950.
 
 The Ironbridge Gorge Museum Trust acquired and restored the tollhouse building and opened it as a Tourist Information Centre in 1972.
-![](../1shropshire/assets/images/history/2020-01-12_12_28_07_DSC_6193_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-01-12_12_28_07_DSC_6193.jpg)
 
 # Name: Thomas Telford arrives in the County
 - Date: 1787 AD
@@ -742,7 +742,7 @@ A Scottish civil engineer, architect and stonemason, Thomas Telford, arrives in 
 A spring of natural bitumen which was discovered by accident when digging a tunnel for the Coalport Canal.  After digging 3,000ft of tunnel the canal project was abandoned (and the Hay Inclined Plane was built instead) in favour of bitumen extraction.
 
 The tunnel was a great curiosity in the 18th Century.  The main use of bitumen at the time was to treat and weatherproof ropes and caulk wooden ships.
-![](../1shropshire/assets/images/history/2016-07-30_11_08_30_DSC00950_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2016-07-30_11_08_30_DSC00950.jpg)
 
 # Name: William Hazlitt House, Wem
 - Date: 1787 AD
@@ -762,7 +762,7 @@ The name The Dana is still often used for the prison - the Dana Gaol was a medie
 The bust of prison reformer John Howard is above the main entrance to the prison (Howard consulted on the construction of the prison).
 
 The prison is famous for the high number of hangings that took place on its grounds - these took place from 1795 (the crime - theft of 10 handkerchiefs) to 1961 (the crime - robbery and murder).
-![](../1shropshire/assets/images/history/2016-04-30_13_38_33_DSC00339_DxO.jpg)
+![](../1shropshire/assets/images/history/2016-04-30_13_38_33_DSC00339.jpg)
 
 # Name: The Hay Inclined Plane, Coalport
 - Date: 1793 AD
@@ -770,7 +770,7 @@ The prison is famous for the high number of hangings that took place on its grou
 The Hay Inclined Plane links the Shropshire Canal at Blists Hill with the Coalport canal basin (a short stretch of canal providing access to the River Severn).  The inclined plane was used to raise and lower the tub boats used on the canal to transport materials to and from the industrial area of Ironbridge.
 
 The inclined plane traverses a height differential of 207ft, it was in operation from 1793 to 1894 and was formally closed in 1907.
-![](../1shropshire/assets/images/history/2020-07-31_07_03_32_DSC_7711_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2020-07-31_07_03_32_DSC_7711.jpg)
 
 # Name: Welsh Bridge, Shrewsbury
 - Date: 1795 AD
@@ -778,13 +778,13 @@ The inclined plane traverses a height differential of 207ft, it was in operation
 The bridge is built of Grinshill sandstone.
 
 The bridge is 266 ft long and cost 8,000 pounds.
-![](../1shropshire/assets/images/history/2018-11-02_15_01_11_DSC_2977_DxO.jpg)
+![](../1shropshire/assets/images/history/2018-11-02_15_01_11_DSC_2977.jpg)
 
 # Name: Coalport China Works
 - Date: 1795 AD
 
 The first porcelain factory in the Ironbridge Gorge.
-![](../1shropshire/assets/images/history/2016-07-30_12_04_35_DSC00967_DxO.jpg)
+![](../1shropshire/assets/images/history/2016-07-30_12_04_35_DSC00967.jpg)
 
 # Name: Longdon-on-Tern Aqueduct
 - Date: 1796 AD
@@ -792,7 +792,7 @@ The first porcelain factory in the Ironbridge Gorge.
 Built by Thomas Telford, the cast iron aqueduct was designed to carry the Shrewsbury Canal over the River Tern.
 
 Opened just a month after the first cast iron aqueduct on the Derby Canal.
-![](../1shropshire/assets/images/history/2019-03-24_16_16_10_DSC_3664_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2019-03-24_16_16_10_DSC_3664.jpg)
 
 # Name: Ditherington Flax Mill, Shrewsbury
 - Date: 1797 AD
@@ -800,13 +800,13 @@ Opened just a month after the first cast iron aqueduct on the Derby Canal.
 The first iron-framed building in the world - as such it is considered to be the first skyscraper in the world.  Ditherington mill and a second mill at Castlefields provided the "chief manufacture" of Shrewsbury (according to an 1851 directory).
 
 The flax mill closed in 1886, it was sold and converted to a maltings and continued to operate as such until 1987.
-![](../1shropshire/assets/images/history/2018-10-06_14_13_56_DSC01944_DxO.jpg)
+![](../1shropshire/assets/images/history/2018-10-06_14_13_56_DSC01944.jpg)
 
 # Name: The Rotunda, Ironbridge
 - Date: 1790s AD
 
 Viewpoint and site of the Rotunda, which was a folly built by Richard Reynolds (who was a Quaker, philanthropista and partner in the ironworks at Coalbrookdale) in the 1790s as part of the "Sabbath walks" designed to take in the spectacular views of the gorge.  It was particularly for use by his workforce, but it was also used by visitors to the area.  It was demolished in February 1804, following the departure of Reynolds from the area a year earlier.  The rotunda was described by Joshua Gilpin (an American merchant and manufacturer who toured industrial Britain at the very end of the eighteenth century) in 1796 as a round temple of about 10 feet diameter with 'pillars of cast iron hollows' and in 1801 an unknown person refers to the rotunda as being supported by '9 iron pillars' - it was a circular structure a bit like a bandstand, inside it had revolving seat.
-![](../1shropshire/assets/images/history/2020-07-31_07_54_03_DSC_7748_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-07-31_07_54_03_DSC_7748.jpg)
 
 # Name: Cronkhill
 - Date: 1802 AD
@@ -818,13 +818,13 @@ Designed by John Nash, it is thought to be the earliest Italianate villa in Engl
 - Date: circa 1806 AD
 
 In 1791 in Ellesmere a plan was proposed by a small group of industrialists who owned coal mines, iron mines and other works for a canal network to link the rivers Mersey and Severn. The hub was to be Ellesmere. Birch House was constructed to serve as the main office. From here Thomas Telford designed the tunnels, wharfs, moorings, locks and ‘rivers in the sky’. However the canal was never finished as intended due to the project’s rising costs and the failure to generate the expected commercial traffic.
-![](../1shropshire/assets/images/history/2021-07-17_14_23_47_DSC_9775_DxO.jpg)
+![](../1shropshire/assets/images/history/2021-07-17_14_23_47_DSC_9775.jpg)
 
 # Name: Canal Company, Ellesmere - Canal Yard Workshop
 - Date: circa 1806 AD
 
 The dry dock and workshops constructed for the Canal Company.  English Heritage states this is the best-preserved canal workshop site in Britain.
-![](../1shropshire/assets/images/history/2021-07-17_14_20_23_DSC_9771_DxO_1.jpg)
+![](../1shropshire/assets/images/history/2021-07-17_14_20_23_DSC_9771.jpg)
 
 # Name: Charles Darwin Born
 - Date: 1809 AD
@@ -846,7 +846,7 @@ Consequently, Dr Brookes is credited as a founding father of the modern Olympic 
 - Date: 1812 AD
 
 A bridge was first recorded in 1272 when a man was killed on the bridge; also, a map of 1313 shows a bridge built of stone.  The present bridge is the result of repairs to the design and specification of Thomas Telford.
-![](../1shropshire/assets/images/history/2019-02-02_15_03_19_DSC_3205_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-02-02_15_03_19_DSC_3205.jpg)
 
 # Name: Cantlop Bridge
 - Date: 1813 AD
@@ -854,7 +854,7 @@ A bridge was first recorded in 1272 when a man was killed on the bridge; also, a
 Made of cast-iron, this bridge was part of an expanding network of bridges built to improve communication and trade in Shropshire.  The design was approved by Thomas Telford.  Unlike the Iron Bridge, built by Abraham Darby, Cantlop Bridge does not follow the design of a wooden bridge, as Telford recognised the strength of iron and engineered lighter frames that required less of this material.
 
 Cantlop Bridge is the only Telford-approved cast-iron bridge remaining in situ in Shropshire.
-![](../1shropshire/assets/images/history/2020-03-01_14_57_25_DSC_6666_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-03-01_14_57_25_DSC_6666.jpg)
 
 # Name: Bridge, Coalport
 - Date: 1818 AD
@@ -870,19 +870,19 @@ Originally built in the 1820s, the furnaces consisted of an ironworks, cinder hi
 The site was bought by the Old Park Iron Co. (which built the Stirchley Chimney) before selling the works to The Wellington Iron & Coal Co. in 1874.
 
 In 1886 the site was leased to Thomas Groom who installed the Wrekin Chemical Works to produce charcoal from wood naphtha and tar.
-![](../1shropshire/assets/images/history/2019-03-10_14_55_41_DSC_3512_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2019-03-10_14_55_41_DSC_3512.jpg)
 
 # Name: Blists Hill Blast Furnace
 - Date: 1832 AD
 
 Three blast furnaces built by the Madeley Wood Company in 1832, 1840 and 1840 - they remained in use until 1912.  The furnaces replaced the two Bedlam blast furnaces - the completion of the Shropshire Canal and the building of the Hay Inclined Plane in the early 1790s provided a means of bringing in the raw materials and taking away the finished goods.
-![](../1shropshire/assets/images/history/2016-08-12_13_02_04_DSC00989_DxO.jpg)
+![](../1shropshire/assets/images/history/2016-08-12_13_02_04_DSC00989.jpg)
 
 # Name: 1st Duke of Sutherland Monument, Lilleshall
 - Date: 1833 AD
 
 The Lilleshall monument was erected in 1833 and commemorates George Leveson-Gower (1st Duke of Sutherland), who died in that year. The obelisk is 70ft high. The construction was originally funded through £933.15s collected from the Duke's tenants, in recognition that he ‘went down to his grave with the blessings of his tenants on his head’. Originally there were two lions and two griffins at each corner, however these were damaged after a violent thunderstorm and were removed.
-![](../1shropshire/assets/images/history/2021-08-29_06_43_43_DSC_0116_DxO.jpg)
+![](../1shropshire/assets/images/history/2021-08-29_06_43_43_DSC_0116.jpg)
 
 # Header: 1837 AD
 
@@ -892,7 +892,7 @@ The Lilleshall monument was erected in 1833 and commemorates George Leveson-Gowe
 - Date: 1838 AD
 
 Built by Benjamin Flouders to mark the boundaries between four large estates (and possibly the occasion of his 70th birthday).
-![](../1shropshire/assets/images/history/2019-04-19_11_58_29_DSC_4090_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-04-19_11_58_29_DSC_4090.jpg)
 
 # Name: Music Hall, Shrewsbury
 - Date: 1840 AD
@@ -906,13 +906,13 @@ The Music Hall was designed by Edward Haycock snr, it served as a music hall for
 Originally constructed as a warehouse for the Coalbrookdale Company, the building is now the museum of the gorge.
 
 The building is in the Gothic Revival architectural style.
-![](../1shropshire/assets/images/history/2020-07-31_07_39_46_DSC_7744_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-07-31_07_39_46_DSC_7744.jpg)
 
 # Name: Millichope Glasshouses
 - Date: 1841-1843 AD
 
 Built when Millichope Park was owned by the wealthy rector of Church Stretton.  The cast iron frame reflects the thinking of the time in that the curved roof matches the curvature of the earth to increase sunlight.  It is likely that crops like pineapples, grapes and melons were grown in the glasshouse.
-![](../1shropshire/assets/images/history/2019-09-28_13_26_29_DSC_0061_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-09-28_13_26_29_DSC_0061.jpg)
 
 # Name: Tanners Wines
 - Date: 1842 AD
@@ -920,7 +920,7 @@ Built when Millichope Park was owned by the wealthy rector of Church Stretton.  
 Originally Thomas Southam & Son of Wyle Cop (and having an excellent reputation as wine merchants), the company was taken over by Tanners in 1936.
 
 Tanners itself was established in 1872 by sea captain William Tanner and his brother - the cellars were those of the now demolished Victorian Market Hall and the offices were in Shoplatch.
-![](../1shropshire/assets/images/history/2019-03-31_11_33_54_DSC_3772_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-03-31_11_33_54_DSC_3772.jpg)
 
 # Name: Shropshire Union Railways and Canal Company Formed
 - Date: 1846 AD
@@ -928,7 +928,7 @@ Tanners itself was established in 1872 by sea captain William Tanner and his bro
 The company was formed by the amalgamation of the Chester Canal and the Birmingham and Liverpool Junction Canal and intended to convert a number of canals to railways.  However, due to a leasing arrangement with the LNWR the company lost its independence and was prevented from converting the canals.  Instead it focussed on managing the canals under its control.
 
 The company was bought out by the LNWR in late 1922.
-![](../1shropshire/assets/images/history/2019-09-18_12_30_47_DSC_5057_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2019-09-18_12_30_47_DSC_5057.jpg)
 
 # Name: Matthew Webb Born
 - Date: 1848 AD
@@ -942,7 +942,7 @@ In 1875 he became the first recorded person to swim the English Channel without 
 - Date: 1848 AD
 
 Formerly known as Shrewsbury General, the station was built for the county's first railway, the Shrewsbury to Chester line.  The building style is imitation Tudor with carvings of Tudor style heads around the window frames - this was done to match the Tudor building of Shrewsbury School.
-![](../1shropshire/assets/images/history/2016-04-30_13_36_26_DSC00338_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2016-04-30_13_36_26_DSC00338.jpg)
 
 # Name: Hospital of the Holy Cross, Shrewsbury
 - Date: 1853 AD
@@ -956,7 +956,7 @@ Holy Cross is the name of the local parish, and Shrewsbury's Abbey church, which
 - Date: 1860s AD
 
 The viaduct was built in the 1860s across Loamhole Brook and the Upper Furnace Pool to take the railway line from Lightmoor to Buildwas.
-![](../1shropshire/assets/images/history/2016-05-08_11_31_07_DSC_0010_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2016-05-08_11_31_07_DSC_0010.jpg)
 
 # Name: Bridgnorth Station
 - Date: 1862 AD
@@ -964,7 +964,7 @@ The viaduct was built in the 1860s across Loamhole Brook and the Upper Furnace P
 There were great celebrations in the town when the station was opened.  Originally owned by the SVR Company, it then passed to the GWR Company and eventually to BR in 1948.  It closed to passengers and freight traffic in 1963.
 
 The neo-Jacobean station is the only listed station on the SVR.
-![](../1shropshire/assets/images/history/2019-02-02_14_48_34_DSC_3197_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-02-02_14_48_34_DSC_3197.jpg)
 
 # Name: Jackfield Railway Gates
 - Date: 1862 AD
@@ -978,7 +978,7 @@ The railway gates, located north-west of Calcutts House in Jackfield, were insta
 The Royal Shrewsbury School Boat Club (RSSBC) was founded in 1866 - the Boathouse is located opposite the Quarry Park.
 
 The club is recognised as one of the leading rowing schools in the country, the school has achieved a number of wins at the Henley Royal Regatta.
-![](../1shropshire/assets/images/history/2013-08-03_16_29_04_DSC_0019_DxO.jpg)
+![](../1shropshire/assets/images/history/2013-08-03_16_29_04_DSC_0019.jpg)
 
 # Name: Hodnet Hall
 - Date: 1870 AD
@@ -998,7 +998,7 @@ The new purpose built factory site, known as the 'Jackfield Works', was used by 
 - Date: 1873 AD
 
 Built to serve the adjacent iron works (formerly Stirchley Furnaces), the chimney is approx. 209ft tall, and was built in Randlay brick by the Old Park Iron Co.
-![](../1shropshire/assets/images/history/2019-03-10_14_53_19_DSC_3508_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-03-10_14_53_19_DSC_3508.jpg)
 
 # Name: Sunnycroft
 - Date: 1880 AD
@@ -1024,13 +1024,13 @@ Margaret Rope (born in Shrewsbury) was a stained glass artist in the Arts and Cr
 - Date: 1883 AD
 
 Maw & Co move to new premises at Jackfield.  The company was formed in 1850 and in 1852 relocated from Worcester to the Benthall Works (Broseley).  By the 1880s, Maw & Co had become one of the most influential and important tile manufacturers - the company was the first to use six or more colours on a tile, and embraced mechanical improvements to production, hence the need for a large bespoke site (at its height the factory produced over 20 million tiles per year).  The factory closed in January 1970.
-![](../1shropshire/assets/images/history/2020-08-02_16_04_20_DSC_7861_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-08-02_16_04_20_DSC_7861.jpg)
 
 # Name: Broseley Pipe Works
 - Date: 1880s AD
 
 A local builder, Rowland Smitheman, took over a row of cottages which he then converted into workshops, built a coal fired bottle kiln and began to manufacture clay tobacco smoking pipes.
-![](../1shropshire/assets/images/history/2016-08-07_13_26_10_DSC00979_DxO.jpg)
+![](../1shropshire/assets/images/history/2016-08-07_13_26_10_DSC00979.jpg)
 
 # Name: Henry Eckford arrives in Shropshire
 - Date: 1888 AD
@@ -1048,7 +1048,7 @@ Salop County Council is set up following the Local Government Act 1888.
 - Date: 1891 AD
 
 The Bridgnorth Funicular Railway links the Low Town and High Town and was built as an alternative to the 200 steps linking the two towns.  It is one the steepest railways in the country - some claim it is both the steepest and the shortest.  Originally powered by water and gravity, it was electrified in 1944.  The original wooden cars were replaced in 1955 with stronger lighter ones with an aluminium monocoque.
-![](../1shropshire/assets/images/history/2019-02-02_15_25_32_DSC_3213_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2019-02-02_15_25_32_DSC_3213.jpg)
 
 # Name: Petton Hall
 - Date: 1892 AD
@@ -1074,7 +1074,7 @@ The arms of the council were awarded in 1895 (the arms are derived from the arms
 - Date: 19th Century AD
 
 Built to replace an older bridge at the same location.
-![](../1shropshire/assets/images/history/2019-04-13_13_59_05_DSC_4014_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2019-04-13_13_59_05_DSC_4014.jpg)
 
 # Name: Squatters Cottage
 - Date: 19th Century AD
@@ -1082,7 +1082,7 @@ Built to replace an older bridge at the same location.
 Areas of waste land were settled by squatters (landless men who built houses on common land) - this is known to have taken place from the early 16th Century until well into the 19th Century.
 
 A government enquiry carried out in 1869 found that labourers' cottages were worse than in any other English county except Dorset.
-![](../1shropshire/assets/images/history/2016-08-12_12_52_32_DSC00987_DxO.jpg)
+![](../1shropshire/assets/images/history/2016-08-12_12_52_32_DSC00987.jpg)
 
 # Name: Snailbeach Lead Mine
 - Date: 19th Century AD
@@ -1092,7 +1092,7 @@ Although the first written evidence of lead mining at Snailbeach was in 1676, th
 Most of the present buildings were constructed in the period 1830 to 1880, when demand was at its greatest to meet the needs of the Industrial Revolution.
 
 Mining ceased in 1955.
-![](../1shropshire/assets/images/history/2018-06-11_11_46_52_DSC_2591_DxO.jpg)
+![](../1shropshire/assets/images/history/2018-06-11_11_46_52_DSC_2591.jpg)
 
 # Header: 20th Century
 
@@ -1108,7 +1108,7 @@ Harper Adams College is founded after Thomas Harper Adams, a wealthy Shropshire 
 - Date: Early 19th Century AD Onwards
 
 A number of quarries have existed on Titterstone Clee Hill.  Dhustone or basalt is quarried, which is used mainly as a construction aggregate.
-![](../1shropshire/assets/images/history/2016-05-08_18_25_57_DSC_0096_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2016-05-08_18_25_57_DSC_0096.jpg)
 
 # Name: Richard Munslow Dies
 - Date: 1906 AD
@@ -1122,7 +1122,7 @@ Richard Munslow is believed to be the last known 'sin-eater' in England.
 The River Severn was a busy route for carrying raw materials and goods.  Up to the Victorian times the river was usually deep enough for the barges.  But throughout the 19th Century abstraction of water for domestic, agricultural and industrial use increased, reducing water levels such that by the early 20th century navigation with barges was impossible to manage with any reliability.
 
 The weir at Shrewsbury was built in 1909 to keep the water level at a depth suitable for pleasure boats around the loop.
-![](../1shropshire/assets/images/history/2020-08-21_14_12_51_DSC_8144_DxO_1.jpg)
+![](../1shropshire/assets/images/history/2020-08-21_14_12_51_DSC_8144.jpg)
 
 # Name: RAF Shawbury
 - Date: 1917 AD
@@ -1132,7 +1132,7 @@ First used in 1917 for military flying training by the RFC.  The station was clo
 In 1944 Shawbury became the home of the central navigation school and in 1950 the school of air traffic control relocated to Shawbury.
 
 In 1976 Shawbury also became the home of the basic and advanced helicopter training school. In 1997, the school was reformed as the Defence Helicopter Flying School providing training to all three of the UK's armed services.
-![](../1shropshire/assets/images/history/2005-03-31 11-26-24_00002588_DxO.jpg)
+![](../1shropshire/assets/images/history/2005-03-31_11-26-24_00002588.jpg)
 
 # Name: Old Coracle Shed, Ironbridge
 - Date: 1920s AD
@@ -1155,7 +1155,7 @@ In memory of those
 Who died for thee
 Erected by public subscription
 1922"
-![](../1shropshire/assets/images/history/2020-08-02_16_10_10_DSC_7864_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-08-02_16_10_10_DSC_7864.jpg)
 
 # Name: Merrythought, Ironbridge
 - Date: 1930 AD
@@ -1163,13 +1163,13 @@ Erected by public subscription
 Merrythought is established - the last remaining British teddy bear factory to continue to make its products in Britain.  The origin of the firm's name is unknown, but may derive from an archaic word for "wishbone".
 
 Merrythought's most famous individual bear was probably "Mr Whoppit" which was the mascot of Donald Campbell.
-![](../1shropshire/assets/images/history/2020-07-31_08_04_03_DSC_7752_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-07-31_08_04_03_DSC_7752.jpg)
 
 # Name: RAF Cosford
 - Date: 1938 AD
 
 Opened originally as a joint aircraft maintenance, storage and technical training unit.  RAF Cosford has remained mainly as a training unit.  Training units currently stationed there include No. 1 School of Technical Training, No. 1 Radio School RAF, the Defence School of Photography and the RAF School of Physical Training.
-![](../1shropshire/assets/images/history/2018-06-10_14_58_01_DSC01854_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2018-06-10_14_58_01_DSC01854.jpg)
 
 # Name: RAF Clee Hill
 - Date: September 1941 AD
@@ -1193,7 +1193,7 @@ Plans for the new house to replace the old house were approved in October 1791. 
 The mansion was of the Georgian style with tall Corinthian pillars to its entrance porch, from which a drive of considerable length led to the town of Wellington.
 
 Throughout the 19th century members of the family that owned the estate (the Charltons) distinguished themselves as soldiers in the Indian Wars and in the Crimea.  Whilst serving in India, Captain St. John Chiverton Charlton, an able botanist, is credited with the discovery of the tea plant, whose subsequent cultivation contributed much to the economic development of India.
-![](../1shropshire/assets/images/history/2020-05-12_17_00_17_DSC_7029_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2020-05-12_17_00_17_DSC_7029.jpg)
 
 # Name: Ironbridge B Power Station
 - Date: 1963 AD
@@ -1201,7 +1201,7 @@ Throughout the 19th century members of the family that owned the estate (the Cha
 The first Ironbridge power station was opened in 1932, it was in operation until 1981 after which significant portions were demolished in 1983.
 
 Construction of the Ironbridge B Power Station began in 1963, but due to construction delays, industrial action and the implementation of design improvements it didn't start feeding power into the National Grid until 1969.  The station stopped generating electricity in 2015 when it reached its 20,000 hours limit of generation under an EU directive.
-![](../1shropshire/assets/images/history/2018-11-11_16_09_24_DSC_3054_DxO.jpg)
+![](../1shropshire/assets/images/history/2018-11-11_16_09_24_DSC_3054.jpg)
 
 # Name: Shire Hall, Shrewsbury
 - Date: 1966 AD
@@ -1209,7 +1209,7 @@ Construction of the Ironbridge B Power Station began in 1963, but due to constru
 The new Shire Hall for Shrewsbury was designed by Ralph Crowe, the County Architect.
 
 Originally established as the headquarters of Shropshire County Council, the building became the offices of the new unitary authority, Shropshire Council in April 2009.
-![](../1shropshire/assets/images/history/2018-07-14_10_20_43_DSC_2747_DxO.jpg)
+![](../1shropshire/assets/images/history/2018-07-14_10_20_43_DSC_2747.jpg)
 
 # Name: Telford New Town
 - Date: 1968 AD
@@ -1229,7 +1229,7 @@ Austin began breeding roses in the early 1950s attempting to combine the charact
 Originally a storage facility for the RAF museum at Hendon, the Cosford site was opened as a museum on 1st May 1979.  The museum initially exhibited airframes which had been used for technical training at RAF Cosford.  The museum was significantly expanded in the 1980s and 1990s.
 
 In 2002 the RAF Museum Conservation Centre was relocated to Cosford.  The site now houses many very rare aircraft.
-![](../1shropshire/assets/images/history/2021-10-08_15_21_10_DSC_0575_DxO_1.jpg)
+![](../1shropshire/assets/images/history/2021-10-08_15_21_10_DSC_0575.jpg)
 
 # Header: 1980 AD
 
@@ -1241,7 +1241,7 @@ On the 1st April 1980 the name change to Shropshire comes into effect.
 - Date: 1986 AD
 
 The British Ironworks Centre and Shropshire Sculpture Park is a forge, silversmiths and sculpture park, famous for its safari park and gorilla made only of spoons.  The 12ft gorilla is made from 40,000 spoons donated from around the world.  Other notable sculptures are the 20ft knife angel made of knives handed in to police forces as part of an amnesty and four iron pavilions created in honour of the 60th anniversary of Queen Elizabeth II's coronation.
-![](../1shropshire/assets/images/history/2017-07-30_11_09_58_DSC01302_DxO.jpg)
+![](../1shropshire/assets/images/history/2017-07-30_11_09_58_DSC01302.jpg)
 
 # Name: Wroxeter Roman Vineyard
 - Date: 1991 AD
@@ -1259,7 +1259,7 @@ In 1992 the Local Government Act authorised the creation of two unitary authorit
 - Date: 2011 AD
 
 Built using authentic Roman techniques by a team of 21st Century builders and local volunteers, the project featured in the Channel 4 television series "Rome Wasn't Built in a Day".
-![](../1shropshire/assets/images/history/2019-02-03_13_45_05_DSC_3223_DxO_bw.jpg)
+![](../1shropshire/assets/images/history/2019-02-03_13_45_05_DSC_3223.jpg)
 
 # Name: Flag of Shropshire is Registered
 - Date: 2012 AD
@@ -1277,7 +1277,7 @@ The flag of Shropshire was registered in March 2012.
 - Date: 2018 AD
 
 The new town of Telford celebrates its 50th anniversary.
-![](../1shropshire/assets/images/history/2019-02-17_12_20_42_DSC_3389_DxO.jpg)
+![](../1shropshire/assets/images/history/2019-02-17_12_20_42_DSC_3389.jpg)
 
 # Name: Bridge Restoration, Ironbridge
 - Date: January 2018 AD
@@ -1289,7 +1289,7 @@ Local residents are invited to view the works being undertaken.
 - Date: December 2018 AD
 
 The Iron Bridge reopens after an extensive restoration and repair  project which took more than a year to complete.  The English Heritage project cost £3.6 million and returned the bridge to its original red-brown colour (which took 2400 litres of paint).
-![](../1shropshire/assets/images/history/2020-07-31_05_58_17_DSC_7646_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-07-31_05_58_17_DSC_7646.jpg)
 
 # Name: Cooling Towers Demolition, Ironbridge
 - Date: 6th December 2019 AD
@@ -1301,7 +1301,7 @@ The cooling towers of the Ironbridge power station are demolished to make way fo
 - Date: 8th May 2020 AD
 
 People across the county, like the rest of the country, commemorated the 75th Anniversary of Victory in Europe day by staying at home and living under the restrictions imposed due to the coronavirus pandemic.
-![](../1shropshire/assets/images/history/2020-05-08_17_03_56_DSC02443_DxO.jpg)
+![](../1shropshire/assets/images/history/2020-05-08_17_03_56_DSC02443.jpg)
 
 # Name: Tommy Rogers Memorial, Ironbridge
 - Date: 20th April 2021 AD
@@ -1313,4 +1313,4 @@ A memorial to Tommy Rogers is unveiled, he died in 1924 and was one of the last 
 - Date: 2nd - 5th June 2022 AD
 
 The Queen's Platinum Jubilee was celebrated across the county and the country.  Away from the pageantry, the village of Wrockwardine created a scarecrow trail!
-![](../1shropshire/assets/images/<folder>/2022-06-04_Montage.jpg)
+![](../1shropshire/assets/images/history/2022-06-04_Montage.jpg)
