@@ -7,15 +7,38 @@ title: Landscape of Shropshire
 
 {% assign numrecs = 0 %}
 
+{% assign orientation = "neither" %}
+
 {% for item in site.data.Shropshire_Notebook-Landscape %}
-  {% assign numrecs = numrecs | plus: 1 %}
+  {% if item.Type == "Intro" %}
+{% if orientation == "left" %}
+<div class="col-md-6">
+</div>
+</div>
+</div>
+</div>
+{% endif %}
+{% assign orientation = "neither" %}
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>{{ item.Intro }}</h3>
+{{ item.Description | markdownify }}
+</div>
+<div class="col-md-6">
+</div>
+</div>
+</div>
+</div>
+  {% endif %}
+  
   {% if item.Type == "Item" %}
+    {% assign numrecs = numrecs | plus: 1 %}
     {% if orientation == "left" %}
       {% assign orientation = "right" %}
 <div class="col-md-6">
-<h3>{{ item.Name }}</h3>
 <img class="imgc" src="assets/images/landscape/{{ item.Thumbnail }}">
-<p>&nbsp;</p>{{ item.Description | markdownify }}
 </div>
 </div>
 </div>
@@ -26,9 +49,7 @@ title: Landscape of Shropshire
 <div class="container">
 <div class="row" data-aos="fade-up" data-aos-duration="500">
 <div class="col-md-6">
-<h3>{{ item.Name }}</h3>
 <img class="imgc" src="assets/images/landscape/{{ item.Thumbnail }}">
-<p>&nbsp;</p>{{ item.Description | markdownify }}
 </div>
     {% endif %}
   {% endif %}

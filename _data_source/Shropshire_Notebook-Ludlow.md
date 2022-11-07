@@ -20,22 +20,22 @@ View of Broad Street from the top of the church tower (St Laurence).
 
 # Name: Dinham
 
-TBD
+Dinham
 ![](../1shropshire/assets/images/places/2019-04-13_14_06_43_DSC_4025.jpg)
 
 # Name: Dinham
 
-TBD
+Dinham
 ![](../1shropshire/assets/images/places/2019-04-13_14_09_34_DSC_4031.jpg)
 
 # Name: Broad Street
 
-TBD
+Broad Street
 ![](../1shropshire/assets/images/places/2019-04-13_14_20_25_DSC_4045.jpg)
 
 # Name: Broad Street
 
-TBD
+Broad Street
 ![](../1shropshire/assets/images/places/2020-01-04_13_46_04_DSC_6069.jpg)
 
 # Name: View from Whitcliffe Common

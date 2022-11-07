@@ -177,7 +177,12 @@ Dir.glob("../_data_source/*.md") do |srcfn|
   end
   if dstf.end_with?("Landscape.yml")
   File.readlines(srcf).each do |line|
-    if line.start_with?("# Name:")
+    if line.start_with?("# Intro:")
+      dsth.write("- Type: Intro\n") unless dsth.nil?
+      tmp = "  " + line[2..-1]
+      dsth.write(tmp) unless dsth.nil?
+      dsth.write("  Description: |") unless dsth.nil?
+	elsif line.start_with?("# Name:")
       dsth.write("- Type: Item\n") unless dsth.nil?
       tmp = "  " + line[2..-1]
       dsth.write(tmp) unless dsth.nil?
@@ -203,3 +208,5 @@ end
 puts "Done: convert_md_to_yml"
 
 end
+
+convert_md_to_yml()

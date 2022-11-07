@@ -1,3 +1,17 @@
+# Intro: Miscellaneous
+
+Bitterley church and Titterstone Clee hill.
+
+A panaromic view of Lilleshall.
+
+A view when driving from Clun to Hopton Castle.
+
+A different view of Hopton Castle.
+
+View of Whitcliffe Common and the castle from the top of St Laurence's tower, Ludlow.
+
+The River Teme as seen from Offa's Dyke near Knighton.
+
 # Name: Bitterley
 
 The church and Titterstone Clee hill.
@@ -13,11 +27,33 @@ A panaromic view of Lilleshall.
 A view when driving from Clun to Hopton Castle.
 ![](../1shropshire/assets/images/landscape/2021-07-16_14_37_40_DSC_9739.jpg)
 
+# Name: Hopton Castle
+
+A different view of Hopton Castle.
+![](../1shropshire/assets/images/landscape/2021-07-16_15_16_30_DSC_9754.jpg)
+
+# Name: View of Whitcliffe Common and the castle from the top of St Laurence's tower, Ludlow
+
+TBD
+![](../1shropshire/assets/images/landscape/2019-04-13_11_56_35_DSC_3888.jpg)
+
+# Name: The River Teme
+
+The River Teme as seen from Offa's Dyke near Knighton.
+![](../1shropshire/assets/images/landscape/2019-03-23_14_05_56_DSC_3559.jpg)
+
+# Intro: Caer Caradoc
+
+TBD
 
 # Name: Caer Caradoc
 
 TBD
 ![](../1shropshire/assets/images/landscape/2020-02-08_14_28_47_DSC_6442.jpg)
+
+# Intro: Callow Hill
+
+Flounder's Folly is on Callow Hill.
 
 # Name: View from Flouder's Folly, Callow Hill
 
@@ -34,11 +70,15 @@ TBD
 TBD
 ![](../1shropshire/assets/images/landscape/2019-04-19_12_16_22_DSC_4098.jpg)
 
-# Name: The Hollies
+# Intro: The Hollies
 
 The Hollies nature reserve (at The Stiperstones above Snailbeach).  The reserve is a scattered grove of ancient holly trees, some of the trees are 300 or 400 years old.
 
 Rowan trees can also be seen growing next to the holly trees, in some cases the rowan trees are rooted inside the holly trees.  This is because birds such as redwings, fieldfares and winter thrushes eat the rowan berries and then deposit the seeds when perched on the holly trees.
+
+# Name: The Hollies
+
+TBD
 ![](../1shropshire/assets/images/landscape/2020-05-22_13_39_11_DSC_7117.jpg)
 
 # Name: The Hollies
@@ -51,15 +91,18 @@ TBD
 TBD
 ![](../1shropshire/assets/images/landscape/2020-09-11_13_56_41_DSC_8369.jpg)
 
+# Intro: Hope Bowdler Hill
+
+The Gaer Stone.
+
 # Name: The Gaer Stone, Hope Bowdler Hill
 
 TBD
 ![](../1shropshire/assets/images/landscape/2020-02-08_14_54_42_DSC_6484.jpg)
 
-# Name: Hopton Castle
+# Intro: The Long Mynd
 
-A different view of Hopton Castle.
-![](../1shropshire/assets/images/landscape/2021-07-16_15_16_30_DSC_9754.jpg)
+TBD
 
 # Name: The Long Mynd
 
@@ -186,70 +229,78 @@ TBD
 TBD
 ![](../1shropshire/assets/images/landscape/2019-03-29_16_16_02_DSC_3719.jpg)
 
-# Name: View of Whitcliffe Common and the castle from the top of St Laurence's tower, Ludlow
+# Intro: Titterstone Clee Hill
 
-TBD
-![](../1shropshire/assets/images/landscape/2019-04-13_11_56_35_DSC_3888.jpg)
+Titterstone Clee is third highest hill in Shropshire.  It is one of only a few hills and mountains noted on the Hereford Mappa Mundi (13th Century map of the world).
+
+In medieval times ironstone and, later, coal were mined, in particular from bell pits (localised mine shafts), one of which is now flooded forming a lake.
+
+The hill fort on Titterstone Clee is of note as the walls of the fort are made of stone blocks instead of earth banks.  The hill fort dates back to the late Bronze Age or early Iron Age.  It is the largest hill fort in Shropshire covering approximately 28 hectares.
+
+The cairn near the summit of Titterstone Clee dates back up to 4,000 years (Bronze Age) and indicates that the summit of the hill was likely a ceremonial site.
+
+The Giant's Chair near the summit of Titterstone Clee is a pile of boulders created during the cold phases of the Devensian ice age.
+
+A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
 
 # Name: Titterstone Clee Hill
 
-Titterstone Clee is third highest hill in Shropshire.  It is one of only a few hills and mountains noted on the Hereford Mappa Mundi (13th Century map of the world).
+TBD
 ![](../1shropshire/assets/images/landscape/2022-05-14_09_28_47_DSC_1477.jpg)
 
 # Name: Mining, Titterstone Clee Hill
 
-In medieval times ironstone and, later, coal were mined, in particular from bell pits (localised mine shafts), one of which is now flooded forming a lake.
+TBD
 ![](../1shropshire/assets/images/landscape/2022-05-14_08_27_46_DSC_1449_HDR.jpg)
 
 # Name: Hill Fort, Titterstone Clee Hill
 
-The hill fort on Titterstone Clee is of note as the walls of the fort are made of stone blocks instead of earth banks.  The hill fort dates back to the late Bronze Age or early Iron Age.  It is the largest hill fort in Shropshire covering approximately 28 hectares.
+TBD
 ![](../1shropshire/assets/images/landscape/2022-05-14_08_54_57_DSC_1465.jpg)
 
 # Name: Cairn, Titterstone Clee Hill
 
-The cairn near the summit of Titterstone Clee dates back up to 4,000 years (Bronze Age) and indicates that the summit of the hill was likely a ceremonial site.
+TBD
 ![](../1shropshire/assets/images/landscape/2022-05-14_10_27_32_DSC_1516.jpg)
 
 # Name: Giant's Chair, Titterstone Clee Hill
 
-The Giant's Chair near the summit of Titterstone Clee is a pile of boulders created during the cold phases of the Devensian ice age.
+TBD
 ![](../1shropshire/assets/images/landscape/2022-05-14_10_11_20_DSC_1513.jpg)
 
 # Name: Quarry, Titterstone Clee Hill
 
-A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+TBD
 ![](../1shropshire/assets/images/landscape/2022-05-14_10_55_53_DSC_1532_HDR.jpg)
 
 # Name: Quarry, Titterstone Clee Hill
 
-A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+TBD
 ![](../1shropshire/assets/images/landscape/2022-05-14_11_08_26_DSC_1548_HDR.jpg)
 
 # Name: Quarry, Titterstone Clee Hill
 
-A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+TBD
 ![](../1shropshire/assets/images/landscape/2022-05-14_11_31_52_DSC_1571_HDR.jpg)
 
 # Name: Quarry, Titterstone Clee Hill
 
-A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+TBD
 ![](../1shropshire/assets/images/landscape/2022-05-14_11_40_12_DSC_1577.jpg)
 
 # Name: Quarry, Titterstone Clee Hill
 
-A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+TBD
 ![](../1shropshire/assets/images/landscape/2022-05-14_11_44_34_DSC_1582.jpg)
 
 # Name: Quarry, Titterstone Clee Hill
 
-A number of quarries have been opened up on Titterstone Clee over the years to extract dolerite for use in road building (known locally as dhustone, dhu may have arisen from the Welsh du meaning black).  Many derelict quarry buildings are scattered over the hill and are of interest as they are very early exanples of the use of reinforced concrete for buildings.
+TBD
 ![](../1shropshire/assets/images/landscape/2022-05-14_11_48_52_DSC_1586.jpg)
 
-# Name: The River Teme
+# Intro: The Stiperstones
 
-The River Teme as seen from Offa's Dyke near Knighton.
-![](../1shropshire/assets/images/landscape/2019-03-23_14_05_56_DSC_3559.jpg)
+TBD
 
 # Name: The Stiperstones
 
@@ -361,28 +412,37 @@ TBD
 TBD
 ![](../1shropshire/assets/images/landscape/2021-11-05_15_23_53_DSC_0687.jpg)
 
+# Intro: Willstone Hill
+
+On Willstone Hill are the Battle Stones.
+
 # Name: The Battle Stones, Willstone Hill
 
 TBD
 ![](../1shropshire/assets/images/landscape/2020-02-08_14_09_50_DSC_6420.jpg)
+
+# Intro: The Wrekin
+
+The Wrekin rises to a height of 1,335ft above the Shropshire plain.
+
+There is an Iron Age hill fort on the summit almost 8 ha (20 acres) in size.
+
+The Wrekin is the subject of a well-known legend in Shropshire folklore concerning a giant called Gwendol Wrekin ap Shenkin ap Mynyddmawr with a grudge against the town of Shrewsbury.
 
 # Name: The Wrekin
 
 At sunrise.
 ![](../1shropshire/assets/images/landscape/2022-02-27_06_34_46_DSC_0264.jpg)
 
-
 # Name: The Wrekin
 
 At sunrise.
 ![](../1shropshire/assets/images/landscape/2022-02-27_06_41_23_DSC_0269.jpg)
 
-
 # Name: The Wrekin
 
 At sunrise.
 ![](../1shropshire/assets/images/landscape/2022-02-27_07_09_30_DSC_0294.jpg)
-
 
 # Name: The Wrekin
 
@@ -401,17 +461,17 @@ TBD
 
 # Name: The Wrekin
 
-The Wrekin rises to a height of 1,335ft above the Shropshire plain.
+TBD
 ![](../1shropshire/assets/images/landscape/2010-12-24_14-49-20_00015265.jpg)
 
 # Name: The Wrekin
 
-There is an Iron Age hill fort on the summit almost 8 ha (20 acres) in size.
+TBD
 ![](../1shropshire/assets/images/landscape/2017-04-14_09_52_13_DSC_0191.jpg)
 
 # Name: The Wrekin
 
-The Wrekin is the subject of a well-known legend in Shropshire folklore concerning a giant called Gwendol Wrekin ap Shenkin ap Mynyddmawr with a grudge against the town of Shrewsbury.
+TBD
 ![](../1shropshire/assets/images/landscape/2017-10-22_13_59_23_DSC_1972.jpg)
 
 # Name: The Wrekin
