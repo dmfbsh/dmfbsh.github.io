@@ -1,15 +1,15 @@
-AllVisited: 181
-AllNotVisited: 136
-AllInside: 159
+AllVisited: 182
+AllNotVisited: 135
+AllInside: 160
 AllInsidePhoto: 136
-AllNotInside: 39
+AllNotInside: 40
 AllPlanned: 40
-AllNotYet: 96
-Col1Num: 159
+AllNotYet: 95
+Col1Num: 160
 Col2Num: 22
 Col3Num: 24
 Col4Num: 16
-Col5Num: 96
+Col5Num: 95
 Churches:
   - Col1: Acton Burnell, St Mary (Hereford)
     Col2: Bicton, Holy Trinity (Lichfield)
@@ -395,102 +395,102 @@ Churches:
     Col2: 
     Col3: 
     Col4: 
-    Col5: Shrewsbury, Holy Trinity (Lichfield)
+    Col5: Shrewsbury, St Giles (Lichfield)
   - Col1: Kynnersley, St Chad (Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Shrewsbury, St Giles (Lichfield)
+    Col5: Shrewsbury, St John (Lichfield)
   - Col1: Langley, None (Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Shrewsbury, St John (Lichfield)
+    Col5: Shrewsbury, St Michael (Lichfield)
   - Col1: Lawley, St John the Evangelist (Lichfield) - see note 3
     Col2: 
     Col3: 
     Col4: 
-    Col5: Shrewsbury, St Michael (Lichfield)
+    Col5: Sibdon Carwood, St Michael (Hereford)
   - Col1: Lilleshall, None (Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Sibdon Carwood, St Michael (Hereford)
+    Col5: Silvington, St Michael (Hereford)
   - Col1: Lilleshall, St Michael and All Angels (Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Silvington, St Michael (Hereford)
+    Col5: Stirchley, St James (Lichfield)
   - Col1: Little Stretton, All Saints (Hereford) - see note 2
     Col2: 
     Col3: 
     Col4: 
-    Col5: Stirchley, St James (Lichfield)
+    Col5: Stowe, St Michael (Hereford)
   - Col1: Llanyblodwel, St Michael the Archangel (Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Stowe, St Michael (Hereford)
+    Col5: Trefonen, All Saints (Lichfield)
   - Col1: Longden, St Ruthen (Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Trefonen, All Saints (Lichfield)
+    Col5: Tuckhill, Holy Innocents (Hereford)
   - Col1: Longdon on Tern, St Bartholomew (Lichfield) - see note 3
     Col2: 
     Col3: 
     Col4: 
-    Col5: Tuckhill, Holy Innocents (Hereford)
+    Col5: Westin Rhyn, St John the Divine (Lichfield)
   - Col1: Longford, None (Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Westin Rhyn, St John the Divine (Lichfield)
+    Col5: Weston Lullingfields, Holy Trinity (Lichfield)
   - Col1: Longnor, St Mary (Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Weston Lullingfields, Holy Trinity (Lichfield)
+    Col5: Wheathill, Holy Trinity (Hereford)
   - Col1: Loppington, St Michael and All Angels (Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Wheathill, Holy Trinity (Hereford)
+    Col5: White Ladies, None (Lichfield)
   - Col1: Ludford, St Giles (Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: White Ladies, None (Lichfield)
+    Col5: Whixall, St Mary (Lichfield)
   - Col1: Ludlow, St John (Hereford) - see note 3
     Col2: 
     Col3: 
     Col4: 
-    Col5: Whixall, St Mary (Lichfield)
+    Col5: Winstanstow, Holy Trinity (Hereford)
   - Col1: Ludlow, St Laurence (Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Winstanstow, Holy Trinity (Hereford)
+    Col5: Wombridge, St Mary and St Leonard (Lichfield)
   - Col1: Lydham, Holy Trinity (Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Wombridge, St Mary and St Leonard (Lichfield)
+    Col5: Woodcote, None (Lichfield)
   - Col1: Melverley, St Peter (Lichfield)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Woodcote, None (Lichfield)
+    Col5: Woore, St Leonard (Lichfield)
   - Col1: Minsterley, Holy Trinity (Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Woore, St Leonard (Lichfield)
+    Col5: Wrockwardine Wood, Holy Trinity (Lichfield)
   - Col1: Monkhopton, St Peter (Hereford)
     Col2: 
     Col3: 
     Col4: 
-    Col5: Wrockwardine Wood, Holy Trinity (Lichfield)
+    Col5: 
   - Col1: Montford, St Chad (Lichfield)
     Col2: 
     Col3: 
@@ -642,6 +642,11 @@ Churches:
     Col4: 
     Col5: 
   - Col1: Shrewsbury, None (Lichfield) - see note 2
+    Col2: 
+    Col3: 
+    Col4: 
+    Col5: 
+  - Col1: Shrewsbury, Holy Trinity (Lichfield) - see note 3
     Col2: 
     Col3: 
     Col4: 
@@ -807,7 +812,7 @@ Churches:
     Col4: 
     Col5: 
 RevisitCount2: 6
-RevisitCount3: 17
-RevisitCount4: 153
+RevisitCount3: 18
+RevisitCount4: 154
 RevisitCount5: 22
-RevisitCount6: 23
+RevisitCount6: 24

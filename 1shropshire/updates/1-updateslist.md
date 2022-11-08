@@ -1,5 +1,12 @@
 ---
 ---
+## 07 Nov 2022
+Added the following items:
+
+- Morris Lubricants
+
+Updated photo for Shrewsbury Town Walls Tower.
+
 ## 05 Nov 2022
 Added the following items:
 

@@ -394,7 +394,7 @@ In 1824 the site was opened as St Leonard's burial ground as the old medieval ch
 - Date: 14th Century AD
 
 The last remaining medieval watch tower of the fortified, defensive walls of Shrewsbury.  Used for observing the land around the town and the River Severn as the town was subject to attacks by the Welsh.
-![](../1shropshire/assets/images/history/2018-11-02_14_28_45_DSC_2956.jpg)
+![](../1shropshire/assets/images/history/2022-10-16_09_02_28_DSC_4905.jpg)
 
 # Name: Battle of Shrewsbury
 - Date: 21st July 1403 AD
@@ -979,6 +979,12 @@ The Royal Shrewsbury School Boat Club (RSSBC) was founded in 1866 - the Boathous
 
 The club is recognised as one of the leading rowing schools in the country, the school has achieved a number of wins at the Henley Royal Regatta.
 ![](../1shropshire/assets/images/history/2013-08-03_16_29_04_DSC_0019.jpg)
+
+# Name: Morris Lubricants
+- Date: 1869 AD
+
+Morris Lubricants is one of the largest privately owned manufacturers of lubricants in Europe.  The company was founded in 1869 by James Kent Morris when he signed the lease on 7 Frankwell, the first Morris shop - a grocery business and candle factory.
+![](../1shropshire/assets/images/history/2022-10-16_09_29_00_DSC_4965.jpg)
 
 # Name: Hodnet Hall
 - Date: 1870 AD
