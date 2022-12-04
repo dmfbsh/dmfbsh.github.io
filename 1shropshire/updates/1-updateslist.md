@@ -1,5 +1,24 @@
 ---
 ---
+## 04 Dec 2022
+Added the following items:
+
+- Shrewsbury St Giles church
+- Shrewsbury All Saints church
+- Leebotwood church
+
+Updated Dorrington church.
+
+## 13 Nov 2022
+Added the following items:
+
+- Malinslee church
+- Shrewsbury St Georges church
+- Shrewsbury Holy Trinity church
+- Stirchley church
+- Dawley church
+- Linley church
+
 ## 07 Nov 2022
 Added the following items:
 
