@@ -12,6 +12,12 @@ Ashfield Hall is an historic house, consisting of two distinct portions. The lef
 The site was originally the site of St John's hospital, founded in the 13th Century for 'lost and naked beggars'.  The building was occupied in the 15th Century as the private house of the Ashfield family.  Later it was called the Blue Bridge Inn from the bridge over a stream that ran in front.  Charles I is believed to have stayed here in 1642 on his way from Shrewsbury to Oxford.
 ![](../1shropshire/assets/images/houses/2021-06-05_15_22_55_DSC_9570.jpg)
 
+# Name: Henry Tudor House, Shrewsbury
+- Date: mid-15th Century AD
+
+71, 72 & 73 Wyle Cop - mid-15th Century timber-framed building with plain tiled roof, originally a dwelling but possibly also incorporating early shops.  There are 4 storeys to the lower section and 3 to the upper, divided by a central arch to passage.  Also known as Henry Tudor House, as on the front is a plaque recording that Henry VII stayed in the building in 1485 before the Battle of Bosworth Field.
+![](../1shropshire/assets/images/houses/2022-10-16_08_00_49_DSC_4830.jpg)
+
 # Name: The Abbot's House, Shrewsbury
 - Date: 1459 AD
 
@@ -59,6 +65,12 @@ Built to replace a timber framed house which had burned down.  The hall was larg
 
 Rowley's House was built by Roger Rowley - a wool merchant.  The house was built in the late 1500s.  The Mansion was built by his son in 1618 and is believed to be the earliest brick building in Shrewsbury.
 ![](../1shropshire/assets/images/houses/2018-11-02_14_49_32_DSC_2961.jpg)
+
+# Name: Castle Gates House, Shrewsbury
+- Date: Late 16th Century AD
+
+The house was originally built on Dogpole, and was moved to its present position c1702 by the Earl of Bradford, its original site being developed with what is now the Guildhall.
+![](../1shropshire/assets/images/houses/2022-10-16_08_46_34_DSC_4890_HDR_Nik.jpg)
 
 # Name: Moreton Corbet Mansion
 - Date: 16th Century AD

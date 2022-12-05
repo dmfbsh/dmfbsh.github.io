@@ -422,6 +422,12 @@ A modern interpretation of the results of the autopsy suggests that Parr was pro
 The brass plaque is in the church at Great Wollaston.
 ![](../1shropshire/assets/images/people/2021-04-17_14_08_58_DSC_9422.jpg)
 
+# Name: Henry Tudor House, Shrewsbury
+- Date: mid-15th Century AD
+
+71, 72 & 73 Wyle Cop - mid-15th Century timber-framed building with plain tiled roof, originally a dwelling but possibly also incorporating early shops.  There are 4 storeys to the lower section and 3 to the upper, divided by a central arch to passage.  Also known as Henry Tudor House, as on the front is a plaque recording that Henry VII stayed in the building in 1485 before the Battle of Bosworth Field.
+![](../1shropshire/assets/images/history/2022-10-16_08_00_49_DSC_4830.jpg)
+
 # Name: Llwyd Mansion, Oswestry
 - Date: Mid- to late 15th Century AD
 
@@ -507,6 +513,12 @@ Built to replace a timber framed house which had burned down.  The hall was larg
 
 The Old Market Hall is one of the earliest forms of pre-fabricated buildings, it was constructed in less than four months.  The large upper room was originally used by the Shrewsbury Drapers Company to sell Welsh cloth and the ground floor used by the farmers to sell corn.
 ![](../1shropshire/assets/images/history/2019-03-31_11_29_22_DSC_3771.jpg)
+
+# Name: Castle Gates House, Shrewsbury
+- Date: Late 16th Century AD
+
+The house was originally built on Dogpole, and was moved to its present position c1702 by the Earl of Bradford, its original site being developed with what is now the Guildhall.
+![](../1shropshire/assets/images/history/2022-10-16_08_46_34_DSC_4890_HDR_Nik.jpg)
 
 # Name: Rowley's House, Shrewsbury
 - Date: Late 1500s AD

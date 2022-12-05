@@ -6,8 +6,17 @@ Added the following items:
 - Shrewsbury St Giles church
 - Shrewsbury All Saints church
 - Leebotwood church
+- Shrewsbury - Henry Tudor House
+- Shrewsbury - St John's Hill
+- Shrewsbury - Castle Gates House
+- Shrewsbury - Passge (off Fish St)
+- Shrewsbury - The Square
+- Shrewsbury - Abbey x 3
+- Shrewsbury - Lord Hill Column
 
 Updated Dorrington church.
+
+Updated Shrewsbury War Memorial.
 
 ## 13 Nov 2022
 Added the following items:

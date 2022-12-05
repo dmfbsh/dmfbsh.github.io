@@ -1,3 +1,28 @@
+# Name: Lord Hill Column
+
+The Lord Hill column
+![](../1shropshire/assets/images/places/2022-11-20_09_30_23_DSC_5373.jpg)
+
+# Name: The Square
+
+The Square
+![](../1shropshire/assets/images/places/2022-11-06_10_43_33_DSC_5218_HDR.jpg)
+
+# Name: The Abbey Church
+
+The Abbey Church
+![](../1shropshire/assets/images/places/2022-11-20_09_41_45_DSC_5383.jpg)
+
+# Name: The Abbey Church
+
+The Abbey Church
+![](../1shropshire/assets/images/places/2022-11-05_11_45_07_DSC_5089.jpg)
+
+# Name: The Abbey Church
+
+The Abbey Church
+![](../1shropshire/assets/images/places/2022-11-05_11_46_21_DSC_5091.jpg)
+
 # Name: The Old Town Hall
 
 The Old Town Hall
@@ -20,8 +45,10 @@ The Market Hall
 
 # Name: War Memorial
 
-War Memorial
-![](../1shropshire/assets/images/places/2022-05-28_11_29_25_DSC_2173.jpg)
+The memorial was designed by George Hubbard FSA FRIBA, of Hubbard and Moore, around a central figure by Allan Gairdner Wyon FRBS. The monument was built by Messrs Kirkpartrick and the statue was cast by A B Burton, of Thames Ditton. The memorial was unveiled on 29 July 1922 by George Herbert, 4th Earl of Powis, the Lord Lieutenant of Shropshire, in a ceremony presided over by the Right Reverend John Kempthorne, the Bishop of Lichfield.
+
+The centre of the rotunda is occupied by a bronze statue of Saint Michael depicted as the field commander of the Army of God, in a full set of Gothic plate armour and holding a pennanted lance. His right hand is held out in benediction, he has a halo in the shape of a solar cross and he is framed by a large pair of feathered wings.
+![](../1shropshire/assets/images/places/2022-10-16_09_11_59_DSC_4926.jpg)
 
 # Name: The Loopy Shrew
 
@@ -122,3 +149,13 @@ Statue of Hercules
 
 St John's Hill
 ![](../1shropshire/assets/images/places/2019-10-04_13_26_29_DSC_0113.jpg)
+
+# Name: St John's Hill
+
+St John's Hill
+![](../1shropshire/assets/images/places/2022-10-16_09_08_10_DSC_4917_HDR.jpg)
+
+# Name: Passage
+
+Passage (off Fish St)
+![](../1shropshire/assets/images/places/2022-11-20_10_39_21_DSC_5460_HDR.jpg)
