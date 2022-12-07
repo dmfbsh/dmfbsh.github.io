@@ -66,6 +66,12 @@ Built to replace a timber framed house which had burned down.  The hall was larg
 Rowley's House was built by Roger Rowley - a wool merchant.  The house was built in the late 1500s.  The Mansion was built by his son in 1618 and is believed to be the earliest brick building in Shrewsbury.
 ![](../1shropshire/assets/images/houses/2018-11-02_14_49_32_DSC_2961.jpg)
 
+# Name: Ireland's Mansion
+- Date: circa 1575 AD
+
+The Ireland family were powerful wool merchants, some serving as Aldermen for Shrewsbury.  The Ireland mansion has been described as the most ambitious surviving 16th Century timber building in Shrewsbury.
+![](../1shropshire/assets/images/history/2022-10-16_09_56_19_DSC_5031.jpg)
+
 # Name: Castle Gates House, Shrewsbury
 - Date: Late 16th Century AD
 

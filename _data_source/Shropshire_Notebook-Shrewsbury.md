@@ -1,3 +1,30 @@
+# Name: Bear Steps
+
+The Bear Steps area encompasses many of Shrewsbury’s most historic streets.  Historically, the area was filled with traditional traders which gave the surrounding streets many of their names; Butcher Row, Fish Street, Grope Lane.  Bear Steps itself is named for The Bear Inn Pub which sat on the corner of Fish Street and Grope Lane.  Although local legend claims the area was historically home to one of Shrewsbury’s bear pits. 
+
+At the centre of Bear Steps sit two of Shrewsbury’s five churches; St Alkmund’s and St Julian’s. Founded in 902, St Alkmund’s Church stands at the highest point in town.  St Julian’s tower dates from the 12th century, and the present nave was designed by Thomas Farnolls Pritchard who also designed the Iron Bridge at Telford.
+![](../1shropshire/assets/images/places/2022-11-20_10_32_40_DSC_5427_HDR.jpg)
+
+# Name: Gateway of the Shoemakers’ Arbour
+
+Originally erected on Kingsland in 1679 by the Shoemakers; Guild, and removed to the present site in 1877.  The figures represent Crispin and Crispian - the partron saints of shoemakers.  The gateway is built of stone, and bears the date of 1679 and the initials, H. P. and E. A.; the wardens of the Shoemakers’ guild at that time.
+![](../1shropshire/assets/images/places/2022-10-16_09_20_33_DSC_4950_HDR.jpg)
+
+# Name: Wyle Cop
+
+65-69 Wyle Cop - late 15th Century, probably originally a dwelling.  Wyle Cop - Wyle is medieval English for hill, and Cop means ‘top of’.
+![](../1shropshire/assets/images/places/2022-10-16_08_25_40_DSC_4861.jpg)
+
+# Name: Wyle Cop
+
+65-69 Wyle Cop - late 15th Century, probably originally a dwelling.  Wyle Cop - Wyle is medieval English for hill, and Cop means ‘top of’.
+![](../1shropshire/assets/images/places/2022-10-16_10_02_50_DSC_5043_HDR.jpg)
+
+# Name: St Chads, new Church
+
+The new St Chads church
+![](../1shropshire/assets/images/places/2022-11-06_10_28_58_DSC_5202.jpg)
+
 # Name: Lord Hill Column
 
 The Lord Hill column
@@ -22,6 +49,11 @@ The Abbey Church
 
 The Abbey Church
 ![](../1shropshire/assets/images/places/2022-11-05_11_46_21_DSC_5091.jpg)
+
+# Name: The Abbey Church
+
+The Abbey Church
+![](../1shropshire/assets/images/places/2022-11-05_11_40_26_DSC_5083.jpg)
 
 # Name: The Old Town Hall
 
@@ -143,7 +175,7 @@ TBD
 # Name: Statue of Hercules
 
 Statue of Hercules
-![](../1shropshire/assets/images/places/2019-10-04_13_26_29_DSC_0100.jpg)
+![](../1shropshire/assets/images/places/2022-10-16_09_17_39_DSC_4947.jpg)
 
 # Name: St John's Hill
 
@@ -159,3 +191,18 @@ St John's Hill
 
 Passage (off Fish St)
 ![](../1shropshire/assets/images/places/2022-11-20_10_39_21_DSC_5460_HDR.jpg)
+
+# Name: General View
+
+TBD
+![](../1shropshire/assets/images/places/2022-10-16_09_34_48_DSC_4983.jpg)
+
+# Name: General View
+
+TBD
+![](../1shropshire/assets/images/places/2022-10-16_09_51_37_DSC_5019.jpg)
+
+# Name: General View
+
+TBD
+![](../1shropshire/assets/images/places/2022-10-16_09_59_40_DSC_5037.jpg)

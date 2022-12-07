@@ -11,12 +11,24 @@ Added the following items:
 - Shrewsbury - Castle Gates House
 - Shrewsbury - Passge (off Fish St)
 - Shrewsbury - The Square
-- Shrewsbury - Abbey x 3
+- Shrewsbury - Abbey x 4
 - Shrewsbury - Lord Hill Column
+- Shrewsbury - St Chads - new
+- Shrewsbury - Wyle Cop x 2
+- Shrewsbury - John Wesley House
+- Shrewsbury - Quantum Leap
+- Shrewsbury - William Clement
+- Shrewsbury - Clement Lloyd Hill
+- Shrewsbury - Gateway of the Shoemakers’ Arbour
+- Shrewsbury - General Buildings x 3
+- Shrewsbury - Ireland's Mansion
+- Shrewsbury - Bear Steps
 
 Updated Dorrington church.
 
 Updated Shrewsbury War Memorial.
+
+Updated Tanner's Wines.
 
 ## 13 Nov 2022
 Added the following items:

@@ -30,7 +30,13 @@ Robert Clive was born at Styche, the Clive family estate, near Market Drayton in
 Robert Cadman was an 18th Century steeplejack and ropeslider, between 1732 and 1739 he performed feats of daring by sliding or flying down a rope from St Mary's Church, Shrewsbury to the Gay Meadow across the River Severn. Cadman walked some 250 metres up the rope that connected the 68-metre-high spire of St Mary's Church with an anchor in the ground in Gay Meadow. Climbing up the rope across the River Severn, he performed tricks on the way. When at the top, near the pinnacle of the spire, he donned a wooden breastplate with a central groove and hurtled to earth along the rope.
 
 On 2nd February 1739 he fell to his death when the rope broke. He was buried in St Mary's Church.
-![](../1shropshire/assets/images/history/2021-09-10_13_12_34_DSC03003.jpg)
+![](../1shropshire/assets/images/people/2021-09-10_13_12_34_DSC03003.jpg)
+
+# Name: John Wesley First Sermon, 1 Fish St
+- Date: March 16th 1761 AD
+
+John Wesley preached his first sermon in Shrewsbury on March 16th 1761 at 1 Fish Street.  Wesley was an English cleric, theologian, and evangelist who was a leader of a revival movement within the Church of England known as Methodism. The societies he founded became the dominant form of the independent Methodist movement that continues to this day.
+![](../1shropshire/assets/images/people/2022-11-06_10_02_34_DSC_5187.jpg)
 
 # Name: Lord Rowland Hill Born
 - Date: 1772 AD
@@ -68,7 +74,15 @@ Consequently, Dr Brookes is credited as a founding father of the modern Olympic 
 Captain Webb was born in Dawley in 1848, he learned to swim in the River Severn at Coalbrookdale.
 
 In 1875 he became the first recorded person to swim the English Channel without the use of artificial aids (in a time of less than 22 hours).  As a result, he became a celebrity, and performed many stunts in public.  He died trying to swim the Whirlpool Rapids below Niagara Falls, a feat which was declared impossible.  Webb was interred in Oakwood Cemetery, Niagara Falls, and in 1909 Webb's brother unveiled the memorial (drinking fountain) in Dawley.
-![](../1shropshire/assets/images/history/2020-08-02_17_07_41_DSC_7898.jpg)
+![](../1shropshire/assets/images/people/2020-08-02_17_07_41_DSC_7898.jpg)
+
+# Name: William Clement Dies
+- Date: 29th August 1870 AD
+
+William Clement was a medical practitioner in Shrewsbury, he was an Honorary Fellow of the Royal College of Surgeons, a Fellow of the Society of Apothecaries, surgeon to the 1st battalion of the Shropshire Rifle Volunteers, and in actual practice as a surgeon.  He authored Observations in Surgery and Pathology and in 1834 was awarded the Fothergillian Gold Medal of the Medical Society of London.
+
+He was also an Alderman, Mayor of Shrewsbury for 1861–62, a Deputy Lieutenant and J.P. for Merionethshire and a J.P. for Shrewsbury borough.  At the 1865 general election Clement was elected Member of Parliament for Shrewsbury.
+![](../1shropshire/assets/images/people/2022-11-06_10_19_03_DSC_5201.jpg)
 
 # Name: Mary Webb Born
 - Date: 1881 AD
@@ -103,6 +117,12 @@ He was one of the leading poets of the First World War.
 
 Richard Munslow is believed to be the last known 'sin-eater' in England.
 ![](../1shropshire/assets/images/people/2019-05-06_15_36_39_DSC_4221.jpg)
+
+# Name: Clement Lloyd Hill Dies
+- Date: 9th April 1913 AD
+
+Sir Clement Lloyd Hill, KCB, KCMG was a British diplomat and Conservative Party politician.  He was appointed Superintendent of African Protectorates under Foreign Office in 1900, and retired in 1905, when supervision of British protectorates was transferred to the Colonial Office.  Hill was returned for Shrewsbury in 1906 as a Conservative, and was re-elected twice before dying in office in 1913, aged 67.  He was a great-nephew of British Army general Rowland Hill, 1st Viscount Hill.
+![](../1shropshire/assets/images/people/2022-11-20_09_46_18_DSC_5389.jpg)
 
 # Name: Billy Wright Born
 - Date: 1924 AD
