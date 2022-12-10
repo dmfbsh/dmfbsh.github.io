@@ -1,5 +1,15 @@
 # 2022
 
+## Name: Attingham Christmas Trees
+
+TBD
+![](../1shropshire/assets/images/other/2022-12-03_11_07_20_DSC_5658.jpg)
+
+## Name: Attingham Christmas Trees
+
+TBD
+![](../1shropshire/assets/images/other/2022-12-03_11_17_21_DSC_5672.jpg)
+
 ## Name: Fire Insurance Plaque, Bitterley
 
 The fire insurance plaque on Bitterley Court.
