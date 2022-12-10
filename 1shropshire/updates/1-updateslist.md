@@ -1,5 +1,27 @@
 ---
 ---
+## 09 Dec 2022
+Added the following items:
+
+- Shrewsbury - Fish Street x 2
+- Shrewsbury - The Lion
+- Shrewsbury - Coleham Pumping Station
+- Shrewsbury - Bandstand
+- Shrewsbury - Council House Gatehouse and Gateway
+- Shrewsbury - Morris Lubricants Clock
+- Shrewsbury - St Winifred's Shrine
+- Shrewsbury - The English Bridge
+- Shrewsbury - School
+- Shrewsbury - Window (general view)
+- Shrewsbury - Preaching Cross (general view)
+- Shrewsbury - River and Railway Bridge (general view) x 2
+- Shrewsbury - Manchester Bee
+- Shrewsbury - Church Street
+- Shrewsbury - Abbey Pulpit
+- Shrewsbury - Abbey Station
+- Shrewsbury - Abbey x 10
+- Hereford Mappa Mundi
+
 ## 04 Dec 2022
 Added the following items:
 
