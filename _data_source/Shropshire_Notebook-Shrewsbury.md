@@ -254,7 +254,7 @@ TBD
 
 # Name: Statue of Hercules
 
-Statue of Hercules
+The statue is a lead copy of the Farnese Hercules on a stone pedestal.  It was created in the 18th Century and is possibly by John Nost, it was originally at Condover Hall.  The inscription on plinth reads: Copy of the statue executed by the Athenian Sculptor Glycon and known as the Farnese Hercules.
 ![](../1shropshire/assets/images/places/2022-10-16_09_17_39_DSC_4947.jpg)
 
 # Name: St John's Hill

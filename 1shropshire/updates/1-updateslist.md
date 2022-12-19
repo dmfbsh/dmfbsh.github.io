@@ -5,6 +5,8 @@ Added the following items:
 
 - Attingham Christmas Trees x 2
 
+Updated St Giles church Shrewsbury
+
 ## 09 Dec 2022
 Added the following items:
 
