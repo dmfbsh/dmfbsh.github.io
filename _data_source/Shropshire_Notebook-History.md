@@ -112,6 +112,14 @@ In 669 AD, the King of Mercia, Wulfhere, had requested a new bishop, as Mercia w
 
 However, Mercia did not survive long as an ecclesiastical entity.  From 676 AD the Archbishop adopted a policy of appointing bishops to much smaller tribal groups within the kingdoms, thus covering smaller areas—closer in size to those found in other West European countries.  Hence, a bishopric (diocese) was established at Hereford (in 676 AD - one of the oldest in England) for the Magonsæte sub-kingdom (and the existing Lichfield diocese covered Wreocansaete).
 
+# Name: St Chad
+- Date: 669 AD
+
+Chad became Bishop of Mercia in 669 and Wulfhere, first Christian king of Mercia, gave him land to establish his see at Lichfield.  Chad was outstanding for his humility and simplicity of life.  He died of the plague on 2 March 672.
+
+He was at once venerated as a saint and his Shrine in the Cathedral of Lichfield was a place of pilgrimage throughout the Middle Ages.
+![](../1shropshire/assets/images/history/2022-12-24_16_39_48_DSC_5797.jpg)
+
 # Name: Wenlock Priory
 - Date: c. 680 AD
 
@@ -232,7 +240,7 @@ The Domesday book is a manuscript record of the "Great Survey" of much of Englan
 - Date: Late 11th Century AD
 
 Wenlock was re-founded by the Normans as a priory of Cluniac monks in the late 11th Century by Roger de Montgomery. In 1101 it is reputed that Milburga's relics were discovered, attracting pilgrims and prosperity to the the priory allowing the impressive medieval priory to be built (which reflects the Cluniac love of elaborate decoration).
-![](../1shropshire/assets/images/history/2009-08-15 12-53-13_00007766_DxO.jpg)
+![](../1shropshire/assets/images/history/2009-08-15_12-53-13_00007766.jpg)
 
 # Header: 11th & 12th Century AD
 
