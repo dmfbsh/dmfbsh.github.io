@@ -286,6 +286,14 @@ The Abbey was closed in 1538, as part of the Suppression of the Monasteries.  Th
 During the Civil War, the former Abbey buildings were severely damaged by Parliamentarian troops, at which point the site was abandoned and left to decay.
 ![](../1shropshire/assets/images/history/2022-07-09_11_18_38_DSC_3307_HDR.jpg)
 
+# Name: Malinslee Chapel
+- Date: circa 1150 AD
+
+Malinslee Chapel was a Norman chapel originally erected within the grounds of Malinslee Hall. The chapel was a small sandstone structure approximately 15 metres long, consisting of chancel and nave divided by a stone screen. Today, the remains of the chapel are located in the Telford Town Park.
+
+The chapel had become a ruin by the 18th Century, probably before 1786, when Rev Williams produced a painting of the ruins. In 1909, the ruin was bought by Edward Parry, vicar of Malinslee, who proposed to restore it as a place of worship to designs by W. A. Webb, but nothing came of this. When Malinslee Hall was demolished in 1971 to make way for the new Telford Town Centre, the chapel was dismantled by the Telford Development Corporation and later re-assembled in the nearby Telford Town Park.
+![](../1shropshire/assets/images/history/2023-01-01_11_29_38_DSC_5911.jpg)
+
 # Name: White Ladies Priory
 - Date: 1186 AD
 
@@ -1374,6 +1382,12 @@ Built using authentic Roman techniques by a team of 21st Century builders and lo
 
 The flag of Shropshire was registered in March 2012.
 ![](../1shropshire/assets/images/history/flag.png)
+
+# Name: Southwater, Telford
+- Date: 14th July 2014
+
+The first phase of Telford's £250million Southwater development opens.
+![](../1shropshire/assets/images/history/2023-01-01_11_21_29_DSC_5903-Edit-001.jpg)
 
 # Name: Votes for Women, Coalbrookdale
 - Date: 2018 AD

@@ -1,5 +1,11 @@
 ---
 ---
+## 01 Jan 2023
+Added the following items:
+
+- Telford - Southwater
+- Telford - Malinslee Chapel
+
 ## 30 Dec 2022
 Added the following items:
 
