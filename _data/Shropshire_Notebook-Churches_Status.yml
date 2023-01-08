@@ -1,12 +1,12 @@
 AllVisited: 189
 AllNotVisited: 128
-AllInside: 165
-AllInsidePhoto: 140
-AllNotInside: 43
+AllInside: 166
+AllInsidePhoto: 141
+AllNotInside: 42
 AllPlanned: 40
 AllNotYet: 88
-Col1Num: 165
-Col2Num: 24
+Col1Num: 166
+Col2Num: 23
 Col3Num: 24
 Col4Num: 16
 Col5Num: 88
@@ -42,92 +42,92 @@ Churches:
     Col4: Ditton Priors, St John the Baptist (Hereford)
     Col5: Ash, Christ Church (Lichfield)
   - Col1: Astley, St Mary (Lichfield)
-    Col2: Little Wenlock, St Laurence (Hereford)
+    Col2: Madeley, St Michael (Hereford)
     Col3: Clunbury, St Swithin (Hereford)
     Col4: Doddington, St John the Baptist (Hereford)
     Col5: Bedstone, St Mary (Hereford)
   - Col1: Astley Abbots, St Calixtus (Hereford)
-    Col2: Madeley, St Michael (Hereford)
+    Col2: Market Drayton, St Mary (Lichfield)
     Col3: Dudleston, St Mary (Lichfield)
     Col4: Highley, St Mary (Hereford)
     Col5: Boningale, St Chad (Lichfield)
   - Col1: Aston Eyre, None (Hereford)
-    Col2: Market Drayton, St Mary (Lichfield)
+    Col2: Meole Brace, Holy Trinity (Lichfield)
     Col3: Halston, None (Lichfield)
     Col4: Llanymynech, St Agatha (Lichfield)
     Col5: Boraston, no known dedication (Hereford)
   - Col1: Atcham, St Eata (Lichfield)
-    Col2: Meole Brace, Holy Trinity (Lichfield)
+    Col2: Oswestry, Holy Trinity (Lichfield)
     Col3: Haughton, St Chad (Lichfield)
     Col4: Milson, St George (Hereford)
     Col5: Broadstone, None (Hereford)
   - Col1: Barrow, St Giles (Hereford)
-    Col2: Oswestry, Holy Trinity (Lichfield)
+    Col2: Selattyn, St Mary (Lichfield)
     Col3: Hopesay, St Mary (Hereford)
     Col4: Moreton Say, St Margaret (Lichfield)
     Col5: Broughton, St Mary (Lichfield)
   - Col1: Baschurch, All Saints (Lichfield)
-    Col2: Selattyn, St Mary (Lichfield)
+    Col2: Sheinton, St Peter and St Paul (Hereford)
     Col3: Hordley, St Mary (Lichfield)
     Col4: Neen Savage, St Mary (Hereford)
     Col5: Calverhall, Holy Trinity (Lichfield)
   - Col1: Batchcott Richards Castle, All Saints (Hereford)
-    Col2: Sheinton, St Peter and St Paul (Hereford)
+    Col2: Shrewsbury, All Saints (Lichfield)
     Col3: Kinlet, St John the Baptist (Hereford)
     Col4: Neen Sollars, All Saints (Hereford)
     Col5: Chapel Lawn, St Mary (Hereford)
   - Col1: Battlefield, St Mary Magdalene (Lichfield)
-    Col2: Shrewsbury, All Saints (Lichfield)
+    Col2: Shrewsbury, St Julian (Lichfield)
     Col3: Lydbury North, St Michael and All Angels (Hereford)
     Col4: Oldbury, St Nicholas (Hereford)
     Col5: Cleehill, St Peter (Hereford)
   - Col1: Beckbury, St Mildburh (Lichfield)
-    Col2: Shrewsbury, St Julian (Lichfield)
+    Col2: Stirchley, St James (Lichfield)
     Col3: Rushbury, St Peter (Hereford)
     Col4: Welsh Frankton, St Andrew (Lichfield)
     Col5: Cleeton St Mary, St Mary (Hereford)
   - Col1: Benthall, St Bartholomew (Hereford)
-    Col2: Stirchley, St James (Lichfield)
+    Col2: Stockton, St Chad (Lichfield)
     Col3: Ruyton XI Towns, St John the Baptist (Lichfield)
     Col4: Willey, St John the Baptist (Hereford)
     Col5: Cleobury North, St Peter and St Paul (Hereford)
   - Col1: Betton Strange, St Margaret (Hereford)
-    Col2: Stockton, St Chad (Lichfield)
+    Col2: Stoke St Milborough, St Mildburh (Hereford)
     Col3: Sidbury, Holy Trinity (Hereford)
     Col4: 
     Col5: Clunton, St Mary (Hereford)
   - Col1: Billingsley, St Mary (Hereford)
-    Col2: Stoke St Milborough, St Mildburh (Hereford)
+    Col2: Stoke on Tern, St Peter (Lichfield)
     Col3: St Martins, St Martin (Lichfield)
     Col4: 
     Col5: Coreley, St Peter (Hereford)
   - Col1: Bishops Castle, St John the Baptist (Hereford)
-    Col2: Stoke on Tern, St Peter (Lichfield)
+    Col2: Upton Cressett, St Michael (Hereford)
     Col3: Stottesdon, St Mary (Hereford)
     Col4: 
     Col5: Criftins (Dudleston Heath), St Matthew (Lichfield)
   - Col1: Bitterley, St Mary (Hereford)
-    Col2: Upton Cressett, St Michael (Hereford)
+    Col2: Welshampton, St Michael and All Angels (Lichfield)
     Col3: Uppington, Holy Trinity (Lichfield)
     Col4: 
     Col5: Cwm Head, St Michael (Hereford)
   - Col1: Bourton, Holy Trinity (Hereford)
-    Col2: Welshampton, St Michael and All Angels (Lichfield)
+    Col2: Wentnor, St Michael and All Angels (Hereford)
     Col3: West Felton, St Michael (Lichfield)
     Col4: 
     Col5: Donington, St Cuthbert (Lichfield)
   - Col1: Bridgnorth, St Mary Magdalene (Hereford)
-    Col2: Wentnor, St Michael and All Angels (Hereford)
+    Col2: Westbury, St Mary (Hereford)
     Col3: Whitton, St Mary (Hereford)
     Col4: 
     Col5: Donnington Wood, St Matthew (Lichfield)
   - Col1: Bromfield, St Mary the Virgin (Hereford)
-    Col2: Westbury, St Mary (Hereford)
+    Col2: Whittington, St John the Baptist (Lichfield)
     Col3: Woolstaston, St Michael (Hereford)
     Col4: 
     Col5: Edgton, St Michael (Hereford)
   - Col1: Broseley, All Saints (Hereford)
-    Col2: Whittington, St John the Baptist (Lichfield)
+    Col2: 
     Col3: Worfield, St Peter (Hereford)
     Col4: 
     Col5: Farlow, St Giles (Hereford)
@@ -441,16 +441,21 @@ Churches:
     Col3: 
     Col4: 
     Col5: Woodcote, None (Lichfield)
-  - Col1: Llanyblodwel, St Michael the Archangel (Lichfield)
+  - Col1: Little Wenlock, St Laurence (Hereford)
     Col2: 
     Col3: 
     Col4: 
     Col5: Woore, St Leonard (Lichfield)
-  - Col1: Longden, St Ruthen (Hereford)
+  - Col1: Llanyblodwel, St Michael the Archangel (Lichfield)
     Col2: 
     Col3: 
     Col4: 
     Col5: Wrockwardine Wood, Holy Trinity (Lichfield)
+  - Col1: Longden, St Ruthen (Hereford)
+    Col2: 
+    Col3: 
+    Col4: 
+    Col5: 
   - Col1: Longdon on Tern, St Bartholomew (Lichfield) - see note 3
     Col2: 
     Col3: 
@@ -838,6 +843,6 @@ Churches:
     Col5: 
 RevisitCount2: 6
 RevisitCount3: 19
-RevisitCount4: 159
-RevisitCount5: 24
+RevisitCount4: 160
+RevisitCount5: 23
 RevisitCount6: 25

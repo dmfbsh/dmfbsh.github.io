@@ -1,10 +1,74 @@
-# Header: c. 6000 BC
+# Header: Precambrian Eon
 
-Britain is cut off from continental Europe by the English Channel.
+The first of Shropshire's rocks are formed 700 to 555 million years ago, creating some of Shropshire's best known hills including the Wrekin, Caer Caradoc and the Long Mynd.  The rocks are part of the Vendian supercontinent (also know as Pannotia) and are located in the southern hemisphere, approximately 60 degrees south of the equator.
+
+Towards the end of the Precambrian eon the supercontinent of Vendian starts to split (divided by the Iapetus Ocean), the rocks that would become Shropshire are now part of the Gondwana continent.
+
+# Header: Cambrian Period
+
+In the Cambrian period, Shropshire moves to 65 degrees south of the equator due to the widening of the Iapetus Ocean.
+
+# Header: Ordovician Period
+
+At the start of the Ordovician period, Shropshire (along with the rest of Southern Britain) formed part of the north-east margin of Gondwana.  During this period, a rift formed on the margin of the continent, creating the micro continent of Avalonia, and this new continent included Shropshire.  Avalonia starts to move northwards (at a rate of circa 2.4cm per year) as a new ocean (the Rheic Ocean) forms between Avalonia and Gondwana.
+
+# Header: Silurian Period
+
+The micro continent of Avalonia continued to move north during the Silurian period.  As it moved closer to the equator, the subtropial environment allowed coral reefs to grow on the northern margins of the continent, this resulted in the formation of the famous Much Wenlock limestone, circa 421 to 433 million years ago.
+
+Perhaps the most famous rock formation in England, the Much Wenlock Limestone is known for its abundance of fossils, many of which were first recorded either in Shropshire or Worcestershire, and are found no-where else in the world.
+
+# Header: Devonian Period
+
+During the Devonian period, Shropshire lay close to the equator.  The county is now all bove sea level.
+
+# Header: Carboniferous Period
+
+TBD
+
+# Header: Permian and Triassic Periods
+
+TBD
+
+# Header: Jurassic, Cretaceous and Tertiary Periods
+
+TBD
+
+# Header: Quaternary Period
+
+TBD
+
+# Header: Last Glacial Period
+
+TBD
+
+# Header: Paleolithic Age
+
+The Paleothic Age (or early Stone Age, circa 100,000 to 10,000 BC)...
+
+In general, late Paleolithic people were hunter/scavengers and food gatherers. They seem to have organized themselves around (more or less temporary) natural leaders (and followers) rather than establishing a more permanent "government".
+
+# Header: Mesolithic Age
+
+The Mesolithic Age (or middle Stone Age, circa 10,000 to 4,000 BC) is characterised by a warmer climate that changed the arctic environment to one of pine, birch and alder forest.  The improved climate led to the continuous human occupation of Britain.  The less open landscape was less conducive to the large herds of reindeer and wild horse that had previously sustained humans.  Those animals were replaced in people's diets by pig and less social animals such as elk, red deer, roe deer and wild boar, which would have required different hunting techniques.  Tools changed to incorporate barbs which could snag the flesh of an animal, making it harder for it to escape alive.  Farming was introduced to Britain at the end of Mesolithic Age around 4,500 BC, although hunter-gather ways of life continued it was being replaced by distinct territories occupied by different groups.
+
+By about 6500 BC, rising seas had inundated the land bridge with Europe, making Britain an island.
+
+In Shropshire flint scrapers and other implements from this age, and made out of local pebble flint, have been found primarily in the parishes of Worfield, Claverley and Alveley, along the South East border of the county.
+
+# Header: Neolithic Age
+
+TBD
+
+# Header: Chalcolithic
+
+## The Copper Age
+
+TBD
 
 # Header: c. 2500 BC to 800 BC
 
-## The Bronze Age.
+## The Bronze Age
 
 Remains of Bronze Age settlements are not common in Britain and none have been recorded in Shropshire so far.  It is believed that many tribes led a nomadic lifestyle based on cattle and agriculture so did not build structures to last (communities were often based near rivers for transport).  There is evidence, however, of tree clearing at this time to make space for crops.
 
@@ -18,7 +82,7 @@ Sometimes called Medgel's Fold or Madges Pinfold, Mitchell's Fold is a Bronze Ag
 
 # Header: c. 800 BC to 43 AD
 
-## The Iron Age.
+## The Iron Age
 
 c. 500 BC - Celts inhabit much of Europe, and begin to colonize the British Isles.
 
@@ -1092,6 +1156,12 @@ Built to serve the adjacent iron works (formerly Stirchley Furnaces), the chimne
 The Bandstand was donated to the town park by the Shropshire Horticultural Society.  It consists of cast-iron columns, wrought-iron roof on stone base with vermiculated blocks and was cast by McDowell Steven and Co of Glasgow.
 ![](../1shropshire/assets/images/history/2022-11-06_10_31_25_DSC_5204.jpg)
 
+# Name: Cambrian Fossils
+- Date: 1880s AD
+
+At Comley Quarry near Church Stretton the first lower Cambrian fossils in England are discovered by Charles Callaway, and described by Charles Lapworth in 1888.
+![](../1shropshire/assets/images/history/fossil.jpg)
+
 # Name: Sunnycroft
 - Date: 1880 AD
 
@@ -1160,7 +1230,7 @@ He was one of the leading poets of the First World War.
 - Date: 1895 AD
 
 The arms of the council were awarded in 1895 (the arms are derived from the arms of the county town, Shrewsbury).  
-![](../1shropshire/assets/images/history/photo-needed.jpg)
+![](../1shropshire/assets/images/history/Arms_of_Shropshire_County_Council.png)
 
 # Name: Dinham Bridge, Ludlow
 - Date: 19th Century AD
@@ -1359,7 +1429,7 @@ The British Ironworks Centre and Shropshire Sculpture Park is a forge, silversmi
 - Date: 1998 AD
 
 In 1992 the Local Government Act authorised the creation of two unitary authorities, as a result Telford & Wrekin Council was created in 1998 - but remains part of the ceremonial county of Shropshire.
-![](../1shropshire/assets/images/history/photo-needed.jpg)
+![](../1shropshire/assets/images/history/Telford_and_Wrekin.png)
 
 # Name: Quantum Leap, Shrewsbury
 - Date: 8th October 2009 AD
