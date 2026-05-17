@@ -1,0 +1,74 @@
+@echo off
+
+set EXE="C:\Users\David\Documents\OneDrive\Documents\My Documents\Java-IntelliJ\Obsidian Notebook\src\TextProcessor.java"
+set CP="C:\Users\David\Documents\OneDrive\Documents\My Documents\Java-IntelliJ\lib\commons-cli-1.11.0.jar;C:\Users\David\Documents\OneDrive\Documents\My Documents\Java-IntelliJ\lib\commons-io-2.22.0.jar"
+
+set MARKDOWNFILE="C:\Users\David\Documents\NoneDrive\Obsidian\Notebook\Churches - Notebook\7. History - Main Article.md"
+set TEMPLATE="C:\Users\David\Documents\NoneDrive\GitHub\dmfbsh.github.io\churches\template.html"
+
+set OUTFOLDER=C:\Users\David\Documents\NoneDrive\GitHub\dmfbsh.github.io\churches
+
+java -cp %CP% %EXE% -mode split -file %MARKDOWNFILE% -sep "___" -folder "%OUTFOLDER%"
+
+del "%OUTFOLDER%\visiting.html"
+copy "%OUTFOLDER%\visiting.md" "%OUTFOLDER%\visiting.html"
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\visiting.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\visiting.html" -template %TEMPLATE%
+
+del "%OUTFOLDER%\about.html"
+copy "%OUTFOLDER%\about.md" "%OUTFOLDER%\about.html"
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\about.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\about.html" -template %TEMPLATE%
+
+del "%OUTFOLDER%\index.html"
+ren "%OUTFOLDER%\0.html" index.html
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\index.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\index.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\1.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\1.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\2.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\2.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\3.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\3.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\4.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\4.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\5.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\5.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\6.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\6.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\7.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\7.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\8.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\8.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\9.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\9.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\10.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\10.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\13.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\13.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\14.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\14.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\15.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\15.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\16.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\16.html" -template %TEMPLATE%
+
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\17.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\17.html" -template %TEMPLATE%
+
+pause
