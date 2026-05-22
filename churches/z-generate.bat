@@ -10,6 +10,11 @@ set OUTFOLDER=C:\Users\David\Documents\NoneDrive\GitHub\dmfbsh.github.io\churche
 
 java -cp %CP% %EXE% -mode split -file %MARKDOWNFILE% -sep "___" -folder "%OUTFOLDER%"
 
+del "%OUTFOLDER%\index.html"
+copy "%OUTFOLDER%\index.md" "%OUTFOLDER%\index.html"
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\index.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\index.html" -template %TEMPLATE%
+
 del "%OUTFOLDER%\visiting.html"
 copy "%OUTFOLDER%\visiting.md" "%OUTFOLDER%\visiting.html"
 java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\visiting.html"
@@ -20,11 +25,8 @@ copy "%OUTFOLDER%\about.md" "%OUTFOLDER%\about.html"
 java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\about.html"
 java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\about.html" -template %TEMPLATE%
 
-del "%OUTFOLDER%\index.html"
-ren "%OUTFOLDER%\0.html" index.html
-
-java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\index.html"
-java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\index.html" -template %TEMPLATE%
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\0.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\0.html" -template %TEMPLATE%
 
 java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\1.html"
 java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\1.html" -template %TEMPLATE%

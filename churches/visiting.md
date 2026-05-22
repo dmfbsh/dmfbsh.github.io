@@ -61,9 +61,3 @@ Which leaves 306 churches to visit, plus:
 - White Ladies Priory
 
 So, there is a total of 312 churches to visit.
-
-# Status
-
-As of: 16th May 2026
-
-Number of churches visited: 247
