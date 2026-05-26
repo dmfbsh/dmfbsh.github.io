@@ -1,12 +1,6 @@
 @echo off
 
-set EXE="C:\Users\David\Documents\OneDrive\Documents\My Documents\Java-IntelliJ\Obsidian Notebook\src\TextProcessor.java"
-set CP="C:\Users\David\Documents\OneDrive\Documents\My Documents\Java-IntelliJ\lib\commons-cli-1.11.0.jar;C:\Users\David\Documents\OneDrive\Documents\My Documents\Java-IntelliJ\lib\commons-io-2.22.0.jar"
-
-set MARKDOWNFILE="C:\Users\David\Documents\NoneDrive\Obsidian\Notebook\Churches - Notebook\7. History - Main Article.md"
-set TEMPLATE="C:\Users\David\Documents\NoneDrive\GitHub\dmfbsh.github.io\churches\template.html"
-
-set OUTFOLDER=C:\Users\David\Documents\NoneDrive\GitHub\dmfbsh.github.io\churches
+CALL z-config.bat
 
 java -cp %CP% %EXE% -mode split -file %MARKDOWNFILE% -sep "___" -folder "%OUTFOLDER%"
 

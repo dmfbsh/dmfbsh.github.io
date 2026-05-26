@@ -4,10 +4,8 @@ CALL z-config.bat
 
 java "%EP%\ChurchesDatabaseVisited.java"
 
-java "%EP%\ChurchesDatabaseMaps.java"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\hereford.html" -template %TEMPLATE%
 
-java -cp %CP% "%EP%\TextProcessor.java" -mode construct -file "%OUTFOLDER%\hereford.html" -template %TEMPLATE%
-
-java -cp %CP% "%EP%\TextProcessor.java" -mode construct -file "%OUTFOLDER%\lichfield.html" -template %TEMPLATE%
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\lichfield.html" -template %TEMPLATE%
 
 PAUSE
