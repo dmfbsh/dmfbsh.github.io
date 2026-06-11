@@ -50,8 +50,9 @@ The following churches have been excluded:
 - Sibdon Carwood (St Michael) - the church is closed
 - Willey (St John the Baptist) - the church is on private land
 - Woodcote Chapel - the church is on private land
+- Halston Chapel - a private chapel (never a parish church) on a private estate
 
-Which leaves 306 churches to visit, plus:
+Which leaves 305 churches to visit, plus:
 
 - Haughmond Abbey
 - Shrewsbury Abbey
@@ -60,4 +61,4 @@ Which leaves 306 churches to visit, plus:
 - Wenlock Priory
 - White Ladies Priory
 
-So, there is a total of 312 churches to visit.
+So, there is a total of 311 churches to visit.
