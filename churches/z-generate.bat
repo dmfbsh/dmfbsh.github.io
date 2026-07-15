@@ -67,4 +67,8 @@ java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\16.html" -template %TEMPL
 java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\17.html"
 java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\17.html" -template %TEMPLATE%
 
+java -cp %CP% "%EP%\ChurchesFeaturedItems.java"
+java -cp %CP% %EXE% -mode convert -file "%OUTFOLDER%\18.html"
+java -cp %CP% %EXE% -mode construct -file "%OUTFOLDER%\18.html" -template %TEMPLATE%
+
 pause
