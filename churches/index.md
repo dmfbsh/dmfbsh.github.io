@@ -15,7 +15,13 @@ The phrase describes the leisure activity of visiting historic churches and cath
 
 # This Site
 
-This web site is a "church crawl" of Shropshire's Anglican churches, this is then used as the basis for a tour through the history of the Church of England with a bias to the county of Shropshire.
+This web site is my "church crawl" of Shropshire's Anglican churches.
+
+The idea is to visit as many Anglican churches as possible within the county of Shropshire.  Some churches will be open, and it is accepted that some will be locked, or otherwise inaccessible when visited.
+
+Refer to the <a href="visiting.html">Visiting</a> page for details of how many churches there are to visit and how many have actually been visited.
+
+The information and photographs gathered during the visits is then used as the basis for a <a href="0.html">tour through the history of the Church of England with a bias to the county of Shropshire</a>.
 
 ![[2023-04-06_14_35_19_DSC_8259.jpg | 400]]
 <p style="text-align:center; font-style:italic;">Holy Trinity, Wistanstow</p>

@@ -1,34 +1,37 @@
 # Introduction
 
+To determine the Anglican churches in Shropshire, two books have been used:
+
+- An Architectural Account of the Churches of Shropshire
+- The Churches of Shropshire & their treasures
+
 ## An Architectural Account of the Churches of Shropshire
 
-In 1912 the Rev D H S Cranage (1866-1957) published:
-
-"An Architectural Account of the Churches of Shropshire"
-
-In which 311 churches in Shropshire are described.
+Rev D H S Cranage (1866-1957) wrote the following book, which was published by Hobson & Co, Wellington Shropshire in 1912:
 
 ![[2-styles-book2.jpg]]
 
-[[Shropshire by the Very Rev D.H.S. Cranage.pdf]]
+In this book, 311 churches in Shropshire are described.
+
+The book is available on the Internet Archive at the following link:
 
 [https://archive.org/details/anarchitectural00webbgoog](https://archive.org/details/anarchitectural00webbgoog)
 
-(Published by Hobson & Co, Wellington Shropshire (1912))
+Rev D H S Cranage was born in Wellington, ordained in 1897 and then held curacies at Little Wenlock (1897–98) and Much Wenlock (1898–1902).
+
+[Wikipedia - Rev D H S Cranage](https://en.wikipedia.org/wiki/David_Cranage)
 
 ## The Churches of Shropshire & their treasures
 
-In 2004 (and 2013 with colour photos) John Leonard published:
-
-"The Churches of Shropshire & their treasures"
-
-This book identifies 324 churches.
+John Leonard wrote the following book, which was published in 2004 (and again in 2013 with colour photos):
 
 ![[2-styles-book1.jpg]]
 
-## Visits
+In this book, 324 churches in Shropshire are described.
 
-The latter book has been used to determine the list of churches to be visited.
+# Visits
+
+The latter book has primarily been used to determine the list of churches to be visited.
 
 The following churches have been excluded:
 
@@ -62,3 +65,15 @@ Which leaves 305 churches to visit, plus:
 - White Ladies Priory
 
 So, there is a total of 311 churches to visit.
+
+# Status
+
+As of the following date:
+
+31st July 2026
+
+The running total for the number of churches visisted is:
+
+251 churches visited
+of which for
+53 the inside was inaccessible.
