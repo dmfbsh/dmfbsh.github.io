@@ -20,7 +20,7 @@ The phrase describes the leisure activity of visiting historic churches and cath
 
 This web site is my "church crawl" of the Anglican churches in the county of Shropshire.
 
-The idea is to visit as many Anglican churches as possible within the county of Shropshire.  Some churches will be open, it is accepted that some will be locked, or otherwise inaccessible when visited, and some churches simply cannot be visited for whatever reason.
+The idea is to visit as many Anglican churches as possible within the county of Shropshire.  Some churches will be open, it is accepted that some will be locked, or otherwise inaccessible when visited, and some churches simply cannot be visited for whatever reason. Also, any churches constructed in modern Britains (i.e. post-Victorian) are being excluded from the "church crawl".
 
 Refer to the page <a href="visiting.html">Introduction to Visiting Shropshire's Churches</a> for details of how many churches there are to visit and how many have actually been visited to date.
 
