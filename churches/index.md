@@ -20,17 +20,73 @@ The phrase describes the leisure activity of visiting historic churches and cath
 
 This web site is my "church crawl" of the Anglican churches in the county of Shropshire.
 
-The idea is to visit as many Anglican churches as possible within the county of Shropshire.  Some churches will be open, it is accepted that some will be locked, or otherwise inaccessible when visited, and some churches simply cannot be visited for whatever reason. Also, any churches constructed in modern Britains (i.e. post-Victorian) are being excluded from the "church crawl".
+The idea is to visit as many Anglican churches as possible within the county of Shropshire.  Some churches will be open; it is accepted that some will be locked, or otherwise inaccessible when visited, and some churches simply cannot be visited for whatever reason. Also, any churches constructed in modern Britains (i.e. post-Victorian) are being excluded from the "church crawl".
 
 Refer to the page <a href="visiting.html">Introduction to Visiting Shropshire's Churches</a> for details of how many churches there are to visit and how many have actually been visited to date.
 
-The churches that have been visited as part of this "Church Crawl" are listed on two pages, organised by diocese and so can be accessed by selecting the coat of arams of a diocese below or from the menu on the left hand side of this page.
+The churches that have been visited as part of this "Church Crawl" are listed on two pages, organised by diocese - Shropshire is divided between two dioceses, Lichfield to the north and Hereford to the south. The list of churches visited in each diocese can be accessed by selecting the coat of arms of a diocese on the map below or from the menu on the left hand side of this page.
 
-<p style="text-align:center;"><a href="lichfield.html"><img src="images/lichfieldcofa.png" width="194"></a></p>
-<p style="text-align:center; font-style:italic;">Diocese of Lichfield</p>
+<style>
+.image-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 
-<p style="text-align:center;"><a href="hereford.html"><img src="images/herefordcofa.png" width="194"></a></p>
-<p style="text-align:center; font-style:italic;">Diocese of Hereford</p>
+.background-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.overlay-imagen {
+  position: absolute;
+  top: 22%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  border: 2px solid white;
+  opacity: 0.7;
+}
+
+.overlay-images {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  border: 2px solid white;
+  opacity: 0.7;
+}
+
+/* Reset */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+</style>
+
+<div class="image-wrapper">
+  <img
+    src="images/Shropshire_UK_parish_map_blank.png"
+    alt="Background Image"
+    class="background-image"
+  />
+  <a href="lichfield.html"><img
+    src="images/lichfieldcofa.png"
+    alt="Overlay Image"
+    class="overlay-imagen"
+  /></a>
+  <a href="hereford.html"><img
+    src="images/herefordcofa.png"
+    alt="Overlay Image"
+    class="overlay-images"
+  /></a>
+</div>
 
 ![[2020-12-31_13_15_37_DSC_9209.jpg | 400]]
 <p style="text-align:center; font-style:italic;">St Bartholomew, Benthall</p>
@@ -39,10 +95,10 @@ The information and photographs gathered during the visits in this "church crawl
 
 <style>
 .pt-100{
-    padding-top:100px;
+    padding-top:2px;
 }
 .pb-100{
-    padding-bottom:100px;
+    padding-bottom:10px;
 }
 .section-title {
   margin-bottom: 60px;
@@ -236,3 +292,6 @@ A number of appendices are available on this web site, giving some useful supple
 # Web Site Navigation
 
 Access the various pages of this web site using the menu on the left hand side of this page, or alternatively use the links in the content above.
+
+![[2020-09-19_14_04_19_DSC_8624.jpg | 400]]
+<p style="text-align:center; font-style:italic;">St Michael and All Angels, Wentmor</p>
