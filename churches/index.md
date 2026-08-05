@@ -88,9 +88,6 @@ The churches that have been visited as part of this "Church Crawl" are listed on
   /></a>
 </div>
 
-![[2020-12-31_13_15_37_DSC_9209.jpg | 400]]
-<p style="text-align:center; font-style:italic;">St Bartholomew, Benthall</p>
-
 The information and photographs gathered during the visits in this "church crawl" are then used as the basis for a <a href="0.html">tour through the history of the Church of England with a bias to the county of Shropshire</a>.  This is organised into a series of pages covering the significant and relevent periods of English history, these pages can be accessed using the timeline below or the menu on the left hand side of this page.
 
 <style>
@@ -295,3 +292,6 @@ Access the various pages of this web site using the menu on the left hand side o
 
 ![[2020-09-19_14_04_19_DSC_8624.jpg | 400]]
 <p style="text-align:center; font-style:italic;">St Michael and All Angels, Wentmor</p>
+
+![[2020-12-31_13_15_37_DSC_9209.jpg | 400]]
+<p style="text-align:center; font-style:italic;">St Bartholomew, Benthall</p>
