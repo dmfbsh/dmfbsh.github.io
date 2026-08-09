@@ -74,6 +74,5 @@ As of the following date:
 
 The running total for the number of churches visisted is:
 
-251 churches visited
-of which for
-53 the inside was inaccessible.
+- 251 churches have been visited
+- 198 of which the inside has also been accessed (79%)
