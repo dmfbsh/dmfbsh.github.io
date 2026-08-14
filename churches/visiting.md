@@ -76,3 +76,7 @@ The running total for the number of churches visisted is:
 
 - 251 churches have been visited
 - 198 of which the inside has also been accessed (79%)
+
+The map below shows the churches that have been visited:
+
+![[Visited_Map.png#center | 400]]
