@@ -30,9 +30,10 @@ The churches that have been visited as part of this "Church Crawl" are listed on
 .image-wrapper {
   position: relative;
   width: 100%;
-  max-width: 600px;
+  max-width: 400px;
   padding-top: 20px;
   padding-bottom: 20px;
+  left: 25%;
 }
 
 .background-image {
