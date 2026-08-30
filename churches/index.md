@@ -16,11 +16,11 @@ The phrase describes the leisure activity of visiting historic churches and cath
 ![[2021-07-16_13_27_28_DSC_9723.jpg | 400]]
 <p style="text-align:center; font-style:italic;">St Michael, Stanton Long</p>
 
-# Web Site Purpose
+# Crawling Shropshire's Churches
 
 This web site is my "church crawl" of the Anglican churches in the county of Shropshire.
 
-The idea is to visit as many Anglican churches as possible within the county of Shropshire.  Some churches will be open; it is accepted that some will be locked, or otherwise inaccessible when visited, and some churches simply cannot be visited for whatever reason. Also, any churches constructed in modern Britains (i.e. post-Victorian) are being excluded from the "church crawl".
+The idea is to visit as many Anglican churches as possible within the county of Shropshire.  Some churches will be open; it is accepted that some will be locked, or otherwise inaccessible when visited, and some churches simply cannot be visited for whatever reason. Also, any churches constructed in modern Britains (i.e. post-Victorian) are being excluded from this "church crawl".
 
 Refer to the page <a href="visiting.html">Introduction to Visiting Shropshire's Churches</a> for details of how many churches there are to visit and how many have actually been visited to date.
 
@@ -88,6 +88,9 @@ The churches that have been visited as part of this "Church Crawl" are listed on
     class="overlay-images"
   /></a>
 </div>
+<p style="text-align:center; font-style:italic;">Click on a diocese coat of arms to see the visited churches.</p>
+
+# Shropshire's Christian History
 
 The information and photographs gathered during the visits in this "church crawl" are then used as the basis for a <a href="0.html">tour through the history of the Church of England with a bias to the county of Shropshire</a>.  This is organised into a series of pages covering the significant and relevent periods of English history, these pages can be accessed using the timeline below or the menu on the left hand side of this page.
 
