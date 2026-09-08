@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Project name="Source">
+        <File name="about.md" />
+        <File name="index.md" />
+        <File name="visiting.md" />
+    </Project>
+    <Project name="Template">
+        <File name="template.html" />
+    </Project>
+</NotepadPlus>
