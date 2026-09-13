@@ -88,6 +88,7 @@ def option8():
   JavaClass = f"{exepath}\\ChurchesDatabaseSubImages.java"
   subprocess.run(["java", "-cp", classpath, JavaClass, "-db", database, "-csv", subImagesCSV])
 
+subprocess.run(["cmd", "/c", "TITLE Churches Web Site Builder"])
 sel = 0
 while sel != 9:
 

@@ -70,12 +70,12 @@ So, there is a total of 311 churches to visit.
 
 As of the following date:
 
-31st July 2026
+12th September 2026
 
 The running total for the number of churches visisted is:
 
 - 251 churches have been visited
-- 198 of which the inside has also been accessed (79%)
+- 202 of which the inside has also been accessed (80%)
 
 The map below shows the churches that have been visited:
 
